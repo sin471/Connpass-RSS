@@ -1,4 +1,4 @@
-# connpass-rss
+# Connpass-RSS
 
 connpass API を使用して、特定の都道府県のイベント情報を RSS フィードとして生成する Python プロジェクトです。
 
