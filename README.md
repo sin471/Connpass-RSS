@@ -35,19 +35,9 @@ cd connpass-rss
 uv sync
 ```
 
-## 使い方
+## 環境変数の設定
 
-### 基本的な使用方法
-
-```bash
-uv run main.py
-```
-
-実行すると、`rss.xml` ファイルが生成されます。
-
-### 環境変数の設定（オプション）
-
-connpass API キーを使用する場合は、環境変数 `CONNPASS_API_KEY` を設定してください。
+connpass API キーが必要です。環境変数 `CONNPASS_API_KEY` に設定してください。
 
 **Windows (PowerShell):**
 ```powershell
@@ -66,6 +56,16 @@ uv run main.py
 export CONNPASS_API_KEY="your-api-key-here"
 uv run main.py
 ```
+
+## 使い方
+
+### 基本的な使用方法
+
+```bash
+uv run main.py
+```
+
+実行すると、`rss.xml` ファイルが生成されます。
 
 ### カスタマイズ
 
