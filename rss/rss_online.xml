@@ -1,390 +1,241 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>オンラインのイベント</title><link>https://connpass.com/explore/</link><description>オンラインのイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 01 Nov 2025 04:06:24 +0000</lastBuildDate><item><title>筋肉LT会～筋肉は全てを救う～ #2</title><link>https://muscle-lt.connpass.com/event/374564/</link><description>📍 会場: オンライン
-住所: オンライン
-
-ガチ勢はもちろん、「全く筋トレやっていません…」という方も大歓迎！待望の（？）第2弾！
-
-&lt;h2&gt;🏋️‍♂️ 筋肉LT会とは？&lt;/h2&gt;
-&lt;p&gt;筋肉LT会は、「筋トレ」をテーマにしたライトニングトーク大会です！&lt;br&gt;
-トレーニングの話、習慣の話、健康維持、仕事と筋トレの両立法など、、、&lt;br&gt;
-&lt;strong&gt;筋トレが1ミリでも関係する話ならなんでもOK！&lt;/strong&gt;   &lt;/p&gt;
-&lt;p&gt;「筋トレ × エンジニア」「筋肉 × 成長」「筋肉は裏切らない」…&lt;br&gt;
-なんなら「これを機に筋トレ頑張ります！」という宣言を兼ねたものでも良いです！&lt;br&gt;
-&lt;strong&gt;──熱い想いを、LT（ライトニングトーク）で語りましょう！💪&lt;/strong&gt;  &lt;/p&gt;
-&lt;h2&gt;🗓️ タイムテーブル&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align="left"&gt;時間&lt;/th&gt;
-&lt;th align="left"&gt;内容&lt;/th&gt;
-&lt;th align="left"&gt;登壇者&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:30〜19:40&lt;/td&gt;
-&lt;td align="left"&gt;オープニング&lt;/td&gt;
-&lt;td align="left"&gt;運営チーム&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:40〜19:45&lt;/td&gt;
-&lt;td align="left"&gt;LT①&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:45〜19:50&lt;/td&gt;
-&lt;td align="left"&gt;LT②&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:50〜19:55&lt;/td&gt;
-&lt;td align="left"&gt;LT③&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:55〜20:00&lt;/td&gt;
-&lt;td align="left"&gt;LT④&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;20:00〜20:05&lt;/td&gt;
-&lt;td align="left"&gt;🔹休憩（5分）&lt;/td&gt;
-&lt;td align="left"&gt;みなさま&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;20:05〜20:15&lt;/td&gt;
-&lt;td align="left"&gt;LT⑤&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;20:15〜20:25&lt;/td&gt;
-&lt;td align="left"&gt;LT⑥&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;20:25〜20:30&lt;/td&gt;
-&lt;td align="left"&gt;🔹休憩（5分）&lt;/td&gt;
-&lt;td align="left"&gt;みなさま&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;20:30〜20:40&lt;/td&gt;
-&lt;td align="left"&gt;クロージング&lt;/td&gt;
-&lt;td align="left"&gt;全員&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;〜20:45&lt;/td&gt;
-&lt;td align="left"&gt;終了予定&lt;/td&gt;
-&lt;td align="left"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1&gt;📜ルール&lt;/h1&gt;
-&lt;p&gt;参加者の人種・性別・性的指向・身体的特徴・外見・政治的立場・宗教（または無宗教）などに関する発言や表現は、いかなる形であっても不適切です。  &lt;/p&gt;
-&lt;p&gt;「筋肉LT」は、筋肉に関する知見や情熱を共有する場です。&lt;br&gt;
-&lt;strong&gt;イベントの目的に沿わない営業活動、採用勧誘、ネットワーキングのみを目的とした参加はご遠慮ください。&lt;/strong&gt;  &lt;/p&gt;
-&lt;p&gt;これらのルールに反する行為が確認された場合、参加をお断りすることがあります。  &lt;/p&gt;
-&lt;h1&gt;💬マナー&lt;/h1&gt;
-&lt;p&gt;あなたの前向きな発言が、「筋肉LT」を盛り上げます！&lt;br&gt;
-発表者や質問者に対して疑問や意見がある場合は、批判や罵り・嘲りではなく、提案と課題解決の態度を保ち、ポジティブな発言を心がけましょう。&lt;/p&gt;</description><guid isPermaLink="false">https://muscle-lt.connpass.com/event/374564/</guid><enclosure url="https://media.connpass.com/thumbs/ef/c9/efc917dec46d0f70b7d9a60d3114cc06.png" length="0" type="image/png"/><pubDate>Tue, 25 Nov 2025 19:30:00 +0900</pubDate></item><item><title>みんなのPython勉強会#119</title><link>https://startpython.connpass.com/event/374561/</link><description>📍 会場: オンライン
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>オンラインのイベント</title><link>https://connpass.com/explore/</link><description>オンラインのイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 02 Nov 2025 15:10:16 +0000</lastBuildDate><item><title>第6回 「The Quality Coach's Handbook (日本語版)」読書会</title><link>https://qc-jp.connpass.com/event/374675/</link><description>📍 会場: オンライン
 住所: オンライン
 
 
 
+&lt;p&gt;「The Quality Coach's Handbook (日本語版)」の読書会です。&lt;/p&gt;
+&lt;p&gt;次回は「すぐに始められる品質コーチングのた めの 13 の低コストアイデア」から読んでいきます。&lt;/p&gt;
+&lt;p&gt;電子書籍は皆さんご自身でご用意ください。&lt;/p&gt;
+&lt;p&gt;以下の日本語版を読んでいきます。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://leanpub.com/qc-ja" rel="nofollow"&gt;https://leanpub.com/qc-ja&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;オンラインで開催します。時間は1時間程度を予定しています。&lt;/p&gt;
+&lt;p&gt;やり方：&lt;/p&gt;
+&lt;p&gt;・私の方で音読していきます。たぶん1回で1節分くらいになると思います。※音読したい方がおられれば、交代で音読してもらってもOKです。&lt;/p&gt;
+&lt;p&gt;・気になったところ、重要だと思うところをZoomのホワイトボードなどを使って、参加者の方とワイワイしながら付箋にしていく。&lt;/p&gt;
+&lt;p&gt;・貼った付箋を見ながら、みんなでワイワイ議論する。&lt;/p&gt;</description><guid isPermaLink="false">https://qc-jp.connpass.com/event/374675/</guid><enclosure url="https://media.connpass.com/thumbs/fe/62/fe62c7bb5987dc0e8376f0e0c39cb6cc.png" length="0" type="image/png"/><pubDate>Fri, 07 Nov 2025 21:00:00 +0900</pubDate></item><item><title>【親御様対象】考える子に育つ魔法の声掛け100選【無料PDFプレゼント有】</title><link>https://numtr.connpass.com/event/374638/</link><description>📍 会場: オンライン開催
+住所: オンライン
 
+カンタンなのに数学に強い子が育つ言葉の科学
 
-&lt;h2&gt;コミュニティの概要&lt;/h2&gt;
-&lt;p&gt;「みんなのPython勉強会」では、Pythonを中心としてプログラミングを仕事、研究、趣味など様々なシーンに生かす方法を一緒に学びます。プログラマ、WEBエンジニアに限らず、初心者からマスターまで様々なレベルの、いろいろな分野の人が集まるので、「みんな」の勉強会です。お気軽にご参加ください。&lt;/p&gt;
-&lt;h3&gt;イベント要領&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;日時&lt;/strong&gt; ：2025年12月11日（木）19:00〜20:45（オンライン開催）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;今回の主な対象者&lt;/strong&gt; ：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Pythonに関心のある方&lt;/li&gt;
-&lt;li&gt;エンジニアの方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;オンライン参加について&lt;/strong&gt; ：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Zoomで配信します。配信先URLは、イベント前日と当日夕方に連絡します。connpassアカウントに紐づいているメールアドレス宛に届きますので、そちらをご確認ください。&lt;/li&gt;
-&lt;li&gt;多少、音声・画質に問題がでてくる可能性もありますことをご了承ください。なお、接続に関する不具合対応方法やクレーム等に対してはお受けいたしかねます。&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h1&gt;思考力が育つ声かけには法則があった&lt;/h1&gt;
+&lt;p&gt;「うちの子、どうも“考える力”が育っていない気がする」&lt;/p&gt;
+&lt;p&gt;「つい答えを教えてしまう…どう声をかけたらいいの？」&lt;/p&gt;
+&lt;p&gt;そんなお悩みをお持ちではありませんか？&lt;/p&gt;
+&lt;p&gt;今、教育の現場では“親の声かけ”が子どもの思考力を大きく左右することが、脳科学・教育心理学の両面から明らかになっています。実は、「たった一言のかけ方」で、算数・理科が好きになる子と苦手になる子の分かれ道が生まれているのです。&lt;/p&gt;
+&lt;p&gt;本セミナーでは、3万人以上の大人・子供に“数字・算数・数学を教えてきた教育家・堀口智之”が、日常会話の中で子どもの理系脳を刺激する100の声かけを紹介。「カンタンなのに効果が出る」家庭での声かけ習慣を、実例をもとに60分でお伝えします。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="キッズデータラボ魔法の声掛け" src="https://numtr.jp/wp-content/uploads/2025/11/スクリーンショット-2025-11-02-153449.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="キッズデータラボ魔法の声掛け" src="https://numtr.jp/wp-content/uploads/2025/11/スクリーンショット-2025-11-02-153547.jpg"&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;プログラム:&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;18:50&lt;/td&gt;
-&lt;td&gt;Zoom開場&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00&lt;/td&gt;
-&lt;td&gt;イントロダクション&lt;br&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:10&lt;/td&gt;
-&lt;td&gt;トーク1『TBD』&lt;br&gt;　講演者TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:40&lt;/td&gt;
-&lt;td&gt;トーク2『TBD』&lt;br&gt;　講演者TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:10&lt;/td&gt;
-&lt;td&gt;LTセッション&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:40&lt;/td&gt;
-&lt;td&gt;ラップアップ&lt;br&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:45&lt;/td&gt;
-&lt;td&gt;オンライン懇親会&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;トーク概要・講演者プロフィール&lt;/h2&gt;
-&lt;h3&gt;トーク1『TBD』&lt;br&gt;　講演者TBD&lt;/h3&gt;
-&lt;p&gt;TBD&lt;/p&gt;
-&lt;h4&gt;プロフィール&lt;/h4&gt;
-&lt;p&gt;TBD&lt;/p&gt;
-&lt;h3&gt;トーク2『TBD』&lt;br&gt;　講演者TBD&lt;/h3&gt;
-&lt;p&gt;TBD&lt;/p&gt;
-&lt;h4&gt;プロフィール&lt;/h4&gt;
-&lt;p&gt;TBD&lt;/p&gt;
+&lt;h2&gt;■ セミナー内容&lt;/h2&gt;
+&lt;p&gt;考える力は“教える”より“聞き方”で育つ&lt;/p&gt;
+&lt;p&gt;脳科学が証明する「問いかけの順番」&lt;/p&gt;
+&lt;p&gt;算数が好きな子の家庭に共通する“3つの声かけ習慣”&lt;/p&gt;
+&lt;p&gt;理系マインドをつくる“親のリアクション”100選&lt;/p&gt;
+&lt;p&gt;感情とロジックを同時に育てる家庭コミュニケーション&lt;/p&gt;
+&lt;p&gt;「わからない」を楽しめる子の育て方&lt;/p&gt;
+&lt;p&gt;親が“正解を与えない”勇気&lt;/p&gt;
+&lt;p&gt;※上記内容は変更となる可能性があります。&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;LTセッション&lt;/h2&gt;
-&lt;p&gt;1本5分でPythonについて自由に語るLT (Lightning Talk) のセッションです。&lt;br&gt;
-みんなに語りたい熱いネタがある人は誰でも歓迎です！&lt;/p&gt;
-&lt;p&gt;登壇希望の方は「LT発表」枠で申し込み、LTのタイトルを入力してください。&lt;br&gt;
-自由応募の定員は3名で、先着順です。&lt;br&gt;
-なお申し込み内容から登壇が不適切だと判断した場合、登壇をご遠慮いただくことがあるので、ご了承ください。&lt;/p&gt;
+&lt;h2&gt;■ 対象者&lt;/h2&gt;
+&lt;p&gt;「理系に育てたいけど、勉強を嫌いになってほしくない」&lt;/p&gt;
+&lt;p&gt;「“すごいね！”以外に、どう褒めたらいいかわからない」&lt;/p&gt;
+&lt;p&gt;「親が数学に苦手意識があるが、子には前向きに学んでほしい」&lt;/p&gt;
+&lt;p&gt;「普段の会話から“考える力”を伸ばすコツを知りたい」&lt;/p&gt;
+&lt;p&gt;「中学受験に備えて、今から“思考の土台”をつくりたい」&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;オンライン懇親会&lt;/h2&gt;
-&lt;p&gt;本編終了後、Zoomで自由参加の懇親会をやります！&lt;/p&gt;
-&lt;p&gt;Pythonの&lt;strong&gt;独学仲間&lt;/strong&gt;を見つけたり、Pythonの&lt;strong&gt;技術的な相談&lt;/strong&gt;をしたりする機会として、ぜひ懇親会をご利用ください（懇親会は録画・アーカイブしません）。&lt;/p&gt;
-&lt;p&gt;楽しむためのコツ：懇親会の飲み物や食べ物は各自でご準備ください！（Bring Your Own Bottle）&lt;/p&gt;
-&lt;h2&gt;アンチハラスメントポリシー&lt;/h2&gt;
-&lt;p&gt;本イベントは「SF日本語エンジニアの飲み会」さんの&lt;a href="https://github.com/sf-jp-engineers/code-of-conduct/blob/195590fac4909eefb0589fa230f4ce503668163d/code_of_conduct.md" rel="nofollow"&gt;「Code of Conduct - 守っていただきたいこと」&lt;/a&gt;をアンチハラスメントポリシーとして採用します。参加される方はご一読ください。 「みんな」でPythonを勉強する楽しい会になるよう、ご協力よろしくお願いします。&lt;/p&gt;</description><guid isPermaLink="false">https://startpython.connpass.com/event/374561/</guid><enclosure url="https://media.connpass.com/thumbs/93/1f/931fa31cb3edd80eb333f93fbf54b4a0.png" length="0" type="image/png"/><pubDate>Thu, 11 Dec 2025 19:00:00 +0900</pubDate></item><item><title>なんもわからん人の論文読み会（AIエージェントの未来：Foundation Agents）#17</title><link>https://wakaran-reading.connpass.com/event/374559/</link><description>📍 会場: オンライン
+&lt;h2&gt;■ 受講料&lt;/h2&gt;
+&lt;p&gt;無料&lt;/p&gt;
+&lt;h2&gt;登壇講師&lt;/h2&gt;
+&lt;p&gt;堀口 智之（ほりぐち ともゆき）&lt;/p&gt;
+&lt;p&gt;和から株式会社　代表取締役&lt;/p&gt;
+&lt;p&gt;学 歴 ＊山形大学理学部物理学科卒業&lt;/p&gt;
+&lt;p&gt;出 身 ＊新潟県南魚沼市&lt;/p&gt;
+&lt;p&gt;渋谷・新橋・大阪などで月間400名以上にご利用いただく「大人のための数学教室　和®️（なごみ）」の創業者。2010年に自己資金10万円で創業し、2011年3月に「合同会社 和（なごみ）」として法人化、代表に就任した。現在は会員数3,000名以上、講師40名以上を抱えるまでに成長。2016年より計算力、数字力の向上を目的としたセミナーを実施。簿記検定やファイナンシャルプランニング検定などを絡めた数字・データの実践的分析手法だけでなく、九九の覚え方や小数の考え方など基礎から指導できるという指導分野の幅の広さに定評がある。TBSや日経新聞、週刊ダイヤモンドなどの各種メディアから取材を受けるほか、最近ではテレビ朝日「お願い！ランキング」やフジテレビ系列インターネットTV「ホウドウキョク」にも出演実績がある。2024年より、「キッズデータラボ」事業を開始。小学生向け・親と一緒に学べる理系教育に力を入れる。&lt;/p&gt;
+&lt;p&gt;著書：「1杯目のビールが美味しい理由を数学的に証明してみました。」（幻冬舎）、「「概算・暗算」トレーニング」（ベレ出版）、「データセンスの磨き方」（ベレ出版）、「伝わる数字の使い方」（日経HR）他多数&lt;/p&gt;
+&lt;p&gt;ブログ：&lt;a href="https://numtr.jp/" rel="nofollow"&gt;大人の数トレ教室&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://wakara.co.jp/sys/wp-content/uploads/IMG_9611_4_sq.png" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;著書：&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://numtr.jp/wp-content/uploads/2025/03/スクリーンショット-2025-03-06-143022.jpg" width="600"&gt;&lt;/p&gt;
+&lt;h3&gt;用意するもの&lt;/h3&gt;
+&lt;p&gt;電卓（スマホアプリ代用可）、筆記用具（ペン、ノートなど）
+zoomを用いてセミナーを行いますので、ブラウザが利用できるPCやタブレットなどの環境をご用意ください。&lt;/p&gt;
+&lt;h3&gt;ご参加にあたって（必ずご確認ください）&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;■開催当日は、以下の手順でご入場いただけます。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;・該当の「イベント詳細ページ」を開いてください&lt;br&gt;
+・「参加者への情報」にオンライン会場URLを記載しております&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;■開場は開催の約5分前となります。それ以前のご入場はお控え下さい。&lt;br&gt;
+■開催当日の電話対応はできかねます。お問合せはメール、もしくはお問合せフォームよりお願い致します。&lt;br&gt;
+■iPad等タブレットの使用は一部機能が制限される場合がございます。パソコン端末でのご参加を推奨いたします。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;zoomを用いてセミナーを行いますので、ブラウザが利用できるPCやタブレットなどの環境をご用意ください。&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;■個人情報の取り扱いについて&lt;/h2&gt;
+&lt;p&gt;和から株式会社では、お申込みにて提供いただいた利用目的は次のとおりです。
+・お申し込み手続きの実施
+・講座等の実施
+・お客様との事務連絡
+・各種のご案内（メールや電話によるセミナーのご案内など）
+※詳しくはこちらをご参照ください。
+&lt;a href="https://wakara.co.jp/privacy" rel="nofollow"&gt;https://wakara.co.jp/privacy&lt;/a&gt;&lt;/p&gt;</description><guid isPermaLink="false">https://numtr.connpass.com/event/374638/</guid><enclosure url="https://media.connpass.com/thumbs/11/84/118471cdf976717fecbcf9e3b8070ffd.png" length="0" type="image/png"/><pubDate>Wed, 03 Dec 2025 17:00:00 +0900</pubDate></item><item><title>初めてのAI駆動開発・生成AIエンジニア「アプリを企画して公開しよう！」</title><link>https://glass-sun.connpass.com/event/374636/</link><description>📍 会場: ZOOM
 住所: オンライン
 
+VercelとGithubをご用意ください
 
-
-&lt;h1&gt;目的&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;技術書、論文を読むことでやった感を醸し出し、人生の満足度を高める（主目的）&lt;/li&gt;
-&lt;li&gt;技術書、論文に慣れる&lt;/li&gt;
-&lt;li&gt;今回からの参加でもOKです&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;やること&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;従来の単純な知覚-行動ループに焦点を当てたエージェントではなく、より高度な知能を持つシステムとしてのFoundation Agents を提案した論文を読みます。&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://arxiv.org/pdf/2504.01990v1" rel="nofollow"&gt;ADVANCES AND CHALLENGES IN FOUNDATION AGENTS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;今回は 4.3.4 Simulator-Based Paradigm から読んでいきます。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;やらないこと&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;完璧に正しい理解をしようとしない&lt;ul&gt;
-&lt;li&gt;細かい箇所の理解が合っているかなどはあんまり追求しません&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;時間をかけてじっくり読みすぎない&lt;/li&gt;
-&lt;li&gt;数式の証明を深追いしない&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;その他&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;途中での質問も歓迎です&lt;ul&gt;
-&lt;li&gt;でもあんまり深追いせずに先に進んじゃうかもですが……&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;聞いてるだけでも大丈夫です&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;開催日時&lt;/h1&gt;
-&lt;p&gt;毎週木曜日　20:00 ~ 21:00（予定）&lt;/p&gt;
-&lt;h1&gt;会場&lt;/h1&gt;
-&lt;p&gt;Google meetを使用する予定です。&lt;/p&gt;
-&lt;p&gt;URLは当日conpassのメッセージ機能で通知します。
-また、参加者への情報欄にも記載しておきます。&lt;/p&gt;
-&lt;h1&gt;当日までの準備&lt;/h1&gt;
-&lt;p&gt;特にありません。&lt;br&gt;
-事前に資料を読んでおくと良いかもです。  &lt;/p&gt;
-&lt;h1&gt;費用&lt;/h1&gt;
-&lt;p&gt;なし&lt;/p&gt;
-&lt;h1&gt;定員&lt;/h1&gt;
-&lt;p&gt;特にありません&lt;/p&gt;</description><guid isPermaLink="false">https://wakaran-reading.connpass.com/event/374559/</guid><pubDate>Thu, 06 Nov 2025 20:00:00 +0900</pubDate></item><item><title>同ソもくもく会 ＃91(オンライン開催)</title><link>https://doso.connpass.com/event/374558/</link><description>📍 会場: オンライン
-住所: オンライン
-
-〜進捗を出す会〜
-
-&lt;h2&gt;月に1日だけでも作業をして進捗を出しましょう〜！&lt;/h2&gt;
-&lt;h1&gt;同ソもくもく会 ＃91&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="説明画像" src="https://kanihado.com/doso_icons20230311.png"&gt;&lt;/p&gt;
-&lt;h5&gt;日時: 2025/12/20(土) 13:00〜18:00&lt;/h5&gt;
-&lt;h5&gt;場所: オンライン開催&lt;/h5&gt;
-&lt;h5&gt;参加費: ¥0 (試験運用中のため当面の間無料)&lt;/h5&gt;
+&lt;h1&gt;初めてのAI駆動開発『生成AIエンジニアになってみる！！」&lt;/h1&gt;
+&lt;p&gt;日本語のプロンプトだけで、WEBアプリを開発し、公開します。
+見ているだけでも結構ですが、一緒にやりたい方は、
+前もって、VercelとGitHubのアカウントをご用意お願いします。&lt;/p&gt;
+&lt;h2&gt;プロンプトだけで開発したWEBアプリ&lt;/h2&gt;
+&lt;p&gt;＜オーソドックスなミニゲーム＞
+■&lt;a href="https://space-inavaders.vercel.app" rel="nofollow"&gt;スペースインベーダー&lt;/a&gt;
+■&lt;a href="https://shooting-teal.vercel.app/" rel="nofollow"&gt;カモメ射撃&lt;/a&gt;
+■&lt;a href="https://mogura-ebon.vercel.app/" rel="nofollow"&gt;モグラ叩き&lt;/a&gt;
+■&lt;a href="https://yakitori-chi.vercel.app/" rel="nofollow"&gt;やきとりさんきゅう&lt;/a&gt;
+■&lt;a href="https://github.com/techgymjp/pita" rel="nofollow"&gt;ピタッと注いで！&lt;/a&gt;
+■&lt;a href="https://koji-8du4.vercel.app/" rel="nofollow"&gt;酛づくりチャレンジ（クルクル麹）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;＜デバイスのセンサーデータを取得するアプリ＞
+■&lt;a href="https://ball-game-neon.vercel.app/" rel="nofollow"&gt;たまごろがし迷路＜傾きセンサー＞&lt;/a&gt;
+■&lt;a href="https://oyoge-kingyo.vercel.app/" rel="nofollow"&gt;およげ金魚くん＜マイクアクセス＞&lt;/a&gt;
+■&lt;a href="https://ento-rho.vercel.app/" rel="nofollow"&gt;遠投の旅＜GPS＞&lt;/a&gt;
+■&lt;a href="https://shuri-khaki.vercel.app/" rel="nofollow"&gt;手裏剣シュシュ＜加速度センサー＞&lt;/a&gt;
+■&lt;a href="https://ar-fish.vercel.app/" rel="nofollow"&gt;AR金魚＜カメラアクセス＞&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;＜便利ツール＞
+■&lt;a href="https://menu-khaki-sigma.vercel.app" rel="nofollow"&gt;多言語対応メニュー&lt;/a&gt;
+■&lt;a href="https://next-clock-app-ten.vercel.app/" rel="nofollow"&gt;人生カウントダウンタイマー&lt;/a&gt;
+■&lt;a href="https://noise-level-eight.vercel.app/" rel="nofollow"&gt;騒音デシベル測定器&lt;/a&gt;
+■&lt;a href="https://okuru-kotoba.vercel.app/" rel="nofollow"&gt;贈る言葉&lt;/a&gt;
+■&lt;a href="https://kodokei.vercel.app/%E3%80%80" rel="nofollow"&gt;高度計&lt;/a&gt;
+■&lt;a href="https://portfolio-test-three-tan.vercel.app/" rel="nofollow"&gt;ポートフォリオ登録&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;＜お店でお客さんと楽しむアプリ＞
+■&lt;a href="https://champagune-app.vercel.app/" rel="nofollow"&gt;ランダムシャンパン＜くじ引き＞&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;＜企業の業務効率化・顧客施策＞
+■&lt;a href="https://udify.app/chat/VnIohJb6OIYRpbHW" rel="nofollow"&gt;お問い合わせ自動対応＜dify＞&lt;/a&gt;
+■&lt;a href="https://kessan-weld.vercel.app/" rel="nofollow"&gt;決算書作成&lt;/a&gt;
+■&lt;a href="https://youtu.be/uzwPVgLV7pY" rel="nofollow"&gt;グーグルアナリティクス集計＜GAS＞&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;オンライン開催について&lt;/h3&gt;
-&lt;p&gt;2023年4月よりoviceを廃止し試験導入中の独自webrtcシステムでのオンライン開催になります。&lt;br&gt;
-今後はオンラインでの開催を基本とし、不定期で会場での同時開催を行っていく予定です。&lt;br&gt;
-・明らかな迷惑行為等があった場合、強制退出処理させていただくことがあります。&lt;br&gt;
-・予め参加申し込み済みの方のみが自己紹介と進捗報告を行うことができます。&lt;br&gt;
-&lt;br&gt;
-作業スペースは以下を用意しています。好きな場所を使ってください。もくもく会中の移動も自由です。&lt;br&gt;
-・雑談相談なんでもOKスペース&lt;br&gt;
-・作業BGM可スペース&lt;br&gt;
-・集中スペース（声かけNG)&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;オンライン参加にあたり、ブラウザの動作するPCとスピーカーだけは必須ですのでお気を付けください。&lt;br&gt;
-・カメラ ... 任意&lt;br&gt;
-・マイク ... 任意&lt;br&gt;
-・スピーカー ... &lt;b&gt;必須&lt;/b&gt;&lt;br&gt;
-・ブラウザの動作するPC(iPhone/iPad不可) ... &lt;b&gt;必須&lt;/b&gt;&lt;br&gt;
-*  iOSは複数のボイスを再生することが難しい仕様となっている為サポート対象外とさせていただいています。&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;同ソもくもく会とは&lt;/h3&gt;
-&lt;p&gt;同ソ … 同人ソフトのこと(いわゆるジャンルコード213と呼ばれているもの)&lt;/p&gt;
-&lt;p&gt;もくもく会 … 一人で黙々（もくもく）と作業をする事を目的とした勉強会&lt;/p&gt;
-&lt;p&gt;同ソもくもく会は趣味でゲームなどを制作している方を対象としたもくもく会です。&lt;/p&gt;
-&lt;p&gt;以下のようなケースに該当する場合などにお役立てください。&lt;/p&gt;
+&lt;h2&gt;なぜ今、AI駆動開発なのか？&lt;/h2&gt;
+&lt;p&gt;AI駆動開発の最大の魅力は、開発速度の劇的な向上と創造性の解放です。AIがコード生成、バグ修正、リファクタリングなどの定型作業を支援することで、開発者はより高次元の設計や問題解決に集中できるようになります。&lt;/p&gt;
+&lt;p&gt;特にコード補完やドキュメント生成では、AIが開発者の意図を理解し、適切な提案を行うため、実装時間が大幅に短縮されます。また、AIは膨大なコードベースから学習しているため、ベストプラクティスやパターンを自然に取り入れた提案が可能です。&lt;/p&gt;
+&lt;p&gt;さらに、多様なプログラミング言語や技術スタックに対応できるため、開発者が不慣れな領域でも効率的に作業を進められます。テストケースの自動生成や性能最適化の提案など、品質向上にも貢献します。&lt;/p&gt;
+&lt;p&gt;ただし、AIの提案を盲目的に受け入れるのではなく、開発者自身の判断力と組み合わせることが重要です。AI駆動開発は人間の創造性を代替するのではなく、それを増幅させる強力なパートナーとして機能し、より革新的なソフトウェア開発を可能にします。&lt;/p&gt;
+&lt;h2&gt;講義アジェンダ&lt;/h2&gt;
+&lt;p&gt;実際にアプリ開発をデモします。
+随時、インララクティグにご質問にお答えします。
+ご一緒に開発したい方は、Vercel とGitHubのご用意をお願いします。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;作業進捗を出したい&lt;/li&gt;
-&lt;li&gt;たまには環境を変えて作業したい&lt;/li&gt;
-&lt;li&gt;聞き流してくれて良いのだけど、作業中ぼやきや愚痴を聞いてくれる人がほしい&lt;/li&gt;
+&lt;li&gt;プログラミングが苦手な方&lt;/li&gt;
+&lt;li&gt;AIを使った開発に興味がある方&lt;/li&gt;
+&lt;li&gt;ご自身の業務を自動化、効率化したい方&lt;/li&gt;
+&lt;li&gt;将来、エンジニアやプロダクト開発に携わりたい方&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;(※ぼやきや愚痴は他の方の迷惑にならない程度で・・)&lt;/p&gt;
+&lt;h1&gt;AI駆動開発/生成AIエンジニアコース&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;あなたのアイデアを、AIとともに形にしませんか？&lt;/strong&gt;
+まったくの初心者でも安心してスタートできる、話題の「AI駆動開発（AI-assisted development）」を学ぶコースが新登場！
+ChatGPT、Copilot、Cursorなどの&lt;strong&gt;生成AIを活用して、効率的にアプリやWebサービスを開発&lt;/strong&gt;するスキルを基礎から学べます。アプリ開発のみならず、ご自身の業務効率化のスキルも身につきます。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://techgym.jp/about/ai-driven-development/" rel="nofollow"&gt;詳細はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;【講師プロフィール】みんなのグラさん&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="みんなのグラさん" src="https://s3.techplay.jp/tp-images/event/966a4764aa27cc981d54bd589ba6ed5ff893974c.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;■&lt;a href="https://x.com/gurasan3939" rel="nofollow"&gt;みんなのグラさん（X）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;早稲田大学在学中にi-modeコンテンツ開発の会社を創業。
+世界初の位置ゲームの企画開発に携わる。&lt;/p&gt;
+&lt;p&gt;2009年、スマホアプリ開発の会社を創業。
+自社アプリは1,000万ダウンロードを突破。&lt;/p&gt;
+&lt;p&gt;2019年、未経験学生をプログラマーに育成してきた経験をもとに「テックジム」を創業。
+「授業」や「チュートリアル」をなぞるだけでは「適切な学習方法」は会得できない。
+「本人がコーディングする瞬間にアドバイスする方式」こそスキル定着することを提唱。
+さらに、受験テクニックのようなコツを絡めた効率学習で3ヶ月で開発現場に送り込む。&lt;/p&gt;
+&lt;p&gt;無料開催のPython講座を全国100都市で開催。参加者は2万人を突破。
+今までのキャリアを通じて育てた学生エンジニアは約300名。
+人生最強チートの「プログラミング」をエンジニアだけのオモチャにしない!!
+今後は老若男女「誰でもプログラミングができる社会」をつくり「日本復活」に寄与するのが目標。&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;スケジュール&lt;/h3&gt;
-&lt;p&gt;12:30 ~ 13:00 受付&lt;/p&gt;
-&lt;p&gt;13:00 ~ 17:00 もくもく会  (13:15から自己紹介時間含む)&lt;/p&gt;
-&lt;p&gt;17:00 ~ 17:50 進捗報告・告知など&lt;/p&gt;
-&lt;p&gt;17:50 ~ 18:00 片付け&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;初心者OK&lt;/h3&gt;
-&lt;p&gt;もくもく会ではありますが、個人でのゲーム制作が未経験の方でもそれなりに作業ができるようにフォローなども行います。&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;ジャンル自由&lt;/h3&gt;
-&lt;p&gt;パズル、アクション、ノベルゲーム、VRなど、ジャンルは自由です。&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;エンジン不問&lt;/h3&gt;
-&lt;p&gt;UE4やUnity、Godot、自作エンジンなどのエンジンの縛りはありません。&lt;/p&gt;
-&lt;p&gt;ゲーム制作を行っていれば何を使っても大丈夫です。&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;月一開催&lt;/h3&gt;
-&lt;p&gt;毎月の第三土曜日に開催しています。（たまに第二土曜や第四土曜の時もあります）&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;(ゲーム制作に関わる作業であればどんな行程であってもよいので、PCを持参せず、ずっと企画書や絵を描いているだけの人もいます。)&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;テキストチャットのみの参加可&lt;/h3&gt;
-&lt;p&gt;Webカメラやマイクが無い方の参加もできるようにしています。テキストスピーチの自動読み上げ機能でテキストチャットのみで参加可能です。好きなボイスを選んで参加してください。
-(*スピーカーだけは必須ですのでお気を付けください。)&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;カニハドウのメンバーでなくても大丈夫なの？&lt;/h3&gt;
-&lt;p&gt;大丈夫です。&lt;/p&gt;
-&lt;p&gt;元々は同人ソフトサークル、カニハドウのメンバーだけでもくもく会をやって居たのですが、&lt;/p&gt;
-&lt;p&gt;作業場所をオープンにし、誰でも制作活動ができるようにしてみました。
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;運営: &lt;a href="http://kanihado.com" rel="nofollow"&gt;kanihado.com&lt;/a&gt;   提供: ファーザーシステム株式会社&lt;/h4&gt;</description><guid isPermaLink="false">https://doso.connpass.com/event/374558/</guid><enclosure url="https://media.connpass.com/thumbs/e3/b1/e3b1535b935b9d6456d39fe0d6081fdd.png" length="0" type="image/png"/><pubDate>Sat, 20 Dec 2025 13:00:00 +0900</pubDate></item><item><title>【Z世代攻略】遊びとワクワクで拡散されるWebキャンペーン</title><link>https://connpass.com/event/374555/</link><description>📍 会場: オンライン
+&lt;h2&gt;■もっとも効率的なスキル習得「テックジム方式」とは？&lt;/h2&gt;
+&lt;p&gt;「テックジム」のカリキュラムは、基礎知識なしでも効率よく学べるように細部に渡って設計されています。
+何度かやっていくうちに自然に習得できますので「暗記」は不要です。
+百聞は一見に如かず。実際に講座に参加して「魔法体験」をしてみてください。
+「&lt;a href="https://www.reservestock.jp/page/consecutive_events/3922" rel="nofollow"&gt;ゼロからはじめるPython入門講座&lt;/a&gt;」は2万人にご参加いただきました。&lt;/p&gt;</description><guid isPermaLink="false">https://glass-sun.connpass.com/event/374636/</guid><enclosure url="https://media.connpass.com/thumbs/5e/e8/5ee8579f503d1cdcac3a835bfaa9ea03.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 18:00:00 +0900</pubDate></item><item><title>【第415回】フリーダムITもくもく会【夜活】</title><link>https://setk.connpass.com/event/374634/</link><description>📍 会場: Discord会場
 住所: オンライン
 
+寝る前に少し学んでみませんか？
 
-
-&lt;p&gt;Youtube LIVEでの配信となりますので、アーカイブ視聴が可能です。&lt;br&gt;
-リアルタイムのご参加が難しい場合にもお申し込みくださいませ！  &lt;/p&gt;
-&lt;p&gt;--&lt;br&gt;
-お昼時間のお供に、最新のデジタルプロモーション知識を身につけませんか🙋‍♀️？&lt;br&gt;
-キャンペーン提案や企画に欠かせない、トレンド事例をまるっと解説！&lt;br&gt;
-7-8月に行われたプロモーションを、キャンペーンづくりのプロが解説いたします！  &lt;/p&gt;
-&lt;p&gt;✅イベント概要&lt;br&gt;
-NONAME Produceは、SNS/WEBプロモーションに強い制作会社です。&lt;br&gt;
-これまで200以上の企画・制作を行なって参りました経験を活かし、世の中のプロモーション事例を日々研究することで常に最新の知識を発信し続けています。&lt;br&gt;
-今回のYouTubeLIVEでは、今年行われた選りすぐりのキャンペーン事例をピックアップし、どこよりも詳しく解説いたします！&lt;br&gt;
-配信中に、コメント欄からのご質問にお答えすることも予定しております。&lt;br&gt;
-休憩時間のお供に、お気軽にご参加ください！  &lt;/p&gt;
-&lt;p&gt;📝解説予定の事例&lt;br&gt;
-・楽しみ無限大 ミセス∞ハウスキャンペーン｜ハウス食品&lt;br&gt;
-・ザクザク感で魂を燃やせ！無敵のオールスターズキャンペーン｜江崎グリコ株式会社&lt;br&gt;
-・カチッとぽふっとスイッチ｜オルビス株式会社&lt;br&gt;
-・凄麺 2525 スタンプラリー｜ヤマダイ株式会社&lt;br&gt;
-・ジップロック®️ありなし国民大調査 キャンペーン｜旭化成ホームプロダクツ株式会社&lt;br&gt;
-・明治のアイス宝くじキャンペーン｜株式会社明治&lt;br&gt;
-・#じゃない方の千代田｜群馬県千代田町をもっと知ってほしい！キャンペーン  &lt;/p&gt;
-&lt;p&gt;📆日時&lt;br&gt;
-2025年11月12日(水)12:00-  &lt;/p&gt;
-&lt;p&gt;🌍 会場&lt;br&gt;
-当日はYouTube Liveでの配信を予定しております。&lt;br&gt;
-お申し込みいただきますと、配信がご覧いただけるようになります。  &lt;/p&gt;
-&lt;p&gt;🎤 登壇者&lt;br&gt;
-株式会社NONAME Produce  &lt;/p&gt;
-&lt;p&gt;◼️代表　村上烈  &lt;/p&gt;
-&lt;p&gt;早稲田大学在学中デザインやWEB・イベントに関して独学で学び、在学中に株式会社NONAME Produceを設立。&lt;br&gt;
-デジタルプロモーション領域におけるクリエイティブおよび広告制作を行ってきました。その中でもコミュニケーション戦略や、&lt;br&gt;
-キャンペーンシステムの設計を得意とし、 クリエイティブディレクターとしてキャンペーンの企画・制作進行をおこなっています。&lt;/p&gt;</description><guid isPermaLink="false">https://connpass.com/event/374555/</guid><enclosure url="https://media.connpass.com/thumbs/e1/2a/e12a17e6420fd0386eebc977e909b9c4.png" length="0" type="image/png"/><pubDate>Wed, 12 Nov 2025 12:00:00 +0900</pubDate></item><item><title>osdev-jpもくもく作業会 25.11.9</title><link>https://osdev-jp.connpass.com/event/374551/</link><description>📍 会場: オンライン
+&lt;p&gt;ITネタなら何でもOK！&lt;/p&gt;
+&lt;p&gt;みんなで&lt;b&gt;&lt;font color="blue"&gt;もくもく&lt;/font&gt;&lt;/b&gt;やってやりましょう！&lt;/p&gt;
+&lt;p&gt;参加方法は簡単です。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;開始時間になったらDiscord会場に行く( &lt;a href="https://discord.gg/njcyjtngay" rel="nofollow"&gt;https://discord.gg/njcyjtngay&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;チャンネル［もくもく会］－［#フリーダム］で勉強することを宣言&lt;/li&gt;
+&lt;li&gt;終了時間になったら、同チャンネルで勉強した結果を報告&lt;/li&gt;
+&lt;li&gt;以上！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;ポイントは「夜中」「決まった時間に」「やることを宣言して」「やる！」です。&lt;/p&gt;
+&lt;p&gt;夜型のあなた向け。&lt;b&gt;&lt;font color="blue"&gt;静かで穏やかな時間&lt;/font&gt;&lt;/b&gt;に、少し学んでみませんか？&lt;/p&gt;
+&lt;p&gt;その他、Discord会場には掲示板も設けていますので、質問や情報交換などもやりましょう！&lt;/p&gt;</description><guid isPermaLink="false">https://setk.connpass.com/event/374634/</guid><enclosure url="https://media.connpass.com/thumbs/8f/3a/8f3a7d0dfcaa216f44d0e5a8987d0c2f.png" length="0" type="image/png"/><pubDate>Sun, 09 Nov 2025 20:00:00 +0900</pubDate></item><item><title>【第414回】フリーダムITもくもく会【夜活】</title><link>https://setk.connpass.com/event/374633/</link><description>📍 会場: Discord会場
 住所: オンライン
 
-osdev-jp主催の自作OSにとらわれず好きなテーマでもくもく作業する会
+寝る前に少し学んでみませんか？
 
-&lt;h1&gt;概要&lt;/h1&gt;
-&lt;p&gt;osdev-jp主催ではありますが、OS自作に限らず、皆さまの好きなテーマ・取り組みたい作業を持ちよって、情報交換しながら作業ができるもくもく会です。&lt;/p&gt;
-&lt;p&gt;このもくもく会は、以下のポリシに基づいて開催しています。
-- 途中参加/途中退出OK
-- 情報交換しながら作業OK
-- ひとり集中しての作業OK
-- 自作OS以外のテーマでの作業OK&lt;/p&gt;
-&lt;p&gt;皆さまの自主作業をするキッカケに利用していただければ幸いです。 &lt;/p&gt;
-&lt;h1&gt;当日の流れ&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;osdev-jp Discordの &lt;code&gt;#eventわいわい&lt;/code&gt; チャンネルにて、「今日やる内容」を箇条書きで共有してください。&lt;/li&gt;
-&lt;li&gt;会の終わり頃(16:45〜)に、osdev-jp Discordの &lt;code&gt;#eventわいわい&lt;/code&gt; にて進捗の共有をします。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;会場&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;osdev-jp Discord&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;参加申し込みされました方には、Dicordの招待リンクが表示されます。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;開催周期&lt;/h1&gt;
-&lt;p&gt;基本２週間に１回、土曜日・日曜日の交互開催です。&lt;/p&gt;
-&lt;h1&gt;osdev-jp について&lt;/h1&gt;
-&lt;p&gt;osdev-jp は 2016 年 3 月 30 日の「サイボウズ・ラボユース成果報告会」に偶然集まった OS 自作好きの 3 人 Liva, uchan, hikalium によって創設された、OS 開発者のためのコミュニティです。OS 開発に有用な情報を収集し公開しています。また、OS を自作している人たちのためのコミュニティであることも目指しています。&lt;/p&gt;
-&lt;p&gt;osdev-jp では、この「もくもく作業会」以外に、隔月で発表形式の「自作OSもくもく会オンライン」も開催しています。&lt;/p&gt;
-&lt;p&gt;osdev-jp のイベントについてはこちら: &lt;a href="https://osdev-jp.connpass.com" rel="nofollow"&gt;https://osdev-jp.connpass.com&lt;/a&gt;&lt;/p&gt;</description><guid isPermaLink="false">https://osdev-jp.connpass.com/event/374551/</guid><enclosure url="https://media.connpass.com/thumbs/1c/ae/1caebdde8732ba0ad8a7116f18ec8990.png" length="0" type="image/png"/><pubDate>Sun, 09 Nov 2025 13:30:00 +0900</pubDate></item><item><title>Djangoもくもく会: 10回目</title><link>https://pythonista-books.connpass.com/event/374437/</link><description>📍 会場: オンライン
+&lt;p&gt;ITネタなら何でもOK！&lt;/p&gt;
+&lt;p&gt;みんなで&lt;b&gt;&lt;font color="blue"&gt;もくもく&lt;/font&gt;&lt;/b&gt;やってやりましょう！&lt;/p&gt;
+&lt;p&gt;参加方法は簡単です。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;開始時間になったらDiscord会場に行く( &lt;a href="https://discord.gg/njcyjtngay" rel="nofollow"&gt;https://discord.gg/njcyjtngay&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;チャンネル［もくもく会］－［#フリーダム］で勉強することを宣言&lt;/li&gt;
+&lt;li&gt;終了時間になったら、同チャンネルで勉強した結果を報告&lt;/li&gt;
+&lt;li&gt;以上！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;ポイントは「夜中」「決まった時間に」「やることを宣言して」「やる！」です。&lt;/p&gt;
+&lt;p&gt;夜型のあなた向け。&lt;b&gt;&lt;font color="blue"&gt;静かで穏やかな時間&lt;/font&gt;&lt;/b&gt;に、少し学んでみませんか？&lt;/p&gt;
+&lt;p&gt;その他、Discord会場には掲示板も設けていますので、質問や情報交換などもやりましょう！&lt;/p&gt;</description><guid isPermaLink="false">https://setk.connpass.com/event/374633/</guid><enclosure url="https://media.connpass.com/thumbs/8f/3a/8f3a7d0dfcaa216f44d0e5a8987d0c2f.png" length="0" type="image/png"/><pubDate>Sat, 08 Nov 2025 20:00:00 +0900</pubDate></item><item><title>【オンライン】初心者向け React もくもく会＋交流会</title><link>https://beginner-react.connpass.com/event/374526/</link><description>📍 会場: オンライン
 住所: オンライン
 
-Djangoに関することをオンライン上でもくもくしましょう
+「React 全く触った事ない…」という初学者歓迎の、敷居の低いReactもくもく会！
 
-&lt;h2&gt;イベントについて&lt;/h2&gt;
-&lt;p&gt;Djangoに関することをオンラインでもくもくする会です。&lt;/p&gt;
-&lt;h2&gt;参加者の想定&lt;/h2&gt;
+&lt;h2&gt;React 初心者向けの、オンライン勉強会（もくもく会）です🙌&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一緒に学習、アウトプット、コラボレーション 🫐🌿🎧&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;定期開催している、React 初心者向けのライブ配信です！&lt;br&gt;
+視聴のみ/ 一緒に作業/ 交流/ 共同プロジェクトへの参加 etc&lt;/p&gt;
+&lt;p&gt;ご自由に参加できます;)&lt;/p&gt;
+&lt;h2&gt;特徴&lt;/h2&gt;
+&lt;p&gt;🎥 React 初心者向けの作業ライブ&lt;br&gt;
+🤝 見るだけ/質問/相談/雑談 etc も大歓迎&lt;br&gt;
+🛠️ 個人開発や共同開発など、プロジェクトベースで進行&lt;br&gt;
+💚 配信から、段階的にコミュニティの活動に参加できます&lt;/p&gt;
+&lt;p&gt;※ セミナー形式ではございません。&lt;br&gt;
+※ &lt;strong&gt;ライブ配信を使用した、のんびり作業や交流する会です！&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;こんな初心者におすすめ！&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Djangoでアプリケーションを開発している人（業務でも趣味でも）&lt;/li&gt;
-&lt;li&gt;Djangoを学んでいる人&lt;/li&gt;
-&lt;li&gt;Djangoに絞って進めますが、&lt;strong&gt;Djangoの経験はなくても参加歓迎&lt;/strong&gt;です&lt;/li&gt;
+&lt;li&gt;「Reactに興味がある」&lt;/li&gt;
+&lt;li&gt;「これからReact/Next.js を学ぶ」&lt;/li&gt;
+&lt;li&gt;「Reactを学び始めたばかり」&lt;/li&gt;
+&lt;li&gt;「 JavaScript などの基礎を学んで、次のステップへ進みたい方」&lt;/li&gt;
+&lt;li&gt;「Reactってなんなの？コンポーネント？props？状態管理？、、？？」&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;お品書き&lt;/h2&gt;
+&lt;p&gt;🫐🌿 &lt;a href="https://b13o.com" rel="nofollow"&gt;コミュニティの公式サイト&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;開催概要&lt;/h2&gt;
+&lt;p&gt;➡️ 場所：オンライン開催&lt;br&gt;
+ビデオはオフ・無言OKです！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;申し込みが完了すると「参加者への情報」という場所に、URLが表示されます。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;当日のスケジュールの流れ&lt;/h2&gt;
+&lt;p&gt;➡️【19:30 - 20:50】：&lt;strong&gt;準備ができた人から各自作業開始！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;各自の作業を進めたり、ラジオ的に見るだけだったり、ご自由に参加できます！&lt;/p&gt;
+&lt;p&gt;➡️【20:50 - 】：&lt;strong&gt;軽く作業報告・雑談（任意）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本日やったことの簡単な報告・質問・雑談タイムです。&lt;/p&gt;
+&lt;h1&gt;運営情報&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="https://storage.googleapis.com/zenn-user-upload/c052cd981db0-20250515.png"&gt;&lt;/p&gt;
+&lt;p&gt;React で、実践的なスキルチェックができる、学習のお題まとめサイト『&lt;a href="https://react-road.b13o.com" rel="nofollow"&gt;React Road&lt;/a&gt;』&lt;/p&gt;
+&lt;p&gt;のイベント企画です 🐾&lt;/p&gt;
+&lt;p&gt;👀 &lt;a href="https://b13o.com/about" rel="nofollow"&gt;運営コミュニティの公式サイト&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;備考&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;（最初）何をする予定か共有&lt;/li&gt;
-&lt;li&gt;もくもくタイム&lt;ul&gt;
-&lt;li&gt;個人開発&lt;/li&gt;
-&lt;li&gt;Djangoの書籍やチュートリアルを読み進める&lt;/li&gt;
-&lt;li&gt;Django関係のコードリーディング&lt;/li&gt;
-&lt;li&gt;Djangoのドキュメントの翻訳&lt;/li&gt;
-&lt;li&gt;などなど&lt;/li&gt;
+&lt;li&gt;途中参加・退出なども全く問題ないです&lt;/li&gt;
+&lt;li&gt;勧誘、迷惑行為、ハラスメント、マウンティング行為をはじめ、このイベントの趣旨にそぐわないと主催が判断した場合はご参加をお断りする場合がございます。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;（最後）取り組んだことを共有&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;会場&lt;/h2&gt;
-&lt;p&gt;オンラインで実施します。
-Discord（テキストチャット）を利用して行います。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://discord.gg/49NstTcFkw" rel="nofollow"&gt;Discordの参加リンク&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><guid isPermaLink="false">https://pythonista-books.connpass.com/event/374437/</guid><enclosure url="https://media.connpass.com/thumbs/f3/a8/f3a8e339115fdd679d61de47d684e91b.png" length="0" type="image/png"/><pubDate>Sun, 30 Nov 2025 14:00:00 +0900</pubDate></item><item><title>アーバンデータチャレンジ2025富山 オンラインハッカソン</title><link>https://codefortoyama.connpass.com/event/374436/</link><description>📍 会場: オンライン Zoom予定
+&lt;h2&gt;参考キーワード&lt;/h2&gt;
+&lt;p&gt;webアプリ開発, HTML, CSS, JavaScript,TypeScript, React.js, Node.js, Next.js, Github, コミュニティ&lt;/p&gt;</description><guid isPermaLink="false">https://beginner-react.connpass.com/event/374526/</guid><enclosure url="https://media.connpass.com/thumbs/cd/74/cd748926460f853ba8ce1f4c4b98ae5e.png" length="0" type="image/png"/><pubDate>Mon, 03 Nov 2025 19:30:00 +0900</pubDate></item><item><title>アーバンデータチャレンジ2025富山 オンラインハッカソン</title><link>https://codefortoyama.connpass.com/event/374436/</link><description>📍 会場: オンライン Zoom予定
 住所: オンライン
 
 
@@ -481,87 +332,172 @@ Discord（テキストチャット）を利用して行います。&lt;/p&gt;
 &lt;li&gt;富山県のオープンデータを題材に、地域課題を解決するためのテーマを検討&lt;/li&gt;
 &lt;li&gt;UDC2025へのチャレンジテーマを立案・整理&lt;/li&gt;
 &lt;li&gt;オープンデータを活用した新たなプロジェクト創出のきっかけづくり&lt;/li&gt;
-&lt;/ul&gt;</description><guid isPermaLink="false">https://codefortoyama.connpass.com/event/374436/</guid><enclosure url="https://media.connpass.com/thumbs/18/6e/186e50feeebe6decc53284711bbcc978.png" length="0" type="image/png"/><pubDate>Sat, 08 Nov 2025 16:00:00 +0900</pubDate></item><item><title>【第1回】60分で爆誕！バイブコーディング・便利ツール制作チャレンジ</title><link>https://setk.connpass.com/event/371678/</link><description>📍 会場: Discord会場
+&lt;/ul&gt;</description><guid isPermaLink="false">https://codefortoyama.connpass.com/event/374436/</guid><enclosure url="https://media.connpass.com/thumbs/18/6e/186e50feeebe6decc53284711bbcc978.png" length="0" type="image/png"/><pubDate>Sat, 08 Nov 2025 16:00:00 +0900</pubDate></item><item><title>YUMEMI × やさしい Swift 勉強会 #594 #yumemi_grow</title><link>https://yasashii-swift.connpass.com/event/373947/</link><description>📍 会場: Zoom
 住所: オンライン
 
-ノリで便利ツールを作って楽しみましょう！
+Swift の基礎をしっかりと — 株式会社ゆめみの社内勉強会にみんなも参加できます。
 
-&lt;h1&gt;🎯🔧 60分で爆誕！バイブコーディング・便利ツール制作チャレンジ ✨⚡&lt;/h1&gt;
-&lt;p&gt;たった&lt;strong&gt;60分&lt;/strong&gt;で、あなたの"vibe"を乗せた便利ツール・サービスを作って発表するオンラインイベントです！&lt;br&gt;
-テーマは&lt;strong&gt;その場で決定&lt;/strong&gt;！💡 特定の人の日常を便利にするツールをカタチにしよう ✨🚀&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;🤔 バイブコーディングって何？&lt;/h2&gt;
-&lt;p&gt;バイブコーディング（&lt;strong&gt;Vibe Coding&lt;/strong&gt;）とは、&lt;br&gt;
-&lt;strong&gt;その場のノリや直感、ひらめきを大切にしながら、短時間で一気にコードを書くスタイル&lt;/strong&gt;のことです。  &lt;/p&gt;
+&lt;h1&gt;YUMEMI × やさしい Swift 勉強会 とは&lt;/h1&gt;
+&lt;p&gt;株式会社ゆめみで社内向けに開催している勉強会で、Swift の言語そのものに着目して基礎をみんなでじっくり見ていく時間になります。技術面でも業界貢献したいと願う片岡さんの意向を汲んで、そんなゆめみの社内勉強会に外の人にも参加してもらえるように「熊谷さんのやさしい Swift 勉強会」として一般公募を開始したのがこの勉強会の始まりです。&lt;/p&gt;
+&lt;p&gt;社内のジュニアエンジニアがメインターゲットになっていますが、日頃から Swift 言語を使っている人はもちろん、普段は Swift に親しみがないけどなんとなく気になった人など、プログラミングに携わる人も携わらない人もどなたでも歓迎です。&lt;/p&gt;
+&lt;p&gt;詳細は &lt;a href="https://yumemi.notion.site/Swift-687334bd0b844dcab35f360f3df75b9b" rel="nofollow"&gt;ゆめみオープンハンドブック&lt;/a&gt; をご覧ください。&lt;/p&gt;
+&lt;h4&gt;オンライン開催&lt;/h4&gt;
+&lt;p&gt;Zoom を使ったオンライン開催になりますけれど、おとなしく聞いているだけでも大丈夫ですし、カメラは ON でも OFF でも大丈夫ですので、どうぞ気兼ねなくご参加くださいね。途中入退室も自由です。&lt;/p&gt;
+&lt;h1&gt;進め方&lt;/h1&gt;
+&lt;p&gt;Apple の Swift 公式解説書 &lt;a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/" rel="nofollow"&gt;The Swift Programming Language&lt;/a&gt; の流れに沿いながら、Swift 言語の基礎的なところを広く深く、時間をかけて眺めていきます。&lt;/p&gt;
+&lt;p&gt;単に読書するだけでなく、ときにみんなと自由に話したりしながら Swift に親しみ、その素養を高めて自身で考える力を養うきっかけにしてもらうのを目的としています。特に業務等で Swift に携わる中ではなかなか触れられない話題を、広く・深く・何度でも、視点を変えながら Swift を俯瞰していく会で、連続で参加できなくても差し支えないので、都合の良いときにいつでもいらしてください。&lt;/p&gt;
+&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;th&gt;担当&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:05 - 適宜&lt;/td&gt;
+&lt;td&gt;準備・談笑タイム（通常は 20 分ほど）&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;- 13:50&lt;/td&gt;
+&lt;td&gt;やさしい Swift 勉強会&lt;/td&gt;
+&lt;td&gt;@es_kumagai&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;基本的には 13:05 から 13:50 までが勉強会の時間になります。それでもこの時間にきっちり居ないといけないことはないので、遅れて入室してもらっても早めに退室してもらっても大丈夫です。近ごろは最初の 20 分くらいは雑談しながら人が集まるのを待っていたりする感じですので、それを見越して遅くから来てくれる人もふつうにいます。&lt;/p&gt;
+&lt;h1&gt;近ごろの話題&lt;/h1&gt;
+&lt;p&gt;最近は &lt;a href="https://www.swift.org" rel="nofollow"&gt;Swift.org&lt;/a&gt; &amp;gt; &lt;a href="https://www.swift.org/migration/documentation/migrationguide/" rel="nofollow"&gt;Migrating to Swift 6&lt;/a&gt; を読み進めていっています。&lt;/p&gt;
+&lt;h1&gt;オリエンテーション&lt;/h1&gt;
+&lt;p&gt;勉強会の様子についてもう少し詳しく知りたい方は、こちらの &lt;a href="https://www.dropbox.com/scl/fi/s0x2o9sjn9kazb20l77ry/for-Publish.pdf?rlkey=avlqrgtftnwl6syc4chg2ycou&amp;amp;st=n4sgy57o&amp;amp;dl=0" rel="nofollow"&gt;オリエンテーション&lt;/a&gt; 資料に会の趣旨などを記していますので、こちらも合わせてご覧ください。&lt;/p&gt;
+&lt;h1&gt;これまでの動画&lt;/h1&gt;
+&lt;p&gt;これまでの開催録画は、今のところは株式会社ゆめみの YouTube チャンネル &lt;a href="https://www.youtube.com/playlist?list=PL3Utf2i5RcCxpuECdfLlXJnF_TsTUVIf6" rel="nofollow"&gt;Channel Yumemi&lt;/a&gt; にて幾つか公開しています。以降の動画も準備が整い次第、どこかで順次公開していく予定です。&lt;/p&gt;
+&lt;p&gt;どの動画まで公開されているかや、どの話題がどの回で取り上げられたかなどの情報は &lt;a href="https://yumemi.notion.site/9c4420a3f27a4817b8f0d9eae487fe02?v=be82d85362f44779bd4f9384c7bbdeae" rel="nofollow"&gt;ゆめみオープンハンドブック&lt;/a&gt; から確認できるようになっています。&lt;/p&gt;
+&lt;h1&gt;参加する際の留意点&lt;/h1&gt;
+&lt;p&gt;勉強会の内容は、後日に映像として YouTube を通して一般公開される予定です。&lt;/p&gt;
+&lt;p&gt;姿は映像に含まれませんが、声は基本的に含まれますので、差し障りのある場合は話すのを控えるようにお気をつけください。ライブ配信ではありませんので収録されると都合の良くない話題をうっかり話してしまった場合は後でカットできますので、萎縮せず会話にも参加してもらえます。&lt;/p&gt;
+&lt;h1&gt;YUMEMI.grow&lt;/h1&gt;
+&lt;p&gt;株式会社ゆめみが開催する勉強会の総称です。
+最新の技術や業務で得た知見・ベストプラクティスなどの情報共有、
+エンジニア同士の交流を目的としています。&lt;/p&gt;</description><guid isPermaLink="false">https://yasashii-swift.connpass.com/event/373947/</guid><enclosure url="https://media.connpass.com/thumbs/30/f5/30f51dd9f06aa4a6f1aeef5cc07644b5.png" length="0" type="image/png"/><pubDate>Fri, 07 Nov 2025 13:05:00 +0900</pubDate></item><item><title>【React/ 状態管理入門】初心者向けハンズオン勉強会(マインドマップアプリ構築）</title><link>https://beginner-react.connpass.com/event/373929/</link><description>📍 会場: Google Meet
+住所: オンライン
+
+実践的なミニアプリの構築で、Reactの理解を深めるハンズオン形式のワークショップ！
+
+&lt;h3&gt;React 初心者向けの、ハンズオン形式のオンライン勉強会です👋&lt;/h3&gt;
+&lt;p&gt;事前に作成した資料があるので、&lt;br&gt;
+それを参照しながら、ハンズオン形式で、Reactのミニアプリを構築します！&lt;/p&gt;
+&lt;p&gt;実際に手を動かして、その場で質問・相談しながら、楽しくReactを学んでいきましょうー！&lt;/p&gt;
+&lt;p&gt;❓&lt;a href="https://b13o.com/services/handson-workshop" rel="nofollow"&gt;このハンズオン勉強会についての紹介記事&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;今回のお題&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="lhandson_design" src="https://github.com/user-attachments/assets/0f9018d3-8b67-4b5b-a7e2-3779ff7d6b06"&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;作成するアプリ&lt;/strong&gt;：&lt;/h3&gt;
+&lt;p&gt;マインドマップアプリ&lt;/p&gt;
+&lt;p&gt;レベル：初級〜中級&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;概要&lt;/strong&gt;：&lt;/h3&gt;
+&lt;p&gt;このプロジェクトでは、実用的な、Figma 風のマインドマップアプリを構築します。&lt;/p&gt;
+&lt;p&gt;親要素ブロックに対し、子要素ブロックを繋げていくことで、関係性を視覚的に表現することができます。&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;学習する内容&lt;/strong&gt;：&lt;/h3&gt;
+&lt;p&gt;今回のテーマは、Jotai を使用した、グローバルな状態管理です。&lt;/p&gt;
+&lt;p&gt;コンポーネント間でのデータ共有、アトムベースの状態管理、ローカルストレージ連携などの実装を確認してください。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;完成度よりスピードと楽しさ重視  &lt;/li&gt;
-&lt;li&gt;その瞬間のアイデアを形にする  &lt;/li&gt;
-&lt;li&gt;AIや便利ツールを活用してコーディング効率を爆上げ  &lt;/li&gt;
+&lt;li&gt;Jotai を用いたグローバルな状態管理&lt;/li&gt;
+&lt;li&gt;React Flow を使用したノードベースのダイアグラム&lt;/li&gt;
+&lt;li&gt;Vite を用いた React 環境構築&lt;/li&gt;
+&lt;li&gt;TypeScript による型チェック&lt;/li&gt;
+&lt;li&gt;Tailwind CSS を用いたスタイリング&lt;/li&gt;
+&lt;li&gt;shadcn/ui を用いたコンポーネント&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;ハッカソンやライブコーディングのような高揚感を味わいながら、クリエイティブに開発を進められるのが魅力です 🎨⚡&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;🎯 今回のテーマ設定方法&lt;/h2&gt;
-&lt;p&gt;イベント当日、以下の要素をランダムに決めます！🎲&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;この勉強会を通して、Reactを使った成果物を１つ構築することを目指します&lt;/strong&gt;！&lt;/p&gt;
+&lt;h1&gt;こんな初心者におすすめ！&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;年代&lt;/strong&gt;（例：30代、40代、50代など）  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;性別&lt;/strong&gt;（例：男性、女性、問わず）  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;職業・シーン&lt;/strong&gt;（例：営業職、子育て中、在宅勤務など）&lt;/li&gt;
+&lt;li&gt;Reactの基本的な扱いに慣れてきた方&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;React の状態管理/実践的なプラクティスを学びたい方&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Reactエンジニアとしての転職/就職を目指している方&lt;/li&gt;
+&lt;li&gt;Reactを使った簡単なプロジェクトにチャレンジしてみたい方&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;例&lt;/strong&gt;：「40代・男性・営業職の人が使える便利ツール」&lt;br&gt;
-→ 商談準備を楽にするツール、移動時間を活用するアプリなど、アイデアは無限大！💡✨&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;🧰 準備するもの&lt;/h2&gt;
-&lt;h3&gt;参加枠（制作者）&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;要件&lt;/strong&gt;：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;バイブコーディング環境&lt;/strong&gt;をご用意ください 🖥️💻  &lt;/li&gt;
-&lt;li&gt;最近注目のツール例：Cursor、Claude Code、Codex、Gemini Code Assist、Cline、Kiro、etc.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;実装方法は完全自由&lt;/strong&gt;！Web、スマホアプリ、CLI、スプレッドシート、ノーコードツールなど、何でもOK 🛠️&lt;/li&gt;
+&lt;li&gt;Node.js(v18.18.0 ~) 環境が構築されたPCが必要です&lt;/li&gt;
+&lt;li&gt;Git/ GitHub環境（アカウント）の用意&lt;/li&gt;
+&lt;li&gt;HTML/CSS/JavaScriptの基礎知識が必要です&lt;/li&gt;
+&lt;li&gt;Reactの基礎（Progateレベルの内容）は理解している前提の内容となっております&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;観戦枠&lt;/h3&gt;
+&lt;h1&gt;開催概要&lt;/h1&gt;
+&lt;p&gt;➡️場所：Google Meet を予定(オンライン開催）&lt;br&gt;
+音声のみでOKです！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;申し込みが完了すると「参加者への情報」という場所に、URLが表示されます。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;なお、Google Meetへの参加は、Google アカウントが必要です！&lt;/p&gt;
+&lt;p&gt;➡️参加費&lt;br&gt;
+1500円 (当日 PayPay or stripeによるカード決済にて都合の良い方法で受け取ります。)&lt;/p&gt;
+&lt;h1&gt;注意事項&lt;/h1&gt;
+&lt;p&gt;下記を、ご確認ください：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;手ぶらでご参加ください✨&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;登壇者の発表を視聴する形式の、セミナーではありませんのでご注意ください&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;実際に手を動かして、一緒に作業をするハンズオン形式のワークショップです。&lt;/li&gt;
+&lt;li&gt;無断欠席・遅刻は、ご遠慮ください。&lt;/li&gt;
+&lt;li&gt;勧誘、迷惑行為、ハラスメント、マウンティング行為をはじめ、このイベントの趣旨にそぐわないと主催が判断した場合はご参加をお断りする場合がございます。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;📆 アジェンダ&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;オープニング＆テーマ決定&lt;/strong&gt;（10分） 🗣️💬&lt;br&gt;
-　・本イベントの趣旨や進め方を説明&lt;br&gt;
-　・ランダムにテーマ（年代・性別・職業など）を決定！🎲  &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;便利ツール制作（個人作成）&lt;/strong&gt;（60分） ⌨️🎨&lt;br&gt;
-　・決定したテーマに沿って便利ツール・サービスを制作 🎯&lt;br&gt;
-　・制作中の進捗やアイデアは、チャットで自由に共有OK！💬✨  &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;発表会&lt;/strong&gt;（20分） 🎤🎥&lt;br&gt;
-　・順番に完成作を発表（1人あたり2～3分程度）&lt;br&gt;
-　・デモや使い方の紹介をしながら楽しみましょう 🔧👏  &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;投票＆振り返り&lt;/strong&gt;（10分） 🗳️📝&lt;br&gt;
-　・参加者による投票（例：「一番実用的 ⭐」「アイデアが光った 🌟」など）&lt;br&gt;
-　・短い振り返りと感想のシェア 💬🤝&lt;br&gt;
-　・次回開催予定の案内なども 📢&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h2&gt;👥 参加対象&lt;/h2&gt;
+&lt;h1&gt;当日のスケジュールの流れ&lt;/h1&gt;
+&lt;p&gt;ハンズオン中は、資料を見ながら一緒に作業を進めていければと思います！&lt;br&gt;
+（音声・チャットで、リアルタイムでリアクションや質問ができます）&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;16:00〜16:10&lt;/td&gt;
+&lt;td&gt;最初の挨拶&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:10〜16:20&lt;/td&gt;
+&lt;td&gt;仕様確認＆開発準備&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:20〜17:50&lt;/td&gt;
+&lt;td&gt;ハンズオン開始&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:50〜&lt;/td&gt;
+&lt;td&gt;終わりの挨拶など&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;その他&lt;/strong&gt;：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;便利ツール・サービス制作に興味がある方 🎯  &lt;/li&gt;
-&lt;li&gt;バイブコーディングに挑戦してみたい方 🖥️  &lt;/li&gt;
-&lt;li&gt;アイデアを短時間で形にして共有したい方 💡  &lt;/li&gt;
-&lt;li&gt;実装スキルは問いません！初心者も大歓迎 🙌&lt;/li&gt;
+&lt;li&gt;実際は、時間内で、進めるところまでタスクを進める形になります。&lt;/li&gt;
+&lt;li&gt;時間内に完成しない場合でも、大まかな解説と手順を記載した資料を、配布いたします！&lt;/li&gt;
+&lt;li&gt;なので、勉強会中は、ゆっくり・たくさん質問して頂ければと思います！！&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;💡 ポイント&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ハンズオンの最中は、たくさんリアクションをして、盛り上げていただけるとありがたいです&lt;/strong&gt;！&lt;br&gt;
+（進めるスピードなどの、進行に関するご意見も大歓迎です！）&lt;/p&gt;
+&lt;h1&gt;運営情報&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="https://storage.googleapis.com/zenn-user-upload/c052cd981db0-20250515.png"&gt;&lt;/p&gt;
+&lt;p&gt;React で、実践的なスキルチェックができる、学習のお題まとめサイト『&lt;a href="https://react-road.b13o.com" rel="nofollow"&gt;React Road&lt;/a&gt;』&lt;br&gt;
+のハンズオンイベントです🐾&lt;/p&gt;
+&lt;h1&gt;参考キーワード&lt;/h1&gt;
+&lt;p&gt;webアプリ開発, HTML, CSS, JavaScript,TypeScript, React.js, Node.js, Next.js, Github, コミュニティ, もくもく会, ハンズオンワークショップ&lt;/p&gt;</description><guid isPermaLink="false">https://beginner-react.connpass.com/event/373929/</guid><enclosure url="https://media.connpass.com/thumbs/2c/e5/2ce53e80850045650f2f8017a4f0bb19.png" length="0" type="image/png"/><pubDate>Sun, 02 Nov 2025 16:00:00 +0900</pubDate></item><item><title>Bio"Pack"athon 2025 #11</title><link>https://biopackathon.connpass.com/event/372831/</link><description>📍 会場: オンライン
+住所: オンライン
+
+ShortCake!
+
+&lt;p&gt;Bio"Pack"athon（バイオパッカソン）は、バイオのソフトウェアパッケージを作ることを推進するコミュニティです。&lt;/p&gt;
+&lt;p&gt;会の趣旨は&lt;a href="https://www.jsbi.org/media/files/_u/topic/file/nl39.pdf" rel="nofollow"&gt;日本バイオインフォマティクス学会ニュースレター第39号&lt;/a&gt;の7ページ目をご覧ください。&lt;/p&gt;
+&lt;p&gt;ZoomのURLはconnpassの「参加者への情報」機能により本イベントページに表示されるようになっています。
+その情報は&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;自由な発想&lt;/strong&gt;が刺激される！ ✨  &lt;/li&gt;
-&lt;li&gt;完成度より「楽しんで作る」「誰かの役に立つ」ことを重視！ 🎨🔥  &lt;/li&gt;
-&lt;li&gt;参加者同士のアウトプットに触れ、インスピレーションを得られる場です 🚀🤩  &lt;/li&gt;
-&lt;li&gt;その場で決まるテーマだから、柔軟な発想力が試される！🧠⚡&lt;/li&gt;
+&lt;li&gt;参加登録者でないと見れません&lt;/li&gt;
+&lt;li&gt;connpassにログインしないと見れません&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;🎯 60分という短い時間だからこそ、集中と創造が生まれる ⚡&lt;br&gt;
-あなたの「vibe」を乗せた便利ツールを、みんなでつくってシェアしましょう！ 🔧✨&lt;/p&gt;</description><guid isPermaLink="false">https://setk.connpass.com/event/371678/</guid><enclosure url="https://media.connpass.com/thumbs/95/c9/95c93364678658b3c0a931b465f3bc69.png" length="0" type="image/png"/><pubDate>Sat, 01 Nov 2025 20:00:00 +0900</pubDate></item></channel></rss>
+&lt;p&gt;ご注意ください&lt;/p&gt;
+&lt;h2&gt;スケジュール&lt;/h2&gt;
+&lt;p&gt;17:00 ~ 17:10 「Bio"Pack"athonの紹介」 @skume&lt;/p&gt;
+&lt;p&gt;17:10 ~ 17:40 「LLM/AIの最近のトピック 2025」 @antiplastics&lt;/p&gt;
+&lt;p&gt;17:40 ~ 18:10  「シングルセル解析プラットフォームShortCakeの紹介」 中戸隆一郎&lt;/p&gt;</description><guid isPermaLink="false">https://biopackathon.connpass.com/event/372831/</guid><enclosure url="https://media.connpass.com/thumbs/6a/6c/6a6cf994cd60cfdb9aa61e5b4d08b41a.png" length="0" type="image/png"/><pubDate>Wed, 19 Nov 2025 17:00:00 +0900</pubDate></item></channel></rss>
