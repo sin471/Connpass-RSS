@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>京都のイベント</title><link>https://connpass.com/explore/</link><description>京都のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>京都のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 03 Nov 2025 15:14:24 +0000</lastBuildDate><item><title>KaiRA2025年後期第6回輪読会【強化学習・数理最適化】</title><link>https://kaira-thesis-reading.connpass.com/event/374686/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月6日(木) 18:40&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月6日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 京都大学文学部第５講義室&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市左京区吉田本町&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;💻KaiRA2025年後期輪読会について&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>京都のイベント</title><link>https://connpass.com/explore/</link><description>京都のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>京都のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 04 Nov 2025 15:15:06 +0000</lastBuildDate><item><title>KaiRA2025年後期第4回実装会</title><link>https://kaira-thesis-reading.connpass.com/event/374815/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月8日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月8日(土) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 京都大学文学部第第5講義室&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市左京区吉田本町&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;💻KaiRA2025年後期実装会について&lt;/h1&gt;
+&lt;p&gt;毎週土曜日は実装会を行います。&lt;br&gt;
+この会では毎週木曜日の輪読会で出た内容(強化学習・数理最適化)に関して実装を行います。&lt;br&gt;
+また、月末には論文読み会を行う予定です。&lt;br&gt;
+今週は数理最適化(緩和法・双対単体法など)に関する実装を行います。  &lt;/p&gt;
+&lt;h1&gt;🗓️ 開催場所について&lt;/h1&gt;
+&lt;p&gt;対面/オンラインのハイブリッドで開催いたします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;対面会場：京都大学文学部教室 &lt;strong&gt;第5講義室&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r-y" rel="nofollow"&gt;こちら&lt;/a&gt;の地図の8番の建物（7番の建物の向かい側の棟）の2階です。 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;オンライン参加URL：申し込み後「参加者への情報」に表示されるURLからGoogle meetへお入りください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;✉️ 入会方法&lt;/h2&gt;
+&lt;p&gt;お申し込み後、「参加者への情報」に表示される&lt;strong&gt;Googleフォーム&lt;/strong&gt;にご記入ください。&lt;br&gt;
+フォーム記入後、KaiRAのSlackへご招待いたします！&lt;/p&gt;
+&lt;h2&gt;🤖 京都大学人工知能研究会KaiRAについて&lt;/h2&gt;
+&lt;p&gt;KaiRA(Kyoto university AI Research Association)はAI・機械学習に関する本の輪読会や作業会、Kaggleへの参加などを行っている京都大学の自主ゼミサークルです。&lt;/p&gt;
+&lt;p&gt;2回生以上の方や京都大学以外の学生、社会人の方でも入会することができます。
+KaiRAに興味のある方は下記ロゴをクリックしてWebサイトをチェックしてみてください！&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kyoto-kaira.github.io/?utm_campaign=connpass_reading2024_04" rel="nofollow"&gt;&lt;img alt="KaiRAウェブサイト" height="50" src="https://kyoto-kaira.github.io/assets/images/logo_KaiRA.png" width="120"&gt;&lt;/a&gt;
+&lt;a href="https://twitter.com/kyoto_kaira" rel="nofollow"&gt;&lt;img alt="Xロゴ" height="50" src="https://kyoto-kaira.github.io/assets/images/logo_X.png" width="50"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kaira-thesis-reading.connpass.com/event/374815/</guid><enclosure url="https://media.connpass.com/thumbs/55/44/554411c1a42f0dc1a00665798b9be800.png" length="0" type="image/png"/><pubDate>Tue, 04 Nov 2025 16:05:17 +0900</pubDate></item><item><title>KaiRA2025年後期第6回輪読会【強化学習・数理最適化】</title><link>https://kaira-thesis-reading.connpass.com/event/374686/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月6日(木) 18:40&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月6日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 京都大学文学部第５講義室&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市左京区吉田本町&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;💻KaiRA2025年後期輪読会について&lt;/h1&gt;
 &lt;p&gt;2025年後期には『ゼロから作るDeep Learning ❹―強化学習編
 』と『しっかり学ぶ数理最適化』を輪読します。&lt;br&gt;
 強化学習に関しては、書籍の内容に加えて関連論文の輪読も行います。&lt;/p&gt;
@@ -654,21 +676,23 @@ AI開発の実践的な流れを体験しながら、AIコーディングの現�
 &lt;li&gt;情報系、理工系、経営系、文系など、専攻問わずものづくりに興味がある学生・社会人&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;タイムテーブル&lt;/h2&gt;
-&lt;p&gt;14:30–14:35 オープニング／チェックイン
-14:35–14:45 趣旨説明：「なぜAI×デザインか」
-14:45–14:55 アイスブレイク
-14:55–15:25 レクチャー①「デザインとは何をする行為なのか？」
-15:25–15:35 グループ対話：「最近“デザイン”を感じた瞬間」
-15:35–15:55 ワーク① 使いやすい/使いにくいデザインの「なぜ」
-15:55–16:10 休憩
-16:10–16:40 レクチャー②：「AI時代のデザイン的思考とは？」
-16:40–16:50 グループ対話：デザインを学ぶって何を学ぶこと？
-16:50–17:00 休憩
-17:00–17:45 ワーク②AI時代のサービスデザイン実践
-17:45–17:55 成果共有
-17:55–18:10 クロージングトーク
-18:10–18:25 自由交流
-18:30   終了&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;14:30–14:35   オープニング／チェックイン&lt;/li&gt;
+&lt;li&gt;14:35–14:45   趣旨説明：「なぜAI×デザインか」&lt;/li&gt;
+&lt;li&gt;14:45–14:55   アイスブレイク&lt;/li&gt;
+&lt;li&gt;14:55–15:25   レクチャー①「デザインとは何をする行為なのか？」&lt;/li&gt;
+&lt;li&gt;15:25–15:35   グループ対話：「最近“デザイン”を感じた瞬間」&lt;/li&gt;
+&lt;li&gt;15:35–15:55   ワーク① 使いやすい/使いにくいデザインの「なぜ」&lt;/li&gt;
+&lt;li&gt;15:55–16:10   休憩&lt;/li&gt;
+&lt;li&gt;16:10–16:40   レクチャー②：「AI時代のデザイン的思考とは？」&lt;/li&gt;
+&lt;li&gt;16:40–16:50   グループ対話：デザインを学ぶって何を学ぶこと？&lt;/li&gt;
+&lt;li&gt;16:50–17:00   休憩&lt;/li&gt;
+&lt;li&gt;17:00–17:45   ワーク②AI時代のサービスデザイン実践&lt;/li&gt;
+&lt;li&gt;17:45–17:55   成果共有&lt;/li&gt;
+&lt;li&gt;17:55–18:10   クロージングトーク&lt;/li&gt;
+&lt;li&gt;18:10–18:25   自由交流&lt;/li&gt;
+&lt;li&gt;18:30 終了&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;を想定しています。&lt;/p&gt;
 &lt;p&gt;※詳細なタイムテーブルは追って掲載予定です。&lt;/p&gt;
 &lt;h2&gt;講師紹介&lt;/h2&gt;
@@ -785,7 +809,7 @@ AI開発の実践的な流れを体験しながら、AIコーディングの現�
 &lt;a href="https://www.craftstadium.com/news/hackathon-meetup-02-report" rel="nofollow"&gt;https://www.craftstadium.com/news/hackathon-meetup-02-report&lt;/a&gt;
 &lt;a href="https://www.craftstadium.com/news/hackathon-meetup-03-report" rel="nofollow"&gt;https://www.craftstadium.com/news/hackathon-meetup-03-report&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="craftstadium" src="https://craftstadium.imgix.net/7045bd0f-a1f1-4009-b9f3-4d2c482a255d/スクリーンショット2025-06-1612.40.58.png" width="50%"&gt;
-&lt;img alt="craftstadium" src="https://craftstadium.imgix.net/cb5ea7fe-ab55-4d8f-9eb9-dfa3986edaa6/IMG_8018.jpg" width="50%"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://craftstadium.connpass.com/event/373243/</guid><enclosure url="https://media.connpass.com/thumbs/df/80/df8049f5323e66e800df056447ba1ca9.png" length="0" type="image/png"/><pubDate>Sun, 02 Nov 2025 00:20:35 +0900</pubDate></item><item><title>JISTA関西支部 25年11月度定例会『＜京都昼開催＞京都特別講演／グループワーク』</title><link>https://jista.connpass.com/event/373146/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月24日(月) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月24日(月) 16:45&lt;/li&gt;&lt;li&gt;📍 会場: 京都市生涯学習総合センター山科（アスニー山科）&lt;/li&gt;&lt;li&gt;🏢 住所: 京都市山科区竹鼻竹ノ街道町92&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JISTA&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;講演者 松井元康 氏（京都鉄道博物館）&lt;/p&gt;&lt;div&gt;&lt;h1&gt;JISTA関西支部 25年11月度定例会『＜京都昼開催＞京都特別講演／グループワーク』&lt;/h1&gt;
+&lt;img alt="craftstadium" src="https://craftstadium.imgix.net/cb5ea7fe-ab55-4d8f-9eb9-dfa3986edaa6/IMG_8018.jpg" width="50%"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://craftstadium.connpass.com/event/373243/</guid><enclosure url="https://media.connpass.com/thumbs/df/80/df8049f5323e66e800df056447ba1ca9.png" length="0" type="image/png"/><pubDate>Tue, 04 Nov 2025 13:11:36 +0900</pubDate></item><item><title>JISTA関西支部 25年11月度定例会『＜京都昼開催＞京都特別講演／グループワーク』</title><link>https://jista.connpass.com/event/373146/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月24日(月) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月24日(月) 16:45&lt;/li&gt;&lt;li&gt;📍 会場: 京都市生涯学習総合センター山科（アスニー山科）&lt;/li&gt;&lt;li&gt;🏢 住所: 京都市山科区竹鼻竹ノ街道町92&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JISTA&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;講演者 松井元康 氏（京都鉄道博物館）&lt;/p&gt;&lt;div&gt;&lt;h1&gt;JISTA関西支部 25年11月度定例会『＜京都昼開催＞京都特別講演／グループワーク』&lt;/h1&gt;
 &lt;h3&gt;&lt;/h3&gt;
 &lt;p&gt;JISTA関西支部の2025年度の活動スローガンは「つなぐ関西、つなげる未来」としています。&lt;br&gt;
 会員の方からの「大阪での平日夜の定例会は参加しにくい」とのご意見を受け、11月度定例会は京都で祝日昼間での開催を企画しました。&lt;br&gt;
