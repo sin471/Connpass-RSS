@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 07 Nov 2025 15:13:30 +0000</lastBuildDate><item><title>69回CoderDojo静岡</title><link>https://coderdojo-shizuoka.connpass.com/event/375167/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月24日(月) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月24日(月) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 静岡市番町市民活動センター（大会議室）&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡市葵区 一番町50&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供のための無料のプログラミング広場&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo（こーだーどうじょう）とは&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 08 Nov 2025 15:11:29 +0000</lastBuildDate><item><title>Unagi.py 勉強会64枚目 (Python勉強会in浜松市)</title><link>https://unagi-py.connpass.com/event/375318/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月15日(土) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月15日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 浜松市市民協働センター&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県浜松市中区中央一丁目13-3&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #unagipy&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;秋のゆるい勉強会＋おいしい懇親会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;秋のゆるい勉強会 ＋ 懇親会(食事会か飲み会) です。&lt;/h1&gt;
+&lt;p&gt;突然ですが、またしても、ゆる～く勉強会と飲み会を行うことにしました。&lt;br&gt;
+細かいことは気にせず、PythonやIT関連の話をしたいかたは、ぜひ参加してください！  &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;時間&lt;/th&gt;
+&lt;th align="left"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;15時過ぎ～&lt;/td&gt;
+&lt;td align="left"&gt;２Fフリースペースにゆるく集合しお茶会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;16:00～18:00&lt;/td&gt;
+&lt;td align="left"&gt;第1部 勉強会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;18:00すぎ&lt;/td&gt;
+&lt;td align="left"&gt;第2部 懇親会に出発  (懇親会のみ参加はここまでに集合)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;PythonやIT系の発表ネタがある方、当日、ぜひ発表してください。&lt;/li&gt;
+&lt;li&gt;例えば、○○が分からないという質問でも大丈夫です。&lt;/li&gt;
+&lt;li&gt;一人、1分～5分くらいでなにかネタをしゃべっていただけると幸いです。&lt;/li&gt;
+&lt;li&gt;もちろん、話を聞くだけの参加でも全然構いません。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;申し込み方法&lt;/h2&gt;
+&lt;p&gt;今回は次の勉強会と共同開催です。次のConnpassと同じです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://progdojo-hmmt.connpass.com/event/332298/" rel="nofollow"&gt;https://progdojo-hmmt.connpass.com/event/332298/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;参加方法&lt;/h2&gt;
+&lt;p&gt;JR浜松駅から北方向に徒歩10分ほどにある浜松市民協働センター2Fフリースペース(飲み物可)にゆるく集まってください。  &lt;/p&gt;
+
+
+&lt;/div&gt;</description><guid isPermaLink="false">https://unagi-py.connpass.com/event/375318/</guid><enclosure url="https://media.connpass.com/thumbs/03/50/0350ecc8ad4db88a7afff029a0186439.png" length="0" type="image/png"/><pubDate>Sat, 08 Nov 2025 13:06:54 +0900</pubDate></item><item><title>69回CoderDojo静岡</title><link>https://coderdojo-shizuoka.connpass.com/event/375167/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月24日(月) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月24日(月) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 静岡市番町市民活動センター（大会議室）&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡市葵区 一番町50&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供のための無料のプログラミング広場&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo（こーだーどうじょう）とは&lt;/h1&gt;
 &lt;p&gt;CoderDojoは、7〜17歳の子どもを対象にした無料のプログラミング道場です。
 CoderDojoの活動は2011年にアイルランドで始まり、世界では100カ国・2,000以上の道場、日本では全国に190以上の道場があります (2024年4月時点)。&lt;/p&gt;
 &lt;h1&gt;CoderDojo静岡&lt;/h1&gt;
