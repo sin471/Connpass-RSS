@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>広島のイベント</title><link>https://connpass.com/explore/</link><description>広島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>広島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 08 Nov 2025 15:12:00 +0000</lastBuildDate><item><title>PBI広島勉強会#8</title><link>https://pbil-h.connpass.com/event/374715/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月29日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ビットゼミ&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市中区鉄砲町7番4号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Power BI を学びたいんじゃけぇ　#8&lt;/p&gt;&lt;div&gt;&lt;p&gt;Power BI Learning 広島(PBI広島)の勉強会を実施します。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>広島のイベント</title><link>https://connpass.com/explore/</link><description>広島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>広島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 09 Nov 2025 15:11:48 +0000</lastBuildDate><item><title>PBI広島勉強会#8</title><link>https://pbil-h.connpass.com/event/374715/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月29日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ビットゼミ&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市中区鉄砲町7番4号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Power BI を学びたいんじゃけぇ　#8&lt;/p&gt;&lt;div&gt;&lt;p&gt;Power BI Learning 広島(PBI広島)の勉強会を実施します。
 今回は対面で集まり、&lt;a href="https://powerbi.connpass.com/event/372987/" rel="nofollow"&gt;Power BI 勉強会 #34&lt;/a&gt;のイベントにオンラインで地域コミュニティ参加させていただこうと考えておりますので、開催時間が13:00~17:30 となっております。ご注意ください。
 &lt;br&gt;&lt;strong&gt;なんと、&lt;a href="https://powerbi.connpass.com/" rel="nofollow"&gt;Power BI 勉強会&lt;/a&gt;さん、&lt;a href="https://itc-okinawa.connpass.com/" rel="nofollow"&gt;沖縄ノーコード・ローコード勉強会&lt;/a&gt;さんと合同イベントということでなかなかあついので、参加しないともったいないイベントになります。&lt;/strong&gt;
 &lt;br&gt;発表を見て、積極的に質問していきましょう。
@@ -594,48 +594,7 @@ Email: mishimakantai@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaL
 &lt;p&gt;会場およびオンラインの両方で定員を設ける場合があります。早めのお申し込みをお願いいたします！&lt;br&gt;
  録画・録音はご遠慮ください。&lt;br&gt;
  当日のスケジュールやZoomリンクなどは、Connpass上にて随時お知らせします。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;今回は会場がいつもと異なります。また開始時間も19:00であることにご注意ください！&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-hiroshima.connpass.com/event/373144/</guid><enclosure url="https://media.connpass.com/thumbs/76/28/76280c26dabc670f4b8728d9bcddc860.png" length="0" type="image/png"/><pubDate>Sun, 26 Oct 2025 14:27:33 +0900</pubDate></item><item><title>ひろしまフロントエンド勉強会 Vol.42</title><link>https://hfe.connpass.com/event/372226/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月9日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月9日(日) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ドリーム・アーツ 広島本社/ 広島R&amp;Dセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市中区大手町1-2-1 おりづるタワー6F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;『TypeScript 型安全と効率化を実現するZod入門』&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ひろしまフロントエンド勉強会 Vol.42&lt;/h1&gt;
-&lt;p&gt;詳細はこちら
-&lt;a href="https://hirofuro.org/" rel="nofollow"&gt;https://hirofuro.org/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;タイムテーブル&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;th&gt;詳細&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;13:30&lt;/td&gt;
-&lt;td&gt;開場&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:00&lt;/td&gt;
-&lt;td&gt;オープニング&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:05&lt;/td&gt;
-&lt;td&gt;セッション&lt;/td&gt;
-&lt;td&gt;「TypeScript 型安全と効率化を実現するZod入門」 三島 冠太&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:25&lt;/td&gt;
-&lt;td&gt;クロージング&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;ひろしまフロントエンド勉強会について&lt;/h2&gt;
-&lt;p&gt;コンセプトを新たに、ひろしまフロントエンド勉強会が再始動します。&lt;br&gt;
-長時間の拘束は参加者にとっても、主催者にとってもちょっと大変。&lt;br&gt;
-今後のヒロフロは「サクッと参加できる短時間勉強会」をコンセプトに、気軽に学び、交流できる場を提供します。&lt;br&gt;
-1回1時間1～2セッションで負担を減らした継続可能な勉強会を目指します。  &lt;/p&gt;
-&lt;p&gt;※ひろしまフロントエンド勉強会はボランティアベースで開催しており、知識のシェア・助け合いで成り立ってますので、ご参加の際はご理解・ご協力お願いいたします。&lt;br&gt;
-ご理解いただけない場合は、参加をお断りすることがございます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hfe.connpass.com/event/372226/</guid><enclosure url="https://media.connpass.com/thumbs/37/0c/370c6d6061f293bcaf7e03e85b0c0b58.png" length="0" type="image/png"/><pubDate>Thu, 06 Nov 2025 07:59:10 +0900</pubDate></item><item><title>デジタルハプティクスコンソーシアム第5回MEET UP</title><link>https://dx-haptics.connpass.com/event/368177/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月5日(金) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月5日(金) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 広島大学きてみんさいラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒732-0822 広島県広島市南区松原町2番62号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今回は広島で開催します！&lt;/p&gt;&lt;div&gt;&lt;h3&gt;デジタルハプティクスコンソーシアム第5回MEET UPイベントを開催します &lt;br&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;今回は会場がいつもと異なります。また開始時間も19:00であることにご注意ください！&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-hiroshima.connpass.com/event/373144/</guid><enclosure url="https://media.connpass.com/thumbs/76/28/76280c26dabc670f4b8728d9bcddc860.png" length="0" type="image/png"/><pubDate>Sun, 26 Oct 2025 14:27:33 +0900</pubDate></item><item><title>デジタルハプティクスコンソーシアム第5回MEET UP</title><link>https://dx-haptics.connpass.com/event/368177/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月5日(金) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月5日(金) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 広島大学きてみんさいラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒732-0822 広島県広島市南区松原町2番62号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今回は広島で開催します！&lt;/p&gt;&lt;div&gt;&lt;h3&gt;デジタルハプティクスコンソーシアム第5回MEET UPイベントを開催します &lt;br&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;
 &lt;h4&gt;■今回は広島市内での開催です■&lt;br&gt;&lt;/h4&gt;
 &lt;p&gt;今回の特別講演は・・&lt;br&gt;&lt;/p&gt;

@@ -1,5 +1,200 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 08 Nov 2025 15:10:44 +0000</lastBuildDate><item><title>Sendai Frontend Meetup #19 少し早めの忘年ビアバッシュ会</title><link>https://sfeug.connpass.com/event/374780/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月27日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月27日(木) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sfeug&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;フロントエンドの話題で盛り上がりましょう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 09 Nov 2025 15:10:27 +0000</lastBuildDate><item><title>CoderDojo仙台若林#52  ＠七郷市民センター</title><link>https://coderdojo-sendai-wakabayashi.connpass.com/event/375488/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月21日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月21日(日) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 七郷市民センター&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市若林区荒井三丁目7番地の2&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;scrach？ Minecraft&lt;/p&gt;&lt;div&gt;&lt;h3&gt;CoderDojo仙台若林・開催概要&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;詳細&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;日付&lt;/td&gt;
+&lt;td&gt;別枠参照&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;時間&lt;/td&gt;
+&lt;td&gt;(受付開始 1５分前より)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;会場&lt;/td&gt;
+&lt;td&gt;別枠参照&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;住所&lt;/td&gt;
+&lt;td&gt;別枠参照&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;アクセス&lt;/td&gt;
+&lt;td&gt;若林区中央市民センター、七郷市民センター：駐車場あり。荒町市民センター：2台のみ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;参加方法&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Connpassから参加登録してください。（先着順）&lt;/li&gt;
+&lt;li&gt;前日夜までに申し込んでください。&lt;/li&gt;
+&lt;li&gt;※兄弟姉妹で参加の場合は２回参加登録してください。&lt;/li&gt;
+&lt;li&gt;※小学生は原則保護者の方同伴でご参加ください。&lt;/li&gt;
+&lt;li&gt;参加できない場合は、キャンセルをして枠を開放してください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;持ち物&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;書籍（試してみたいもの、CoderDojo開始前の図書館がおすすめ）&lt;/li&gt;
+&lt;li&gt;Scratchが動作するノートパソコン&lt;/li&gt;
+&lt;li&gt;マイクラの場合は、Education版が動作するノートパソコン&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;CoderDojo仙台若林&lt;/h3&gt;
+&lt;p&gt;CoderDojo仙台若林は 2024年3月から活動を開始しました。
+マインクラフトカップの参加などしています。&lt;/p&gt;
+&lt;h3&gt;CoderDojo仙台若林で学べること&lt;/h3&gt;
+&lt;p&gt;CoderDojo仙台若林では7〜17歳の子どもを対象に下記の内容を行います。&lt;/p&gt;
+&lt;p&gt;Minecraft：マイクラでプログラミング技術を強化しよう！
+Scratch: 初めて参加の方には、一緒に学ぶチュートリアルを行います。その後自由にプログラミングできます。
+もくもく：仲間と一緒に好きなプログラミングをすることができます。（マイクラでも）
+発表：その日作ったことやできたことをみんなに紹介します。&lt;/p&gt;
+&lt;h3&gt;ガジェット分科会について&lt;/h3&gt;
+&lt;p&gt;電子工作でガジェットを仕上げていく、ガジェット分科会です。
+ご自身がお持ちのパーツやチップの素材の性能を引き出して、ものを作って自慢します。&lt;/p&gt;
+&lt;h2&gt;ボランティア、メンターを募集しています。&lt;/h2&gt;
+&lt;p&gt;メンターは、疑問点を一緒に解決したり、プログラミングによるものづくりの進め方などをアドバイスしてくれるボランティアの人たちです。
+メンターをやってみたいという方（参加されるお子さんの保護者でもOKです！）PCをご持参ください。&lt;/p&gt;
+&lt;h2&gt;寄付のお願いについて&lt;/h2&gt;
+&lt;p&gt;施設利用料、通信費、サーバ代などの費用について保護者の皆様からの寄付を募っております。
+  賛同いただける方は、部屋に設置の募金箱にこっそり入れてください。&lt;/p&gt;
+&lt;h2&gt;免責事項&lt;/h2&gt;
+&lt;p&gt;CoderDojo仙台若林の活動参加中、行き帰りなどで発生したトラブルや損失、損害、傷病、事故に対して、
+CoderDojo仙台若林は一切責任を負いません。これらに対して自己責任においてご参加くださるようお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-sendai-wakabayashi.connpass.com/event/375488/</guid><enclosure url="https://media.connpass.com/thumbs/46/2e/462ef1b48c7c5678dd14c9796ce7c226.png" length="0" type="image/png"/><pubDate>Sun, 09 Nov 2025 22:41:18 +0900</pubDate></item><item><title>CoderDojo仙台若林#51  ＠七郷市民センター</title><link>https://coderdojo-sendai-wakabayashi.connpass.com/event/375487/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月14日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月14日(日) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 七郷市民センター&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市若林区荒井三丁目7番地の2&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;scrach？ Minecraft&lt;/p&gt;&lt;div&gt;&lt;h3&gt;CoderDojo仙台若林・開催概要&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;詳細&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;日付&lt;/td&gt;
+&lt;td&gt;別枠参照&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;時間&lt;/td&gt;
+&lt;td&gt;(受付開始 1５分前より)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;会場&lt;/td&gt;
+&lt;td&gt;別枠参照&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;住所&lt;/td&gt;
+&lt;td&gt;別枠参照&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;アクセス&lt;/td&gt;
+&lt;td&gt;若林区中央市民センター、七郷市民センター：駐車場あり。荒町市民センター：2台のみ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;参加方法&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Connpassから参加登録してください。（先着順）&lt;/li&gt;
+&lt;li&gt;前日夜までに申し込んでください。&lt;/li&gt;
+&lt;li&gt;※兄弟姉妹で参加の場合は２回参加登録してください。&lt;/li&gt;
+&lt;li&gt;※小学生は原則保護者の方同伴でご参加ください。&lt;/li&gt;
+&lt;li&gt;参加できない場合は、キャンセルをして枠を開放してください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;持ち物&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;書籍（試してみたいもの、CoderDojo開始前の図書館がおすすめ）&lt;/li&gt;
+&lt;li&gt;Scratchが動作するノートパソコン&lt;/li&gt;
+&lt;li&gt;マイクラの場合は、Education版が動作するノートパソコン&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;CoderDojo仙台若林&lt;/h3&gt;
+&lt;p&gt;CoderDojo仙台若林は 2024年3月から活動を開始しました。
+マインクラフトカップの参加などしています。&lt;/p&gt;
+&lt;h3&gt;CoderDojo仙台若林で学べること&lt;/h3&gt;
+&lt;p&gt;CoderDojo仙台若林では7〜17歳の子どもを対象に下記の内容を行います。&lt;/p&gt;
+&lt;p&gt;Minecraft：マイクラでプログラミング技術を強化しよう！
+Scratch: 初めて参加の方には、一緒に学ぶチュートリアルを行います。その後自由にプログラミングできます。
+もくもく：仲間と一緒に好きなプログラミングをすることができます。（マイクラでも）
+発表：その日作ったことやできたことをみんなに紹介します。&lt;/p&gt;
+&lt;h3&gt;ガジェット分科会について&lt;/h3&gt;
+&lt;p&gt;電子工作でガジェットを仕上げていく、ガジェット分科会です。
+ご自身がお持ちのパーツやチップの素材の性能を引き出して、ものを作って自慢します。&lt;/p&gt;
+&lt;h2&gt;ボランティア、メンターを募集しています。&lt;/h2&gt;
+&lt;p&gt;メンターは、疑問点を一緒に解決したり、プログラミングによるものづくりの進め方などをアドバイスしてくれるボランティアの人たちです。
+メンターをやってみたいという方（参加されるお子さんの保護者でもOKです！）PCをご持参ください。&lt;/p&gt;
+&lt;h2&gt;寄付のお願いについて&lt;/h2&gt;
+&lt;p&gt;施設利用料、通信費、サーバ代などの費用について保護者の皆様からの寄付を募っております。
+  賛同いただける方は、部屋に設置の募金箱にこっそり入れてください。&lt;/p&gt;
+&lt;h2&gt;免責事項&lt;/h2&gt;
+&lt;p&gt;CoderDojo仙台若林の活動参加中、行き帰りなどで発生したトラブルや損失、損害、傷病、事故に対して、
+CoderDojo仙台若林は一切責任を負いません。これらに対して自己責任においてご参加くださるようお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-sendai-wakabayashi.connpass.com/event/375487/</guid><enclosure url="https://media.connpass.com/thumbs/46/2e/462ef1b48c7c5678dd14c9796ce7c226.png" length="0" type="image/png"/><pubDate>Sun, 09 Nov 2025 22:40:24 +0900</pubDate></item><item><title>CoderDojo仙台若林#50</title><link>https://coderdojo-sendai-wakabayashi.connpass.com/event/375485/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月30日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月30日(日) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 若林区中央市民センター（別棟）&lt;/li&gt;&lt;li&gt;🏢 住所: 仙台市若林区保春院前丁3番1号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;scrach？ Minecraft&lt;/p&gt;&lt;div&gt;&lt;h3&gt;CoderDojo仙台若林・開催概要&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;詳細&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;日付&lt;/td&gt;
+&lt;td&gt;別枠参照&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;時間&lt;/td&gt;
+&lt;td&gt;(受付開始 1５分前より)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;会場&lt;/td&gt;
+&lt;td&gt;別枠参照&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;住所&lt;/td&gt;
+&lt;td&gt;別枠参照&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;アクセス&lt;/td&gt;
+&lt;td&gt;若林区中央市民センター、七郷市民センター：駐車場あり。荒町市民センター：2台のみ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;参加方法&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Connpassから参加登録してください。（先着順）&lt;/li&gt;
+&lt;li&gt;前日夜までに申し込んでください。&lt;/li&gt;
+&lt;li&gt;※兄弟姉妹で参加の場合は２回参加登録してください。&lt;/li&gt;
+&lt;li&gt;※小学生は原則保護者の方同伴でご参加ください。&lt;/li&gt;
+&lt;li&gt;参加できない場合は、キャンセルをして枠を開放してください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;持ち物&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;書籍（試してみたいもの、CoderDojo開始前の図書館がおすすめ）&lt;/li&gt;
+&lt;li&gt;Scratchが動作するノートパソコン&lt;/li&gt;
+&lt;li&gt;マイクラの場合は、Education版が動作するノートパソコン&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;CoderDojo仙台若林&lt;/h3&gt;
+&lt;p&gt;CoderDojo仙台若林は 2024年3月から活動を開始しました。
+マインクラフトカップの参加などしています。&lt;/p&gt;
+&lt;h3&gt;CoderDojo仙台若林で学べること&lt;/h3&gt;
+&lt;p&gt;CoderDojo仙台若林では7〜17歳の子どもを対象に下記の内容を行います。&lt;/p&gt;
+&lt;p&gt;Minecraft：マイクラでプログラミング技術を強化しよう！
+Scratch: 初めて参加の方には、一緒に学ぶチュートリアルを行います。その後自由にプログラミングできます。
+もくもく：仲間と一緒に好きなプログラミングをすることができます。（マイクラでも）
+発表：その日作ったことやできたことをみんなに紹介します。&lt;/p&gt;
+&lt;h3&gt;ガジェット分科会について&lt;/h3&gt;
+&lt;p&gt;電子工作でガジェットを仕上げていく、ガジェット分科会です。
+ご自身がお持ちのパーツやチップの素材の性能を引き出して、ものを作って自慢します。&lt;/p&gt;
+&lt;h2&gt;ボランティア、メンターを募集しています。&lt;/h2&gt;
+&lt;p&gt;メンターは、疑問点を一緒に解決したり、プログラミングによるものづくりの進め方などをアドバイスしてくれるボランティアの人たちです。
+メンターをやってみたいという方（参加されるお子さんの保護者でもOKです！）PCをご持参ください。&lt;/p&gt;
+&lt;h2&gt;寄付のお願いについて&lt;/h2&gt;
+&lt;p&gt;施設利用料、通信費、サーバ代などの費用について保護者の皆様からの寄付を募っております。
+  賛同いただける方は、部屋に設置の募金箱にこっそり入れてください。&lt;/p&gt;
+&lt;h2&gt;免責事項&lt;/h2&gt;
+&lt;p&gt;CoderDojo仙台若林の活動参加中、行き帰りなどで発生したトラブルや損失、損害、傷病、事故に対して、
+CoderDojo仙台若林は一切責任を負いません。これらに対して自己責任においてご参加くださるようお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-sendai-wakabayashi.connpass.com/event/375485/</guid><enclosure url="https://media.connpass.com/thumbs/46/2e/462ef1b48c7c5678dd14c9796ce7c226.png" length="0" type="image/png"/><pubDate>Sun, 09 Nov 2025 22:37:41 +0900</pubDate></item><item><title>Sendai Frontend Meetup #19 少し早めの忘年ビアバッシュ会</title><link>https://sfeug.connpass.com/event/374780/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月27日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月27日(木) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sfeug&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;フロントエンドの話題で盛り上がりましょう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;仙台で行うWebフロントエンド全般の勉強会です。&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;オンライン配信の予定はありません。&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Webのフロントエンドに興味のある方でしたらどなたでもお気軽にご参加ください！&lt;br&gt;
@@ -1061,71 +1256,7 @@ mail：support@nemtus.com &lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid is
 &lt;li&gt;電源、WIFIあります&lt;/li&gt;
 &lt;li&gt;ベジタリアン、ビーガン、ハラルフード等の提供はありませんので、ご了承のほどよろしくお願いいたします。&lt;/li&gt;
 &lt;li&gt;懇親会では、お酒と軽食をご用意しておりますが、未成年の方の飲酒は法律で禁止されております。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://rakutentechsendai.connpass.com/event/370933/</guid><enclosure url="https://media.connpass.com/thumbs/6d/24/6d24de655fd212b3ec253ce20d4c4270.png" length="0" type="image/png"/><pubDate>Fri, 31 Oct 2025 17:08:09 +0900</pubDate></item><item><title>CoderDojo仙台若林#49</title><link>https://coderdojo-sendai-wakabayashi.connpass.com/event/370843/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月9日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月9日(日) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 若林区中央市民センター（別棟）&lt;/li&gt;&lt;li&gt;🏢 住所: 仙台市若林区保春院前丁3番1号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;scrach？ Minecraft&lt;/p&gt;&lt;div&gt;&lt;h3&gt;CoderDojo仙台若林・開催概要&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;項目&lt;/th&gt;
-&lt;th&gt;詳細&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;日付&lt;/td&gt;
-&lt;td&gt;別枠参照&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;時間&lt;/td&gt;
-&lt;td&gt;(受付開始 1５分前より)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;会場&lt;/td&gt;
-&lt;td&gt;別枠参照&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;住所&lt;/td&gt;
-&lt;td&gt;別枠参照&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;アクセス&lt;/td&gt;
-&lt;td&gt;若林区中央市民センター、七郷市民センター：駐車場あり。荒町市民センター：2台のみ&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;参加方法&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Connpassから参加登録してください。（先着順）&lt;/li&gt;
-&lt;li&gt;前日夜までに申し込んでください。&lt;/li&gt;
-&lt;li&gt;※兄弟姉妹で参加の場合は２回参加登録してください。&lt;/li&gt;
-&lt;li&gt;※小学生は原則保護者の方同伴でご参加ください。&lt;/li&gt;
-&lt;li&gt;参加できない場合は、キャンセルをして枠を開放してください。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;持ち物&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Scratchが動作するノートパソコン&lt;/li&gt;
-&lt;li&gt;マイクラの場合は、Education版が動作するノートパソコン&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;CoderDojo仙台若林&lt;/h3&gt;
-&lt;p&gt;CoderDojo仙台若林は 2024年3月から活動を開始しました。
-マインクラフトカップを目指しチームを構成中です。&lt;/p&gt;
-&lt;h3&gt;CoderDojo仙台若林で学べること&lt;/h3&gt;
-&lt;p&gt;CoderDojo仙台若林では7〜17歳の子どもを対象に下記の内容を行います。&lt;/p&gt;
-&lt;p&gt;Minecraft：マイクラでプログラミング技術を強化しよう！
-Scratch: 初めて参加の方には、一緒に学ぶチュートリアルを行います。その後自由にプログラミングできます。
-もくもく：仲間と一緒に好きなプログラミングをすることができます。（マイクラでも）
-発表：その日作ったことやできたことをみんなに紹介します。&lt;/p&gt;
-&lt;h3&gt;ガジェット分科会について&lt;/h3&gt;
-&lt;p&gt;電子工作でガジェットを仕上げていく、ガジェット分科会です。
-ご自身がお持ちのパーツやチップの素材の性能を引き出して、ものを作って自慢します。&lt;/p&gt;
-&lt;h2&gt;ボランティア、メンターを募集しています。&lt;/h2&gt;
-&lt;p&gt;メンターは、疑問点を一緒に解決したり、プログラミングによるものづくりの進め方などをアドバイスしてくれるボランティアの人たちです。
-メンターをやってみたいという方（参加されるお子さんの保護者でもOKです！）PCをご持参ください。&lt;/p&gt;
-&lt;h2&gt;寄付のお願いについて&lt;/h2&gt;
-&lt;p&gt;施設利用料、通信費、サーバ代などの費用について保護者の皆様からの寄付を募っております。
-  賛同いただける方は、部屋に設置の募金箱にこっそり入れてください。&lt;/p&gt;
-&lt;h2&gt;免責事項&lt;/h2&gt;
-&lt;p&gt;CoderDojo仙台若林の活動参加中、行き帰りなどで発生したトラブルや損失、損害、傷病、事故に対して、
-CoderDojo仙台若林は一切責任を負いません。これらに対して自己責任においてご参加くださるようお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-sendai-wakabayashi.connpass.com/event/370843/</guid><enclosure url="https://media.connpass.com/thumbs/46/2e/462ef1b48c7c5678dd14c9796ce7c226.png" length="0" type="image/png"/><pubDate>Sun, 28 Sep 2025 20:03:56 +0900</pubDate></item><item><title>SORACOM UG東北 #6 in 仙台</title><link>https://soracomug-tokyo.connpass.com/event/370239/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月14日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月14日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ねこまた&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町2丁目5-1(大一野村ビル 7F)&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;SORACOM User Group 東北&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://rakutentechsendai.connpass.com/event/370933/</guid><enclosure url="https://media.connpass.com/thumbs/6d/24/6d24de655fd212b3ec253ce20d4c4270.png" length="0" type="image/png"/><pubDate>Fri, 31 Oct 2025 17:08:09 +0900</pubDate></item><item><title>SORACOM UG東北 #6 in 仙台</title><link>https://soracomug-tokyo.connpass.com/event/370239/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月14日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月14日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ねこまた&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町2丁目5-1(大一野村ビル 7F)&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;SORACOM User Group 東北&lt;/h1&gt;
 &lt;h2&gt;SORACOM User Group行動規範 – Code of Conduct –&lt;/h2&gt;
 &lt;p&gt;SORACOM UGでは行動規範(Code of Conduct)を規定しています。参加される皆様はご一読ください。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://soracom-ug.jp/about/code-of-contact/" rel="nofollow"&gt;SORACOM User Group行動規範 – Code of Conduct –&lt;/a&gt;&lt;/p&gt;

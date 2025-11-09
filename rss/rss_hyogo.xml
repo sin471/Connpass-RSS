@@ -1,5 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 08 Nov 2025 15:11:45 +0000</lastBuildDate><item><title>ジオロケーション x AI ハッカソン キックオフセミナー</title><link>https://diiig.connpass.com/event/375268/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月25日(火) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月25日(火) 19:30&lt;/li&gt;&lt;li&gt;📍 会場: 神戸デジタル・ラボ 4階セミナールーム&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区京町７２ 新クレセントビル&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #MCP&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;未来の場所体験を創る【神戸2025】&lt;/p&gt;&lt;div&gt;&lt;h2&gt;📍 概要&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 09 Nov 2025 15:11:32 +0000</lastBuildDate><item><title>CoderDojo @藤江駅前オアシス25/12/13</title><link>https://coderdojofujie.connpass.com/event/375366/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 藤江駅前オアシス&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県明石市藤江1701-3&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供向けのプログラミングを楽しむ場を無料で提供します。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo @藤江駅前オアシス の参加者を募集します&lt;/h1&gt;
+&lt;p&gt;下記の内容をよくお読みになってからお申込みはこちらのページから保護者の方がおこなってください。&lt;/p&gt;
+&lt;p&gt;CoderDojoでは小中学生を対象にプログラミングを中心とした創作の場を提供します。 子供自身が作りたいものをメンターと呼ばれる大人がサポートしながら進めていきます。もちろんサポートなしでもどんどん進めることができます。&lt;/p&gt;
+&lt;p&gt;プログラミング教室のようにおしえてもらうのではなく自分で考えて作っていきます。また一人でなかなか進まない時でも同じ目標のみんなと楽しく過ごすことができます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Scratchでゲームを作成していけどもう少し面白くしたい&lt;/li&gt;
+&lt;li&gt;周りにプログラミングのことを相談できる人がいない&lt;/li&gt;
+&lt;li&gt;作成したScratchのゲームを自慢したい&lt;/li&gt;
+&lt;li&gt;プログラミングを一緒にできる友達が欲しい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;などみんなの「やってみたい！」をサポートしていきます。&lt;/p&gt;
+&lt;p&gt;※CoderDojoは2011年にアイルランドで始まり、世界では100カ国・2,000の道場、日本には200以上の道場があります。&lt;/p&gt;
+&lt;p&gt;CoderDojo &lt;a href="https://coderdojo.com" rel="nofollow"&gt;https://coderdojo.com&lt;/a&gt;
+CoderDojo Japan &lt;a href="https://coderdojo.jp" rel="nofollow"&gt;https://coderdojo.jp&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;参加条件&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;対象　：小学生、中学生 (※小学生以下の参加は必ず保護者送迎をお願いします。)&lt;/li&gt;
+&lt;li&gt;持ち物：Wi-Fi接続可能なノートパソコン&lt;/li&gt;
+&lt;li&gt;※マウス&amp;amp;マウスパッド等お持ちいただけると良いです。&lt;/li&gt;
+&lt;li&gt;※念のため、Scratchオフラインエディターのインストールをあらかじめしておいていただけるようお願いします。
+　&lt;a href="https://scratch.mit.edu/download" rel="nofollow"&gt;https://scratch.mit.edu/download&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;開催日時、場所&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;日時：2025/12/13(土)13:30-15:30(13:15受付開始)&lt;/li&gt;
+&lt;li&gt;場所：藤江駅前オアシス(兵庫県明石市藤江1701-3：山陽電車藤江駅)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;申し込み手順&lt;/h1&gt;
+&lt;p&gt;当ページで「このイベントに申し込む」を押してください。（募集期間中のメール・電話・メッセージでの申し込み不可）
+簡単なアンケートにお答えいただければ登録完了です。
+ご不明な点は「イベントへの問い合わせ」又はこのページの下部の問い合わせフォーム(リンク設置)からお願いします。&lt;/p&gt;
+&lt;p&gt;※ やむを得ずキャンセルする場合は必ず当ページにで「申し込みキャンセル」ボタンを押してください。 他の参加者が参加できなくなってしまいます。&lt;/p&gt;
+&lt;h1&gt;タイムテーブル&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;13:15　受付開始&lt;/li&gt;
+&lt;li&gt;13:30　はじめ&lt;/li&gt;
+&lt;li&gt;15:00　発表（みんなの作品に触れてみよう）&lt;/li&gt;
+&lt;li&gt;15:30　おしまい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;開催概要&lt;/h1&gt;
+&lt;p&gt;最初のプログラミングはブロックプログラミングであるScratch(スクラッチ)」をおすすめしています。 初めての方には使い方などをお話ししてからのスタートとしています(アカウントを作成していただくと保存などが簡単にできるようになります)。&lt;/p&gt;
+&lt;p&gt;Scratch  &lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;https://scratch.mit.edu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;既にScratchで作品作りをしている方は、どんなことをやりたいか何となくでも考えて、当日はどんどん進めて行きましょう。
+本格的なプログラミングを始めたい人もOK。&lt;/p&gt;
+&lt;h1&gt;Scratchって？&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://scratch.mit.edu/" rel="nofollow"&gt;http://scratch.mit.edu/&lt;/a&gt;
+Scratchとは、MITメディアラボが開発したプログラミング言語学習環境です。 命令のブロックを組み合わせるだけで、インタラクティブなアニメーションやゲームなどを作りながらプログラミングのロジックを学習できます。&lt;/p&gt;
+&lt;h1&gt;撮影について&lt;/h1&gt;
+&lt;p&gt;会場内では写真を撮影します。Twitterやブログ、SNSなどで利用し、インターネットで公開する場合があります。あらかじめご了承ください。&lt;/p&gt;
+&lt;h1&gt;その他&lt;/h1&gt;
+&lt;p&gt;持参されるPCをプロジェクタに投影するためのコネクタやケーブル(HDMI, USB-C to HDMI)をお持ちでしたら持参願います。
+保護者の方は、慣れるまでは子どもをフォロー頂きつつ、一緒に取り組まれることをオススメしています。
+あまり保護者のフォローがいらないお子さまについては、是非子ども同士で座って欲しいため、保護者の方は後ろで見守っていただくか、自由に退室され発表の時間か終了までには戻ってきて頂きますよう宜しくお願い致します。&lt;/p&gt;
+&lt;p&gt;問い合わせフォーム。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdQaG_AVHtU9f16Njvcmky1dJGLZkA9ZHJr2VVXGMidiqhD1Q/viewform?usp=sf_link" rel="nofollow"&gt;https://docs.google.com/forms/d/e/1FAIpQLSdQaG_AVHtU9f16Njvcmky1dJGLZkA9ZHJr2VVXGMidiqhD1Q/viewform?usp=sf_link&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojofujie.connpass.com/event/375366/</guid><enclosure url="https://media.connpass.com/thumbs/b4/9a/b49aaa6181e59ce2848562df3ffca09d.png" length="0" type="image/png"/><pubDate>Sun, 09 Nov 2025 08:28:54 +0900</pubDate></item><item><title>ジオロケーション x AI ハッカソン キックオフセミナー</title><link>https://diiig.connpass.com/event/375268/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月25日(火) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月25日(火) 19:30&lt;/li&gt;&lt;li&gt;📍 会場: 神戸デジタル・ラボ 4階セミナールーム&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区京町７２ 新クレセントビル&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #MCP&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;未来の場所体験を創る【神戸2025】&lt;/p&gt;&lt;div&gt;&lt;h2&gt;📍 概要&lt;/h2&gt;
 &lt;p&gt;AIが位置情報を理解し、操作する次世代サービスを開発するハッカソンです。&lt;/p&gt;
 &lt;p&gt;COPLI会員のDIIIG社が提供する&lt;strong&gt;DIIIG Cloud Platform&lt;/strong&gt;を活用し、ClaudeやOpenAIと連携した&lt;strong&gt;MCPサーバー&lt;/strong&gt;で、観光・交通・地域体験の革新的なサービスを創出します。独自POIデータと自然言語検索により、AIによる位置情報の「ハルシネーション(捏造)」を防ぎながら、場所の新しい価値を生み出すことができます。&lt;/p&gt;
 &lt;p&gt;短期間でチームを組み、アイデアから実装までを体験できる実践的なハッカソンです。&lt;/p&gt;
@@ -1556,7 +1610,7 @@ watnow&lt;/a&gt;&lt;br&gt;&lt;br&gt;
 &lt;br&gt;
 ※Connpass登録時に入力を求められる「Discordのユーザー名」は&lt;br&gt;
 PC版Discord＞画面左下の歯車マークをクリックすると確認できます。&lt;br&gt;
-&lt;a href="https://support.discord.com/hc/article_attachments/14484974734871" rel="nofollow"&gt;https://support.discord.com/hc/article_attachments/14484974734871&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://58hackathon.connpass.com/event/364441/</guid><enclosure url="https://media.connpass.com/thumbs/bc/ef/bcefb0ddc2a8923c30d7a9da76f5d100.png" length="0" type="image/png"/><pubDate>Wed, 05 Nov 2025 20:53:26 +0900</pubDate></item><item><title>Go Workshop Conference 2025 IN KOBE</title><link>https://go-workshop-conference.connpass.com/event/362435/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: KIITO（デザイン・クリエイティブセンター神戸）&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区小野浜町 1‑4&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #GWC2025&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;Go Workshop Conference 2025 IN KOBE&lt;/h1&gt;
+&lt;a href="https://support.discord.com/hc/article_attachments/14484974734871" rel="nofollow"&gt;https://support.discord.com/hc/article_attachments/14484974734871&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://58hackathon.connpass.com/event/364441/</guid><enclosure url="https://media.connpass.com/thumbs/bc/ef/bcefb0ddc2a8923c30d7a9da76f5d100.png" length="0" type="image/png"/><pubDate>Wed, 05 Nov 2025 20:53:26 +0900</pubDate></item><item><title>Go Workshop Conference 2025 IN KOBE</title><link>https://go-workshop-conference.connpass.com/event/362435/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: KIITO（デザイン・クリエイティブセンター神戸）&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区小野浜町 1‑4&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #GWC2025&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;Go Workshop Conference 2025 IN KOBE&lt;/h1&gt;
 &lt;p&gt;Go言語を愛するすべてのエンジニアのための、ワークショップカンファレンスを神戸で開催します！  &lt;/p&gt;
 &lt;p&gt;公募により集まった多種多様なワークショップをご用意しているので、Goを普段から使っている方も、初心者の方も、みんなでコードを書き、学び、交流しましょう！&lt;/p&gt;
 &lt;h2&gt;会場&lt;/h2&gt;
@@ -1598,7 +1652,7 @@ PC版Discord＞画面左下の歯車マークをクリックすると確認で�
 &lt;li&gt;スポンサーの募集は行っておりません。&lt;/li&gt;
 &lt;li&gt;会場内では、運営スタッフによる写真撮影が行われる予定です。それらは、SNSやブログに掲載される場合がありますので、ご了承ください。&lt;/li&gt;
 &lt;li&gt;SNS等で発信される場合は、公序良俗に反する内容とならないよう、ご配慮をお願いいたします。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://go-workshop-conference.connpass.com/event/362435/</guid><enclosure url="https://media.connpass.com/thumbs/f4/08/f40881246ae94aab975edc4f7995f87d.png" length="0" type="image/png"/><pubDate>Tue, 28 Oct 2025 22:31:29 +0900</pubDate></item><item><title>【三宮.dev x Tech Woman Kansai】エンジニア運動会in神戸</title><link>https://kobe-sannomiya-dev.connpass.com/event/362431/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月24日(月) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月24日(月) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 王子スポーツセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 神戸市灘区青谷町1丁目1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #エンジニア運動会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;エンジニアよ、闘志を燃やせ！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://go-workshop-conference.connpass.com/event/362435/</guid><enclosure url="https://media.connpass.com/thumbs/f4/08/f40881246ae94aab975edc4f7995f87d.png" length="0" type="image/png"/><pubDate>Sun, 09 Nov 2025 18:39:49 +0900</pubDate></item><item><title>【三宮.dev x Tech Woman Kansai】エンジニア運動会in神戸</title><link>https://kobe-sannomiya-dev.connpass.com/event/362431/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月24日(月) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月24日(月) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 王子スポーツセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 神戸市灘区青谷町1丁目1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #エンジニア運動会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;エンジニアよ、闘志を燃やせ！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 
 &lt;p&gt;体育の秋！てさおが３年温め続けた企画 &lt;strong&gt;エンジニア運動会&lt;/strong&gt; をついに開催します！&lt;br&gt;
 今回はTECH WOMAN KANSAIさんとの共催になります！&lt;/p&gt;
