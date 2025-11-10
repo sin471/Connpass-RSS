@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>広島のイベント</title><link>https://connpass.com/explore/</link><description>広島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>広島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 09 Nov 2025 15:11:48 +0000</lastBuildDate><item><title>PBI広島勉強会#8</title><link>https://pbil-h.connpass.com/event/374715/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月29日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ビットゼミ&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市中区鉄砲町7番4号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Power BI を学びたいんじゃけぇ　#8&lt;/p&gt;&lt;div&gt;&lt;p&gt;Power BI Learning 広島(PBI広島)の勉強会を実施します。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>広島のイベント</title><link>https://connpass.com/explore/</link><description>広島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>広島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 10 Nov 2025 15:16:04 +0000</lastBuildDate><item><title>PBI広島勉強会#8</title><link>https://pbil-h.connpass.com/event/374715/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月29日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ビットゼミ&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市中区鉄砲町7番4号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Power BI を学びたいんじゃけぇ　#8&lt;/p&gt;&lt;div&gt;&lt;p&gt;Power BI Learning 広島(PBI広島)の勉強会を実施します。
 今回は対面で集まり、&lt;a href="https://powerbi.connpass.com/event/372987/" rel="nofollow"&gt;Power BI 勉強会 #34&lt;/a&gt;のイベントにオンラインで地域コミュニティ参加させていただこうと考えておりますので、開催時間が13:00~17:30 となっております。ご注意ください。
 &lt;br&gt;&lt;strong&gt;なんと、&lt;a href="https://powerbi.connpass.com/" rel="nofollow"&gt;Power BI 勉強会&lt;/a&gt;さん、&lt;a href="https://itc-okinawa.connpass.com/" rel="nofollow"&gt;沖縄ノーコード・ローコード勉強会&lt;/a&gt;さんと合同イベントということでなかなかあついので、参加しないともったいないイベントになります。&lt;/strong&gt;
 &lt;br&gt;発表を見て、積極的に質問していきましょう。
@@ -465,8 +465,14 @@
 &lt;li&gt;大学のご厚意により ゲスト用Wi-Fi がご利用いただけます。&lt;/li&gt;
 &lt;li&gt;大容量のアセットやツールは事前にインストールしていただくように、ご協力のほどよろしくお願いいたします。&lt;/li&gt;
 &lt;li&gt;電源は譲り合いの精神でお願いします。&lt;/li&gt;
-&lt;li&gt;飲食は開発会場では蓋付きの飲料のみ可能です。別途、同イベント会場内に食事が可能な部屋を用意します。&lt;/li&gt;
+&lt;li&gt;飲食は開発会場では蓋付きの飲料のみ可能です。別途、同イベント会場内に食事が可能な部屋を用意します。&lt;ul&gt;
 &lt;li&gt;会場内での匂いのある食べ物、飲酒は禁止です。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;会場がある建物(新4号館)には、1階にバリアフリートイレもございます。車椅子の方は合わせてご利用ください。&lt;ul&gt;
+&lt;li&gt;その他、五日市キャンパス内への入り方や、施設案内については &lt;a href="https://www.it-hiroshima.ac.jp/campuslife/disability/" rel="nofollow"&gt;バリアフリーマップ&lt;/a&gt; をご参照ください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;スーツケースサイズ以上の物品の持ち込みは避けてください。&lt;/li&gt;
 &lt;li&gt;会場内では高温な機器や火気、喫煙は禁止です。喫煙される方はお近くの喫煙所にて、お吸いください。&lt;/li&gt;
 &lt;/ul&gt;
@@ -577,7 +583,7 @@ UnityやUEなどのゲームエンジンを活用している企業様にお勤�
 &lt;p&gt;&lt;a href="https://globalgamejam.org/" rel="nofollow"&gt;Global Game Jam, Inc.&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;瀬戸内会場 in 広島 運営代表&lt;/h3&gt;
 &lt;p&gt;三島冠太 (広島Unity勉強会)&lt;br&gt;
-Email: mishimakantai@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hirouni.connpass.com/event/373294/</guid><enclosure url="https://media.connpass.com/thumbs/99/44/9944ec6a73ce1fa35b3c905fadde0219.png" length="0" type="image/png"/><pubDate>Sat, 08 Nov 2025 13:27:36 +0900</pubDate></item><item><title>CDLEひろしま主催　第6回LT会</title><link>https://cdle-hiroshima.connpass.com/event/373144/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月13日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月13日(木) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 広島大学きてみんさいラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市南区松原町2番62号&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【イベントの趣旨】&lt;/h1&gt;
+Email: mishimakantai@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hirouni.connpass.com/event/373294/</guid><enclosure url="https://media.connpass.com/thumbs/99/44/9944ec6a73ce1fa35b3c905fadde0219.png" length="0" type="image/png"/><pubDate>Mon, 10 Nov 2025 21:47:43 +0900</pubDate></item><item><title>CDLEひろしま主催　第6回LT会</title><link>https://cdle-hiroshima.connpass.com/event/373144/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月13日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月13日(木) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 広島大学きてみんさいラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市南区松原町2番62号&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【イベントの趣旨】&lt;/h1&gt;
 &lt;p&gt;CDLEひろしまでは、第６回LT会を開催します。
  前回に続き、メンバー同士の取り組みや気づきをシェアする場として、短時間で多彩な発表を楽しみましょう！ 
 みんなで広島をAIで盛り上げていきましょう！&lt;/p&gt;
@@ -732,7 +738,7 @@ PHPに拘らずWEBに関すること、組織や開発についてでも歓迎�
 &lt;p&gt;&lt;b&gt;開催形式&lt;/b&gt;&lt;br&gt;
 リアル会場でのセミナー、展示ブース&lt;/p&gt;
 &lt;h1&gt;セミナータイムテーブル&lt;/h1&gt;
-&lt;p&gt;準備中&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://event.ospn.jp/osc2025-hiroshima/session/day1" rel="nofollow"&gt;https://event.ospn.jp/osc2025-hiroshima/session/day1&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;展示ブース&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://event.ospn.jp/osc2025-hiroshima/exhibit" rel="nofollow"&gt;出展者と展示内容リスト&lt;/a&gt;&lt;/li&gt;
@@ -747,4 +753,4 @@ PHPに拘らずWEBに関すること、組織や開発についてでも歓迎�
 詳細は以下のconnpassページでご確認ください。&lt;br&gt;
 &lt;a href="https://ospn.connpass.com/event/368129/" rel="nofollow"&gt;https://ospn.connpass.com/event/368129/&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;属性アンケートご協力のお願い&lt;/h1&gt;
-&lt;p&gt;connpassご登録時に、年代、職種、お住まいの地域、OSC参加歴、参加目的、参加コメントなど簡単なアンケートへのご入力をお願いしています。集計結果はイベント開催後にスポンサー、出展者にし提供するとともに、イベントの運営に役立てています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/361405/</guid><enclosure url="https://media.connpass.com/thumbs/6a/df/6adf677e3ccae1e30f64bde90ef2f8c5.png" length="0" type="image/png"/><pubDate>Thu, 06 Nov 2025 15:41:38 +0900</pubDate></item></channel></rss>
+&lt;p&gt;connpassご登録時に、年代、職種、お住まいの地域、OSC参加歴、参加目的、参加コメントなど簡単なアンケートへのご入力をお願いしています。集計結果はイベント開催後にスポンサー、出展者にし提供するとともに、イベントの運営に役立てています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/361405/</guid><enclosure url="https://media.connpass.com/thumbs/6a/df/6adf677e3ccae1e30f64bde90ef2f8c5.png" length="0" type="image/png"/><pubDate>Mon, 10 Nov 2025 14:32:23 +0900</pubDate></item></channel></rss>
