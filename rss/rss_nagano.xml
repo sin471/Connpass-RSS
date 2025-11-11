@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>長野のイベント</title><link>https://connpass.com/explore/</link><description>長野のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>長野のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 10 Nov 2025 15:15:23 +0000</lastBuildDate><item><title>【LT登壇】第14回サイバーセキュリティ勉強会2026年冬 in 塩尻</title><link>https://shiojiri-cyber.connpass.com/event/375563/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月7日(土) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月7日(土) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: 塩尻インキュベーションプラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県塩尻市大門八番町1番2号&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;LI(ライトニングトーク)登壇に関する応募事項&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>長野のイベント</title><link>https://connpass.com/explore/</link><description>長野のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>長野のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 11 Nov 2025 15:14:00 +0000</lastBuildDate><item><title>【LT登壇】第14回サイバーセキュリティ勉強会2026年冬 in 塩尻</title><link>https://shiojiri-cyber.connpass.com/event/375563/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月7日(土) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月7日(土) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: 塩尻インキュベーションプラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県塩尻市大門八番町1番2号&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;LI(ライトニングトーク)登壇に関する応募事項&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;本イベントの昼食休憩時(12:00-13:00)に実施される１枠5分から15分程度の短時間のLT(ライトニングトーク)です。&lt;/li&gt;
 &lt;li&gt;サイバーセキュリティに関するテーマについて講演が出来ます。&lt;/li&gt;
@@ -194,12 +194,13 @@ AI利用初心者でも気軽に参加可能で、AI勉強会やもくもく会�
 &lt;h2&gt;登壇予定者&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.pref.nagano.lg.jp/police/anshin/cyber/index.html" rel="nofollow"&gt;長野県警察本部 サイバー捜査課&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://dnobori.cs.tsukuba.ac.jp" rel="nofollow"&gt;独立行政法人 情報処理推進機構 登大遊　氏&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;ISOG-J / SCSKセキュリティ株式会社　武井　滋紀　氏&lt;/li&gt;
-&lt;li&gt;株式会社アシュアード　植木　雄哉　氏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://foxsecurity.hatenablog.com/aboutme" rel="nofollow"&gt;キタきつね 氏&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://owasp.org/www-chapter-japan/" rel="nofollow"&gt;アスタリスク・リサーチ/OWASP Japan 岡田良太郎 氏&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Max Maruyama 氏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lac.co.jp/lacwatch/author_hasegawa/" rel="nofollow"&gt;株式会社ラック　長谷川長一 氏&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;株式会社アシュアード　植木　雄哉　氏&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dnobori.cs.tsukuba.ac.jp" rel="nofollow"&gt;独立行政法人 情報処理推進機構 登大遊　氏&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://owasp.org/www-chapter-japan/" rel="nofollow"&gt;アスタリスク・リサーチ/OWASP Japan 岡田良太郎 氏&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://foxsecurity.hatenablog.com/aboutme" rel="nofollow"&gt;キタきつね 氏&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.nec-solutioninnovators.co.jp/" rel="nofollow"&gt;NEC ソリューションイノベータ株式会社　弓家 健輔 氏&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;LT1 &lt;a href="https://connpass.com/user/ohhara_shiojiri/open/" rel="nofollow"&gt;ohhara 氏&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;LT2 セイコーエプソン株式会社　高林信久　氏&lt;/li&gt;
@@ -232,7 +233,7 @@ AI利用初心者でも気軽に参加可能で、AI勉強会やもくもく会�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;11:00-11:30 (30分)&lt;/td&gt;
-&lt;td align="left"&gt;・調整中&lt;/td&gt;
+&lt;td align="left"&gt;・ISOG-J / SCSKセキュリティ株式会社　武井　滋紀　氏&lt;/td&gt;
 &lt;td align="left"&gt;未定&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -252,7 +253,7 @@ AI利用初心者でも気軽に参加可能で、AI勉強会やもくもく会�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;13:30-14:00 (30分)&lt;/td&gt;
-&lt;td align="left"&gt;・ISOG-J / SCSKセキュリティ株式会社　武井　滋紀　氏&lt;/td&gt;
+&lt;td align="left"&gt;・&lt;a href="https://www.lac.co.jp/lacwatch/author_hasegawa/" rel="nofollow"&gt;株式会社ラック　長谷川長一 氏&lt;/a&gt;&lt;/td&gt;
 &lt;td align="left"&gt;未定&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -342,7 +343,7 @@ AI利用初心者でも気軽に参加可能で、AI勉強会やもくもく会�
 &lt;li&gt;塩尻市振興公社&lt;/li&gt;
 &lt;li&gt;トラストネットワークス&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;(あいうえお順)&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shiojiri-cyber.connpass.com/event/372811/</guid><enclosure url="https://media.connpass.com/thumbs/f5/4b/f54b92a1d5c5293721c35f7892eb9140.png" length="0" type="image/png"/><pubDate>Mon, 10 Nov 2025 14:33:48 +0900</pubDate></item><item><title>CoderDojo飯田#39</title><link>https://coderdojoiida.connpass.com/event/372589/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月15日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月15日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: ロジカランド株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 飯田市上郷別府２６８９−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第三十九回コーダードージョー飯田開催です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo飯田#39&lt;/h1&gt;
+&lt;p&gt;(あいうえお順)&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shiojiri-cyber.connpass.com/event/372811/</guid><enclosure url="https://media.connpass.com/thumbs/f5/4b/f54b92a1d5c5293721c35f7892eb9140.png" length="0" type="image/png"/><pubDate>Tue, 11 Nov 2025 11:12:54 +0900</pubDate></item><item><title>CoderDojo飯田#39</title><link>https://coderdojoiida.connpass.com/event/372589/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月15日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月15日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: ロジカランド株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 飯田市上郷別府２６８９−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第三十九回コーダードージョー飯田開催です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo飯田#39&lt;/h1&gt;
 &lt;p&gt;飯田市での開催三十九目のCoderDojoです。&lt;/p&gt;
 &lt;h2&gt;CoderDojoとは？&lt;/h2&gt;
 &lt;p&gt;CoderDojo は7〜17歳(小学校一年生〜高校生まで)を対象とした非営利のプログラミング道場です。2011年にアイルランドで始まり、世界では112カ国・2,200の道場、日本には211以上の道場があります。&lt;/p&gt;
