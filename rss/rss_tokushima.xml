@@ -1,45 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>徳島のイベント</title><link>https://connpass.com/explore/</link><description>徳島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>徳島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 12 Nov 2025 15:15:36 +0000</lastBuildDate><item><title>[新年会] TOKUSHIMA Security 新年LT（2026/01/17）</title><link>https://tokushima-cyber-security-meetup.connpass.com/event/375735/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 徳島駅周辺&lt;/li&gt;&lt;li&gt;🏢 住所: 〒770-0831 徳島県徳島市寺島本町西1丁目&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;四国・徳島県を拠点にサイバーセキュリティに関する勉強会などを開催しています！&lt;/p&gt;&lt;div&gt;&lt;p style="margin-top: 10px; font-size: 14px; font-weight: bold;"&gt;
-&lt;/p&gt;
-
-&lt;h3&gt;参加費&lt;/h3&gt;
-&lt;p&gt;5,000 円&lt;/p&gt;
-&lt;p&gt;※ 飲食代金を全員で折半します。そのため、上記の参加費を上回る可能性がございます。予め、ご了承ください。&lt;/p&gt;
-&lt;h3&gt;場所&lt;/h3&gt;
-&lt;p&gt;徳島駅周辺&lt;/p&gt;
-&lt;p style="color: red;"&gt;※ 新年会シーズンですので、早めに人数を確定させて予約したいと思います。そのため、大変申し訳ございませんが、募集締切を「2025/12/31 23:59」とさせていただきます。&lt;/p&gt;
-
-&lt;h3&gt;活動趣旨&lt;/h3&gt;
-&lt;p&gt;TOKUSHIMA Cyber Security Meetup（徳島県サイバーセキュリティ勉強会）は、地方のセキュリティ意識向上を目指して活動しています。&lt;br&gt;
-サイバーセキュリティに関心を持つ個人や企業が集まり、情報交換や学習の場を提供しています。地方の人々がセキュリティに対する意識を高め、安全なデジタル社会を築くことを目指しています。参加者は初心者から専門家まで幅広く、当コミュニティではセキュリティの基礎から高度なトピックまで学ぶ機会を提供しています。&lt;/p&gt;
-&lt;h3&gt;行動規範&lt;/h3&gt;
-&lt;p&gt;本イベントは、参加する全ての方が不快な思いをすることなく、楽しんでいただくことを目的としております。
-そのために、以下のような行為は禁止されております。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;他人への迷惑行為（セクシュアルハラスメント・パワーハラスメント・ストーカー・荒らし行為 など）&lt;/li&gt;
-&lt;li&gt;ネットワークビジネス、宗教活動、政治活動、その対象を問わず販売、勧誘、斡旋とみなされる行為&lt;/li&gt;
-&lt;li&gt;本イベントの趣旨、目的と逸脱した行為&lt;/li&gt;
-&lt;/ol&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tokushima-cyber-security-meetup.connpass.com/event/375735/</guid><enclosure url="https://media.connpass.com/thumbs/69/c1/69c11548e07b49363fc2ae24a217c9f6.png" length="0" type="image/png"/><pubDate>Wed, 12 Nov 2025 18:06:35 +0900</pubDate></item><item><title>[忘年会] TOKUSHIMA Security 年末LT（2025/12/20）</title><link>https://tokushima-cyber-security-meetup.connpass.com/event/375732/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月20日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月20日(土) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 徳島駅周辺&lt;/li&gt;&lt;li&gt;🏢 住所: 〒770-0831 徳島県徳島市寺島本町西1丁目&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;四国・徳島県を拠点にサイバーセキュリティに関する勉強会などを開催しています！&lt;/p&gt;&lt;div&gt;&lt;p style="margin-top: 10px; font-size: 14px; font-weight: bold;"&gt;
-&lt;/p&gt;
-
-&lt;h3&gt;参加費&lt;/h3&gt;
-&lt;p&gt;5,000 円&lt;/p&gt;
-&lt;p&gt;※ 飲食代金を全員で折半します。そのため、上記の参加費を上回る可能性がございます。予め、ご了承ください。&lt;/p&gt;
-&lt;h3&gt;場所&lt;/h3&gt;
-&lt;p&gt;徳島駅周辺&lt;/p&gt;
-&lt;p style="color: red;"&gt;※ 忘年会シーズンですので、早めに人数を確定させて予約したいと思います。そのため、大変申し訳ございませんが、募集締切を「2025/11/30 23:59」とさせていただきます。&lt;/p&gt;
-
-&lt;h3&gt;活動趣旨&lt;/h3&gt;
-&lt;p&gt;TOKUSHIMA Cyber Security Meetup（徳島県サイバーセキュリティ勉強会）は、地方のセキュリティ意識向上を目指して活動しています。&lt;br&gt;
-サイバーセキュリティに関心を持つ個人や企業が集まり、情報交換や学習の場を提供しています。地方の人々がセキュリティに対する意識を高め、安全なデジタル社会を築くことを目指しています。参加者は初心者から専門家まで幅広く、当コミュニティではセキュリティの基礎から高度なトピックまで学ぶ機会を提供しています。&lt;/p&gt;
-&lt;h3&gt;行動規範&lt;/h3&gt;
-&lt;p&gt;本イベントは、参加する全ての方が不快な思いをすることなく、楽しんでいただくことを目的としております。
-そのために、以下のような行為は禁止されております。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;他人への迷惑行為（セクシュアルハラスメント・パワーハラスメント・ストーカー・荒らし行為 など）&lt;/li&gt;
-&lt;li&gt;ネットワークビジネス、宗教活動、政治活動、その対象を問わず販売、勧誘、斡旋とみなされる行為&lt;/li&gt;
-&lt;li&gt;本イベントの趣旨、目的と逸脱した行為&lt;/li&gt;
-&lt;/ol&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tokushima-cyber-security-meetup.connpass.com/event/375732/</guid><enclosure url="https://media.connpass.com/thumbs/a5/c2/a5c2dabfda5ea5a9d697b029d9e5e59d.png" length="0" type="image/png"/><pubDate>Wed, 12 Nov 2025 18:01:50 +0900</pubDate></item><item><title>TOKUSHIMA Security 年末LT (2025/12/20）</title><link>https://tokushima-cyber-security-meetup.connpass.com/event/375729/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月20日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月20日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: とくぎんトモニプラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒770-0831 徳島市寺島本町西1丁目5番地 アミコビル東館 9階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;四国・徳島県を拠点にサイバーセキュリティに関する勉強会などを開催しています！&lt;/p&gt;&lt;div&gt;&lt;p style="margin-top: 10px; font-size: 14px; font-weight: bold;"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>徳島のイベント</title><link>https://connpass.com/explore/</link><description>徳島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>徳島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 13 Nov 2025 15:16:07 +0000</lastBuildDate><item><title>TOKUSHIMA Security 年末LT (2025/12/20）</title><link>https://tokushima-cyber-security-meetup.connpass.com/event/375729/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月20日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月20日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: とくぎんトモニプラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒770-0831 徳島市寺島本町西1丁目5番地 アミコビル東館 9階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;四国・徳島県を拠点にサイバーセキュリティに関する勉強会などを開催しています！&lt;/p&gt;&lt;div&gt;&lt;p style="margin-top: 10px; font-size: 14px; font-weight: bold;"&gt;
 &lt;/p&gt;
 
 &lt;h3&gt;登壇者&lt;/h3&gt;
@@ -295,4 +255,96 @@
 &lt;ul&gt;
 &lt;li&gt;当日発熱、せきやのどの痛みがあるなど、体調不良の症状がある方は参加をご遠慮ください。&lt;/li&gt;
 &lt;li&gt;主催側の体調不良により、当日に開催を中止する場合があります。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tokushima-app.connpass.com/event/374452/</guid><enclosure url="https://media.connpass.com/thumbs/2d/eb/2deb9347a47395a60a6098059e6b4252.png" length="0" type="image/png"/><pubDate>Fri, 31 Oct 2025 14:42:09 +0900</pubDate></item></channel></rss>
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tokushima-app.connpass.com/event/374452/</guid><enclosure url="https://media.connpass.com/thumbs/2d/eb/2deb9347a47395a60a6098059e6b4252.png" length="0" type="image/png"/><pubDate>Fri, 31 Oct 2025 14:42:09 +0900</pubDate></item><item><title>JAWS-UG徳島・JAWS-UG香川・SORACOM-UG四国　合同勉強会　システム開発にAIを！</title><link>https://jawsug-kagawa.connpass.com/event/364639/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: toku-Noix（とくのわ）&lt;/li&gt;&lt;li&gt;🏢 住所: 徳島市寺島本町西1-61 徳島駅クレメントプラザ5F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;JAWS-UG徳島・JAWS-UG香川・SORACOM-UG四国　合同勉強会　システム開発にAIを！&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;徳島・香川合同でのクラウド・IoT・AI勉強会と交流をお届けします！&lt;br&gt;
+クラウドといえば「AWS」、IoTといえば「ソラコム」、そしてこれらの基盤にAIが加わって、今までは簡単にできなかったアプリケーションをAIを活用することで簡単に手にすることができることを一緒に学んでいきたいと思います。&lt;br&gt;
+そして、勉強会終了後は懇親会を開催。クラウド・IoT・AI・AWS・SORACOMに興味がある皆さんとの交流は、刺激あふれる時間になるはずです。&lt;br&gt;
+どうぞよろしくお願いします。&lt;/p&gt;
+&lt;h2&gt;日時・場所&lt;/h2&gt;
+&lt;p&gt;2025年12月13日（土）&lt;br&gt;
+勉強会　13:30～17:30&lt;br&gt;
+懇親会　18:30～20:30&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;参加受付&lt;/h2&gt;
+&lt;p&gt;一般　18名、LT登壇希望　4名、スタッフ　4名&lt;br&gt;
+（会場定員　26名、各カテゴリは懇親会参加/不参加を合わせた人数です）&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;場所&lt;/h2&gt;
+&lt;p&gt;toku-Noix（とくのわ）
+徳島市寺島本町西1-61 徳島駅クレメントプラザ5F
+&lt;a href="https://toku-noix.jp/" rel="nofollow"&gt;https://toku-noix.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;主催&lt;/h2&gt;
+&lt;p&gt;JAWS-UG 徳島&lt;br&gt;
+JAWS-UG 香川（うどん県）&lt;br&gt;
+SORACOM-UG四国&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;時間&lt;/th&gt;
+&lt;th align="left"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;13:00&lt;/td&gt;
+&lt;td align="left"&gt;会場オープン&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;13:30-13:40&lt;/td&gt;
+&lt;td align="left"&gt;オープニングトーク&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;13:40-14:20&lt;/td&gt;
+&lt;td align="left"&gt;セッション 1（MAXさん）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;14:20-14:40&lt;/td&gt;
+&lt;td align="left"&gt;コミュニティタイム・休憩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;14:40-15:20&lt;/td&gt;
+&lt;td align="left"&gt;セッション 2（AWS Kiroによる自動開発）※調整中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;15:20-16:00&lt;/td&gt;
+&lt;td align="left"&gt;セッション 3（SORACOM FluxによるAIなIoTのローコード開発）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;16:00-16:20&lt;/td&gt;
+&lt;td align="left"&gt;コミュニティタイム・休憩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;16:20-17:20&lt;/td&gt;
+&lt;td align="left"&gt;LT（15分×4セッション）&lt;br&gt;①“Hey guys!!”を届けるために。音声生成アプリ開発の奮闘録（植條さん）&lt;br&gt;②EXPO2025 大屋根リングをぐるっと周回 [GPSマルチユニット×ソラカメ実験]（yoyoさん）&lt;br&gt;➂エントリー待ち&lt;br&gt;④エントリー待ち&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;17:20-17:30&lt;/td&gt;
+&lt;td align="left"&gt;集合写真・クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;18:00&lt;/td&gt;
+&lt;td align="left"&gt;会場クローズ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;参加対象&lt;/h2&gt;
+&lt;p&gt;クラウド・IoT・AI・AWS・SORACOMの利活用に興味がある方　※業種・職種は問いません！&lt;/p&gt;
+&lt;h2&gt;持ち物・事前準備物&lt;/h2&gt;
+&lt;p&gt;パソコン（ワークショップはありません）&lt;/p&gt;
+&lt;h2&gt;費用&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;イベント参加費は無料です。&lt;/li&gt;
+&lt;li&gt;イベント終了後、懇親会を開催します。（会費5000円）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;リンク&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Amazon Web Service &lt;a href="https://aws.amazon.com/jp/" rel="nofollow"&gt;公式サイト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SORACOM [公式サイト] &lt;a href="https://soracom.jp/" rel="nofollow"&gt;https://soracom.jp/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;JAWS-UG &lt;a href="https://jaws-ug.jp/" rel="nofollow"&gt;公式サイト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SORACOM-UG &lt;a href="https://soracom-ug.jp/" rel="nofollow"&gt;公式サイト&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;イベント内容は、当日変更になる可能性があります。&lt;/li&gt;
+&lt;li&gt;イベント当日の様子は、後日Facebookページなどで公開させていただくことがあります。（写真NGの方は当日スタッフまでお伝え下さい。）&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-kagawa.connpass.com/event/364639/</guid><enclosure url="https://media.connpass.com/thumbs/7a/a6/7aa6b6ed6a2c92e246cb446c21d49835.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 21:08:02 +0900</pubDate></item></channel></rss>

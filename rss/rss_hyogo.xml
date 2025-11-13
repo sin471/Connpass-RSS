@@ -1,27 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 12 Nov 2025 15:15:14 +0000</lastBuildDate><item><title>手を動かして学ぶ低レイヤ技術勉強会 #12</title><link>https://math-coding.connpass.com/event/375872/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月12日(水) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月12日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: DEP.(三星ビル4階南室)&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区三宮町3-1-16(三星ビル４F南室)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;絵で見てわかるlinuxカーネルの仕組み&lt;/p&gt;&lt;div&gt;&lt;h2&gt;手を動かして学ぶ低レイヤ技術勉強会について&lt;/h2&gt;
-&lt;p&gt;この技術勉強会は、Linuxカーネル等の低レイヤに興味のある方々とプログラミングの知識やスキル、コンピュータの基礎知識を深めたい方々が、実際に手を動かしながら学びを共有していく場です。
-主にLinuxカーネルやファイルシステム等を題材としてそれらの設計思想や哲学等に焦点を当てていきたいと考えています。
-現代ではChatGPT等が普及し、ある程度のプログラミングスキルの習得が比較的容易になりつつある今、コンピュータに対する本質的な知識や理解を深めることがますます重要になると考えています。
-この技術勉強会は実際に低レイヤに触れることでそのような知識や理解を体感しつつ、参加者同士で共有し学び合う場になることを目指しています。&lt;/p&gt;
-&lt;h2&gt;下記の書籍をベースに進めていきます。&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;絵で見てわかるlinuxカーネルの仕組み(&lt;a href="https://www.amazon.co.jp/dp/4798177849" rel="nofollow"&gt;https://www.amazon.co.jp/dp/4798177849&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;準備&lt;/h2&gt;
-&lt;p&gt;ノートPC&lt;br&gt;
-教科書  &lt;/p&gt;
-&lt;h2&gt;対象&lt;/h2&gt;
-&lt;p&gt;Linuxカーネル等の低レイヤに興味のある方&lt;br&gt;
-プログラミングの知識やスキルを高めたい方&lt;br&gt;
-コンピュータの基礎知識を深めたい方  &lt;/p&gt;
-&lt;h2&gt;会場&lt;/h2&gt;
-&lt;p&gt;エンジニアが集うコワーキングスペース DEP.&lt;br&gt;
-神戸市中央区三宮町3-1-16(三星ビル４F南室)    &lt;/p&gt;
-&lt;p&gt;◆groupページ&lt;br&gt;
-&lt;a href="https://www.facebook.com/groups/284004485439214/" rel="nofollow"&gt;https://www.facebook.com/groups/284004485439214/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;◆過去のイベント スクラムサインのコミュニティーページ &lt;br&gt;
-&lt;a href="https://scrumsign.com/community/" rel="nofollow"&gt;https://scrumsign.com/community/&lt;/a&gt;&lt;img alt="image.png" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/ff39dcd0-949c-41b3-b83c-d7e49833442a/60445b41-b296-426c-ae73-f5e7b743bf37/image.png"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://math-coding.connpass.com/event/375872/</guid><enclosure url="https://media.connpass.com/thumbs/62/77/62777fb30db0778238ba793e5692b263.png" length="0" type="image/png"/><pubDate>Wed, 12 Nov 2025 20:33:00 +0900</pubDate></item><item><title>【JAWS-UG神戸×IoT専門支部コラボ】IoTをこれからやる方も、もっとやっていきたい方も！</title><link>https://jawsug-kobe.connpass.com/event/375618/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月12日(金) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月12日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター　会議室１００２&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区東町115番地&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;コラボイベントのオフライン会場としての神戸側のページです&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント説明&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 13 Nov 2025 15:15:47 +0000</lastBuildDate><item><title>【JAWS-UG神戸×IoT専門支部コラボ】IoTをこれからやる方も、もっとやっていきたい方も！</title><link>https://jawsug-kobe.connpass.com/event/375618/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月12日(金) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月12日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター　会議室１００２&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区東町115番地&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;コラボイベントのオフライン会場としての神戸側のページです&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント説明&lt;/h1&gt;
 &lt;p&gt;＼目黒会場・神戸会場・オンラインのハイブリッド開催を予定／&lt;/p&gt;
 &lt;p&gt;JAWS-UG神戸支部とIoT専門支部のコラボイベント！&lt;/p&gt;
 &lt;p&gt;IoTをこれからやる方・もっとやっていき！な方も、もっとやっていきたい方も！&lt;/p&gt;
@@ -128,9 +106,11 @@ LT に挑戦してみたい方は &lt;a href="https://speakerdeck.com/ma2shita/l
 &lt;p&gt;いわゆる懇親会です。昼間話し足りなかったこと、来年のMI68どうしよう？とか、鉄板や鍋を囲みながらざっくばらんに歓談しましょう。&lt;/p&gt;
 &lt;p&gt;メインの「&lt;a href="https://mz-kai.connpass.com/event/369126/" rel="nofollow"&gt;えむZ会&lt;/a&gt;」に参加されなくても歓迎します。&lt;/p&gt;
 &lt;h3&gt;参加定員について&lt;/h3&gt;
-&lt;p&gt;枠は増やせますので、満席でも補欠で申し込みしてください。&lt;/p&gt;
+&lt;p&gt;参加人数が10人以下(現在の定員)の場合、メニューはお好み焼きになります。
+枠は増やせますが、その場合ちゃんこ鍋に変更になります。
+なお募集締め切りに近くなると変更できなくなる可能性があり、補欠の方には残念ながらご参加いただけなくなりますのでなるべく早くの申し込みをお願いします。&lt;/p&gt;
 &lt;h3&gt;ご注意&lt;/h3&gt;
-&lt;p&gt;自動車・バイクなどで来場されている方の飲酒は厳禁です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://mz-kai.connpass.com/event/375610/</guid><pubDate>Mon, 10 Nov 2025 22:23:09 +0900</pubDate></item><item><title>[忍者募集]第32回CoderDojo明石</title><link>https://coderdojo-akashi.connpass.com/event/375571/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月30日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月30日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: ペイントワークハウスKNOT（ノット）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒673-0005 兵庫県明石市小久保１丁目３−３ AQUA西明石 103&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #プログラミング&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;自発的な子ども向けプログラミング活動&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;自動車・バイクなどで来場されている方の飲酒は厳禁です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://mz-kai.connpass.com/event/375610/</guid><pubDate>Thu, 13 Nov 2025 20:31:22 +0900</pubDate></item><item><title>[忍者募集]第32回CoderDojo明石</title><link>https://coderdojo-akashi.connpass.com/event/375571/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月30日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月30日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: ペイントワークハウスKNOT（ノット）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒673-0005 兵庫県明石市小久保１丁目３−３ AQUA西明石 103&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #プログラミング&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;自発的な子ども向けプログラミング活動&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;CoderDojo明石（こーだーどうじょうあかし）、32回目のDojoです。
 今回も、西明石にあるペイントワークハウスKNOT（ノット）様のスペースにて開催いたします！&lt;/p&gt;
 &lt;p&gt;CoderDojo明石では、明石周辺のくらいの子供たちにプログラミングでゲームやアプリケーションを作る喜びを知ってもらうために、エンジニアが集まりそれを手助けする場を提供しています。&lt;br&gt;
@@ -761,37 +741,17 @@ LLMを自らの手で作りあげる体験をしていきます。  &lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;※ イベントの進行、内容に応じて開催時間のズレが発生する場合がございます。ご了承ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kobesec.connpass.com/event/373846/</guid><enclosure url="https://media.connpass.com/thumbs/56/11/561198a7c2a9b9c6b9c375ad29605f65.png" length="0" type="image/png"/><pubDate>Sat, 25 Oct 2025 17:37:44 +0900</pubDate></item><item><title>手を動かして学ぶ低レイヤ技術勉強会 #11</title><link>https://math-coding.connpass.com/event/373523/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月12日(水) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月12日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: DEP.(三星ビル4階南室)&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区三宮町3-1-16(三星ビル４F南室)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;絵で見てわかるlinuxカーネルの仕組み&lt;/p&gt;&lt;div&gt;&lt;h2&gt;手を動かして学ぶ低レイヤ技術勉強会について&lt;/h2&gt;
-&lt;p&gt;この技術勉強会は、Linuxカーネル等の低レイヤに興味のある方々とプログラミングの知識やスキル、コンピュータの基礎知識を深めたい方々が、実際に手を動かしながら学びを共有していく場です。
-主にLinuxカーネルやファイルシステム等を題材としてそれらの設計思想や哲学等に焦点を当てていきたいと考えています。
-現代ではChatGPT等が普及し、ある程度のプログラミングスキルの習得が比較的容易になりつつある今、コンピュータに対する本質的な知識や理解を深めることがますます重要になると考えています。
-この技術勉強会は実際に低レイヤに触れることでそのような知識や理解を体感しつつ、参加者同士で共有し学び合う場になることを目指しています。&lt;/p&gt;
-&lt;h2&gt;下記の書籍をベースに進めていきます。&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;絵で見てわかるlinuxカーネルの仕組み(&lt;a href="https://www.amazon.co.jp/dp/4798177849" rel="nofollow"&gt;https://www.amazon.co.jp/dp/4798177849&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;準備&lt;/h2&gt;
-&lt;p&gt;ノートPC&lt;br&gt;
-教科書  &lt;/p&gt;
-&lt;h2&gt;対象&lt;/h2&gt;
-&lt;p&gt;Linuxカーネル等の低レイヤに興味のある方&lt;br&gt;
-プログラミングの知識やスキルを高めたい方&lt;br&gt;
-コンピュータの基礎知識を深めたい方  &lt;/p&gt;
-&lt;h2&gt;会場&lt;/h2&gt;
-&lt;p&gt;エンジニアが集うコワーキングスペース DEP.&lt;br&gt;
-神戸市中央区三宮町3-1-16(三星ビル４F南室)    &lt;/p&gt;
-&lt;p&gt;◆groupページ&lt;br&gt;
-&lt;a href="https://www.facebook.com/groups/284004485439214/" rel="nofollow"&gt;https://www.facebook.com/groups/284004485439214/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;◆過去のイベント スクラムサインのコミュニティーページ &lt;br&gt;
-&lt;a href="https://scrumsign.com/community/" rel="nofollow"&gt;https://scrumsign.com/community/&lt;/a&gt;&lt;img alt="image.png" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/ff39dcd0-949c-41b3-b83c-d7e49833442a/60445b41-b296-426c-ae73-f5e7b743bf37/image.png"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://math-coding.connpass.com/event/373523/</guid><enclosure url="https://media.connpass.com/thumbs/62/77/62777fb30db0778238ba793e5692b263.png" length="0" type="image/png"/><pubDate>Wed, 12 Nov 2025 20:30:26 +0900</pubDate></item><item><title>【JAWS-UG 神戸 #9】神戸へようこそ！LT会</title><link>https://jawsug-kobe.connpass.com/event/373359/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月18日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月18日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター 11F(1108会議室)&lt;/li&gt;&lt;li&gt;🏢 住所: 〒650-0031 兵庫県神戸市中央区東町１１５&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_kobe&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;※ イベントの進行、内容に応じて開催時間のズレが発生する場合がございます。ご了承ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kobesec.connpass.com/event/373846/</guid><enclosure url="https://media.connpass.com/thumbs/56/11/561198a7c2a9b9c6b9c375ad29605f65.png" length="0" type="image/png"/><pubDate>Sat, 25 Oct 2025 17:37:44 +0900</pubDate></item><item><title>【JAWS-UG 神戸 #9】神戸へようこそ！LT会</title><link>https://jawsug-kobe.connpass.com/event/373359/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月18日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月18日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター 11F(1108会議室)&lt;/li&gt;&lt;li&gt;🏢 住所: 〒650-0031 兵庫県神戸市中央区東町１１５&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_kobe&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;神戸に新しい居住者が増えました！&lt;br&gt;
 新たな神戸市民を歓迎しつつ、LT会＆懇親会で盛り上がっていきましょう！！&lt;br&gt;
 &lt;br&gt;
 今回のLTはAWSに関係する内容であれば&lt;strong&gt;自由&lt;/strong&gt;です。&lt;br&gt;
-
-- JAWS FESTA振り返り&lt;br&gt;
-- JAWS FESTA CfP供養&lt;br&gt;
-- re:Invent 2025 新発表サービス大予想&lt;br&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JAWS FESTA振り返り&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;JAWS FESTA CfP供養&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;re:Invent 2025 新発表サービス大予想&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1&gt;当日スケジュール&lt;/h1&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -814,7 +774,7 @@ LLMを自らの手で作りあげる体験をしていきます。  &lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;19:10 - 19:20&lt;/td&gt;
-&lt;td align="center"&gt;(仮)はじめてのきかいがくしゅう&lt;/td&gt;
+&lt;td align="center"&gt;はじめてのきかいがくしゅう&lt;/td&gt;
 &lt;td align="left"&gt;こば&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -824,8 +784,8 @@ LLMを自らの手で作りあげる体験をしていきます。  &lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;19:40 - 19:50&lt;/td&gt;
-&lt;td align="center"&gt;LT枠③&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;br&gt;所属あれば&lt;/td&gt;
+&lt;td align="center"&gt;AgentCoreで“今日の調べ物”を自動要約する日報AIを作ってみた&lt;/td&gt;
+&lt;td align="left"&gt;岡本篤志(おかもん)&lt;br&gt;(株式会社ゼネックコミューニケーション)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;19:55 - 20:00&lt;/td&gt;
@@ -834,8 +794,8 @@ LLMを自らの手で作りあげる体験をしていきます。  &lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;20:00 - 20:10&lt;/td&gt;
-&lt;td align="center"&gt;LT枠④&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;br&gt;所属あれば&lt;/td&gt;
+&lt;td align="center"&gt;馴染みのないAWSサービス『IVS』をMCPで攻略@JAWS FESTA 2025&lt;/td&gt;
+&lt;td align="left"&gt;井上将揮（いのうえ）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;20:15 - 20:25&lt;/td&gt;
@@ -844,8 +804,8 @@ LLMを自らの手で作りあげる体験をしていきます。  &lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;20:30 - 20:40&lt;/td&gt;
-&lt;td align="center"&gt;（仮）引っ越してきました！神戸よいとこ、コミュニティ良い場所&lt;/td&gt;
-&lt;td align="left"&gt;iwanao&lt;/td&gt;
+&lt;td align="center"&gt;引っ越してきました！神戸よいとこ、コミュニティ良い場所&lt;/td&gt;
+&lt;td align="left"&gt;岩瀬　直子&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;20:40 - 20:45&lt;/td&gt;
@@ -873,7 +833,13 @@ LLMを自らの手で作りあげる体験をしていきます。  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;香川県出身。自認はインフラエンジニアですが、最近はSREとして社内横断的な仕組みや文化作りに取り組んでいます。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h3&gt;iwanao&lt;/h3&gt;
+&lt;h3&gt;岡本篤志(おかもん)&lt;/h3&gt;
+&lt;h3&gt;井上将揮（いのうえ）&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/profile_images/1988921092589957120/1I4suppk.jpg" width="180px"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;神戸のSIerです。最近の趣味はKiroさんを相方に、生活を少し豊かにする小開発をすることです。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;岩瀬　直子&lt;/h3&gt;
 &lt;p&gt;&lt;img src="https://media.connpass.com/thumbs/dc/29/dc295aaf15a350d90e0b3a287de60a3b.png"&gt;&lt;/p&gt;
 &lt;h1&gt;参加のルールとマナー&lt;/h1&gt;
 &lt;p&gt;JAWS-UGの基本的な&lt;a href="https://jaws-ug.jp/for-participant/" rel="nofollow"&gt;参加ルールとマナー&lt;/a&gt;は以下のとおりです。&lt;br&gt;
@@ -887,7 +853,7 @@ JAWS-UG は No sell, No Job です。イベントの趣旨と関係のない宣�
 全てのイベントは有志のボランティアにより非営利目的にて運営され、いつでもあなたの手助けを必要としています。 
 お気付きの点があればぜひご協力をお願いいたします。 私たちはコミュニティへの貢献を通じて社会からの信頼を得ることがより良いビジネスに繋がり、より自分らしい働き方を見つける手段になると信じています。&lt;br&gt;
 AWSのユーザーグループは日本中、世界中に存在し、あなたの参加を待っています。&lt;br&gt;
-是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-kobe.connpass.com/event/373359/</guid><enclosure url="https://media.connpass.com/thumbs/3d/bb/3dbb64f469c0ffe64f0b73dd6480ed97.png" length="0" type="image/png"/><pubDate>Fri, 31 Oct 2025 15:02:41 +0900</pubDate></item><item><title>日曜もくもく自習の会 : 数学とプログラミング</title><link>https://math-coding.connpass.com/event/373150/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月16日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月16日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: DEP.(三星ビル4階南室)&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区三宮町3-1-16(三星ビル４F南室)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;#9&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;日曜もくもく自習の会とは？&lt;/strong&gt;&lt;br&gt;
+是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-kobe.connpass.com/event/373359/</guid><enclosure url="https://media.connpass.com/thumbs/3d/bb/3dbb64f469c0ffe64f0b73dd6480ed97.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 20:11:42 +0900</pubDate></item><item><title>日曜もくもく自習の会 : 数学とプログラミング</title><link>https://math-coding.connpass.com/event/373150/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月16日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月16日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: DEP.(三星ビル4階南室)&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区三宮町3-1-16(三星ビル４F南室)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;#9&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;日曜もくもく自習の会とは？&lt;/strong&gt;&lt;br&gt;
 数学とプログラミングの自習会です。静かに集中して自習をします。  &lt;br&gt;
 初学者の方、初めての方、歓迎します。      &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;こんな方におすすめ&lt;/strong&gt;  &lt;br&gt;
@@ -1005,7 +971,7 @@ PCや参考書など、もくもくに必要なもの  &lt;/p&gt;
 &lt;p&gt;&lt;img alt="yukio-ando-Yukio-Andoh" height="250" src='https://i.ibb.co/Y4J8QFB2/yukio-ando-Yukio-Andoh.jpg"' width="350"&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;札幌生まれ。三次元コンピュータグラフィックス、UX(ユーザエクスペリエンス)デザインが専門。 Google Earthの前身Keyhole時代からデジタルアース、デジタルマップに関わる。 2008年よりGoogle Maps/GEO分野のGoogle Developer Experts、2015年よりGoogle認定デザインスプリントマスター。 「Google Maps APIプログラミングガイド」（共著）」シビックテックをはじめよう」（翻訳）ほか多数 2022年より、スタートアップ企業を支援するアクセラレーター Google for Startups のメンターも務める。 SF映画好き。大量の本に埋もれて暮らしています。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkwansai.connpass.com/event/372949/</guid><pubDate>Thu, 06 Nov 2025 21:37:16 +0900</pubDate></item><item><title>All IT; 神戸まつり 2025</title><link>https://kobe-it-fes.connpass.com/event/372709/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月21日(金) 15:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月21日(金) 19:30&lt;/li&gt;&lt;li&gt;📍 会場: 神戸市産業振興センター&lt;/li&gt;&lt;li&gt;🏢 住所: 〒650-0044 兵庫県神戸市中央区東川崎町１丁目８−４ 神戸ハーバーランド内&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #allitkobe&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;~ 神戸のITとAIの人全員集合〜！ ~&lt;/p&gt;&lt;div&gt;&lt;h2&gt;開催概要&lt;/h2&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkwansai.connpass.com/event/372949/</guid><pubDate>Thu, 13 Nov 2025 21:13:05 +0900</pubDate></item><item><title>All IT; 神戸まつり 2025</title><link>https://kobe-it-fes.connpass.com/event/372709/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月21日(金) 15:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月21日(金) 19:30&lt;/li&gt;&lt;li&gt;📍 会場: 神戸市産業振興センター&lt;/li&gt;&lt;li&gt;🏢 住所: 〒650-0044 兵庫県神戸市中央区東川崎町１丁目８−４ 神戸ハーバーランド内&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #allitkobe&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;~ 神戸のITとAIの人全員集合〜！ ~&lt;/p&gt;&lt;div&gt;&lt;h2&gt;開催概要&lt;/h2&gt;
 &lt;p&gt;神戸市内・神戸関連の企業・コミュニティが一同に集合！！総勢20+コミュニティ！！！&lt;/p&gt;
 &lt;p&gt;経営層から現場のエンジニアまで、それぞれの視点からAIの現在地を知り、自社のビジネスやキャリアにAIをどう組み込むかのヒントを見つけることができる一日になります！またぜひ、異なるコミュニティ同士での親睦を深めて、神戸のIT人材・エンジニアネットワークを盛り上げていきましょう。&lt;/p&gt;
 &lt;p&gt;1部ではAIのビジネスユースケースを中心にご紹介します。&lt;br&gt;
@@ -1062,7 +1028,12 @@ PCや参考書など、もくもくに必要なもの  &lt;/p&gt;
 &lt;h2&gt;主催&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://copli.jp/" rel="nofollow"&gt;地域ICT推進協議会 （COPLI）&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;ご来場を心よりお待ちしております。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kobe-it-fes.connpass.com/event/372709/</guid><pubDate>Wed, 29 Oct 2025 15:00:06 +0900</pubDate></item><item><title>【神戸サテライト会場】データ利活用やってみよう！ハッカソン2025 ハンズオン #DevFest</title><link>https://enjoy-pda.connpass.com/event/371884/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月15日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月15日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: ハックバー&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区 中山手通 2丁目 10 ほらふきビル4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #enjoy_pda&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;FirebaseStudioを使ってチーム開発しよう！学生や開発未経験者の参加大歓迎！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;ご来場を心よりお待ちしております。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kobe-it-fes.connpass.com/event/372709/</guid><pubDate>Wed, 29 Oct 2025 15:00:06 +0900</pubDate></item><item><title>【神戸サテライト会場】データ利活用やってみよう！ハッカソン2025 ハンズオン #DevFest</title><link>https://enjoy-pda.connpass.com/event/371884/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月15日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月15日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: ハックバー&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区 中山手通 2丁目 10 ほらふきビル4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #enjoy_pda&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;FirebaseStudioを使ってチーム開発しよう！学生や開発未経験者の参加大歓迎！&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;font color="red"&gt;&lt;/font&gt;&lt;/p&gt;&lt;font color="red"&gt;
+&lt;h1&gt;神戸会場不開催のお知らせ（2025.11.13）&lt;/h1&gt;
+&lt;/font&gt;&lt;p&gt;&lt;font color="red"&gt;最少催行人数に達しなかったため、神戸会場は開設されません。&lt;br&gt;
+参加希望の方は&lt;a href="https://enjoy-pda.connpass.com/event/371048/" rel="nofollow"&gt;京橋会場&lt;/a&gt;にエントリーしてください。
+&lt;/font&gt;&lt;/p&gt;
+&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;&lt;font color="red"&gt;本ページは、&lt;br&gt;「データ利活用やってみよう！ハッカソン2025 ハンズオン #DevFest #BuildWithAI」&lt;br&gt;の神戸サテライト会場イベントページです。&lt;br&gt;
 本会場の大阪京橋で参加されたい方は&lt;a href="https://enjoy-pda.connpass.com/event/371048/" rel="nofollow"&gt;こちら&lt;/a&gt;から参加ください。&lt;br&gt;
 &lt;br&gt;
@@ -1250,7 +1221,7 @@ pda@gonengo.com&lt;br&gt;&lt;/p&gt;
 各共同利用者。
 　なお、法令に定める場合を除き、 これら以外の目的には利用または第三者提供いたしません。
 　また、イベント開催時に風景写真を撮影し、 ホームページやSNS等に掲載する場合がございます。 掲載にご同意いただけない場合は事前にお申し出いただきますよう お願い申し上げます。
-&lt;/pre&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://enjoy-pda.connpass.com/event/371884/</guid><enclosure url="https://media.connpass.com/thumbs/52/4e/524ece745d8af92e000982010a2b1a4a.png" length="0" type="image/png"/><pubDate>Mon, 27 Oct 2025 12:00:49 +0900</pubDate></item><item><title>DNS温泉番外編in大阪 vol.4</title><link>https://dnsonsen.connpass.com/event/371860/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月6日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月6日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 尼崎市立小田北生涯学習プラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県尼崎市潮江1丁目11-1-101 2階 学習室3&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #DNS温泉番外編in大阪4&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;/pre&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://enjoy-pda.connpass.com/event/371884/</guid><enclosure url="https://media.connpass.com/thumbs/52/4e/524ece745d8af92e000982010a2b1a4a.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 13:28:05 +0900</pubDate></item><item><title>DNS温泉番外編in大阪 vol.4</title><link>https://dnsonsen.connpass.com/event/371860/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月6日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月6日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 尼崎市立小田北生涯学習プラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県尼崎市潮江1丁目11-1-101 2階 学習室3&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #DNS温泉番外編in大阪4&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
 &lt;p&gt;毎年全国各地で開催されている、温泉に浸かりながら泊まり込んでとことんDNSを学ぶDNS温泉の番外編です。&lt;/p&gt;
 &lt;p&gt;番外編は泊まり込みではありませんが、DNSの基礎から分かっているようで分かっていないDNSの話、話題のあの話も学べるお得な内容です。&lt;/p&gt;
 &lt;p&gt;DNS温泉が初めての方のご参加も歓迎です。もちろん過去の参加者でも疑問点などあればぜひご参加頂いて質問などしていただければと思います。&lt;/p&gt;

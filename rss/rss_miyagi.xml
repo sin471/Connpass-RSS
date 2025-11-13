@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 12 Nov 2025 15:14:05 +0000</lastBuildDate><item><title>CoderDojo仙台若林#52  ＠七郷市民センター</title><link>https://coderdojo-sendai-wakabayashi.connpass.com/event/375488/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月21日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月21日(日) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 七郷市民センター&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市若林区荒井三丁目7番地の2&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;scrach？ Minecraft&lt;/p&gt;&lt;div&gt;&lt;h3&gt;CoderDojo仙台若林・開催概要&lt;/h3&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 13 Nov 2025 15:14:46 +0000</lastBuildDate><item><title>CoderDojo仙台若林#52  ＠七郷市民センター</title><link>https://coderdojo-sendai-wakabayashi.connpass.com/event/375488/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月21日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月21日(日) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 七郷市民センター&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市若林区荒井三丁目7番地の2&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;scrach？ Minecraft&lt;/p&gt;&lt;div&gt;&lt;h3&gt;CoderDojo仙台若林・開催概要&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -410,79 +410,7 @@ CoderDojo仙台若林は一切責任を負いません。これらに対して�
 &lt;/table&gt;
 &lt;h2&gt;参加費&lt;/h2&gt;
 &lt;p&gt;無料 or 1,000円（お酒と軽食代）
-こちらで準備した食べ物が不要な場合は、参加費無料です&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minamimachi.connpass.com/event/374762/</guid><pubDate>Tue, 04 Nov 2025 12:53:28 +0900</pubDate></item><item><title>第46回Goの標準ライブラリのコードを見てみよう</title><link>https://sendaigo.connpass.com/event/374663/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月12日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月12日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: クラウドスミス 開発サテライト&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町１丁目１−８ 青葉パークビル６F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #SendaiGo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;Sendai.goとは&lt;/h2&gt;
-&lt;p&gt;仙台周辺のGo言語のコミュニティです。&lt;/p&gt;
-&lt;p&gt;プログラミング言語 Go に関するテックトークなどのイベントをやっています。 &lt;/p&gt;
-&lt;p&gt;技術レベル・知識を問わず、Goを学びたい人が気軽に相談できるgopher達の拠り所を目指しています。&lt;/p&gt;
-&lt;p&gt;Sendai.goのslackページは&lt;a href="https://join.slack.com/t/sendai-go/shared_invite/zt-1jpag94qa-wp~ihXcyydCJcpM7pYxalA" rel="nofollow"&gt;こちら&lt;/a&gt; です！&lt;/p&gt;
-&lt;h2&gt;Goの標準ライブラリをみんなで見ていきます&lt;/h2&gt;
-&lt;p&gt;Goを書くうえで欠かせない&lt;a href="https://pkg.go.dev/std" rel="nofollow"&gt;Goの標準ライブラリ&lt;/a&gt; ですが、
-1人でGoDocを読んで仕様を把握したり、ライブラリのコードを見てみるのは
-なかなか気が滅入りませんか？？&lt;/p&gt;
-&lt;p&gt;みんなで集まって、読んだり時には動かしたりしながら標準ライブラリをもっと知っていきましょう。&lt;/p&gt;
-&lt;p&gt;その場で「何か新しい単語を聞く・知る」・「新しい人と話す」これだけで十分参加して大成功です。&lt;/p&gt;
-&lt;p&gt;オフラインで開催予定です。&lt;/p&gt;
-&lt;h2&gt;コードリーディングをする目的&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;標準ライブラリの仕様を知る&lt;ul&gt;
-&lt;li&gt;「こんな使い方が！」「こんなライブラリがあるのか」と新たな発見があるかもしれません&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Goらしい書き方を知る&lt;ul&gt;
-&lt;li&gt;Goのメンテナーたちのコードを読んで「Goらしい書き方」を見てみましょう&lt;/li&gt;
-&lt;li&gt;もちろんテストもあるので「Goらしいテストの書き方」も学べます&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;こんな人におすすめ&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Go言語を書いている&lt;/li&gt;
-&lt;li&gt;Go言語に興味がある&lt;/li&gt;
-&lt;li&gt;Gopher君が好き・かわいい&lt;/li&gt;
-&lt;li&gt;Goらしいコードの書き方の知見が欲しい&lt;/li&gt;
-&lt;li&gt;仙台のGopherと繋がりたい&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;タイムテーブル&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00~19:05&lt;/td&gt;
-&lt;td&gt;オープニング&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:05~19:10&lt;/td&gt;
-&lt;td&gt;自己紹介&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:10~19:30&lt;/td&gt;
-&lt;td&gt;それぞれコードを読む&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:30~20:00&lt;/td&gt;
-&lt;td&gt;それぞれ気になったところを共有&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;必要なもの&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;PC&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;参考資料&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://docs.google.com/presentation/d/1rrXmQ-3PlBvQgOXDISF36N9r5EQEOhov8WE1kdL2fB4/mobilepresent?slide=id.p" rel="nofollow"&gt;コードリーディングをしよう！&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://future-architect.github.io/articles/20200310/" rel="nofollow"&gt;Goの標準ライブラリのコードリーディングのすすめ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;行動規範 / Code of Conduct&lt;/h2&gt;
-&lt;p&gt;Go公式サイトの&lt;a href="https://golang.org/conduct" rel="nofollow"&gt;Code of Conduct&lt;/a&gt;に準拠します。&lt;/p&gt;
-&lt;h2&gt;その他&lt;/h2&gt;
-&lt;p&gt;オリジナルのGopherはRenée Frenchによってデザインされ、&lt;a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="nofollow"&gt;CC BY 3.0ライセンス&lt;/a&gt;が適用されています。&lt;/p&gt;
-&lt;p&gt;ヘッダに使用しているGopherは、Takuya Ueda (&lt;a href="https://twitter.com/tenntenn" rel="nofollow"&gt;https://twitter.com/tenntenn&lt;/a&gt;) さんにデザインいただき、&lt;a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="nofollow"&gt;CC BY 3.0ライセンス&lt;/a&gt;が適用されています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sendaigo.connpass.com/event/374663/</guid><enclosure url="https://media.connpass.com/thumbs/cf/fd/cffdc2f737a72177da4c2751f53f4d4a.png" length="0" type="image/png"/><pubDate>Tue, 04 Nov 2025 22:47:44 +0900</pubDate></item><item><title>見て学ぶ！ ChatGPTお試しセミナー</title><link>https://sendai-ai.connpass.com/event/374216/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月4日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月4日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Blank2階ミーティングスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区大町2丁目3-12（Blank2階）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #生成AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初心者の方でも2時間でAIを活用して動画を作成出来るようになります!&lt;/p&gt;&lt;div&gt;&lt;h2&gt;❐ イベントについて&lt;/h2&gt;
+こちらで準備した食べ物が不要な場合は、参加費無料です&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minamimachi.connpass.com/event/374762/</guid><pubDate>Tue, 04 Nov 2025 12:53:28 +0900</pubDate></item><item><title>見て学ぶ！ ChatGPTお試しセミナー</title><link>https://sendai-ai.connpass.com/event/374216/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月4日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月4日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Blank2階ミーティングスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区大町2丁目3-12（Blank2階）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #生成AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初心者の方でも2時間でAIを活用して動画を作成出来るようになります!&lt;/p&gt;&lt;div&gt;&lt;h2&gt;❐ イベントについて&lt;/h2&gt;
 &lt;p&gt;この​セミナーは、​AIを​学びたい​仲間が​集まる​コミュニティ​「東北・仙台AI勉強会」の​初回体験イベントです。
 「AIって難しそう…」「興味はあるけど何から始めていいのかわからない…」  
 そんなあなたにぴったりの、見るだけで学べる初心者向けセミナーです！&lt;/p&gt;

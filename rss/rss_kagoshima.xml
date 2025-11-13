@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>鹿児島のイベント</title><link>https://connpass.com/explore/</link><description>鹿児島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>鹿児島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 12 Nov 2025 15:16:05 +0000</lastBuildDate><item><title>かごもく #94「ドメイン駆動設計をはじめよう」を読む</title><link>https://kagoben.connpass.com/event/374761/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月15日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月15日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: GMOペパボ 鹿児島オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 鹿児島県鹿児島市上荒田町3−1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;📚 かごもく#94「ドメイン駆動設計をはじめよう」を読む&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>鹿児島のイベント</title><link>https://connpass.com/explore/</link><description>鹿児島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>鹿児島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 13 Nov 2025 15:16:33 +0000</lastBuildDate><item><title>かごもく #94「ドメイン駆動設計をはじめよう」を読む</title><link>https://kagoben.connpass.com/event/374761/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月15日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月15日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: GMOペパボ 鹿児島オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 鹿児島県鹿児島市上荒田町3−1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;📚 かごもく#94「ドメイン駆動設計をはじめよう」を読む&lt;/h1&gt;
 &lt;p&gt;かごもくは毎月テーマに沿ってみんなで勉強する勉強会です。&lt;br&gt;
 『ドメイン駆動設計をはじめよう』の読書会&lt;strong&gt;12回目&lt;/strong&gt;です。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.oreilly.co.jp/books/9784814400737/" rel="nofollow"&gt;O'Reilly Japan - ドメイン駆動設計をはじめよう&lt;/a&gt; から引用です。&lt;/p&gt;
@@ -278,7 +278,7 @@ AWSに関することならテーマは何でもOK！スキルレベルは問い
 &lt;tr&gt;
 &lt;td&gt;20:14 - 20:24&lt;/td&gt;
 &lt;td&gt;株式会社アンクス　山元 さん&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;コードは手で書くな、バイブスで書け。Kiroが全部整えてくれる&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;20:26 - 20:36&lt;/td&gt;
@@ -332,52 +332,4 @@ AWSのユーザーグループは日本中、世界中に存在し、あなた�
 &lt;p&gt;鹿児島でもAWSの話がしたい、学び合いたいという思いからJAWS-UG鹿児島支部リブートとなりました。&lt;br&gt;
 AWSに興味を持ったり、利用していく人が増えることを願っています。&lt;br&gt;
 まだまだ小さな輪ですので、皆様のご協力や、イベント内容や運営へのフィードバックが必要です。&lt;br&gt;
-鹿児島の力、九州の力を信じて盛り上げていきましょう！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jaws-ug-kagoshima.connpass.com/event/371992/</guid><enclosure url="https://media.connpass.com/thumbs/fa/6c/fa6c6accca111207c40d2151cfc600b8.png" length="0" type="image/png"/><pubDate>Fri, 17 Oct 2025 11:49:18 +0900</pubDate></item><item><title>セキュアコーディングスキル向上セミナー</title><link>https://ksec.connpass.com/event/371285/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月13日(木) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月13日(木) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: シナプスビル3F&lt;/li&gt;&lt;li&gt;🏢 住所: 890-0053 鹿児島県鹿児島市中央町６−１ シナプスビル&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #脅威モデリング&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;勉強会の内容&lt;/h1&gt;
-&lt;p&gt;本セミナーでは、テクマトリックス株式会社の脆弱性予防プラットフォーム 「Secure Code Warrior」 を用いて、開発者が安全なコードを書くための考え方や具体的な手法を習得します。
-また、参加者同士が得点を競い合う 競技形式（トーナメント方式） を導入し、ゲーム感覚で楽しみながら学べる内容となっております。セキュリティの深い知識がなくても解けるような問題が多く用意されております。間違えてもそこから学びがありますので知識が不足しているかもしれないなどで不安に思われる方もお気軽にご参加ください。&lt;/p&gt;
-&lt;h3&gt;対象者&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;ソフトウェア開発者&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;プログラム内容（予定）&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;セキュアコーディングの基礎と重要性&lt;/li&gt;
-&lt;li&gt;Secure Code Warrior の紹介の使い方&lt;/li&gt;
-&lt;li&gt;競技チャレンジ（トーナメント形式）&lt;/li&gt;
-&lt;li&gt;振り返りとフィードバック&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;モデレーター&lt;/h3&gt;
-&lt;h4&gt;西川 彰（代表理事）&lt;/h4&gt;
-&lt;p&gt;クラウドセキュリティを専門とし、スタートアップからエンタープライズまで幅広い環境でのセキュリティ設計・運用に携わる。
-AWS Community Builder として活動するとともに国内外のセキュリティカンファレンス（Black Hat 2025、SecTor 2024、HITCON 2024 など）に登壇している。&lt;/p&gt;
-&lt;h1&gt;開催日程&lt;/h1&gt;
-&lt;h5&gt;日時　：2025年11月13日（木）（開場 13:00）13:30〜17:30&lt;/h5&gt;
-&lt;h5&gt;場所　：シナプスホール（鹿児島県鹿児島市中央町6-1 シナプスビル シナプスビル3F）&lt;/h5&gt;
-&lt;h5&gt;人数　：30名（先着方式）&lt;/h5&gt;
-&lt;h5&gt;参加費：無料&lt;/h5&gt;
-&lt;h5&gt;【参加条件】&lt;/h5&gt;
-&lt;p&gt;+会場の WiFi に接続できるノートPC を持参できること
-+ 団体行動のルールを守り、他の参加者と協調して参加できること。 
-+ コンピュータサイエンスに関する基礎知識を持っていること。
-+ ここで学んだ技術を悪用しないこと。&lt;/p&gt;
-&lt;h1&gt;お願い&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;できる限り当日や前日キャンセルはされないようお願いいたします。&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;参加できなくなった方は、できるだけ早期にキャンセルをお願いします。&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;キャンセルされず、当日お越しになられなかった方は、次回以降の参加をお断りする場合があります。&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;注意事項&lt;/h1&gt;
-&lt;p&gt;下記に該当すると判断した場合、退席をお願いすることがあります。&lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;保険、宗教、ネットワークビジネスの勧誘が目的と見られる方&lt;/li&gt;
-&lt;li&gt;その他、運営側が参加が不適切と判断した方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ここで学ぶ技術は&lt;strong&gt;&lt;font color="red"&gt;絶対に悪用してはいけません&lt;/font&gt;&lt;/strong&gt; 自分のシステムとネットワークを守るために、どのように攻撃されるかを理解することを目的としています。 技術を悪用して許可なく他人のシステムを攻撃することは犯罪です。技術を悪用している方を見かけたらすぐに通報します。&lt;/p&gt;
-&lt;h1&gt;主催&lt;/h1&gt;
-&lt;h5&gt;鹿児島県サイバーセキュリティ協議会&lt;/h5&gt;
-&lt;p&gt;HP: &lt;a href="https://kagosec.net" rel="nofollow"&gt;https://kagosec.net&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Facebook: &lt;a href="https://www.facebook.com/KagoshimaCSC/" rel="nofollow"&gt;https://www.facebook.com/KagoshimaCSC/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Twitter: &lt;a href="https://twitter.com/KagoshimaCSC" rel="nofollow"&gt;https://twitter.com/KagoshimaCSC&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;協力&lt;/h1&gt;
-&lt;h5&gt;株式会社シナプス&lt;/h5&gt;
-&lt;p&gt;HP: &lt;a href="https://corp.synapse.jp/" rel="nofollow"&gt;https://corp.synapse.jp/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ksec.connpass.com/event/371285/</guid><pubDate>Sat, 25 Oct 2025 10:30:09 +0900</pubDate></item></channel></rss>
+鹿児島の力、九州の力を信じて盛り上げていきましょう！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jaws-ug-kagoshima.connpass.com/event/371992/</guid><enclosure url="https://media.connpass.com/thumbs/fa/6c/fa6c6accca111207c40d2151cfc600b8.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 12:03:14 +0900</pubDate></item></channel></rss>

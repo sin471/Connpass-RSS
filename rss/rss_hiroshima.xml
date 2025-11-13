@@ -1,16 +1,129 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>広島のイベント</title><link>https://connpass.com/explore/</link><description>広島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>広島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 12 Nov 2025 15:15:31 +0000</lastBuildDate><item><title>すごい広島 ITもくもく会 648</title><link>https://great-h.connpass.com/event/375836/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月12日(水) 19:10&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月12日(水) 20:50&lt;/li&gt;&lt;li&gt;📍 会場: ShakeHands広島駅前店&lt;/li&gt;&lt;li&gt;🏢 住所: 広島市南区松原町9-1 福屋11F ShakeHands広島駅前店&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #すごい広島&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;すごい広島で楽しくプログラミングなどを学ぼう&lt;/p&gt;&lt;div&gt;&lt;h2&gt;現地参加の方へ&lt;/h2&gt;
-&lt;p&gt;&lt;span style="font-size: 1.2em;"&gt; &lt;strong&gt; 現地参加費は無料となっていますが、コワーキングスペース利用費(2時間で880円)がかかります。 &lt;/strong&gt;&lt;br&gt;
-テーブルの一角に集まっているので、初参加の方は受付にて「すごい広島に参加希望」の旨をお伝えください。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;※新型コロナウイルス感染症の急速な状況変化を鑑み、現地会場は6名までとさせていただきます。&lt;br&gt;
-本イベントへの参加に伴ういかなるトラブル・損害が発生したとしても本イベントの運営者は一切の責任を負いかねます。&lt;br&gt;
-現地参加の場合は、必ずお申し込みいただくようにお願い致します。&lt;/p&gt;
-&lt;h3&gt;&lt;/h3&gt;
-&lt;p&gt;Skypeサービス終了につきオフライン参加は停止&lt;/p&gt;
-&lt;h1&gt;目的&lt;/h1&gt;
-&lt;p&gt;すごい広島では、Webサイトやアプリケーションを作成しているような人たちが集まっています。
-集まってそれぞれが自分たちのやりたいことをやっています。
-いろんな人が集まることで、情報交換をしたり、プログラミングを教えてもらうことができます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://great-h.connpass.com/event/375836/</guid><enclosure url="https://media.connpass.com/thumbs/c4/75/c475446dd06ff73400e78d9f3b1f1437.png" length="0" type="image/png"/><pubDate>Wed, 12 Nov 2025 14:53:39 +0900</pubDate></item><item><title>PBI広島勉強会#8</title><link>https://pbil-h.connpass.com/event/374715/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月29日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ビットゼミ&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市中区鉄砲町7番4号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Power BI を学びたいんじゃけぇ　#8&lt;/p&gt;&lt;div&gt;&lt;p&gt;Power BI Learning 広島(PBI広島)の勉強会を実施します。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>広島のイベント</title><link>https://connpass.com/explore/</link><description>広島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>広島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 13 Nov 2025 15:16:02 +0000</lastBuildDate><item><title>【広島開催】FOSS4Gもくもく会 #008</title><link>https://osgeojp.connpass.com/event/375544/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月14日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月14日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: RCC文化センター&lt;/li&gt;&lt;li&gt;🏢 住所: 広島市中区橋本町5-11&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #foss4gmoku2&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;OSGeoJPが主催するFOSS4Gのもくもく会&lt;/p&gt;&lt;div&gt;&lt;p style="font-size: 28px; font-weight: bold; color: #000000; text-align: center; margin-bottom: 30px;"&gt;
+  🎉 今回は広島でオフライン開催となります！ 🎉
+&lt;/p&gt;
+
+&lt;h2&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;FOSS4G（フリーでオープンソースの地理空間情報ソフトウェア） のもくもく会を開催します！&lt;/p&gt;
+&lt;p&gt;FOSS4Gについてもくもくと作業をしながら、FOSS4Gで開発をしている方や活用している方との間で交流を深めていくイベントです。&lt;/p&gt;
+&lt;p&gt;もくもく作業している中で、もし他の人に聞いてみたいことがあれば相談もOKですし、作業中に発見した Tips を共有してもOKです。&lt;/p&gt;
+&lt;p&gt;今回は広島県での現地開催となります。
+初心者の方も歓迎いたします。ぜひお気軽に、そしてゆるくご参加ください。&lt;/p&gt;
+&lt;p&gt;主催: &lt;a href="https://www.osgeo.jp/" rel="nofollow"&gt;OSGeo.JP&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;今回のもくもく会テーマ&lt;/h2&gt;
+&lt;p&gt;今回のテーマは &lt;strong&gt;FOSS4G&lt;/strong&gt; です。&lt;/p&gt;
+&lt;p&gt;これまでOSGeo.JPではオンラインにてもくもく会を開催してきました。
+オープンソースの地理空間技術「FOSS4G」は世界中で注目されており、毎年グローバルカンファレンスが開催されています。
+その「FOSS4G Global」が2026年に広島で開催されることが決定しました。
+そこで、開催地となる広島にてFOSS4Gに関するもくもく会を開催いたします。&lt;/p&gt;
+&lt;p&gt;もくもく会にて取り組むテーマはFOSS4Gに関するものであれば何でもOKです。
+例）QGIS、JavaScriptマップライブラリ、OpenStreetMap&lt;/p&gt;
+&lt;p&gt;当日に入門者向けのおすすめリンク集なども共有します！&lt;/p&gt;
+&lt;h2&gt;ターゲット&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;オープンソースGISソフトウェア・ライブラリに興味がある&lt;/li&gt;
+&lt;li&gt;FOSS4Gを活用している&lt;/li&gt;
+&lt;li&gt;FOSS4G関連でコントリビュートしている&lt;/li&gt;
+&lt;li&gt;FOSS4Gが好き&lt;/li&gt;
+&lt;li&gt;FOSS4Gが好きな方と繋がりたい&lt;/li&gt;
+&lt;li&gt;FOSS4Gがどのようなものか体験したい&lt;/li&gt;
+&lt;li&gt;FOSS4G初心だが、グローバルカンファレンスに興味がある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;開催概要&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;説明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;日時&lt;/td&gt;
+&lt;td&gt;2025年12月14日（日） 10:00 ~ 16:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;開催場所&lt;/td&gt;
+&lt;td&gt;RCC文化センター 　601会議室&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;申し込み&lt;/td&gt;
+&lt;td&gt;このページの「このイベントに申し込む」から申し込み&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;参加費&lt;/td&gt;
+&lt;td&gt;無料&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;タイムスケジュール&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;9:40~&lt;/td&gt;
+&lt;td&gt;開場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00~10:10&lt;/td&gt;
+&lt;td&gt;オープニング（挨拶 ＋ タイムスケジュール共有 ＋ 注意事項）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:10~10:15&lt;/td&gt;
+&lt;td&gt;「もくもくすること」をみんなで共有&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:15~12:00&lt;/td&gt;
+&lt;td&gt;各自もくもく作業&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:00~13:00&lt;/td&gt;
+&lt;td&gt;お昼休憩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00~15:30&lt;/td&gt;
+&lt;td&gt;各自もくもく作業&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:30~15:55&lt;/td&gt;
+&lt;td&gt;成果発表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:55~16:00&lt;/td&gt;
+&lt;td&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;休憩はいつでもOKです. &lt;/li&gt;
+&lt;li&gt;途中参加・途中退出もOKです&lt;/li&gt;
+&lt;li&gt;最後の成果発表については、Discordのテキストチャンネルに書き込んだ内容を運営が簡単に紹介します&lt;/li&gt;
+&lt;li&gt;成果発表は任意です&lt;/li&gt;
+&lt;li&gt;参加者の人数や熟練度などでスケジュールを変更する場合がございます&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;参加の流れ&lt;/h2&gt;
+&lt;p&gt;もくもく会は RCC文化センター(広島県広島市)で実施します&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;このページの「このイベントに申し込む」から申し込み&lt;/li&gt;
+&lt;li&gt;当日会場にそのままお越しください&lt;br&gt;
+会場：RCC文化センター 　601会議室
+アクセス：&lt;a href="https://www.rccbc.co.jp/access.html&lt;br&gt;" rel="nofollow"&gt;https://www.rccbc.co.jp/access.html&lt;br&gt;&lt;/a&gt;
+もくもく作業のためのPCなどはご自身でご準備ください。&lt;/li&gt;
+&lt;li&gt;以後、タイムスケジュールどおりに進行&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;行動規範 (Code of Conduct)&lt;/h2&gt;
+&lt;p&gt;このもくもく会では、皆様に心地よく、そして楽しく参加していただけるように行動規範を設けております。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;私たちは、性別、年齢、性的指向、身体的特徴、人種や職業、思想や信条や生き方、技術力や技術の選択・手法などのさまざまな個人のありかたに対して、ハラスメントを許容しません。もしハラスメントや侮辱的言動、イベントへの妨害となる行為や周囲を不快にする言動を取った場合、私たちは当該参加者に退出を求めたり、今後の参加をお断りしたり、法的措置をとる場合があります。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href="https://www.osgeo.org/code_of_conduct/" rel="nofollow"&gt;OSGeo財団の行動規範はこちらから御覧ください&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;お問い合わせ&lt;/h2&gt;
+&lt;p&gt;このイベントに関するお問い合わせは、connpassから管理者にお問い合わせください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://osgeojp.connpass.com/event/375544/</guid><enclosure url="https://media.connpass.com/thumbs/d2/dd/d2dd3e9f39d4924d1f0a2c1953a4f3e5.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 17:01:27 +0900</pubDate></item><item><title>PBI広島勉強会#8</title><link>https://pbil-h.connpass.com/event/374715/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月29日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ビットゼミ&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市中区鉄砲町7番4号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Power BI を学びたいんじゃけぇ　#8&lt;/p&gt;&lt;div&gt;&lt;p&gt;Power BI Learning 広島(PBI広島)の勉強会を実施します。
 今回は対面で集まり、&lt;a href="https://powerbi.connpass.com/event/372987/" rel="nofollow"&gt;Power BI 勉強会 #34&lt;/a&gt;のイベントにオンラインで地域コミュニティ参加させていただこうと考えておりますので、開催時間が13:00~17:30 となっております。ご注意ください。
 &lt;br&gt;&lt;strong&gt;なんと、&lt;a href="https://powerbi.connpass.com/" rel="nofollow"&gt;Power BI 勉強会&lt;/a&gt;さん、&lt;a href="https://itc-okinawa.connpass.com/" rel="nofollow"&gt;沖縄ノーコード・ローコード勉強会&lt;/a&gt;さんと合同イベントということでなかなかあついので、参加しないともったいないイベントになります。&lt;/strong&gt;
 &lt;br&gt;発表を見て、積極的に質問していきましょう。
@@ -593,7 +706,7 @@ UnityやUEなどのゲームエンジンを活用している企業様にお勤�
 &lt;p&gt;&lt;a href="https://globalgamejam.org/" rel="nofollow"&gt;Global Game Jam, Inc.&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;瀬戸内会場 in 広島 運営代表&lt;/h3&gt;
 &lt;p&gt;三島冠太 (広島Unity勉強会)&lt;br&gt;
-Email: mishimakantai@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hirouni.connpass.com/event/373294/</guid><enclosure url="https://media.connpass.com/thumbs/99/44/9944ec6a73ce1fa35b3c905fadde0219.png" length="0" type="image/png"/><pubDate>Mon, 10 Nov 2025 21:47:43 +0900</pubDate></item><item><title>CDLEひろしま主催　第6回LT会</title><link>https://cdle-hiroshima.connpass.com/event/373144/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月13日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月13日(木) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 広島大学きてみんさいラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市南区松原町2番62号&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【イベントの趣旨】&lt;/h1&gt;
+Email: mishimakantai@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hirouni.connpass.com/event/373294/</guid><enclosure url="https://media.connpass.com/thumbs/99/44/9944ec6a73ce1fa35b3c905fadde0219.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 08:08:33 +0900</pubDate></item><item><title>CDLEひろしま主催　第6回LT会</title><link>https://cdle-hiroshima.connpass.com/event/373144/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月13日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月13日(木) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 広島大学きてみんさいラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市南区松原町2番62号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;日々の取り組みを共有し、ディスカッションしましょう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【イベントの趣旨】&lt;/h1&gt;
 &lt;p&gt;CDLEひろしまでは、第６回LT会を開催します。
  前回に続き、メンバー同士の取り組みや気づきをシェアする場として、短時間で多彩な発表を楽しみましょう！ 
 みんなで広島をAIで盛り上げていきましょう！&lt;/p&gt;
@@ -601,7 +714,7 @@ Email: mishimakantai@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaL
 &lt;p&gt;オープニング: CDLEひろしまの活動について （ふみすけ）&lt;/p&gt;
 &lt;p&gt;-LT1: LTやろうぜ！コミュニティ参加のフレームワーク（Akchさん）&lt;/p&gt;
 &lt;p&gt;-LT2: G検定から始まるDXエンジニアへの道（shomaさん）&lt;/p&gt;
-&lt;p&gt;-LT3: ※（Shimataniさん）&lt;/p&gt;
+&lt;p&gt;-LT3: デジタル音痴からAI研修講師へ（Shimataniさん）&lt;/p&gt;
 &lt;p&gt;-LT4: 再現性の低い新ワザよりも、「進化」する初期パラメータを選べ（たまちゃんさん）&lt;/p&gt;
 &lt;p&gt;-LT5: ガバナンスについて（Akiyamaさん）&lt;/p&gt;
 &lt;p&gt;-LT6: あなたは普段、何人に分裂して仕事をしていますか？（座禅いぬさん） &lt;/p&gt;
@@ -616,7 +729,7 @@ Email: mishimakantai@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaL
 &lt;p&gt;会場およびオンラインの両方で定員を設ける場合があります。早めのお申し込みをお願いいたします！&lt;br&gt;
  録画・録音はご遠慮ください。&lt;br&gt;
  当日のスケジュールやZoomリンクなどは、Connpass上にて随時お知らせします。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;今回は会場がいつもと異なります。また開始時間も19:00であることにご注意ください！&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-hiroshima.connpass.com/event/373144/</guid><enclosure url="https://media.connpass.com/thumbs/76/28/76280c26dabc670f4b8728d9bcddc860.png" length="0" type="image/png"/><pubDate>Wed, 12 Nov 2025 23:58:04 +0900</pubDate></item><item><title>デジタルハプティクスコンソーシアム第5回MEET UP</title><link>https://dx-haptics.connpass.com/event/368177/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月5日(金) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月5日(金) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 広島大学きてみんさいラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒732-0822 広島県広島市南区松原町2番62号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今回は広島で開催します！&lt;/p&gt;&lt;div&gt;&lt;h3&gt;デジタルハプティクスコンソーシアム第5回MEET UPイベントを開催します &lt;br&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;今回は会場がいつもと異なります。また開始時間も19:00であることにご注意ください！&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-hiroshima.connpass.com/event/373144/</guid><enclosure url="https://media.connpass.com/thumbs/76/28/76280c26dabc670f4b8728d9bcddc860.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 17:43:30 +0900</pubDate></item><item><title>デジタルハプティクスコンソーシアム第5回MEET UP</title><link>https://dx-haptics.connpass.com/event/368177/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月5日(金) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月5日(金) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 広島大学きてみんさいラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒732-0822 広島県広島市南区松原町2番62号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今回は広島で開催します！&lt;/p&gt;&lt;div&gt;&lt;h3&gt;デジタルハプティクスコンソーシアム第5回MEET UPイベントを開催します &lt;br&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;
 &lt;h4&gt;■今回は広島市内での開催です■&lt;br&gt;&lt;/h4&gt;
 &lt;p&gt;今回の特別講演は・・&lt;br&gt;&lt;/p&gt;
@@ -734,7 +847,7 @@ PHPに拘らずWEBに関すること、組織や開発についてでも歓迎�
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hiroshimaphp.connpass.com/event/363652/</guid><enclosure url="https://media.connpass.com/thumbs/99/40/994022ae3abbe7acba193e418dbbb46d.png" length="0" type="image/png"/><pubDate>Sat, 11 Oct 2025 16:18:48 +0900</pubDate></item><item><title>12/13 オープンソースカンファレンス2025 Hiroshima</title><link>https://ospn.connpass.com/event/361405/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: サテライトキャンパスひろしま&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市中区大手町1丁目5−3（広島県民文化センター5F）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #osc25hi&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;OSSの文化祭！2025年最後のOSCは広島で！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;オープンソースカンファレンス2025 Hiroshima開催のご案内&lt;/h1&gt;
-&lt;h1&gt;出展者(団体)募集中です！&lt;/h1&gt;
+&lt;h1&gt;出展者(団体)募集中です！（若干数追加募集）&lt;/h1&gt;
 &lt;p&gt;セミナー発表、展示ブース出展希望者は、公式サイトの「お問い合わせフォーム」にてご連絡ください。&lt;br&gt;
 申込ファイルをお送りいたします。&lt;br&gt;
 &lt;a href="https://event.ospn.jp/osc2025-hiroshima/" rel="nofollow"&gt;https://event.ospn.jp/osc2025-hiroshima/&lt;/a&gt;&lt;/p&gt;
@@ -769,4 +882,4 @@ PHPに拘らずWEBに関すること、組織や開発についてでも歓迎�
 詳細は以下のconnpassページでご確認ください。&lt;br&gt;
 &lt;a href="https://ospn.connpass.com/event/368129/" rel="nofollow"&gt;https://ospn.connpass.com/event/368129/&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;属性アンケートご協力のお願い&lt;/h1&gt;
-&lt;p&gt;connpassご登録時に、年代、職種、お住まいの地域、OSC参加歴、参加目的、参加コメントなど簡単なアンケートへのご入力をお願いしています。集計結果はイベント開催後にスポンサー、出展者にし提供するとともに、イベントの運営に役立てています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/361405/</guid><enclosure url="https://media.connpass.com/thumbs/6a/df/6adf677e3ccae1e30f64bde90ef2f8c5.png" length="0" type="image/png"/><pubDate>Mon, 10 Nov 2025 14:32:23 +0900</pubDate></item></channel></rss>
+&lt;p&gt;connpassご登録時に、年代、職種、お住まいの地域、OSC参加歴、参加目的、参加コメントなど簡単なアンケートへのご入力をお願いしています。集計結果はイベント開催後にスポンサー、出展者にし提供するとともに、イベントの運営に役立てています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/361405/</guid><enclosure url="https://media.connpass.com/thumbs/6a/df/6adf677e3ccae1e30f64bde90ef2f8c5.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 11:20:18 +0900</pubDate></item></channel></rss>
