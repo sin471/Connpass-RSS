@@ -1,5 +1,281 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 13 Nov 2025 15:15:34 +0000</lastBuildDate><item><title>HACK.BAR 名古屋 @ 栄</title><link>https://hackbar.connpass.com/event/375897/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月24日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月24日(月) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋嬢の台所 名古屋栄店&lt;/li&gt;&lt;li&gt;🏢 住所: 〒460-0008 名古屋市中区栄 3−9−22 (グランドビル 3階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ハックバー名古屋&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;エンジニアが集まる、間借り HACK.BAR in 名古屋&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【HACK.BAR 名古屋って？】&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 14 Nov 2025 15:13:17 +0000</lastBuildDate><item><title>第244回CoderDojo名古屋</title><link>https://coderdojo-nagoya.connpass.com/event/376025/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月30日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月30日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋市山田地域センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市西区二方町15-4 名古屋市山田地域センター&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #プログラミング学習&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;上小田井 の近くで開催&lt;/p&gt;&lt;div&gt;
+
+&lt;h3&gt;会場&lt;/h3&gt;
+&lt;p&gt;いつもと違い、山田地域センター で開催予定です。&lt;br&gt;
+地下鉄・名鉄 上小田井徒歩10分&lt;br&gt;
+無料駐車場あります&lt;/p&gt;
+&lt;h3&gt;ご注意とお願い&lt;/h3&gt;
+&lt;p&gt;メンターが少ない場合は保護者の方にご協力いただくことが多々あるかもしれません。ご了承ください。できれば一緒に楽しんでください。&lt;br&gt;
+特にアイロンビーズなどはやけどの恐れがあります。小さいお子さんには保護者の方についていただくようお願いします。
+&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;コース紹介&lt;/h3&gt;
+&lt;h6&gt;0) 3Dプリンタで小さなアクセサリをつくろう&lt;/h6&gt;
+&lt;p&gt;大人の親指ぐらいのサイズの小さなアクセサリをパソコンでデザインして、3Dプリンタで作ろう！&lt;br&gt;
+子どもでもつかえるTinkercadという3Dモデリングソフトを使います。&lt;br&gt;
+パソコンかタブレットをご持参下さい。  &lt;/p&gt;
+&lt;h6&gt;1)Scratch/テキストプログラミング/その他&lt;/h6&gt;
+&lt;p&gt;ブロックを組み合わせるだけでプログラミングができます。クリスマスをテーマにした作品を作ってみよう！もちろん、ぜんぜん違う作品でも初めての子でも大歓迎！&lt;br&gt;
+パソコンかタブレットをご持参下さい。  &lt;/p&gt;
+&lt;h6&gt;2)小さなロボット toioで遊ぼう(4才〜)&lt;/h6&gt;
+&lt;p&gt;SONYさんより 小さなロボット toio(トイオ)を貸していただきました。&lt;br&gt;
+カードを組み合わせるだけでかんたんにロボットを動かして、コースを走らせたりすることができます。&lt;br&gt;
+数に限りがあるのでお申し込みはお早めに！(^_-)-☆&lt;br&gt;
+2人1組で体験してもらいます。  &lt;/p&gt;
+&lt;h6&gt;3)Viscuitでお絵かきプログラミング(4才～低学年向け)&lt;/h6&gt;
+&lt;p&gt;自分で描いた絵を動かすプログラムを簡単に作れます。プログラムの楽しさ、可能性を感じてもらいます。タッチパネルのパソコンだとマウスに慣れていなくてもやりやすいです。&lt;br&gt;
+パソコンかタブレットをご持参下さい。&lt;/p&gt;
+&lt;h6&gt;4)オンライン参加&lt;/h6&gt;
+&lt;p&gt;現地に来れない人ようです。あまり細かくアドバイスするのが難しいので、ちょっと慣れた子向きかも。&lt;br&gt;
+それでもいいよ、と気軽に入って貰える人はどうぞー。&lt;br&gt;
+下の方にオンラインの参加の仕方が載っています。  &lt;/p&gt;
+
+
+
+
+&lt;h6&gt;5)パソコンがない方・お試し参加&lt;/h6&gt;
+&lt;p&gt;プログラムはじめてなんだけれど。。。パソコンないんだけれど。。。CoderDojo初めてだし。。。&lt;br&gt;
+そんな心配しなくても大丈夫(^-^)初めてでも、低学年でも、メンターが親切に教えてくれますよ。まずはプログラムでどんなことができるか一緒に楽しみましょう。&lt;br&gt;
+パソコンやタブレットはメンターの私物を貸し出します。&lt;/p&gt;
+&lt;h6&gt;6)あやちゃんのアナログDojo&lt;/h6&gt;
+&lt;p&gt;デジタルはさっぱりだけどアナログな楽しいこと大好きなあやちゃんと一緒に遊ぼう！&lt;br&gt;
+申込時に「その他ありましたら～」欄に好きなことややってみたいことを書いてください。準備してきます。&lt;br&gt;
+　例：「このキャラを上手に描きたい」「服のしわが上手に描けない」「ペーパークイリングで誕生日カードを作りたい」など
+用意できるのは&lt;br&gt;　
+　おえかき：クロッキー、色えんぴつ、水彩えのぐ、コピック、つけペンとインク（あやちゃんの専門はマンガイラスト）など&lt;br&gt;
+　ししゅう：フランスししゅう、クロスステッチ&lt;br&gt;
+　アナログゲーム：クトゥルフ神話TRPGやソードワールドなどのテーブルトークRPG、ニムト、ウミガメのスープなど&lt;br&gt;
+　スタンプ遊び：消しゴムハンコ、グルーガンを使うシーリングスタンプ&lt;br&gt;
+　ペーパークラフト：ペーパークイリング（細く切った紙を巻いて形を作る）、季節のカードづくりなど&lt;br&gt;
+　手芸的なこと：カリグラフィ、加賀ゆびぬき&lt;br&gt;
+プログラミングの休憩タイムにちょこっとのぞきにくるのもいいですよ！&lt;br&gt;&lt;/p&gt;
+
+
+
+&lt;h6&gt;7)ロボットカーMaqueenをプログラミングしよう&lt;/h6&gt;
+&lt;p&gt;プログラミングできる車 Maqueen(マックイーン)をプログラミングして自由に動かしてみよう。低学年からでも遊べるので気軽にどうぞー。機材はCoderDojoで貸します。&lt;br&gt;
+パソコンまたはタブレットを持参ください  &lt;/p&gt;
+&lt;h6&gt;9)アイロンビーズ作品作り&lt;/h6&gt;
+&lt;p&gt;アイロンビーズで好きなキャラクターを作ろう！&lt;br&gt;
+低学年や園児でもあそべるよー&lt;br&gt;
+人数が多い場合は交代で参加になることがあります。  &lt;/p&gt;
+
+
+
+
+
+&lt;h3&gt;オンラインでの参加方法&lt;/h3&gt;
+&lt;h4&gt;事前準備&lt;/h4&gt;
+&lt;p&gt;Google Meetでの開催を予定しています。&lt;br&gt;
+&lt;br&gt;
+できればパソコンやスマホ、タブレットにつなげられるイヤホンマイクがあると便利です。スマホはイヤホンマイクが付属されていることが多いです。なければ100均でも手に入ります。&lt;/p&gt;
+&lt;p&gt;「Google Meet」は、Mac / Windows / iPhone / iPad / Androidのいずれでも使えます。
+&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;当日の参加の仕方&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;参加申込をするとこのページの上のほうに「参加者への情報」という欄が表示されます。そこに「Google Meet」へのURLが表示されます。受付開始時間になったらそのURLをパソコンまたはスマホからクリックしてください。開始まではお気軽なオンラインの練習会にします。&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;画面の説明に沿って会議に参加してください  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;相手の声は聞こえるでしょうか。自分の声は相手に聞こえているでしょうか。ボリュームやマイクの設定を確認してみてください。&lt;/li&gt;
+&lt;li&gt;つながればあとはオンラインで説明します&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;お願い1&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt; 遅刻・無断キャンセルについて &lt;/strong&gt; ：&lt;br&gt;
+出来れば&lt;strong&gt;開始時間の【10～15分前】&lt;/strong&gt;にお集まりいただけるとスムーズに運営できてありがたいです。
+やむを得ない事情による場合もあると思いますので、事前に遅れて参加する旨や、キャンセルの旨を教えて頂けると幸いです。&lt;br&gt;
+余談ですが、うちの子も他のイベントでも当日突然「行きたくない」と言い出すこともあり、あるあるなんだなー、と思ったので、最近、(大きなイベント以外は)定員にも余裕があるのでとりあえず気軽に申し込んでください。駄目だったらキャンセルをしてもらえればいいです。逆に、キャンセル待ちでも空く可能性があるのでみなさん諦めずにどうぞー。&lt;/p&gt;
+&lt;h3&gt;お願い2&lt;/h3&gt;
+&lt;p&gt;1.　CoderDojoはボランティアで行っております。活動にご賛同いただけましたら活動費として一口500円程度の寄附を頂けると幸いです。※寄付は任意です。&lt;/p&gt;
+&lt;p&gt;2.　ノートパソコンの持参をお願いします。事故防止の観点から、極力当日までにバッテリーを満充電にして、当日はコード不要にしてきてください。小さいお子さんが歩く際に電源コードで転んでしまったり、パソコンを破損してしまう恐れがあります。※バッテリー容量が少ない場合はこの限りではありません。※なるべく多くの子供たちに体験する機会を提供したいと考えています。ノートパソコンをお持ちではないが興味がある方は一度ご相談ください(対応できない場合もあります)。&lt;/p&gt;
+&lt;p&gt;3.　Scratchを実施の方は、なるべく事前にお子様用のScratchのアカウントを作ってきてください。作った作品をクラウドに保存できるため、作成途中の作品が消えてしまうのを防いだり、お家に帰ってからも続きを作ったりできます。&lt;br&gt;
+&lt;a href="http://coderdojo-nishinomiya.info/create-scratch-account/" rel="nofollow"&gt;Scratchアカウントの作り方&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.　ネットワーク環境はボランティアスタッフの私物で用意しますが、通信容量や接続数に限りがあります。可能でしたら、WiMAXなどの無線ルーター、スマートフォンのテザリング等をご用意ください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;CoderDojo名古屋の詳細・記録などは下記をご覧ください。&lt;br&gt;
+&lt;a href="http://coderdojo-nagoya.hateblo.jp/" rel="nofollow"&gt;活動報告&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;CoderDojo名古屋に興味がある方、参加者の方向けに、お知らせやおすすめイベントの紹介、面白い製品やホームページなどの紹介をしているFacebookグループです。&lt;br&gt;
+お気軽に参加リクエストしてください(^o^)/&lt;br&gt;
+&lt;a href="https://www.facebook.com/groups/coderdojo.nagoya/" rel="nofollow"&gt;CoderDojo名古屋 Facebookグループ&lt;/a&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;【お知らせ】活動報告移転&lt;br&gt;&lt;/h3&gt;
+&lt;p&gt;ホームページ・活動報告のサイトを移転しました&lt;br&gt;
+&lt;a href="http://coderdojo-nagoya.hateblo.jp/" rel="nofollow"&gt;http://coderdojo-nagoya.hateblo.jp/&lt;/a&gt;&lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;近隣のCoderDojo紹介&lt;/h3&gt;
+&lt;p&gt;近くのCoderDojoをお知らせします。良かったら他のCoderDojoも遊びに行ってみてくださいね。&lt;/p&gt;
+&lt;h4&gt;CoderDojo犬山&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-inuyama.doorkeeper.jp/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo一宮&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-ichinomiya.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo師勝&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-shikatsu.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo瀬戸&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-seto.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo瑞穂&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-mizuho.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo日進&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-nisshin.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo安城&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-anjo.doorkeeper.jp/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo尾張&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojoowari.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo天白&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://tempaku.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;もっと探す！&lt;/h4&gt;
+&lt;p&gt;近日開催の道場は&lt;a href="https://coderdojo.jp/events" rel="nofollow"&gt;コチラのリンク&lt;/a&gt;から 📆検索できますよ。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href="https://map.coderdojo.jp/" rel="nofollow"&gt;地図&lt;/a&gt; からCoderDojoを探すことができます&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nagoya.connpass.com/event/376025/</guid><enclosure url="https://media.connpass.com/thumbs/b5/f4/b5f44600e44cd666e9c9a08038db3683.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 10:15:14 +0900</pubDate></item><item><title>第243回CoderDojo名古屋</title><link>https://coderdojo-nagoya.connpass.com/event/376024/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月16日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月16日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋市山田地域センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市西区二方町15-4 名古屋市山田地域センター&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #プログラミング学習&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;上小田井 の近くで開催&lt;/p&gt;&lt;div&gt;
+
+&lt;h3&gt;会場&lt;/h3&gt;
+&lt;p&gt;いつもと違い、山田地域センター で開催予定です。&lt;br&gt;
+地下鉄・名鉄 上小田井徒歩10分&lt;br&gt;
+無料駐車場あります&lt;/p&gt;
+&lt;h3&gt;ご注意とお願い&lt;/h3&gt;
+&lt;p&gt;メンターが少ない場合は保護者の方にご協力いただくことが多々あるかもしれません。ご了承ください。できれば一緒に楽しんでください。&lt;br&gt;
+特にアイロンビーズなどはやけどの恐れがあります。小さいお子さんには保護者の方についていただくようお願いします。
+&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;コース紹介&lt;/h3&gt;
+&lt;h6&gt;0) 3Dプリンタで小さなアクセサリをつくろう&lt;/h6&gt;
+&lt;p&gt;大人の親指ぐらいのサイズの小さなアクセサリをパソコンでデザインして、3Dプリンタで作ろう！&lt;br&gt;
+子どもでもつかえるTinkercadという3Dモデリングソフトを使います。&lt;br&gt;
+パソコンかタブレットをご持参下さい。  &lt;/p&gt;
+&lt;h6&gt;1)Scratch/テキストプログラミング/その他&lt;/h6&gt;
+&lt;p&gt;ブロックを組み合わせるだけでプログラミングができます。クリスマスをテーマにした作品を作ってみよう！もちろん、ぜんぜん違う作品でも初めての子でも大歓迎！&lt;br&gt;
+パソコンかタブレットをご持参下さい。  &lt;/p&gt;
+&lt;h6&gt;2)小さなロボット toioで遊ぼう(4才〜)&lt;/h6&gt;
+&lt;p&gt;SONYさんより 小さなロボット toio(トイオ)を貸していただきました。&lt;br&gt;
+カードを組み合わせるだけでかんたんにロボットを動かして、コースを走らせたりすることができます。&lt;br&gt;
+数に限りがあるのでお申し込みはお早めに！(^_-)-☆&lt;br&gt;
+2人1組で体験してもらいます。  &lt;/p&gt;
+&lt;h6&gt;3)Viscuitでお絵かきプログラミング(4才～低学年向け)&lt;/h6&gt;
+&lt;p&gt;自分で描いた絵を動かすプログラムを簡単に作れます。プログラムの楽しさ、可能性を感じてもらいます。タッチパネルのパソコンだとマウスに慣れていなくてもやりやすいです。&lt;br&gt;
+パソコンかタブレットをご持参下さい。&lt;/p&gt;
+&lt;h6&gt;4)オンライン参加&lt;/h6&gt;
+&lt;p&gt;現地に来れない人ようです。あまり細かくアドバイスするのが難しいので、ちょっと慣れた子向きかも。&lt;br&gt;
+それでもいいよ、と気軽に入って貰える人はどうぞー。&lt;br&gt;
+下の方にオンラインの参加の仕方が載っています。  &lt;/p&gt;
+
+
+
+
+&lt;h6&gt;5)パソコンがない方・お試し参加&lt;/h6&gt;
+&lt;p&gt;プログラムはじめてなんだけれど。。。パソコンないんだけれど。。。CoderDojo初めてだし。。。&lt;br&gt;
+そんな心配しなくても大丈夫(^-^)初めてでも、低学年でも、メンターが親切に教えてくれますよ。まずはプログラムでどんなことができるか一緒に楽しみましょう。&lt;br&gt;
+パソコンやタブレットはメンターの私物を貸し出します。&lt;/p&gt;
+&lt;h6&gt;6)あやちゃんのアナログDojo&lt;/h6&gt;
+&lt;p&gt;デジタルはさっぱりだけどアナログな楽しいこと大好きなあやちゃんと一緒に遊ぼう！&lt;br&gt;
+申込時に「その他ありましたら～」欄に好きなことややってみたいことを書いてください。準備してきます。&lt;br&gt;
+　例：「このキャラを上手に描きたい」「服のしわが上手に描けない」「ペーパークイリングで誕生日カードを作りたい」など
+用意できるのは&lt;br&gt;　
+　おえかき：クロッキー、色えんぴつ、水彩えのぐ、コピック、つけペンとインク（あやちゃんの専門はマンガイラスト）など&lt;br&gt;
+　ししゅう：フランスししゅう、クロスステッチ&lt;br&gt;
+　アナログゲーム：クトゥルフ神話TRPGやソードワールドなどのテーブルトークRPG、ニムト、ウミガメのスープなど&lt;br&gt;
+　スタンプ遊び：消しゴムハンコ、グルーガンを使うシーリングスタンプ&lt;br&gt;
+　ペーパークラフト：ペーパークイリング（細く切った紙を巻いて形を作る）、季節のカードづくりなど&lt;br&gt;
+　手芸的なこと：カリグラフィ、加賀ゆびぬき&lt;br&gt;
+プログラミングの休憩タイムにちょこっとのぞきにくるのもいいですよ！&lt;br&gt;&lt;/p&gt;
+
+
+
+&lt;h6&gt;7)ロボットカーMaqueenをプログラミングしよう&lt;/h6&gt;
+&lt;p&gt;プログラミングできる車 Maqueen(マックイーン)をプログラミングして自由に動かしてみよう。低学年からでも遊べるので気軽にどうぞー。機材はCoderDojoで貸します。&lt;br&gt;
+パソコンまたはタブレットを持参ください  &lt;/p&gt;
+&lt;h6&gt;9)アイロンビーズ作品作り&lt;/h6&gt;
+&lt;p&gt;アイロンビーズで好きなキャラクターを作ろう！&lt;br&gt;
+低学年や園児でもあそべるよー&lt;br&gt;
+人数が多い場合は交代で参加になることがあります。  &lt;/p&gt;
+
+
+
+
+
+&lt;h3&gt;オンラインでの参加方法&lt;/h3&gt;
+&lt;h4&gt;事前準備&lt;/h4&gt;
+&lt;p&gt;Google Meetでの開催を予定しています。&lt;br&gt;
+&lt;br&gt;
+できればパソコンやスマホ、タブレットにつなげられるイヤホンマイクがあると便利です。スマホはイヤホンマイクが付属されていることが多いです。なければ100均でも手に入ります。&lt;/p&gt;
+&lt;p&gt;「Google Meet」は、Mac / Windows / iPhone / iPad / Androidのいずれでも使えます。
+&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;当日の参加の仕方&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;参加申込をするとこのページの上のほうに「参加者への情報」という欄が表示されます。そこに「Google Meet」へのURLが表示されます。受付開始時間になったらそのURLをパソコンまたはスマホからクリックしてください。開始まではお気軽なオンラインの練習会にします。&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;画面の説明に沿って会議に参加してください  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;相手の声は聞こえるでしょうか。自分の声は相手に聞こえているでしょうか。ボリュームやマイクの設定を確認してみてください。&lt;/li&gt;
+&lt;li&gt;つながればあとはオンラインで説明します&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;お願い1&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt; 遅刻・無断キャンセルについて &lt;/strong&gt; ：&lt;br&gt;
+出来れば&lt;strong&gt;開始時間の【10～15分前】&lt;/strong&gt;にお集まりいただけるとスムーズに運営できてありがたいです。
+やむを得ない事情による場合もあると思いますので、事前に遅れて参加する旨や、キャンセルの旨を教えて頂けると幸いです。&lt;br&gt;
+余談ですが、うちの子も他のイベントでも当日突然「行きたくない」と言い出すこともあり、あるあるなんだなー、と思ったので、最近、(大きなイベント以外は)定員にも余裕があるのでとりあえず気軽に申し込んでください。駄目だったらキャンセルをしてもらえればいいです。逆に、キャンセル待ちでも空く可能性があるのでみなさん諦めずにどうぞー。&lt;/p&gt;
+&lt;h3&gt;お願い2&lt;/h3&gt;
+&lt;p&gt;1.　CoderDojoはボランティアで行っております。活動にご賛同いただけましたら活動費として一口500円程度の寄附を頂けると幸いです。※寄付は任意です。&lt;/p&gt;
+&lt;p&gt;2.　ノートパソコンの持参をお願いします。事故防止の観点から、極力当日までにバッテリーを満充電にして、当日はコード不要にしてきてください。小さいお子さんが歩く際に電源コードで転んでしまったり、パソコンを破損してしまう恐れがあります。※バッテリー容量が少ない場合はこの限りではありません。※なるべく多くの子供たちに体験する機会を提供したいと考えています。ノートパソコンをお持ちではないが興味がある方は一度ご相談ください(対応できない場合もあります)。&lt;/p&gt;
+&lt;p&gt;3.　Scratchを実施の方は、なるべく事前にお子様用のScratchのアカウントを作ってきてください。作った作品をクラウドに保存できるため、作成途中の作品が消えてしまうのを防いだり、お家に帰ってからも続きを作ったりできます。&lt;br&gt;
+&lt;a href="http://coderdojo-nishinomiya.info/create-scratch-account/" rel="nofollow"&gt;Scratchアカウントの作り方&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.　ネットワーク環境はボランティアスタッフの私物で用意しますが、通信容量や接続数に限りがあります。可能でしたら、WiMAXなどの無線ルーター、スマートフォンのテザリング等をご用意ください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;CoderDojo名古屋の詳細・記録などは下記をご覧ください。&lt;br&gt;
+&lt;a href="http://coderdojo-nagoya.hateblo.jp/" rel="nofollow"&gt;活動報告&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;CoderDojo名古屋に興味がある方、参加者の方向けに、お知らせやおすすめイベントの紹介、面白い製品やホームページなどの紹介をしているFacebookグループです。&lt;br&gt;
+お気軽に参加リクエストしてください(^o^)/&lt;br&gt;
+&lt;a href="https://www.facebook.com/groups/coderdojo.nagoya/" rel="nofollow"&gt;CoderDojo名古屋 Facebookグループ&lt;/a&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;【お知らせ】活動報告移転&lt;br&gt;&lt;/h3&gt;
+&lt;p&gt;ホームページ・活動報告のサイトを移転しました&lt;br&gt;
+&lt;a href="http://coderdojo-nagoya.hateblo.jp/" rel="nofollow"&gt;http://coderdojo-nagoya.hateblo.jp/&lt;/a&gt;&lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;近隣のCoderDojo紹介&lt;/h3&gt;
+&lt;p&gt;近くのCoderDojoをお知らせします。良かったら他のCoderDojoも遊びに行ってみてくださいね。&lt;/p&gt;
+&lt;h4&gt;CoderDojo犬山&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-inuyama.doorkeeper.jp/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo一宮&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-ichinomiya.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo師勝&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-shikatsu.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo瀬戸&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-seto.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo瑞穂&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-mizuho.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo日進&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-nisshin.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo安城&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-anjo.doorkeeper.jp/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo尾張&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://coderdojoowari.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;CoderDojo天白&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://tempaku.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;もっと探す！&lt;/h4&gt;
+&lt;p&gt;近日開催の道場は&lt;a href="https://coderdojo.jp/events" rel="nofollow"&gt;コチラのリンク&lt;/a&gt;から 📆検索できますよ。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href="https://map.coderdojo.jp/" rel="nofollow"&gt;地図&lt;/a&gt; からCoderDojoを探すことができます&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nagoya.connpass.com/event/376024/</guid><enclosure url="https://media.connpass.com/thumbs/b5/f4/b5f44600e44cd666e9c9a08038db3683.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 10:13:18 +0900</pubDate></item><item><title>HACK.BAR 名古屋 @ 栄</title><link>https://hackbar.connpass.com/event/375897/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月24日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月24日(月) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋嬢の台所 名古屋栄店&lt;/li&gt;&lt;li&gt;🏢 住所: 〒460-0008 名古屋市中区栄 3−9−22 (グランドビル 3階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ハックバー名古屋&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;エンジニアが集まる、間借り HACK.BAR in 名古屋&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【HACK.BAR 名古屋って？】&lt;/h1&gt;
 &lt;p&gt;神戸に本店のあるエンジニアバー「HACK.BAR」の名古屋版をやります！
 HACK.BARおなじみのプログラミング言語カクテル (プログラミング言語からインスピレーションを受け開発されたカクテル) をお楽しみください！&lt;/p&gt;
 &lt;p&gt;お一人で参加される方も多いです。初めての方もぜひリアルで交流しましょう！&lt;/p&gt;
@@ -544,7 +820,7 @@ kintoneやサイボウズを感じるプチイベントを毎月定期的に開�
 &lt;p&gt;不明点やお困りごとがございましたら、&lt;br&gt;
 運営責任者の手島までお問い合わせください！&lt;br&gt;
 ☎️：070-3193-7467&lt;br&gt;
-✉️：lt-its-branch-cl-support@leverages.jp&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hikalab-kansai.connpass.com/event/375284/</guid><pubDate>Wed, 12 Nov 2025 12:02:11 +0900</pubDate></item><item><title>フィジカルAI勉強会＠名古屋vol.2-ロボ実演×2機！ロボティクス企業とGENIAC採択企業が登壇</title><link>https://connpass.com/event/375125/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月25日(火) 19:15&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月25日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: STATION Ai&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市昭和区鶴舞1丁目2番32号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;実際の機械を動かしながらフィジカルAIの知識をシェア&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;おそらく日本初の実機ありフィジカルAI勉強会 第4回| 名古屋開催（2回目）&lt;/strong&gt;&lt;/h1&gt;
+✉️：lt-its-branch-cl-support@leverages.jp&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hikalab-kansai.connpass.com/event/375284/</guid><enclosure url="https://media.connpass.com/thumbs/1b/6d/1b6daa977c8fe770f1af1af5eb7123c7.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 15:13:53 +0900</pubDate></item><item><title>フィジカルAI勉強会＠名古屋vol.2-ロボ実演×2機！ロボティクス企業とGENIAC採択企業が登壇</title><link>https://connpass.com/event/375125/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月25日(火) 19:15&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月25日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: STATION Ai&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市昭和区鶴舞1丁目2番32号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;実際の機械を動かしながらフィジカルAIの知識をシェア&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;おそらく日本初の実機ありフィジカルAI勉強会 第4回| 名古屋開催（2回目）&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;主催者・登壇者がイベント会場にロボットの実機を持ち込みます。参加者のみなさまはもちろん手ぶらでOKです。&lt;br&gt;
 フィジカルAI勉強会とは、Airionが運営する日本初（たぶん）、実機を動かしてフィジカルAIを学べる勉強会です。エンジニアや製造業界関係者が集まり、実機のデモ〜技術的解説、その場でしか聞けない質疑応答を通じたリアルなナレッジをシェアし合います。&lt;br&gt;
 今回は会場に搬送ロボットと製造アームロボットの実機を持ち込み、参加者のみなさまにリアルな動きを体験いただけます。もちろん手ぶらで参加OKです。&lt;br&gt;
@@ -603,8 +879,8 @@ kintoneやサイボウズを感じるプチイベントを毎月定期的に開�
 &lt;h1&gt;&lt;strong&gt;登壇者&lt;/strong&gt;&lt;/h1&gt;
 &lt;h3&gt;川崎正哉&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="川崎正哉 " src="https://media.connpass.com/thumbs/c3/3d/c33d2889807ec36777961231c2b9ab60.png" width="200"&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;アフレル株式会社 Xアカウント &lt;/strong&gt;&lt;br&gt;&lt;a href="https://x.com/Afrelofficial" rel="nofollow"&gt;&lt;strong&gt;@Afrelofficial &lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;アフレル株式会社 Facebookアカウント &lt;/strong&gt;&lt;br&gt;&lt;a href="https://www.facebook.com/afrel.co.jp" rel="nofollow"&gt;&lt;strong&gt;株式会社アフレル &lt;/strong&gt;&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;株式会社アフレル Xアカウント &lt;/strong&gt;&lt;br&gt;&lt;a href="https://x.com/Afrelofficial" rel="nofollow"&gt;&lt;strong&gt;@Afrelofficial &lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;株式会社アフレル Facebookアカウント &lt;/strong&gt;&lt;br&gt;&lt;a href="https://www.facebook.com/afrel.co.jp" rel="nofollow"&gt;&lt;strong&gt;株式会社アフレル &lt;/strong&gt;&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;福井県在住の猫好きエンジニア。某自動車部品製造会社にてエンジニアを25年経験、そのスキルを活かして全国の製造業にあふれる感動を提供するためのInnovation Technologistを目指して現在に至る。
 アフレルではロボティクス事業の技術開発を担当し、新しい価値を生み出す担当。&lt;/p&gt;
 &lt;h3&gt;大熊 拓海&lt;/h3&gt;
@@ -636,7 +912,7 @@ JR鶴舞駅（STATION Ai前 駅）から徒歩6分
 &lt;li&gt;万一イベント開催が中止の場合、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;/li&gt;
 &lt;li&gt;営業、リクルーティング目的での参加はご遠慮いただきますようお願いいたします。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;皆様のご参加をお待ちしております&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/375125/</guid><enclosure url="https://media.connpass.com/thumbs/6e/9f/6e9fb3dc9b2be34c84de98a02d637890.png" length="0" type="image/png"/><pubDate>Tue, 11 Nov 2025 10:28:44 +0900</pubDate></item><item><title>CoderDojo日進 子供向けプログラミング道場(会場&amp;オンライン)2025/11/22</title><link>https://coderdojo-nisshin.connpass.com/event/374992/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月22日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月22日(土) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: にぎわい交流館&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県日進市蟹甲町中島277-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;注意！！&lt;/h1&gt;
+&lt;p&gt;皆様のご参加をお待ちしております&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/375125/</guid><enclosure url="https://media.connpass.com/thumbs/6e/9f/6e9fb3dc9b2be34c84de98a02d637890.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 15:02:42 +0900</pubDate></item><item><title>CoderDojo日進 子供向けプログラミング道場(会場&amp;オンライン)2025/11/22</title><link>https://coderdojo-nisshin.connpass.com/event/374992/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月22日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月22日(土) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: にぎわい交流館&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県日進市蟹甲町中島277-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;注意！！&lt;/h1&gt;
 &lt;p&gt;&lt;span style="color: red; font-size: larger;"&gt;
 ※当日PC貸出希望の方は、「参加者（子供）PC貸出」で申し込みください。
 &lt;/span&gt;&lt;/p&gt;
@@ -1948,7 +2224,7 @@ Azureに興味がある方、クラウド技術をもっと深く知りたい方
 &lt;tbody&gt;&lt;tr&gt;
 &lt;td align="center" style="padding: 12px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/smarthr.png" width="200px"&gt;&lt;br&gt;&lt;a href="https://smarthr.co.jp/" rel="nofollow"&gt;株式会社SmartHR&lt;/a&gt;&lt;/td&gt;
 &lt;td align="center" style="padding: 12px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/leaner.png" width="200px"&gt;&lt;br&gt;&lt;a href="https://leaner.co.jp/" rel="nofollow"&gt;株式会社Leaner Technologies&lt;/a&gt;&lt;/td&gt;
-&lt;td align="center" style="padding: 12px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="200px"&gt;&lt;br&gt;&lt;a href="https://classmethod.jp/" rel="nofollow"&gt;クラスメソッド株式会社&lt;/a&gt;&lt;/td&gt;
+&lt;td align="center" style="padding: 12px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/classmethod.png" width="200px"&gt;&lt;br&gt;&lt;a href="https://classmethod.jp/" rel="nofollow"&gt;クラスメソッド株式会社&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center" style="padding: 12px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/kci.png" width="200px"&gt;&lt;br&gt;&lt;a href="https://www.kurusugawa.jp/" rel="nofollow"&gt;有限会社来栖川電算&lt;/a&gt;&lt;/td&gt;
@@ -2008,12 +2284,19 @@ Azureに興味がある方、クラウド技術をもっと深く知りたい方
 &lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;&lt;a href="https://jawsug-nagoya.connpass.com/" rel="nofollow"&gt;JAWS UG名古屋&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;&lt;a href="https://ore-no-benkyoukai.connpass.com/" rel="nofollow"&gt;俺の勉強会&lt;/a&gt;&lt;/td&gt;
+&lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;準備中&lt;/td&gt;
+&lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;準備中&lt;/td&gt;
+&lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;準備中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;準備中&lt;/td&gt;
 &lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;準備中&lt;/td&gt;
 &lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;準備中&lt;/td&gt;
 &lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;準備中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
+
 &lt;h1&gt;🔔 その他&lt;/h1&gt;
 &lt;h2&gt;アンチハラスメントポリシー&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://nagoya-godo-konshinkai.github.io/ngk2026s/anti_harassment_policy.html" rel="nofollow"&gt;https://nagoya-godo-konshinkai.github.io/ngk2026s/anti_harassment_policy.html&lt;/a&gt;&lt;/p&gt;
@@ -2056,7 +2339,7 @@ connpassページ「イベント管理者への問い合わせ」より事前に
 &lt;h2&gt;お問い合わせ&lt;/h2&gt;
 &lt;p&gt;各種お問い合わせは、connpassページ「イベント管理者への問い合わせ」よりお願いいたします。&lt;/p&gt;
 &lt;p&gt;NGKはボランティアの運営メンバー、およびスポンサー・コミュニティ・参加者の皆さんの協力によって開催されています。&lt;/p&gt;
-&lt;p&gt;運営へ参加・協力いただける方は&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeprar-ncaWQfn2u_ROqSu8QQN1qI6aJ8Sz9E17vvRTXfS8ag/viewform" rel="nofollow"&gt;NGK 実行委員会 運営参加応募フォーム&lt;/a&gt;よりお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ngk.connpass.com/event/373524/</guid><enclosure url="https://media.connpass.com/thumbs/72/0a/720a5af79489db82c26373f88f58e26a.png" length="0" type="image/png"/><pubDate>Mon, 10 Nov 2025 16:44:29 +0900</pubDate></item><item><title>Nagoya.vim #20</title><link>https://nagoyavim.connpass.com/event/373380/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月29日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 来栖川電算&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区新栄１丁目２９−２３ (アーバンドエル新栄)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #nagoyavim&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;Vim(Neovim) でもくもくする会です。&lt;/p&gt;
+&lt;p&gt;運営へ参加・協力いただける方は&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeprar-ncaWQfn2u_ROqSu8QQN1qI6aJ8Sz9E17vvRTXfS8ag/viewform" rel="nofollow"&gt;NGK 実行委員会 運営参加応募フォーム&lt;/a&gt;よりお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ngk.connpass.com/event/373524/</guid><enclosure url="https://media.connpass.com/thumbs/72/0a/720a5af79489db82c26373f88f58e26a.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 17:46:41 +0900</pubDate></item><item><title>Nagoya.vim #20</title><link>https://nagoyavim.connpass.com/event/373380/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月29日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 来栖川電算&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区新栄１丁目２９−２３ (アーバンドエル新栄)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #nagoyavim&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;Vim(Neovim) でもくもくする会です。&lt;/p&gt;
 &lt;h2&gt;目的&lt;/h2&gt;
 &lt;p&gt;なごやの Vim(Neovim) 使いと交流する&lt;/p&gt;
 &lt;h2&gt;内容&lt;/h2&gt;
@@ -2178,13 +2461,13 @@ connpassページ「イベント管理者への問い合わせ」より事前に
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center" style="padding: 12px;"&gt;&lt;br&gt;企業スポンサー/Silver&lt;/td&gt;
-&lt;td align="center" style="padding: 12px;"&gt;&lt;br&gt;募集中&lt;/td&gt;
-&lt;td align="center" style="padding: 12px;"&gt;&lt;br&gt;2025/11/14&lt;/td&gt;
+&lt;td align="center" style="padding: 12px;"&gt;&lt;br&gt;募集中&lt;br&gt;延長しました！&lt;/td&gt;
+&lt;td align="center" style="padding: 12px;"&gt;&lt;br&gt;2025/11/28&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center" style="padding: 12px;"&gt;&lt;br&gt;パトロン&lt;/td&gt;
-&lt;td align="center" style="padding: 12px;"&gt;&lt;br&gt;募集中&lt;/td&gt;
-&lt;td align="center" style="padding: 12px;"&gt;&lt;br&gt;2025/11/14&lt;/td&gt;
+&lt;td align="center" style="padding: 12px;"&gt;&lt;br&gt;募集中&lt;br&gt;延長しました！&lt;/td&gt;
+&lt;td align="center" style="padding: 12px;"&gt;&lt;br&gt;2025/11/28&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center" style="padding: 12px;"&gt;&lt;br&gt;夜の部 懇親会&lt;/td&gt;
@@ -2218,7 +2501,7 @@ connpassページ「イベント管理者への問い合わせ」より事前に
 &lt;h3&gt;申し込み方法&lt;/h3&gt;
 &lt;p&gt;詳細は&lt;a href="https://nagoya-godo-konshinkai.github.io/ngk2026s/sponsors_prospectus.html" rel="nofollow"&gt;企業スポンサー募集要綱&lt;/a&gt;をご覧ください。&lt;/p&gt;
 &lt;h3&gt;申し込み期限&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;2025/11/14（金）22:00&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2025/11/28（金）22:00&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;申し込み多数の場合は、申込み期限前でもお断りする可能性があります。ご了承ください。&lt;/p&gt;
 &lt;h2&gt;コミュニティ参加&lt;/h2&gt;
 &lt;p&gt;NGK2026Sにはコミュニティ活動を宣伝できる場として「コミュニティ参加」（無料）があります。&lt;/p&gt;
@@ -2235,7 +2518,7 @@ connpassページ「イベント管理者への問い合わせ」より事前に
 &lt;h3&gt;申し込み方法&lt;/h3&gt;
 &lt;p&gt;詳細は&lt;a href="https://nagoya-godo-konshinkai.github.io/ngk2026s/patron_prospectus.html" rel="nofollow"&gt;パトロン募集要綱&lt;/a&gt;をご覧ください。&lt;/p&gt;
 &lt;h3&gt;申し込み期限&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;2026/11/14（金）22:00&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2026/11/28（金）22:00&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;申し込み多数の場合は、申し込み期限前でも募集終了する可能性があります。あらかじめご了承ください。&lt;/p&gt;
 &lt;h1&gt;🏆 企業スポンサー・パトロン（申し込み順）&lt;/h1&gt;
 &lt;h2&gt;会場提供スポンサー&lt;/h2&gt;
@@ -2250,7 +2533,7 @@ connpassページ「イベント管理者への問い合わせ」より事前に
 &lt;tbody&gt;&lt;tr&gt;
 &lt;td align="center" style="padding: 12px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/smarthr.png" width="200px"&gt;&lt;br&gt;&lt;a href="https://smarthr.co.jp/" rel="nofollow"&gt;株式会社SmartHR&lt;/a&gt;&lt;/td&gt;
 &lt;td align="center" style="padding: 12px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/leaner.png" width="200px"&gt;&lt;br&gt;&lt;a href="https://leaner.co.jp/" rel="nofollow"&gt;株式会社Leaner Technologies&lt;/a&gt;&lt;/td&gt;
-&lt;td align="center" style="padding: 12px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="200px"&gt;&lt;br&gt;&lt;a href="https://classmethod.jp/" rel="nofollow"&gt;クラスメソッド株式会社&lt;/a&gt;&lt;/td&gt;
+&lt;td align="center" style="padding: 12px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/classmethod.png" width="200px"&gt;&lt;br&gt;&lt;a href="https://classmethod.jp/" rel="nofollow"&gt;クラスメソッド株式会社&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center" style="padding: 12px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/kci.png" width="200px"&gt;&lt;br&gt;&lt;a href="https://www.kurusugawa.jp/" rel="nofollow"&gt;有限会社来栖川電算&lt;/a&gt;&lt;/td&gt;
@@ -2308,6 +2591,12 @@ connpassページ「イベント管理者への問い合わせ」より事前に
 &lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/nagoya_frontend_user_group.png" width="150px"&gt;&lt;br&gt;&lt;a href="https://nfug.connpass.com/" rel="nofollow"&gt;Nagoya Frontend&lt;br&gt;User Group&lt;/a&gt;&lt;/td&gt;
 &lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/nagara_rb.png" width="150px"&gt;&lt;br&gt;&lt;a href="https://nagara-rb.connpass.com/" rel="nofollow"&gt;nagara.rb&lt;/a&gt;&lt;/td&gt;
 &lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;&lt;a href="https://jawsug-nagoya.connpass.com/" rel="nofollow"&gt;JAWS UG名古屋&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;&lt;a href="https://ore-no-benkyoukai.connpass.com/" rel="nofollow"&gt;俺の勉強会&lt;/a&gt;&lt;/td&gt;
+&lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;準備中&lt;/td&gt;
+&lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;準備中&lt;/td&gt;
+&lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;準備中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center" style="padding: 9px;"&gt;&lt;img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png" width="150px"&gt;&lt;br&gt;準備中&lt;/td&gt;
@@ -2388,7 +2677,7 @@ connpassページ「イベント管理者への問い合わせ」より事前に
 &lt;h2&gt;お問い合わせ&lt;/h2&gt;
 &lt;p&gt;各種お問い合わせは、connpassページ「イベント管理者への問い合わせ」よりお願いいたします。&lt;/p&gt;
 &lt;p&gt;NGKはボランティアの運営メンバー、およびスポンサー・コミュニティ・参加者の皆さんの協力によって開催されています。&lt;/p&gt;
-&lt;p&gt;運営へ参加・協力いただける方は&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeprar-ncaWQfn2u_ROqSu8QQN1qI6aJ8Sz9E17vvRTXfS8ag/viewform" rel="nofollow"&gt;NGK 実行委員会 運営参加応募フォーム&lt;/a&gt;よりお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ngk.connpass.com/event/373265/</guid><enclosure url="https://media.connpass.com/thumbs/2e/15/2e15526e85539548c0255d9f4b34a105.png" length="0" type="image/png"/><pubDate>Mon, 10 Nov 2025 16:25:57 +0900</pubDate></item><item><title>【名古屋】AtomVM入門〜大須散策を添えて〜</title><link>https://piyopiyoex.connpass.com/event/373137/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月21日(土) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月21日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 上前津駅&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区大須4丁目&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #piyopiyoex&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;大須でお昼ご飯、大須商店街の散策を楽しみ、その流れでAtomVM入門する会です。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;font color="#ff2070"&gt;本イベントは、オフラインでの開催となります。&lt;/font&gt;&lt;/h1&gt;
+&lt;p&gt;運営へ参加・協力いただける方は&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeprar-ncaWQfn2u_ROqSu8QQN1qI6aJ8Sz9E17vvRTXfS8ag/viewform" rel="nofollow"&gt;NGK 実行委員会 運営参加応募フォーム&lt;/a&gt;よりお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ngk.connpass.com/event/373265/</guid><enclosure url="https://media.connpass.com/thumbs/2e/15/2e15526e85539548c0255d9f4b34a105.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 17:46:13 +0900</pubDate></item><item><title>【名古屋】AtomVM入門〜大須散策を添えて〜</title><link>https://piyopiyoex.connpass.com/event/373137/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月21日(土) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月21日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 上前津駅&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区大須4丁目&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #piyopiyoex&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;大須でお昼ご飯、大須商店街の散策を楽しみ、その流れでAtomVM入門する会です。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;font color="#ff2070"&gt;本イベントは、オフラインでの開催となります。&lt;/font&gt;&lt;/h1&gt;
 &lt;h2&gt;開催：2026年 3月 21日 (土) 10:30～&lt;/h2&gt;
 &lt;p&gt;連絡を取れるようにDiscord「elixirと見習い錬金術師」に参加してください。&lt;br&gt;
 &lt;a href="https://discord.com/channels/1028556271881818113/1028564134134042725" rel="nofollow"&gt;https://discord.com/channels/1028556271881818113/1028564134134042725&lt;/a&gt;&lt;/p&gt;
@@ -3628,23 +3917,23 @@ re:Inventに関係あることならなんでも！&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;19:50-20:00&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;/td&gt;
-&lt;td align="left"&gt;&lt;/td&gt;
+&lt;td align="left"&gt;＊順番調整中　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;
+&lt;td align="left"&gt;moyashimaru&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;20:05-20:15&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;/td&gt;
-&lt;td align="left"&gt;&lt;/td&gt;
+&lt;td align="left"&gt;＊順番調整中&lt;/td&gt;
+&lt;td align="left"&gt;seiya_adachi&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;20:20-20:30&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;/td&gt;
-&lt;td align="left"&gt;&lt;/td&gt;
+&lt;td align="left"&gt;＊順番調整中&lt;/td&gt;
+&lt;td align="left"&gt;msysh&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;20:35-20:45&lt;/td&gt;
-&lt;td align="left"&gt;募集中⑤&lt;/td&gt;
-&lt;td align="left"&gt;&lt;/td&gt;
+&lt;td align="left"&gt;＊順番調整中&lt;/td&gt;
+&lt;td align="left"&gt;m.kito&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;20:45-21:00&lt;/td&gt;
@@ -3659,7 +3948,7 @@ re:Inventに関係あることならなんでも！&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2&gt;注意事項&lt;/h2&gt;
-&lt;p&gt;ハッシュタグは #reinventnagoyaです&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://awsbuilder.connpass.com/event/369860/</guid><enclosure url="https://media.connpass.com/thumbs/f1/2b/f12b3538c9306c0673ddeda031490abf.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 14:31:48 +0900</pubDate></item><item><title>OWASP Nagoya Chapterミーティング第41回 / OWASP 758 Day</title><link>https://owaspnagoya.connpass.com/event/369757/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月22日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月22日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋市民活動推進センター&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市中区栄三丁目18番1号 (ナディアパーク デザインセンタービル6階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #owaspnagoya&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;OWASP Nagoya 年に一度の大イベント&lt;/p&gt;&lt;div&gt;&lt;h1&gt;OWASP Nagoya Chapterミーティング 第41回 / OWASP 758 Day 2025&lt;/h1&gt;
+&lt;p&gt;ハッシュタグは #reinventnagoyaです&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://awsbuilder.connpass.com/event/369860/</guid><enclosure url="https://media.connpass.com/thumbs/f1/2b/f12b3538c9306c0673ddeda031490abf.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 16:33:25 +0900</pubDate></item><item><title>OWASP Nagoya Chapterミーティング第41回 / OWASP 758 Day</title><link>https://owaspnagoya.connpass.com/event/369757/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月22日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月22日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋市民活動推進センター&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市中区栄三丁目18番1号 (ナディアパーク デザインセンタービル6階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #owaspnagoya&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;OWASP Nagoya 年に一度の大イベント&lt;/p&gt;&lt;div&gt;&lt;h1&gt;OWASP Nagoya Chapterミーティング 第41回 / OWASP 758 Day 2025&lt;/h1&gt;
 &lt;p&gt;OWASP Nagoya Chapter の年1回の大イベントを開催&lt;/p&gt;
 &lt;p&gt;今年は&lt;strong&gt;「セキュリティインシデントに備えるチームのつくり方と動かし方」&lt;/strong&gt;をテーマに、&lt;br&gt;
 SCSKセキュリティ　エバンジェリストの武井さんと、東邦ガス情報システムの山本さんに講演いただきます。&lt;/p&gt;
@@ -4212,7 +4501,7 @@ ChatGPT、Gemini、Claude（クロード）など、&lt;br&gt;
 &lt;blockquote&gt;
 &lt;p&gt;2025年12月13日（土）・14日（日）@ 名古屋&lt;br&gt;
 主催：株式会社Josho × NagoyaHack&lt;br&gt;
-スポンサー様：株式会社アルテクナ様　他随時記載予定&lt;/p&gt;
+スポンサー様：随時記載予定&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;以下のGoogleフォームよりご記入ください！！（connpassへの登録は必須ではありません）&lt;/h2&gt;
 &lt;h2&gt;&lt;a href="https://forms.gle/6Ed1PPA4NggzUKv57" rel="nofollow"&gt;参加はこちらから&lt;/a&gt;&lt;/h2&gt;
@@ -4224,7 +4513,7 @@ ChatGPT、Gemini、Claude（クロード）など、&lt;br&gt;
 &lt;li&gt;&lt;strong&gt;日程&lt;/strong&gt;：2025年12月13日（土）・14日（日）  &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;場所&lt;/strong&gt; リリーバンケット 愛知県名古屋市中区錦2-13-25&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;対象&lt;/strong&gt;：大学生（理系・情報系中心）  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;規模&lt;/strong&gt;：30名（2~5人1組チーム，個人参加可能）  残り16名&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;規模&lt;/strong&gt;：30名（2~5人1組チーム，個人参加可能）  残り12名+a&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;形式&lt;/strong&gt;：対面＋開発環境はGitHubを利用  &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;参加費&lt;/strong&gt;：無料（２日目夕食付き）  &lt;/li&gt;
 &lt;/ul&gt;
@@ -4294,7 +4583,7 @@ ChatGPT、Gemini、Claude（クロード）など、&lt;br&gt;
 &lt;hr&gt;
 &lt;p&gt;👉 スポンサー企業のエンジニアが、開発の相談・レビューを行います。&lt;/p&gt;
 &lt;p&gt;*内容はお知らせなく変更する場合がございます。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.instagram.com/nagoyahack/" rel="nofollow"&gt;ご連絡はこちらのDMから&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/367872/</guid><enclosure url="https://media.connpass.com/thumbs/f8/82/f88246826fbb45aa89fb2f0e21d58194.png" length="0" type="image/png"/><pubDate>Tue, 11 Nov 2025 14:50:42 +0900</pubDate></item><item><title>AI活用を語り合う会 in名古屋</title><link>https://connpass.com/event/363059/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月30日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月30日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋市市民活動センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄3-18-1(ナディアパークデザインセンタービル6階)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;作ることより、使いこなすプロを目指す！&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.instagram.com/nagoyahack/" rel="nofollow"&gt;ご連絡はこちらのDMから&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/367872/</guid><enclosure url="https://media.connpass.com/thumbs/f8/82/f88246826fbb45aa89fb2f0e21d58194.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 17:06:03 +0900</pubDate></item><item><title>AI活用を語り合う会 in名古屋</title><link>https://connpass.com/event/363059/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月30日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月30日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋市市民活動センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄3-18-1(ナディアパークデザインセンタービル6階)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;作ることより、使いこなすプロを目指す！&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h1&gt;作ることより、使いこなすプロを目指す！&lt;br&gt;
 「AI活用を語り合う会」とは・・・&lt;/h1&gt;
 
