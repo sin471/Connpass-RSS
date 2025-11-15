@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>和歌山のイベント</title><link>https://connpass.com/explore/</link><description>和歌山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>和歌山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 14 Nov 2025 15:13:35 +0000</lastBuildDate><item><title>ゆるい勉強会(和歌山) - kintone開発</title><link>https://yuruwaka.connpass.com/event/374063/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月17日(月) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月17日(月) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: SOUNE COWORKING&lt;/li&gt;&lt;li&gt;🏢 住所: 和歌山市本町3丁目32番地&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるく新しい技術にチャレンジする会&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>和歌山のイベント</title><link>https://connpass.com/explore/</link><description>和歌山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>和歌山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 15 Nov 2025 15:12:26 +0000</lastBuildDate><item><title>ゆるい勉強会(和歌山) - kintone開発</title><link>https://yuruwaka.connpass.com/event/374063/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月17日(月) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月17日(月) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: SOUNE COWORKING&lt;/li&gt;&lt;li&gt;🏢 住所: 和歌山市本町3丁目32番地&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるく新しい技術にチャレンジする会&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;和歌山市のコワーキングスペースにて、「kintone開発」というテーマでゆるく勉強会を開催します。 本テーマに興味がある方、改めてkintone開発を学びたい方、AI時代のkintoneについて考えたい方、一緒に勉強しませんか？&lt;/p&gt;
 &lt;h2&gt;内容&lt;/h2&gt;
 &lt;p&gt;こんな感じの温度感でいきます。&lt;/p&gt;
@@ -52,8 +52,8 @@
 &lt;p&gt;新宮ユーアイホテル　会議室
 &lt;a href="https://www.ui-hotel.co.jp" rel="nofollow"&gt;https://www.ui-hotel.co.jp&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;新宮市役所の向かいにあり、JR新宮駅から徒歩圏内です。
-ホテルの駐車場が利用できます。&lt;/p&gt;
-&lt;p&gt;周囲にはホテルや民泊施設がたくさんあります。
+ホテルの駐車場が無料利用できます。&lt;/p&gt;
+&lt;p&gt;周囲には宿泊のホテルや民泊施設がたくさんあります。
 繁華街も！&lt;/p&gt;
 &lt;h2&gt;kintoneとは&lt;/h2&gt;
 &lt;p&gt;kintone（キントーン）は、業務アプリがつくれるサイボウズのノーコードツールです。
@@ -70,15 +70,36 @@
 &lt;p&gt;2025年12月13日（土）14:00〜17:00（開場13:30）&lt;/p&gt;
 &lt;h3&gt;場所&lt;/h3&gt;
 &lt;p&gt;ユーアイホテル会議室（新宮市役所の向かいくらい）&lt;/p&gt;
+&lt;h3&gt;参加費&lt;/h3&gt;
+&lt;p&gt;500円（会場代を割り勘）&lt;/p&gt;
 &lt;h3&gt;内容&lt;/h3&gt;
-&lt;p&gt;13:30～14:00&lt;/p&gt;
-&lt;p&gt;会場設営＆受付&lt;/p&gt;
-&lt;p&gt;14:00～14:30&lt;/p&gt;
-&lt;p&gt;オープニング
-　運営メンバーからごあいさつ
+&lt;p&gt;13:00　　会場設営&lt;/p&gt;
+&lt;p&gt;【開場】13:30&lt;/p&gt;
+&lt;p&gt;受付（参加費用はこちらでお支払いください）&lt;/p&gt;
+&lt;p&gt;【オープニング】14:00&lt;/p&gt;
+&lt;p&gt;運営メンバーからごあいさつ
 　kintone Caféについて&lt;/p&gt;
-&lt;p&gt;【プログラムは準備中です。登壇者が決まり次第、更新していきます】&lt;/p&gt;
-&lt;p&gt;16:30～17:00&lt;/p&gt;
+&lt;p&gt;【発表①】14:20
+サイボウズ株式会社
+ソーシャルデザインラボ 渡辺清美様
+「地域連携とキントーン」&lt;/p&gt;
+&lt;p&gt;【発表②】14:40
+株式会社アスカフューネラルサプライ
+マネージャー 筋師瑛（メインスピーカー）
+取締役 西祥平
+「タイトル未定」&lt;/p&gt;
+&lt;p&gt;【発表③】15:10
+東牟婁振興局&lt;/p&gt;
+&lt;p&gt;【発表④】15:25
+未定&lt;/p&gt;
+&lt;p&gt;【発表⑤】15:50
+未定&lt;/p&gt;
+&lt;p&gt;【コミュニケーションタイム】16:15
+席近くの方々と交流&lt;/p&gt;
+&lt;p&gt;【自由LT】16:45
+発表したいことがある方からの発表をお待ちします！
+当日挙手制です！&lt;/p&gt;
+&lt;p&gt;17：30&lt;/p&gt;
 &lt;p&gt;クロージング&lt;/p&gt;
 &lt;p&gt;記念撮影・片付け&lt;/p&gt;
 &lt;p&gt;※懇親会も予定しています。会場より徒歩圏内、17時30分ごろから2時間程度の予定です。&lt;/p&gt;
@@ -91,4 +112,4 @@
 &lt;p&gt;&lt;a href="https://blog.studio-fu.com/entry/2025/05/26/204623" rel="nofollow"&gt;https://blog.studio-fu.com/entry/2025/05/26/204623&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Vol. 4&lt;/p&gt;
 &lt;p&gt;kintone Café 和歌山 Vol.4 @田辺&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://kintone-cafe-wakayama.connpass.com/event/361625/" rel="nofollow"&gt;https://kintone-cafe-wakayama.connpass.com/event/361625/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kintone-cafe-wakayama.connpass.com/event/369453/</guid><enclosure url="https://media.connpass.com/thumbs/16/df/16df59a08e8565e31f2d3caf27c17783.png" length="0" type="image/png"/><pubDate>Mon, 15 Sep 2025 21:52:37 +0900</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="https://kintone-cafe-wakayama.connpass.com/event/361625/" rel="nofollow"&gt;https://kintone-cafe-wakayama.connpass.com/event/361625/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kintone-cafe-wakayama.connpass.com/event/369453/</guid><enclosure url="https://media.connpass.com/thumbs/16/df/16df59a08e8565e31f2d3caf27c17783.png" length="0" type="image/png"/><pubDate>Sat, 15 Nov 2025 11:27:39 +0900</pubDate></item></channel></rss>

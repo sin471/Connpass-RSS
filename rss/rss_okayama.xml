@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岡山のイベント</title><link>https://connpass.com/explore/</link><description>岡山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岡山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 14 Nov 2025 15:13:43 +0000</lastBuildDate><item><title>岡山でAI駆動開発をやっていく会 vol.4</title><link>https://okayama-ai-dev.connpass.com/event/375728/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月22日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月22日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 岡山国際交流センター5階会議室 3&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山市北区奉還町2丁目2番1号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #OkayamaAiDrivenDev&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AI(LLM)のシステム・Web・アプリ開発利用に関して気軽に情報交換 第4回です&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岡山のイベント</title><link>https://connpass.com/explore/</link><description>岡山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岡山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 15 Nov 2025 15:12:35 +0000</lastBuildDate><item><title>岡山でAI駆動開発をやっていく会 vol.4</title><link>https://okayama-ai-dev.connpass.com/event/375728/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月22日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月22日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 岡山国際交流センター5階会議室 3&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山市北区奉還町2丁目2番1号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #OkayamaAiDrivenDev&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AI(LLM)のシステム・Web・アプリ開発利用に関して気軽に情報交換 第4回です&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;岡山でAI（特にLLM）を活用したシステム・Webサービス・アプリ開発に関する情報交換や交流を目的としたイベントです。&lt;/p&gt;
 &lt;p&gt;AI駆動開発の最新動向、活用事例、開発ノウハウなどを、気軽に共有・相談し、ざっくばらんに話せる場として企画しました。&lt;/p&gt;
 &lt;p&gt;今回はコーディングハンズオンを回の前半に取り入れてみました。(追加費用等は不要です)&lt;/p&gt;
@@ -422,88 +422,7 @@
 &lt;p&gt;SonicGarden様にご協力いただき、岡山ワークプレイスを利用させていただいております。&lt;/p&gt;
 &lt;p&gt;猫が常駐しておりますので、猫アレルギーの方は参加前に十分ご注意ください。&lt;/p&gt;
 &lt;p&gt;2台程度を上限に車を止めるスペースがありますが、もし空きがない場合は近くのコインパーキングをご利用ください。&lt;/p&gt;
-&lt;p&gt;会場について何か不安がある場合は、&lt;a href="https://ruby-jp.github.io/" rel="nofollow"&gt;ruby-jp&lt;/a&gt; Slackの&lt;code&gt;#okayama_rb&lt;/code&gt;チャネルにてご連絡ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okaruby.connpass.com/event/373867/</guid><enclosure url="https://media.connpass.com/thumbs/70/88/70889d1daa971e8c0bb589822f0d38f0.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 08:29:45 +0900</pubDate></item><item><title>CoderDojo吉備Okayama #053</title><link>https://coderdojokibi.connpass.com/event/371097/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月15日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月15日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岡山市立吉備公民館&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区庭瀬４１６&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo吉備&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;吉備（岡山）の子ども向けのプログラミング道場の第53回！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;第53回 CoderDojo吉備Okayama&lt;/h1&gt;
-&lt;p&gt;CoderDojoとは
-CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場です。&lt;/p&gt;
-&lt;p&gt;2011年にアイルランドで始まり、世界では100カ国・2,000の道場、日本には212以上の道場があります。&lt;/p&gt;
-&lt;p&gt;※是非事前にガイダンス資料をご確認いただき、道場の雰囲気や考えをご理解ください→&lt;a href="https://coderdojo.jp/" rel="nofollow"&gt;CoderDojo Japan&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;参加資格&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;対象　：おおよそ7〜17歳（※小学生以下は保護者付き添いでお願いします。未就学児の参加も保護者判断でOKです。）&lt;/li&gt;
-&lt;li&gt;持ち物：ノートPC（Wi-Fi接続可能なPC）、またはiPadなどのタブレット。お茶などの水分補給の飲み物。&lt;/li&gt;
-&lt;li&gt;※Scratch用PCはレンタル可能です。レンタルの場合は作品を持ち帰るUSBメモリ（8GB以上）をご用意ください。&lt;/li&gt;
-&lt;li&gt;※お持ちのPC向けのプロジェクタ投影用コネクタを持参いただけると助かります。(VGA、HDMI）&lt;/li&gt;
-&lt;li&gt;定員　：10名程度（貸出可能PC数8台）&lt;/li&gt;
-&lt;li&gt;※ご兄弟姉妹の参加も可能です。（お申し込み時のアンケートにご記入ください。運営の方で人数把握しております。） &lt;/li&gt;
-&lt;li&gt;費用　：無料&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;開催日時、場所&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;日時：2025/11/15（土）14:00-16:00（13:45受付開始）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;場所：岡山市立吉備公民館　2F 講義室（会場案内は「パソコン講習・ボンジュール・パソ」となっております）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;駐車場は比較的十分用意してありますが、会場での他のイベント状況によっては満車になることもございますのでご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;感染症対策については会場の公民館における各種制限撤廃のため、参加者個人のご判断となります。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;タイムテーブル&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;13:45　受付開始&lt;/li&gt;
-&lt;li&gt;14:00　CoderDojoの話&lt;/li&gt;
-&lt;li&gt;14:15　創作開始！&lt;/li&gt;
-&lt;li&gt;15:30　発表！&lt;/li&gt;
-&lt;li&gt;15:50　みんなの作品に触れてみよう！&lt;/li&gt;
-&lt;li&gt;16:00　おしまい&lt;/li&gt;
-&lt;li&gt;17:00　撤収完了&lt;/li&gt;
-&lt;li&gt;※撤収までの時間は保護者の方やメンター同士の振り返りや情報交換タイムとします。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;開催概要&lt;/h1&gt;
-&lt;p&gt;PCを使ったプログラミングが初めての方はScratchから触ってみましょう。ブロックの組み合わせでプログラミングを進められます。
-既にScratchで作品作りをしている方は、どんなことをやりたいか何となくでも考えて、当日はどんどん進めて行きましょう。&lt;/p&gt;
-&lt;p&gt;Google 社より&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;書籍『Scratchではじめる機械学習 ――作りながら楽しく学べるAIプログラミング』（192ページ）&lt;/li&gt;
-&lt;li&gt;書籍『作って学ぶScratchドリル』（104ページ）&lt;/li&gt;
-&lt;li&gt;冊子『はじめようAIプログラミング』（48ページ）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;を寄贈いただきました。自由に活用いただけます。&lt;/p&gt;
-&lt;h1&gt;貸出可能機器について&lt;/h1&gt;
-&lt;h2&gt;micro:bitについて（貸出可）&lt;/h2&gt;
-&lt;p&gt;CoderDojo吉備では、一般社団法人 CoderDojo Japan とイギリスに本拠地を置く Micro:bit Educational Foundation（以下、Micro:bit 教育財団）が連携した、BBC micro:bit 寄贈プログラムに応募し、10台のmicro:bitの支援を受けました。
-&lt;a href="https://news.coderdojo.jp/2022/05/16/1500-microbits-to-coderdojo/" rel="nofollow"&gt;https://news.coderdojo.jp/2022/05/16/1500-microbits-to-coderdojo/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;micro:bit（マイクロビット）は、25個のLED、2個のボタンスイッチ、明るさセンサー、加速度センサー、磁力センサー、無線通信機能などがついている小さなコンピューターです。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://microbit.org/ja/guide/" rel="nofollow"&gt;https://microbit.org/ja/guide/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;あらかじめ搭載されているセンサーを使って状態の変化を検知したり、LEDを光らせたり、音を鳴らしたり、モノを動かしたりできます。
-micro:bitでプログラミングすることにより、普段の生活のさまざまな場所でプログラムが動いているのを身近に感じてもらえると思います。&lt;/p&gt;
-&lt;h2&gt;toio™️（トイオ）（PCなしプログラミング体験）&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;PCを使わないコース&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ソニー・インタラクティブエンタテインメント（以下、SIE）から提供いただいたロボットトイ「toio™️（トイオ）」を使うこともできます。
-キューブ型ロボットを使ってプログラミング体験をしてみましょう。&lt;/p&gt;
-&lt;h3&gt;ロボットトイ「toio™️（トイオ）」について&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://toio.io/about.html" rel="nofollow"&gt;https://toio.io/about.html&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;CoderDojoとの連携について&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://news.coderdojo.jp/2022/03/17/toio-sony-interactive-entertainment/" rel="nofollow"&gt;https://news.coderdojo.jp/2022/03/17/toio-sony-interactive-entertainment/&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;保護者の方へ&lt;/h1&gt;
-&lt;p&gt;親子同士より子ども同士の席を増やしたいと思っています。保護者の方は是非見守ってください。もちろんメンターとしてサポート頂ける方は大歓迎です！他のお子さまを主にフォロー頂けると助かります。&lt;/p&gt;
-&lt;h1&gt;寄付について&lt;/h1&gt;
-&lt;p&gt;CoderDojoはボランティアで開催をしています。今後の継続のため、もしご賛同いただける方は会場にかかる費用などをサポートいただけると助かります。&lt;/p&gt;
-&lt;h1&gt;撮影について&lt;/h1&gt;
-&lt;p&gt;会場内では写真を撮影します。公開すべき活動報告としてTwitterやブログ、SNSなどで利用し、インターネットで公開する場合があります。あらかじめご了承ください。&lt;/p&gt;
-&lt;h1&gt;メンターについて&lt;/h1&gt;
-&lt;p&gt;「Scratch」などをサポート頂けるメンターさんを都度募集しています。
-Scratchなど技術力は問いません。子ども達の相談にのって一緒に考えてサポートしてくれる方、ご協力をお願いします！
-その他の言語等もフォローが可能な場合は、アンケートで是非コメントをお願いします。
-完全ボランティアとなります。交通費・報酬などは一切ございません。ご理解の上でご参加下さい。
-CoderDojoが初めての方は13:30位を目処にお越し下さい。不明点はお問合せください。
-メンターのお子様（ジュニアメンター）も参加OKです。申し込みの際にその旨コメントをお願いします。&lt;/p&gt;
-&lt;h1&gt;その他&lt;/h1&gt;
-&lt;p&gt;持参されるPCのプロジェクタに投影できるコネクタやケーブルをお持ちでしたら持参願います。（人数が多い場合、発表時に投影するため。）&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojokibi.connpass.com/event/371097/</guid><enclosure url="https://media.connpass.com/thumbs/40/bd/40bdbc09f07d80502b0bca136895251a.png" length="0" type="image/png"/><pubDate>Sat, 01 Nov 2025 07:01:12 +0900</pubDate></item><item><title>忘年会議2025</title><link>https://bonenkaigi.connpass.com/event/366073/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Ryotei （座・スタジアム）&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区奉還町2-5-23&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #忘年会議&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;忘年会議とは&lt;/h1&gt;
+&lt;p&gt;会場について何か不安がある場合は、&lt;a href="https://ruby-jp.github.io/" rel="nofollow"&gt;ruby-jp&lt;/a&gt; Slackの&lt;code&gt;#okayama_rb&lt;/code&gt;チャネルにてご連絡ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okaruby.connpass.com/event/373867/</guid><enclosure url="https://media.connpass.com/thumbs/70/88/70889d1daa971e8c0bb589822f0d38f0.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 08:29:45 +0900</pubDate></item><item><title>忘年会議2025</title><link>https://bonenkaigi.connpass.com/event/366073/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Ryotei （座・スタジアム）&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区奉還町2-5-23&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #忘年会議&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;忘年会議とは&lt;/h1&gt;
 &lt;p&gt;忘年会議は、瀬戸内地方のIT技術に興味ある方が一同に会する 毎年恒例の名物的なイベントです。初めての方も大歓迎ですので、是非とも参加ください。&lt;/p&gt;
 &lt;h1&gt;会場&lt;/h1&gt;
 &lt;p&gt;&lt;a href="http://www.233-3959.com/pc/ryoutei/disp_catalogue.php?key=13" rel="nofollow"&gt;Ryotei （座・スタジアム）&lt;/a&gt;&lt;/p&gt;
@@ -576,17 +495,17 @@ CoderDojoが初めての方は13:30位を目処にお越し下さい。不明点
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;13:35 - 13:55&lt;/td&gt;
-&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;Kanon&lt;/td&gt;
 &lt;td align="center"&gt;TBD&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;13:55 - 14:15&lt;/td&gt;
-&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;よわよわエンジニア&lt;/td&gt;
 &lt;td align="center"&gt;TBD&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;14:15 - 14:35&lt;/td&gt;
-&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;フナモト&lt;/td&gt;
 &lt;td align="center"&gt;TBD&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -596,7 +515,7 @@ CoderDojoが初めての方は13:30位を目処にお越し下さい。不明点
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;14:50 - 15:30&lt;/td&gt;
-&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;ゆー / fbbp&lt;br&gt;y0shin0ri_fujiwara&lt;br&gt;もっさん&lt;br&gt;oden_wa&lt;br&gt;なかの&lt;br&gt;yamatai12&lt;/td&gt;
 &lt;td align="center"&gt;Linghtning Talks&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -606,12 +525,12 @@ CoderDojoが初めての方は13:30位を目処にお越し下さい。不明点
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;15:45 - 16:05&lt;/td&gt;
-&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;Masayuki Maekawa&lt;/td&gt;
 &lt;td align="center"&gt;TBD&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;16:05 - 16:25&lt;/td&gt;
-&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;tochi&lt;/td&gt;
 &lt;td align="center"&gt;TBD&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -625,4 +544,4 @@ CoderDojoが初めての方は13:30位を目処にお越し下さい。不明点
 &lt;td align="center"&gt;クロージング～撤収&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gbdaitokai.connpass.com/event/366072/</guid><enclosure url="https://media.connpass.com/thumbs/8a/ee/8aee533e854d1384fc1f894979b22b65.png" length="0" type="image/png"/><pubDate>Fri, 22 Aug 2025 10:17:55 +0900</pubDate></item></channel></rss>
+&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gbdaitokai.connpass.com/event/366072/</guid><enclosure url="https://media.connpass.com/thumbs/8a/ee/8aee533e854d1384fc1f894979b22b65.png" length="0" type="image/png"/><pubDate>Sat, 15 Nov 2025 22:45:00 +0900</pubDate></item></channel></rss>
