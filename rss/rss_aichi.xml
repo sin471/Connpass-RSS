@@ -1,5 +1,88 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 15 Nov 2025 15:12:05 +0000</lastBuildDate><item><title>JAWS-UG名古屋12月会AWS re:Invent2025 Recap&amp;忘年会</title><link>https://jawsug-nagoya.connpass.com/event/376153/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月8日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月8日(月) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: collabo-style&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中村区名駅１丁目１−１ JPタワー名古屋 36階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_nagoya&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;JAWS-UG名古屋12月会AWS re:Invent2025 Recap&amp;amp;忘年会&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 16 Nov 2025 15:11:57 +0000</lastBuildDate><item><title>CoderDojo大府(第115回) 子供向けプログラミング道場 2026/01/25</title><link>https://coderdojo-obu.connpass.com/event/376219/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月25日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月25日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: おおぶ文化交流の杜 allobu&lt;/li&gt;&lt;li&gt;🏢 住所: 〒474-0053 愛知県大府市柊山町６丁目１５０−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供がプログラミングを楽しむ場を無料で提供します&lt;/p&gt;&lt;div&gt;&lt;h1&gt;メニュー&lt;/h1&gt;
+&lt;h2&gt;パソコンでプログラミング&lt;/h2&gt;
+&lt;p&gt;コンピュータ・タブレットなどを使ってプログラミング作品を作ります。 参加にはWiFiのつながるPC・タブレットが必要です。&lt;/p&gt;
+&lt;h2&gt;CoderDojo 大府 子供向けプログラミング道場について&lt;/h2&gt;
+&lt;p&gt;CoderDojo大府は子供達がプログラミングを楽しむ場を提供する無料のコミュニティです。 愛知県大府市で開催します。&lt;/p&gt;
+&lt;p&gt;CoderDojo大府は&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://note.com/musa495/" rel="nofollow"&gt;https://note.com/musa495/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大体7歳〜17歳向けのプログラミング道場です。（年齢は絶対ではありません）&lt;br&gt;
+プログラミングをしたい子供のために、自由にプログラミングをする環境を提供します。&lt;br&gt;
+いわゆる習い事・塾ではないので、 費用は不要です。&lt;br&gt;
+カリキュラムなどはなく、子供が作りたいと思ったものを尊重します。&lt;br&gt;
+子供は仲間やメンター（指導者）と一緒に実現する方法を考えて取り組みます。&lt;br&gt;
+子供・家族の理解を促進するために保護者が同席することを、とても推奨します。  &lt;/p&gt;
+&lt;h2&gt;参加方法&lt;/h2&gt;
+&lt;p&gt;当サイト（connpass）でユーザー登録の上ご参加ください。 ご兄弟など複数人でご参加の場合は、複数メールアドレスを用意してご登録ください。 （やり方が分からなくて、どうしても難しければコメントでお知らせください）&lt;/p&gt;
+&lt;h2&gt;場所&lt;/h2&gt;
+&lt;p&gt;おおぶ文化交流の杜 allobuで行います&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://allobu.jp/contents/?page_id=330" rel="nofollow"&gt;https://allobu.jp/contents/?page_id=330&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;持ち物&lt;/h2&gt;
+&lt;p&gt;ノートパソコン（Wi-Fiに接続可能なものが望ましい）または画面が大きめのタブレット
+電源アダプタ&lt;br&gt;
+マウス（必要に応じて）  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;https://scratch.mit.edu/&lt;/a&gt; にアクセスして十分に利用できること&lt;br&gt;
+プログラミングを楽しみたい、何かを作りたい、という気持ち&lt;br&gt;
+Wi-Fi に繋がるPCが用意できない場合は、こちらからオフライン版をインストールしておくとネットワークが繋がらなくもScratchができます。 &lt;a href="https://scratch.mit.edu/download" rel="nofollow"&gt;https://scratch.mit.edu/download&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;当日の流れ&lt;/h2&gt;
+&lt;p&gt;9:30 ～ 11:00 ： プログラミング&lt;br&gt;
+11:00 ～ 11:30 ： やったことの発表&lt;br&gt;
+保護者の方へ&lt;br&gt;
+小学生の子どもが参加される場合、保護者の方が出来る限りご一緒に参加していただくことを推奨します。&lt;/p&gt;
+&lt;p&gt;保護者の方が顔を出されると、お子さんはとても喜びます。是非お子さんが楽しんでいる姿をご覧になってください。 きっと取り組む姿勢にも違いが出てきます。&lt;/p&gt;
+&lt;p&gt;また、終了30分前に子どもたちがやったことの発表があります。 そちらは特に、是非ご参加ください。&lt;/p&gt;
+&lt;h2&gt;撮影について&lt;/h2&gt;
+&lt;p&gt;会場内では写真・動画を撮影します。写真・動画はブログ・SNSで利用し、インターネットで公開させていただく場合がありますので、あらかじめご了承ください。&lt;/p&gt;
+&lt;h2&gt;寄付について&lt;/h2&gt;
+&lt;p&gt;CoderDojoはボランティアで行っております。活動にご賛同いただけましたら活動費として一口500円程度の寄附を頂けると幸いです。※寄付は任意です。&lt;/p&gt;
+&lt;h2&gt;CoderDojoとは&lt;/h2&gt;
+&lt;p&gt;CoderDojo Japanより引用&lt;/p&gt;
+&lt;p&gt;CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場です。2011年にアイルランドで始まり、世界では110カ国・2,000の道場、日本では全国に200以上の道場があります。 （2025年9月現在)&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-obu.connpass.com/event/376219/</guid><enclosure url="https://media.connpass.com/thumbs/73/3e/733e0657636e7a3fa2a366a7edd7f272.png" length="0" type="image/png"/><pubDate>Sun, 16 Nov 2025 16:25:05 +0900</pubDate></item><item><title>CoderDojo大府(第114回) 子供向けプログラミング道場 2026/01/11</title><link>https://coderdojo-obu.connpass.com/event/376216/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月11日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月11日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: おおぶ文化交流の杜 allobu&lt;/li&gt;&lt;li&gt;🏢 住所: 〒474-0053 愛知県大府市柊山町６丁目１５０−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供がプログラミングを楽しむ場を無料で提供します&lt;/p&gt;&lt;div&gt;&lt;h1&gt;メニュー&lt;/h1&gt;
+&lt;h2&gt;パソコンでプログラミング&lt;/h2&gt;
+&lt;p&gt;コンピュータ・タブレットなどを使ってプログラミング作品を作ります。 参加にはWiFiのつながるPC・タブレットが必要です。&lt;/p&gt;
+&lt;h2&gt;CoderDojo 大府 子供向けプログラミング道場について&lt;/h2&gt;
+&lt;p&gt;CoderDojo大府は子供達がプログラミングを楽しむ場を提供する無料のコミュニティです。 愛知県大府市で開催します。&lt;/p&gt;
+&lt;p&gt;CoderDojo大府は&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://note.com/musa495/" rel="nofollow"&gt;https://note.com/musa495/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大体7歳〜17歳向けのプログラミング道場です。（年齢は絶対ではありません）&lt;br&gt;
+プログラミングをしたい子供のために、自由にプログラミングをする環境を提供します。&lt;br&gt;
+いわゆる習い事・塾ではないので、 費用は不要です。&lt;br&gt;
+カリキュラムなどはなく、子供が作りたいと思ったものを尊重します。&lt;br&gt;
+子供は仲間やメンター（指導者）と一緒に実現する方法を考えて取り組みます。&lt;br&gt;
+子供・家族の理解を促進するために保護者が同席することを、とても推奨します。  &lt;/p&gt;
+&lt;h2&gt;参加方法&lt;/h2&gt;
+&lt;p&gt;当サイト（connpass）でユーザー登録の上ご参加ください。 ご兄弟など複数人でご参加の場合は、複数メールアドレスを用意してご登録ください。 （やり方が分からなくて、どうしても難しければコメントでお知らせください）&lt;/p&gt;
+&lt;h2&gt;場所&lt;/h2&gt;
+&lt;p&gt;おおぶ文化交流の杜 allobuで行います&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://allobu.jp/contents/?page_id=330" rel="nofollow"&gt;https://allobu.jp/contents/?page_id=330&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;持ち物&lt;/h2&gt;
+&lt;p&gt;ノートパソコン（Wi-Fiに接続可能なものが望ましい）または画面が大きめのタブレット
+電源アダプタ&lt;br&gt;
+マウス（必要に応じて）  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;https://scratch.mit.edu/&lt;/a&gt; にアクセスして十分に利用できること&lt;br&gt;
+プログラミングを楽しみたい、何かを作りたい、という気持ち&lt;br&gt;
+Wi-Fi に繋がるPCが用意できない場合は、こちらからオフライン版をインストールしておくとネットワークが繋がらなくもScratchができます。 &lt;a href="https://scratch.mit.edu/download" rel="nofollow"&gt;https://scratch.mit.edu/download&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;当日の流れ&lt;/h2&gt;
+&lt;p&gt;9:30 ～ 11:00 ： プログラミング&lt;br&gt;
+11:00 ～ 11:30 ： やったことの発表&lt;br&gt;
+保護者の方へ&lt;br&gt;
+小学生の子どもが参加される場合、保護者の方が出来る限りご一緒に参加していただくことを推奨します。&lt;/p&gt;
+&lt;p&gt;保護者の方が顔を出されると、お子さんはとても喜びます。是非お子さんが楽しんでいる姿をご覧になってください。 きっと取り組む姿勢にも違いが出てきます。&lt;/p&gt;
+&lt;p&gt;また、終了30分前に子どもたちがやったことの発表があります。 そちらは特に、是非ご参加ください。&lt;/p&gt;
+&lt;h2&gt;撮影について&lt;/h2&gt;
+&lt;p&gt;会場内では写真・動画を撮影します。写真・動画はブログ・SNSで利用し、インターネットで公開させていただく場合がありますので、あらかじめご了承ください。&lt;/p&gt;
+&lt;h2&gt;寄付について&lt;/h2&gt;
+&lt;p&gt;CoderDojoはボランティアで行っております。活動にご賛同いただけましたら活動費として一口500円程度の寄附を頂けると幸いです。※寄付は任意です。&lt;/p&gt;
+&lt;h2&gt;CoderDojoとは&lt;/h2&gt;
+&lt;p&gt;CoderDojo Japanより引用&lt;/p&gt;
+&lt;p&gt;CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場です。2011年にアイルランドで始まり、世界では110カ国・2,000の道場、日本では全国に200以上の道場があります。 （2025年9月現在)&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-obu.connpass.com/event/376216/</guid><enclosure url="https://media.connpass.com/thumbs/73/3e/733e0657636e7a3fa2a366a7edd7f272.png" length="0" type="image/png"/><pubDate>Sun, 16 Nov 2025 16:23:25 +0900</pubDate></item><item><title>第150回 なごや個人開発者の集い</title><link>https://758indies.connpass.com/event/376195/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月23日(日) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月23日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋市市民活動センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄3-18-1(ナディアパークデザインセンタービル6階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #758indies&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;「なごや個人開発者の集い」の定例オフライン開発会です。 出席者はこのイベントで参加表明をしてください。&lt;/p&gt;
+&lt;p&gt;場所は、&lt;a href="https://www.n-vnpo.city.nagoya.jp/" rel="nofollow"&gt;名古屋市市民活動推進センター&lt;/a&gt;のフリースペースです。 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;参加無料です。&lt;/li&gt;
+&lt;li&gt;時間内は出入り自由です。遅刻・早退問題ありません。&lt;/li&gt;
+&lt;li&gt;会場は、電源、フリーWiFiがあります。&lt;/li&gt;
+&lt;li&gt;体調のすぐれない方は、自重ください。&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://758indies.connpass.com/event/376195/</guid><enclosure url="https://media.connpass.com/thumbs/22/cf/22cf3c0aee4baea605c248d55f335137.png" length="0" type="image/png"/><pubDate>Sun, 16 Nov 2025 09:27:39 +0900</pubDate></item><item><title>JAWS-UG名古屋12月会AWS re:Invent2025 Recap&amp;忘年会</title><link>https://jawsug-nagoya.connpass.com/event/376153/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月8日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月8日(月) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: collabo-style&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中村区名駅１丁目１−１ JPタワー名古屋 36階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_nagoya&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;JAWS-UG名古屋12月会AWS re:Invent2025 Recap&amp;amp;忘年会&lt;/h1&gt;
 &lt;p&gt;今回は2025年12月1〜5に開催されるAWS re:Invent2025の振り返りと忘年会を兼ねて実施します。
 軽食として、お寿司やピザ、ビールなども用意するので、皆さんでre:Invent2025を振り返りながらワイワイ楽しみましょう。&lt;/p&gt;
 &lt;p&gt;re:Invent2025ネタに関連するネタやAWS全般のネタの発表してくれる方も応募しています。&lt;/p&gt;
@@ -266,145 +349,7 @@ LT枠については公募となります。  時間は変更されることが�
 &lt;p&gt;近日開催の道場は&lt;a href="https://coderdojo.jp/events" rel="nofollow"&gt;コチラのリンク&lt;/a&gt;から 📆検索できますよ。&lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;a href="https://map.coderdojo.jp/" rel="nofollow"&gt;地図&lt;/a&gt; からCoderDojoを探すことができます&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nagoya.connpass.com/event/376025/</guid><enclosure url="https://media.connpass.com/thumbs/b5/f4/b5f44600e44cd666e9c9a08038db3683.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 10:15:14 +0900</pubDate></item><item><title>第243回CoderDojo名古屋</title><link>https://coderdojo-nagoya.connpass.com/event/376024/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月16日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月16日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋市山田地域センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市西区二方町15-4 名古屋市山田地域センター&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #プログラミング学習&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;上小田井 の近くで開催&lt;/p&gt;&lt;div&gt;
-
-&lt;h3&gt;会場&lt;/h3&gt;
-&lt;p&gt;いつもと違い、山田地域センター で開催予定です。&lt;br&gt;
-地下鉄・名鉄 上小田井徒歩10分&lt;br&gt;
-無料駐車場あります&lt;/p&gt;
-&lt;h3&gt;ご注意とお願い&lt;/h3&gt;
-&lt;p&gt;メンターが少ない場合は保護者の方にご協力いただくことが多々あるかもしれません。ご了承ください。できれば一緒に楽しんでください。&lt;br&gt;
-特にアイロンビーズなどはやけどの恐れがあります。小さいお子さんには保護者の方についていただくようお願いします。
-&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;コース紹介&lt;/h3&gt;
-&lt;h6&gt;0) 3Dプリンタで小さなアクセサリをつくろう&lt;/h6&gt;
-&lt;p&gt;大人の親指ぐらいのサイズの小さなアクセサリをパソコンでデザインして、3Dプリンタで作ろう！&lt;br&gt;
-子どもでもつかえるTinkercadという3Dモデリングソフトを使います。&lt;br&gt;
-パソコンかタブレットをご持参下さい。  &lt;/p&gt;
-&lt;h6&gt;1)Scratch/テキストプログラミング/その他&lt;/h6&gt;
-&lt;p&gt;ブロックを組み合わせるだけでプログラミングができます。クリスマスをテーマにした作品を作ってみよう！もちろん、ぜんぜん違う作品でも初めての子でも大歓迎！&lt;br&gt;
-パソコンかタブレットをご持参下さい。  &lt;/p&gt;
-&lt;h6&gt;2)小さなロボット toioで遊ぼう(4才〜)&lt;/h6&gt;
-&lt;p&gt;SONYさんより 小さなロボット toio(トイオ)を貸していただきました。&lt;br&gt;
-カードを組み合わせるだけでかんたんにロボットを動かして、コースを走らせたりすることができます。&lt;br&gt;
-数に限りがあるのでお申し込みはお早めに！(^_-)-☆&lt;br&gt;
-2人1組で体験してもらいます。  &lt;/p&gt;
-&lt;h6&gt;3)Viscuitでお絵かきプログラミング(4才～低学年向け)&lt;/h6&gt;
-&lt;p&gt;自分で描いた絵を動かすプログラムを簡単に作れます。プログラムの楽しさ、可能性を感じてもらいます。タッチパネルのパソコンだとマウスに慣れていなくてもやりやすいです。&lt;br&gt;
-パソコンかタブレットをご持参下さい。&lt;/p&gt;
-&lt;h6&gt;4)オンライン参加&lt;/h6&gt;
-&lt;p&gt;現地に来れない人ようです。あまり細かくアドバイスするのが難しいので、ちょっと慣れた子向きかも。&lt;br&gt;
-それでもいいよ、と気軽に入って貰える人はどうぞー。&lt;br&gt;
-下の方にオンラインの参加の仕方が載っています。  &lt;/p&gt;
-
-
-
-
-&lt;h6&gt;5)パソコンがない方・お試し参加&lt;/h6&gt;
-&lt;p&gt;プログラムはじめてなんだけれど。。。パソコンないんだけれど。。。CoderDojo初めてだし。。。&lt;br&gt;
-そんな心配しなくても大丈夫(^-^)初めてでも、低学年でも、メンターが親切に教えてくれますよ。まずはプログラムでどんなことができるか一緒に楽しみましょう。&lt;br&gt;
-パソコンやタブレットはメンターの私物を貸し出します。&lt;/p&gt;
-&lt;h6&gt;6)あやちゃんのアナログDojo&lt;/h6&gt;
-&lt;p&gt;デジタルはさっぱりだけどアナログな楽しいこと大好きなあやちゃんと一緒に遊ぼう！&lt;br&gt;
-申込時に「その他ありましたら～」欄に好きなことややってみたいことを書いてください。準備してきます。&lt;br&gt;
-　例：「このキャラを上手に描きたい」「服のしわが上手に描けない」「ペーパークイリングで誕生日カードを作りたい」など
-用意できるのは&lt;br&gt;　
-　おえかき：クロッキー、色えんぴつ、水彩えのぐ、コピック、つけペンとインク（あやちゃんの専門はマンガイラスト）など&lt;br&gt;
-　ししゅう：フランスししゅう、クロスステッチ&lt;br&gt;
-　アナログゲーム：クトゥルフ神話TRPGやソードワールドなどのテーブルトークRPG、ニムト、ウミガメのスープなど&lt;br&gt;
-　スタンプ遊び：消しゴムハンコ、グルーガンを使うシーリングスタンプ&lt;br&gt;
-　ペーパークラフト：ペーパークイリング（細く切った紙を巻いて形を作る）、季節のカードづくりなど&lt;br&gt;
-　手芸的なこと：カリグラフィ、加賀ゆびぬき&lt;br&gt;
-プログラミングの休憩タイムにちょこっとのぞきにくるのもいいですよ！&lt;br&gt;&lt;/p&gt;
-
-
-
-&lt;h6&gt;7)ロボットカーMaqueenをプログラミングしよう&lt;/h6&gt;
-&lt;p&gt;プログラミングできる車 Maqueen(マックイーン)をプログラミングして自由に動かしてみよう。低学年からでも遊べるので気軽にどうぞー。機材はCoderDojoで貸します。&lt;br&gt;
-パソコンまたはタブレットを持参ください  &lt;/p&gt;
-&lt;h6&gt;9)アイロンビーズ作品作り&lt;/h6&gt;
-&lt;p&gt;アイロンビーズで好きなキャラクターを作ろう！&lt;br&gt;
-低学年や園児でもあそべるよー&lt;br&gt;
-人数が多い場合は交代で参加になることがあります。  &lt;/p&gt;
-
-
-
-
-
-&lt;h3&gt;オンラインでの参加方法&lt;/h3&gt;
-&lt;h4&gt;事前準備&lt;/h4&gt;
-&lt;p&gt;Google Meetでの開催を予定しています。&lt;br&gt;
-&lt;br&gt;
-できればパソコンやスマホ、タブレットにつなげられるイヤホンマイクがあると便利です。スマホはイヤホンマイクが付属されていることが多いです。なければ100均でも手に入ります。&lt;/p&gt;
-&lt;p&gt;「Google Meet」は、Mac / Windows / iPhone / iPad / Androidのいずれでも使えます。
-&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;当日の参加の仕方&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;参加申込をするとこのページの上のほうに「参加者への情報」という欄が表示されます。そこに「Google Meet」へのURLが表示されます。受付開始時間になったらそのURLをパソコンまたはスマホからクリックしてください。開始まではお気軽なオンラインの練習会にします。&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;画面の説明に沿って会議に参加してください  &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;相手の声は聞こえるでしょうか。自分の声は相手に聞こえているでしょうか。ボリュームやマイクの設定を確認してみてください。&lt;/li&gt;
-&lt;li&gt;つながればあとはオンラインで説明します&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;お願い1&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt; 遅刻・無断キャンセルについて &lt;/strong&gt; ：&lt;br&gt;
-出来れば&lt;strong&gt;開始時間の【10～15分前】&lt;/strong&gt;にお集まりいただけるとスムーズに運営できてありがたいです。
-やむを得ない事情による場合もあると思いますので、事前に遅れて参加する旨や、キャンセルの旨を教えて頂けると幸いです。&lt;br&gt;
-余談ですが、うちの子も他のイベントでも当日突然「行きたくない」と言い出すこともあり、あるあるなんだなー、と思ったので、最近、(大きなイベント以外は)定員にも余裕があるのでとりあえず気軽に申し込んでください。駄目だったらキャンセルをしてもらえればいいです。逆に、キャンセル待ちでも空く可能性があるのでみなさん諦めずにどうぞー。&lt;/p&gt;
-&lt;h3&gt;お願い2&lt;/h3&gt;
-&lt;p&gt;1.　CoderDojoはボランティアで行っております。活動にご賛同いただけましたら活動費として一口500円程度の寄附を頂けると幸いです。※寄付は任意です。&lt;/p&gt;
-&lt;p&gt;2.　ノートパソコンの持参をお願いします。事故防止の観点から、極力当日までにバッテリーを満充電にして、当日はコード不要にしてきてください。小さいお子さんが歩く際に電源コードで転んでしまったり、パソコンを破損してしまう恐れがあります。※バッテリー容量が少ない場合はこの限りではありません。※なるべく多くの子供たちに体験する機会を提供したいと考えています。ノートパソコンをお持ちではないが興味がある方は一度ご相談ください(対応できない場合もあります)。&lt;/p&gt;
-&lt;p&gt;3.　Scratchを実施の方は、なるべく事前にお子様用のScratchのアカウントを作ってきてください。作った作品をクラウドに保存できるため、作成途中の作品が消えてしまうのを防いだり、お家に帰ってからも続きを作ったりできます。&lt;br&gt;
-&lt;a href="http://coderdojo-nishinomiya.info/create-scratch-account/" rel="nofollow"&gt;Scratchアカウントの作り方&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;4.　ネットワーク環境はボランティアスタッフの私物で用意しますが、通信容量や接続数に限りがあります。可能でしたら、WiMAXなどの無線ルーター、スマートフォンのテザリング等をご用意ください。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;CoderDojo名古屋の詳細・記録などは下記をご覧ください。&lt;br&gt;
-&lt;a href="http://coderdojo-nagoya.hateblo.jp/" rel="nofollow"&gt;活動報告&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;CoderDojo名古屋に興味がある方、参加者の方向けに、お知らせやおすすめイベントの紹介、面白い製品やホームページなどの紹介をしているFacebookグループです。&lt;br&gt;
-お気軽に参加リクエストしてください(^o^)/&lt;br&gt;
-&lt;a href="https://www.facebook.com/groups/coderdojo.nagoya/" rel="nofollow"&gt;CoderDojo名古屋 Facebookグループ&lt;/a&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;【お知らせ】活動報告移転&lt;br&gt;&lt;/h3&gt;
-&lt;p&gt;ホームページ・活動報告のサイトを移転しました&lt;br&gt;
-&lt;a href="http://coderdojo-nagoya.hateblo.jp/" rel="nofollow"&gt;http://coderdojo-nagoya.hateblo.jp/&lt;/a&gt;&lt;br&gt;
- &lt;br&gt;
- &lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;近隣のCoderDojo紹介&lt;/h3&gt;
-&lt;p&gt;近くのCoderDojoをお知らせします。良かったら他のCoderDojoも遊びに行ってみてくださいね。&lt;/p&gt;
-&lt;h4&gt;CoderDojo犬山&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://coderdojo-inuyama.doorkeeper.jp/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;CoderDojo一宮&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://coderdojo-ichinomiya.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;CoderDojo師勝&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://coderdojo-shikatsu.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;CoderDojo瀬戸&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://coderdojo-seto.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;CoderDojo瑞穂&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://coderdojo-mizuho.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;CoderDojo日進&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://coderdojo-nisshin.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;CoderDojo安城&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://coderdojo-anjo.doorkeeper.jp/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;CoderDojo尾張&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://coderdojoowari.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;CoderDojo天白&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://tempaku.connpass.com/" rel="nofollow"&gt;申込ページはこちら&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;もっと探す！&lt;/h4&gt;
-&lt;p&gt;近日開催の道場は&lt;a href="https://coderdojo.jp/events" rel="nofollow"&gt;コチラのリンク&lt;/a&gt;から 📆検索できますよ。&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;a href="https://map.coderdojo.jp/" rel="nofollow"&gt;地図&lt;/a&gt; からCoderDojoを探すことができます&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nagoya.connpass.com/event/376024/</guid><enclosure url="https://media.connpass.com/thumbs/b5/f4/b5f44600e44cd666e9c9a08038db3683.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 10:13:18 +0900</pubDate></item><item><title>HACK.BAR 名古屋 @ 栄</title><link>https://hackbar.connpass.com/event/375897/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月24日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月24日(月) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋嬢の台所 名古屋栄店&lt;/li&gt;&lt;li&gt;🏢 住所: 〒460-0008 名古屋市中区栄 3−9−22 (グランドビル 3階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ハックバー名古屋&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;エンジニアが集まる、間借り HACK.BAR in 名古屋&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【HACK.BAR 名古屋って？】&lt;/h1&gt;
+&lt;a href="https://map.coderdojo.jp/" rel="nofollow"&gt;地図&lt;/a&gt; からCoderDojoを探すことができます&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nagoya.connpass.com/event/376025/</guid><enclosure url="https://media.connpass.com/thumbs/b5/f4/b5f44600e44cd666e9c9a08038db3683.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 10:15:14 +0900</pubDate></item><item><title>HACK.BAR 名古屋 @ 栄</title><link>https://hackbar.connpass.com/event/375897/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月24日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月24日(月) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋嬢の台所 名古屋栄店&lt;/li&gt;&lt;li&gt;🏢 住所: 〒460-0008 名古屋市中区栄 3−9−22 (グランドビル 3階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ハックバー名古屋&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;エンジニアが集まる、間借り HACK.BAR in 名古屋&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【HACK.BAR 名古屋って？】&lt;/h1&gt;
 &lt;p&gt;神戸に本店のあるエンジニアバー「HACK.BAR」の名古屋版をやります！
 HACK.BARおなじみのプログラミング言語カクテル (プログラミング言語からインスピレーションを受け開発されたカクテル) をお楽しみください！&lt;/p&gt;
 &lt;p&gt;お一人で参加される方も多いです。初めての方もぜひリアルで交流しましょう！&lt;/p&gt;
@@ -459,14 +404,7 @@ kintoneやサイボウズを感じるプチイベントを毎月定期的に開�
 一緒に内容を相談の上、タイムスケジュールに組み込みます。&lt;br&gt;&lt;/p&gt;
 &lt;h1&gt;ご案内&lt;/h1&gt;
 &lt;p&gt;本イベントは無償です。&lt;br&gt;
-学生さん、初心者さん、一見さん、大歓迎です！！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://knn.connpass.com/event/375895/</guid><enclosure url="https://media.connpass.com/thumbs/7b/f7/7bf74909295a2cb25c8ba58bc0a06b68.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 00:17:14 +0900</pubDate></item><item><title>第149回 なごや個人開発者の集い</title><link>https://758indies.connpass.com/event/375636/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月16日(日) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月16日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋市市民活動センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄3-18-1(ナディアパークデザインセンタービル6階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #758indies&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;「なごや個人開発者の集い」の定例オフライン開発会です。 出席者はこのイベントで参加表明をしてください。&lt;/p&gt;
-&lt;p&gt;場所は、&lt;a href="https://www.n-vnpo.city.nagoya.jp/" rel="nofollow"&gt;名古屋市市民活動推進センター&lt;/a&gt;のフリースペースです。 &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;参加無料です。&lt;/li&gt;
-&lt;li&gt;時間内は出入り自由です。遅刻・早退問題ありません。&lt;/li&gt;
-&lt;li&gt;会場は、電源、フリーWiFiがあります。&lt;/li&gt;
-&lt;li&gt;体調のすぐれない方は、自重ください。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://758indies.connpass.com/event/375636/</guid><enclosure url="https://media.connpass.com/thumbs/22/cf/22cf3c0aee4baea605c248d55f335137.png" length="0" type="image/png"/><pubDate>Mon, 10 Nov 2025 23:46:32 +0900</pubDate></item><item><title>CoderDojo天白Re010</title><link>https://tempaku.connpass.com/event/375553/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月20日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月20日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 天白生涯学習センターIT室&lt;/li&gt;&lt;li&gt;🏢 住所: 〒468-0027 愛知県名古屋市天白区天白町島田黒石4050&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;CoderDojo天白が再出発です&lt;/p&gt;&lt;div&gt;&lt;hr&gt;
+学生さん、初心者さん、一見さん、大歓迎です！！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://knn.connpass.com/event/375895/</guid><enclosure url="https://media.connpass.com/thumbs/7b/f7/7bf74909295a2cb25c8ba58bc0a06b68.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 00:17:14 +0900</pubDate></item><item><title>CoderDojo天白Re010</title><link>https://tempaku.connpass.com/event/375553/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月20日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月20日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 天白生涯学習センターIT室&lt;/li&gt;&lt;li&gt;🏢 住所: 〒468-0027 愛知県名古屋市天白区天白町島田黒石4050&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;CoderDojo天白が再出発です&lt;/p&gt;&lt;div&gt;&lt;hr&gt;
 &lt;h2&gt;再出発について&lt;/h2&gt;
 &lt;p&gt;CoderDojo天白を約10年間運営してきました。多くの方が参加してくださる時期もありましたが、いろいろと問題があったりして、最後の方では1人の忍者が参加する形になり、私自身も少し精神的に疲れて一時休止していました。&lt;/p&gt;
 &lt;p&gt;リタイア後のボランティアとして、5人ほどの忍者と楽しく過ごす形が理想的だと思っていましたが、実現が難しい状況でした。&lt;/p&gt;
@@ -2879,116 +2817,7 @@ NPO法人IT勉強宴会の幹事も務め、技術と実践を結ぶ活動を展
 &lt;p&gt;所属コミニュティ&lt;br&gt;
 &lt;a href="https://www.benkyoenkai.org/" rel="nofollow"&gt;NPO法人 IT勉強宴会 幹事&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;日経クロステックで連載中 2020.02.03～&lt;br&gt;
-&lt;a href="https://xtech.nikkei.com/atcl/nxt/column/18/01195/" rel="nofollow"&gt;本音で議論、企業情報システムの「勘所」&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://piyopiyoex.connpass.com/event/373137/</guid><enclosure url="https://media.connpass.com/thumbs/1e/1a/1e1a23a34b7e6e3e50f6b70fb6976594.png" length="0" type="image/png"/><pubDate>Sat, 25 Oct 2025 18:58:02 +0900</pubDate></item><item><title>【無料】【見学OK】CoderDojo瀬戸(第150回) 子供プログラミングコミュニティ</title><link>https://coderdojo-seto.connpass.com/event/373084/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月16日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月16日(日) 12:30&lt;/li&gt;&lt;li&gt;📍 会場: ぐるっぺ道泉&lt;/li&gt;&lt;li&gt;🏢 住所: 瀬戸市道泉町53番地の5&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供がプログラミングを楽しむ場を無料で提供します&lt;/p&gt;&lt;div&gt;&lt;p&gt;CoderDojo瀬戸は子供達がプログラミングなどで作品づくりを楽しむ場を提供する無料のコミュニティです。
-初心者でもメンターがそばでサポートしますのでご安心ください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://coderdojo-seto.jp" rel="nofollow"&gt;https://coderdojo-seto.jp&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;今回の会場は2階です&lt;/h1&gt;
-&lt;p&gt;今回はぐるっぺ道泉の2F の会議室で行います&lt;/p&gt;
-&lt;h1&gt;見学もOK！ユーザー登録なしで簡単に体験参加・見学できます&lt;/h1&gt;
-&lt;p&gt;Connpass（本サイト）のアカウントがない方も、こちらから簡単に参加申し込みができます。&lt;/p&gt;
-&lt;h2&gt;&lt;a href="https://forms.gle/zd2GPMPhmaTXRsLJ7" rel="nofollow"&gt;ユーザー登録せずに体験参加・見学&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Connpassのユーザー登録が難しい方はご利用ください。&lt;/p&gt;
-&lt;p&gt;二回目以降はできるだけ Connpass  のアカウントをご用意ください。（難しい場合はご相談ください）&lt;/p&gt;
-&lt;h1&gt;会場「ぐるっぺ道泉」&lt;/h1&gt;
-&lt;p&gt;愛知県瀬戸市の道泉地域交流センター「ぐるっぺ道泉」にて行います。
-&lt;a href="https://goo.gl/maps/xHCFuVFjsAJ45E9BA" rel="nofollow"&gt;https://goo.gl/maps/xHCFuVFjsAJ45E9BA&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;駐車場があるので車で来場可能です。&lt;/p&gt;
-&lt;h2&gt;メニュー&lt;/h2&gt;
-&lt;h3&gt;パソコンでプログラミング&lt;/h3&gt;
-&lt;p&gt;コンピュータ・タブレットなどを使ってプログラミング作品を作ります。
-参加にはWiFiのつながるPC・タブレットが必要です。&lt;/p&gt;
-&lt;p&gt;全くの初心者の方は「Scratch」から始めるのをお勧めします。
-その場合は事前にユーザー登録をしておくとスムーズです。
-（作品が自動保存される様になります）&lt;/p&gt;
-&lt;p&gt;Scratchユーザー登録
-&lt;a href="https://scratch.mit.edu/join" rel="nofollow"&gt;https://scratch.mit.edu/join&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;プログラミング学習サービスの紹介&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Scratch （スクラッチ）← 🌟 初めてにオススメ&lt;ul&gt;
-&lt;li&gt;ブロックを組み合わせてプログラミングができます。簡単でいて奥深いです。&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;https://scratch.mit.edu/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;「Scratch」 のユーザー登録をしておくとスムーズです。&lt;ul&gt;
-&lt;li&gt;マニュアル: &lt;a href="https://youtu.be/PAFwhyGdaj8?si=GqV4ElH8w6KpEiIa" rel="nofollow"&gt;https://youtu.be/PAFwhyGdaj8?si=GqV4ElH8w6KpEiIa&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;HackForPlay （ハックフォープレイ）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;プログラミングを使ってRPGベースのゲームが作れます&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.hackforplay.xyz/" rel="nofollow"&gt;https://www.hackforplay.xyz/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Progate （プロゲート）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;本格的なプログラミング学習ができます。&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://prog-8.com/" rel="nofollow"&gt;https://prog-8.com/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;HackForPlay, Progateを試してみたい方はアカウントを貸すので教えてください。（当日で良いです）&lt;/p&gt;
-&lt;h3&gt;そのほかでプログラミング&lt;/h3&gt;
-&lt;p&gt;そのほか、自由にプログラミングしたい環境で楽しんでもらって結構です。
-プログラミングにこだわり過ぎず、様々な作品作りをしていただいて結構です。&lt;/p&gt;
-&lt;h2&gt;CoderDojo 瀬戸 子供向けプログラミング道場について&lt;/h2&gt;
-&lt;p&gt;CoderDojo瀬戸は子供達がプログラミングを楽しむ場を提供する無料のコミュニティです。
-普段は愛知県瀬戸市で開催しています。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://coderdojo-seto.jp/" rel="nofollow"&gt;https://coderdojo-seto.jp/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;CoderDojo瀬戸は&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;大体7歳〜17歳向けのプログラミング道場です。（年齢は絶対ではありません）&lt;/li&gt;
-&lt;li&gt;プログラミングをしたい子供のために、自由にプログラミングをする環境を提供します。&lt;/li&gt;
-&lt;li&gt;いわゆる習い事・塾ではないので、 &lt;strong&gt;費用は不要です。&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;カリキュラムなどはなく、子供が作りたいと思ったものを尊重します。&lt;/li&gt;
-&lt;li&gt;子供は仲間やメンター（指導者）と一緒に実現する方法を考えて取り組みます。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;子供・家族の理解を促進するために保護者が同席することを、とても推奨します。&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;参加方法&lt;/h2&gt;
-&lt;p&gt;当サイト（connpass）でユーザー登録の上ご参加ください。
-ご兄弟など複数人でご参加の場合は、複数メールアドレスを用意してご登録ください。
-（やり方が分からなくて、どうしても難しければコメントでお知らせください）&lt;/p&gt;
-&lt;h2&gt;持ち物&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;ノートパソコン（Wi-Fi必須）&lt;ul&gt;
-&lt;li&gt;電源アダプタ&lt;/li&gt;
-&lt;li&gt;マウス（必要に応じて）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;または画面が大きめのタブレット&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;https://scratch.mit.edu/&lt;/a&gt; にアクセスして十分に利用できること&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;延長コード・電源ケーブル&lt;/strong&gt;&lt;ul&gt;
-&lt;li&gt;電源が不足するため、ご協力お願いします。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;プログラミングを楽しみたい、何かを作りたい、という気持ち&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Wi-Fi に繋がるPCが用意できない場合は、こちらからオフライン版をインストールしておくとネットワークが繋がらなくもScratchができます。
- &lt;a href="https://scratch.mit.edu/download" rel="nofollow"&gt;https://scratch.mit.edu/download&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;当日の流れ&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;10:00 ～ 11:30 ： プログラミング&lt;/li&gt;
-&lt;li&gt;11:30 ～ 12:00 ： やったことの発表&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※参加状況によって12:30くらいに終了となることもよくあります&lt;/p&gt;
-&lt;h2&gt;保護者の方へ&lt;/h2&gt;
-&lt;p&gt;小学生の子どもが参加される場合、保護者の方が出来る限りご一緒に参加していただくことを推奨します。&lt;/p&gt;
-&lt;p&gt;保護者の方が顔を出されると、お子さんはとても喜びます。是非お子さんが楽しんでいる姿をご覧になってください。
-きっと取り組む姿勢にも違いが出てきます。&lt;/p&gt;
-&lt;p&gt;また、終了30分前に子どもたちがやったことの発表があります。
-そちらは特に、是非ご参加ください。&lt;/p&gt;
-&lt;h2&gt;撮影について&lt;/h2&gt;
-&lt;p&gt;CoderDojo 当日は、イベントの内容の写真・ビデオ撮影をさせていただきます。撮影した素材はブログやSNSなどで使わせて頂きます。参加者は原則、写真撮影・ビデオ撮影 OK という認識でおります。
-もしも写真撮影・ビデオ撮影が NG な方は申し出てください。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;会場内では写真を撮影します。写真はブログ・SNSで利用し、インターネットで公開させていただく場合がありますので、あらかじめご了承ください。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;寄付について&lt;/h2&gt;
-&lt;p&gt;CoderDojoはボランティアで行っております。活動にご賛同いただけましたら活動費として一口500円程度の寄附を頂けると幸いです。※寄付は任意です。&lt;/p&gt;
-&lt;h2&gt;CoderDojoとは&lt;/h2&gt;
-&lt;p&gt;CoderDojo Japanより引用&lt;/p&gt;
-&lt;p&gt;CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場です。2011年にアイルランドで始まり、世界では85カ国・1,600の道場、日本では全国に136以上の道場があります。 （2018年5月現在)&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-seto.connpass.com/event/373084/</guid><enclosure url="https://media.connpass.com/thumbs/c1/16/c116e28e49b66512e648de49086e0fa9.png" length="0" type="image/png"/><pubDate>Sat, 18 Oct 2025 18:21:16 +0900</pubDate></item><item><title>kintone Bar Nagoya (master はせがわ)</title><link>https://connpass.com/event/372685/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月22日(土) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月22日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: アクロネット　中部事業所&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市西区名駅2-25-10 ブルーム名駅1F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kintone&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;～ kintone Bar Nagoya とは～&lt;/h1&gt;
+&lt;a href="https://xtech.nikkei.com/atcl/nxt/column/18/01195/" rel="nofollow"&gt;本音で議論、企業情報システムの「勘所」&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://piyopiyoex.connpass.com/event/373137/</guid><enclosure url="https://media.connpass.com/thumbs/1e/1a/1e1a23a34b7e6e3e50f6b70fb6976594.png" length="0" type="image/png"/><pubDate>Sat, 25 Oct 2025 18:58:02 +0900</pubDate></item><item><title>kintone Bar Nagoya (master はせがわ)</title><link>https://connpass.com/event/372685/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月22日(土) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月22日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: アクロネット　中部事業所&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市西区名駅2-25-10 ブルーム名駅1F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kintone&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;～ kintone Bar Nagoya とは～&lt;/h1&gt;
 &lt;p&gt;kintoneについて、飲んだり食べたりしながらゆるく雑談しましょうの会です!&lt;/p&gt;
 &lt;h1&gt;今回のテーマ&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;「kintoneのモヤモヤ、語ってスッキリ！自慢も大歓迎🍶」&lt;/strong&gt;&lt;/p&gt;
@@ -3356,56 +3185,7 @@ React/Next.js、TypeScript、パフォーマンス最適化、アクセシビリ
 &lt;li&gt;セクシュアルハラスメント・パワーハラスメント・ストーカー等他人への迷惑行為を行うことは禁止します。&lt;/li&gt;
 &lt;li&gt;その他、イベント趣旨とは異なる行為があった場合は、イベント参加をお断りさせていただきます。&lt;/li&gt;
 &lt;li&gt;咳や発熱、倦怠感など、体調が優れない方は参加を控えていただくようお願いします。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://stmn.connpass.com/event/372266/</guid><enclosure url="https://media.connpass.com/thumbs/33/c7/33c7fb12d91abf906d48dc6293ecd359.png" length="0" type="image/png"/><pubDate>Tue, 11 Nov 2025 11:35:59 +0900</pubDate></item><item><title>【積読をキャリア資産に変える】鶴舞モクモク英語リーディング会 &amp; ランチ交流会</title><link>https://nago8.connpass.com/event/371685/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月16日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月16日(日) 14:00&lt;/li&gt;&lt;li&gt;📍 会場: 鶴舞公園&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ゆるすとなごや&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;コンセプト
-イベント概要：集中×交流で英語学習を習慣化
-「英語＋読書」で国際的な人材を目指す、意欲の高い社会人のための集中学習＆交流会です。&lt;/p&gt;
-&lt;p&gt;美しい鶴舞公園の自然の中で、各自が持ち込んだ英語教材にモクモクと集中する2時間。静かなインプットを深めた後は、意識の高い仲間と交流できるランチ会で、モチベーションを最大限に高めます。&lt;/p&gt;
-&lt;p&gt;イベント詳細
-日時  2025年11月15日(土) 10:00 - 14:00頃
-場所  【午前】鶴舞公園 カフェ
-　　  【午後】鶴舞公園内のレストラン（場所は当日決定/近隣店を予定）&lt;/p&gt;
-&lt;p&gt;当日の流れ（タイムスケジュール）
-時間  内容  備考
-10:00 - 10:10   受付・自己紹介タイム  読む教材と今日の目標を簡単に共有します。
-10:10 - 12:00   モクモク集中読書タイム 静かに各自の教材を読み進めます。（各自自由に休憩OK）
-12:00 - 12:30   移動・休憩   ランチ交流会会場へ移動。
-12:30 - 14:00頃  ランチ交流会（実費）  英語学習やキャリアについてカジュアルに情報交換。&lt;/p&gt;
-&lt;p&gt;こんな人におすすめ！
-・洋書を積読にしがちな人
-・キャリアアップのために英語の専門知識を読みたい人
-・意識の高い仲間が欲しい人。&lt;/p&gt;
-&lt;p&gt;参加費 
-読書会：無料 
-ランチ代：実費（約1,000円〜2,000円程度を想定）&lt;/p&gt;
-&lt;p&gt;主催  英語学習サポーター（戸塚 諒）&lt;/p&gt;
-&lt;p&gt;💡 このイベントに参加すべき3つの理由
-1. 積読に終止符を打つ「強制集中」環境
-「家だと集中できない」「カフェだと気が散る」という悩みを解決。自然に囲まれた心地よい空間で、強制的に2時間集中することで、「読んで終える」習慣を確実に身につけられます。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;キャリアに直結する学びを習慣化
-教材は自由！洋書はもちろん、TOEIC/IELTSのテキスト、仕事で必要な技術ドキュメントなど、あなたのキャリアアップに直結する英語の専門知識を、集中してインプットできます。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;意識の高い仲間との建設的な交流
-モクモク読書で「インプット」した後には、ランチ交流会で「アウトプット」。国際的な人材を目指す目標意識の高い人たちと出会い、学習法やキャリア観について情報交換できます。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;【参加に必要な持ち物】
-集中して読みたい英語教材（洋書、技術書、専門テキストなど）&lt;/p&gt;
-&lt;p&gt;🗣️ 主催者メッセージ
-「最高のインプットを、最高の空間で。」&lt;/p&gt;
-&lt;p&gt;主催者の戸塚です。私自身、孤独な学習からの脱却が英語力向上の大きな鍵でした。
-このリーディング会は、単なる勉強会ではなく、&lt;strong&gt;「質の高い集中時間」と「建設的なコミュニティ」&lt;/strong&gt;を提供する場所です。&lt;/p&gt;
-&lt;p&gt;鶴舞公園の静かで穏やかな空気の中、あなたの学習習慣を一歩前進させましょう。
-キャリアアップを目指すあなたの参加を心よりお待ちしています！&lt;/p&gt;
-&lt;p&gt;✅ 安心してご参加いただくための工夫
-初参加者限定！集中応援特典
-初めて参加される方には、集中力を高めるための&lt;strong&gt;「ささやかなプレゼント」&lt;/strong&gt;をご用意しています。&lt;/p&gt;
-&lt;p&gt;開催前日の20:00までに、個別にご連絡しますのでご安心ください&lt;/p&gt;
-&lt;p&gt;モクモク・目標シート（任意）
-当日の集中力を高めるため、事前に「今日の目標ページ数」を任意で申告できるフォームをご用意。
-目標を共有することで、達成度が高まります。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nago8.connpass.com/event/371685/</guid><pubDate>Sun, 05 Oct 2025 14:47:11 +0900</pubDate></item><item><title>第106回 CoderDojo Owari</title><link>https://coderdojoowari.connpass.com/event/371629/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月18日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月18日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 岩倉市生涯学習センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県岩倉市本町神明西２０&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojoOwari&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;小〜高校生のプログラミングクラブ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;1月は第3日曜開催&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://stmn.connpass.com/event/372266/</guid><enclosure url="https://media.connpass.com/thumbs/33/c7/33c7fb12d91abf906d48dc6293ecd359.png" length="0" type="image/png"/><pubDate>Tue, 11 Nov 2025 11:35:59 +0900</pubDate></item><item><title>第106回 CoderDojo Owari</title><link>https://coderdojoowari.connpass.com/event/371629/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月18日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月18日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 岩倉市生涯学習センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県岩倉市本町神明西２０&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojoOwari&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;小〜高校生のプログラミングクラブ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;1月は第3日曜開催&lt;/h1&gt;
 &lt;p&gt;主催者の都合で第3日曜開催です。&lt;/p&gt;
 &lt;h1&gt;メンター・サポーター募集中 (メンター特典有り)&lt;/h1&gt;
 &lt;ul&gt;
