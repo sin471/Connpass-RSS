@@ -1,48 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>和歌山のイベント</title><link>https://connpass.com/explore/</link><description>和歌山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>和歌山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 16 Nov 2025 15:12:17 +0000</lastBuildDate><item><title>ゆるい勉強会(和歌山) - kintone開発</title><link>https://yuruwaka.connpass.com/event/374063/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月17日(月) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月17日(月) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: SOUNE COWORKING&lt;/li&gt;&lt;li&gt;🏢 住所: 和歌山市本町3丁目32番地&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるく新しい技術にチャレンジする会&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
-&lt;p&gt;和歌山市のコワーキングスペースにて、「kintone開発」というテーマでゆるく勉強会を開催します。 本テーマに興味がある方、改めてkintone開発を学びたい方、AI時代のkintoneについて考えたい方、一緒に勉強しませんか？&lt;/p&gt;
-&lt;h2&gt;内容&lt;/h2&gt;
-&lt;p&gt;こんな感じの温度感でいきます。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;「kintone開発ちょっと気になる。私は使ったことないですが、使ってる話をよく聞きますよね」&lt;/li&gt;
-&lt;li&gt;「私も多少なりkintoneは使っているし、kintoneなら話せることはある」&lt;/li&gt;
-&lt;li&gt;「ノーコード開発って色々ありますし、AIが登場して少しずつ状況が変わってますか？」&lt;/li&gt;
-&lt;li&gt;「コーディングエージェントを使った開発に疲れたので、ノーコード開発に関心がある？わかります。」&lt;/li&gt;
-&lt;li&gt;「kintoneとAIを組み合わせたら何か変わるんですかね。ちょっと気になる」&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;こんな感じの、とりあえず気にはなるものの、気合い入れてやるのはちょっと疲れちゃう、という感じの会にします。&lt;/p&gt;
-&lt;p&gt;今回は、kintone開発の経験者として &lt;a href="https://connpass.com/user/t_fukushima1227/" rel="nofollow"&gt;福嶋さん&lt;/a&gt; に色々聞きつつお話ししようと考えています。
-発表を聞きに来てもらうのもいいと思いますし、私も話したい、という方がいれば声をかけてください。
-勉強会の多くの時間は雑談形式になりますので、聞きたいことを聞いてもらっても構いません。&lt;/p&gt;
-&lt;p&gt;このテーマは興味ないけど、雑談しつつ勉強したい、と言うのも歓迎です。
-その中で出てきた技術的な疑問やアイデア、感想について自由に話し合います。&lt;/p&gt;
-&lt;p&gt;リラックスした雰囲気で進行します。&lt;/p&gt;
-&lt;p&gt;なお、本勉強会は参加者の興味関心に応じて勉強会テーマを毎回検討しています。
-「私もなんか発表したい」「これを勉強したい」という方がいれば気軽にお声掛けください。&lt;/p&gt;
-&lt;h2&gt;日時・会場&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;2025/11/17（月） 13:00 - 15:00&lt;/li&gt;
-&lt;li&gt;会場：SOUNE COWORKING &lt;a href="https://coworking.soune.co.jp/" rel="nofollow"&gt;https://coworking.soune.co.jp/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;住所：〒640-8033　和歌山市本町3丁目32番地&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;アクセス：&lt;a href="https://coworking.soune.co.jp/access/" rel="nofollow"&gt;https://coworking.soune.co.jp/access/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;全ての時間が調整つかない場合、途中参加、途中退室でも問題ありません。
-ただ、事前に連絡はいただけると助かります。&lt;/p&gt;
-&lt;h2&gt;参加費&lt;/h2&gt;
-&lt;p&gt;会場は、コワーキングスペースの中になりますので、コワーキングスペースの利用費がかかります。
-利用費は、利用時間に応じて各自支払うようお願いします。&lt;/p&gt;
-&lt;p&gt;会員かどうか、利用時間はどれくらいか、により利用料金は違いますのです、詳細は以下を確認してください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://coworking.soune.co.jp/plan/" rel="nofollow"&gt;https://coworking.soune.co.jp/plan/&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;参考&lt;/h3&gt;
-&lt;p&gt;非会員のドロップインの場合&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;440 円（税込）/ 時間&lt;/li&gt;
-&lt;li&gt;1,650円（税込） / 1日利用&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;主催者&lt;/h2&gt;
-&lt;p&gt;X: &lt;a href="https://x.com/mtb_beta" rel="nofollow"&gt;@mtb_beta&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;フリーランスのソフトウェアエンジニア 兼 DXコンサルタントです。
-屋号 HeritageArrowでWebサービス開発や生成AIの利活用、DX推進などなどに関わりつつ、その他様々な活動をしてます。例えば、東京と和歌山を行き来しながら生活をしています。和歌山出身で最近は主に和歌山にいますが、東京にいることもあります。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://yuruwaka.connpass.com/event/374063/</guid><enclosure url="https://media.connpass.com/thumbs/42/e6/42e634bd41fbf417e2b8af0cc8fdd150.png" length="0" type="image/png"/><pubDate>Tue, 28 Oct 2025 08:58:19 +0900</pubDate></item><item><title>kintone Café 和歌山 Vol.5 @新宮</title><link>https://kintone-cafe-wakayama.connpass.com/event/369453/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 新宮ユーアイホテル&lt;/li&gt;&lt;li&gt;🏢 住所: 和歌山県新宮市井の沢３−１２&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;kintoneの魅力や活用法をみんなで共有するための勉強会コミュニティです。新宮市で初開催！&lt;/p&gt;&lt;div&gt;&lt;p&gt;kintone Café 和歌山 を新宮市で初開催します。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>和歌山のイベント</title><link>https://connpass.com/explore/</link><description>和歌山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>和歌山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 17 Nov 2025 15:15:54 +0000</lastBuildDate><item><title>kintone Café 和歌山 Vol.5 @新宮</title><link>https://kintone-cafe-wakayama.connpass.com/event/369453/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 新宮ユーアイホテル&lt;/li&gt;&lt;li&gt;🏢 住所: 和歌山県新宮市井の沢３−１２&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;kintoneの魅力や活用法をみんなで共有するための勉強会コミュニティです。新宮市で初開催！&lt;/p&gt;&lt;div&gt;&lt;p&gt;kintone Café 和歌山 を新宮市で初開催します。
 2025年9月12日開催の田辺市に引き続き、和歌山県内で5回目の開催です。&lt;/p&gt;
 &lt;p&gt;kintone Caféは、まだkintoneに触れたことの無い方から、
 より高度なカスタマイズを行いたいと考えているプロフェッショナルの方まで幅広い層を対象に、

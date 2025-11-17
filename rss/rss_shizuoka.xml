@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 16 Nov 2025 15:11:55 +0000</lastBuildDate><item><title>第31回 CoderDojo磐田</title><link>https://coderdojo-iwata.connpass.com/event/376092/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月7日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月7日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 磐田市民文化会館 創作活動室1&lt;/li&gt;&lt;li&gt;🏢 住所: 〒438-0831 静岡県磐田市上新屋678番地1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;やってみよう！3Dプリンター特集&lt;/p&gt;&lt;div&gt;&lt;h1&gt;第31回 CoderDojo磐田&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 17 Nov 2025 15:15:31 +0000</lastBuildDate><item><title>第31回 CoderDojo磐田</title><link>https://coderdojo-iwata.connpass.com/event/376092/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月7日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月7日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 磐田市民文化会館 創作活動室1&lt;/li&gt;&lt;li&gt;🏢 住所: 〒438-0831 静岡県磐田市上新屋678番地1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;やってみよう！3Dプリンター特集&lt;/p&gt;&lt;div&gt;&lt;h1&gt;第31回 CoderDojo磐田&lt;/h1&gt;
 &lt;h2&gt;前回に続き、3Dプリンター特集！&lt;/h2&gt;
 &lt;p&gt;好評だったので今回も特集することにしました。&lt;br&gt;
 前回はチャンピオンの私が設計しましたが&lt;br&gt;
@@ -822,8 +822,8 @@ connpass参加登録時にアンケートへ入力をお願いします。  &lt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;15:45-16:00&lt;/td&gt;
-&lt;td&gt;Azure Kubernetes Service(AKS)を開発運用したことによる気づき&lt;/td&gt;
-&lt;td&gt;増田 和己&lt;/td&gt;
+&lt;td&gt;Azure Networkリソース(Azure Firewall、Azure Virtual WAN)　これできる？これできない？&lt;/td&gt;
+&lt;td&gt;Kazuki Masuda&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;16:00-16:15&lt;/td&gt;
@@ -876,11 +876,11 @@ Akira  Sato&lt;br&gt;
 T.B.D&lt;br&gt;
 【スピーカー】&lt;br&gt;
  鈴木航二 さん    &lt;/p&gt;
-&lt;h2&gt;LT③:Azure Kubernetes Service(AKS)を開発運用したことによる気づき&lt;/h2&gt;
+&lt;h2&gt;LT③:Azure Networkリソース(Azure Firewall、Azure Virtual WAN)　これできる？これできない？&lt;/h2&gt;
 &lt;p&gt;【概要】&lt;br&gt;
-ある国家系プロジェクトにてAKSの開発運用を行い、その際の気づきや改善点を簡単に共有したい &lt;br&gt;
+T.B.D.   &lt;br&gt;
 【スピーカー】&lt;br&gt;
-増田 和己 さん&lt;br&gt;
+Kazuki Masuda さん&lt;br&gt;
 在住は千葉県ですが趣味のロードバイクで度々静岡に来ており、さらに静岡をするきっかけになると思い参加させていただいた。      &lt;/p&gt;
 &lt;h2&gt;LT④:Microsoft Ignite 2025で発表されたAKSのアップデートを振り返る（仮）&lt;/h2&gt;
 &lt;p&gt;【概要】&lt;br&gt;
@@ -917,4 +917,4 @@ T.B.D.  &lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;また、セッション中の写真撮影は、シャッター音など周りの方へのご配慮をお願いいたします。 &lt;br&gt;
 次回以降の勉強会のリクエストは大歓迎です。&lt;br&gt;
-『こんなことを知りたい！』というご希望がありましたら、是非スタッフまでお知らせください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jazug.connpass.com/event/368296/</guid><enclosure url="https://media.connpass.com/thumbs/71/25/7125780c4da9887f6cd5b056c068789b.png" length="0" type="image/png"/><pubDate>Fri, 31 Oct 2025 23:20:35 +0900</pubDate></item></channel></rss>
+『こんなことを知りたい！』というご希望がありましたら、是非スタッフまでお知らせください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jazug.connpass.com/event/368296/</guid><enclosure url="https://media.connpass.com/thumbs/71/25/7125780c4da9887f6cd5b056c068789b.png" length="0" type="image/png"/><pubDate>Mon, 17 Nov 2025 00:26:14 +0900</pubDate></item></channel></rss>
