@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 17 Nov 2025 15:16:41 +0000</lastBuildDate><item><title>沖縄ノーコード・ローコード勉強会 12月定例会 #9</title><link>https://itc-okinawa.connpass.com/event/376139/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄県立図書館 ビジネスルーム&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市泉崎1丁目20番1号（カフーナ旭橋A街区の3階から5階）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Power BI の「はじめかた」と「続けかた」～著者から学ぶ入門＆コミュニティLT～&lt;/p&gt;&lt;div&gt;&lt;hr&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 18 Nov 2025 15:16:31 +0000</lastBuildDate><item><title>沖縄ノーコード・ローコード勉強会 12月定例会 #9</title><link>https://itc-okinawa.connpass.com/event/376139/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄県立図書館 ビジネスルーム&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市泉崎1丁目20番1号（カフーナ旭橋A街区の3階から5階）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Power BI の「はじめかた」と「続けかた」～著者から学ぶ入門＆コミュニティLT～&lt;/p&gt;&lt;div&gt;&lt;hr&gt;
 &lt;h1&gt;沖縄ノーコード・ローコード勉強会 12月定例会（第9回）&lt;/h1&gt;
 &lt;h2&gt;📆 イベント概要&lt;/h2&gt;
 &lt;p&gt;沖縄ノーコード・ローコード勉強会の12月定例会（第9回）を開催します。&lt;/p&gt;
@@ -228,8 +228,8 @@ Mail:nakama@okinawa-ct.ac.jp&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLin
 &lt;tr&gt;
 &lt;td align="center"&gt;19:50-20:05&lt;/td&gt;
 &lt;td align="center"&gt;15&lt;/td&gt;
-&lt;td align="center"&gt;登壇②&lt;/td&gt;
-&lt;td align="center"&gt;&lt;/td&gt;
+&lt;td align="center"&gt;OWASP Top 10:2025 RC1の紹介&lt;/td&gt;
+&lt;td align="center"&gt;シーエー・アドバンス 桃原&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center"&gt;20:05-20:20&lt;/td&gt;
@@ -269,6 +269,17 @@ Mail:nakama@okinawa-ct.ac.jp&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLin
 &lt;blockquote&gt;
 &lt;p&gt;沖縄の自宅からリモートワークで大阪の会社で働く根っからのクラウド・コミュニティ大好き人間。オープンソースとクラフトビールをこよなく愛する。琉球ゴールデンキングス ブースター初心者。ハッカーズチャンプルー・JAWS-UG沖縄の中の人。&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h2&gt;&lt;strong&gt; OWASP Top 10:2025 RC1の紹介 &lt;/strong&gt; （株式会社シーエー・アドバンス　桃原 裕太）&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://assets.r3it.com/profile/shima-tech-hub/caad_tobaru_yuta_shimatech.png" width="500"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;サイバーエージェントグループの脆弱性診断業務に携わっています。最近公開されたOWASP Top 10:2025 RC1について紹介します。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;&lt;strong&gt; 令和に車輪の再開発 &lt;/strong&gt; （CBcloud株式会社　宮城 李空）&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://assets.r3it.com/profile/shima-tech-hub/cbcloud_miyagi.jpg" width="500"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;現在、社内向けプロダクト「ピックゴータワー」の開発に携わっています。
+今回は、この令和の時代に車輪の再開発をしたのでそのことについて振り返ろうかと思います。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h1&gt;駐車場について&lt;/h1&gt;
 &lt;p&gt;駐車場提供ができないため、カフーナ旭橋および近くのコインパーキングにて駐車をお願いいたします。&lt;/p&gt;
 &lt;h1&gt;会場について&lt;/h1&gt;
@@ -283,7 +294,7 @@ Mail:nakama@okinawa-ct.ac.jp&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLin
 &lt;li&gt;&lt;a href="https://cb-cloud.com/" rel="nofollow"&gt;CBcloud株式会社&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;次回開催予定&lt;/h1&gt;
-&lt;p&gt;毎月継続開催してます！次回は年明け1月後半を予定しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shima-tech-hub.connpass.com/event/375784/</guid><enclosure url="https://media.connpass.com/thumbs/4a/97/4a97ca0678b16f22f47a31918e024b44.png" length="0" type="image/png"/><pubDate>Wed, 12 Nov 2025 09:37:44 +0900</pubDate></item><item><title>【OTTOP主催】空想路線図（を作る！）Vol.2</title><link>https://ottop.connpass.com/event/375614/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月20日(土) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月21日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄県立図書館&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市泉崎1-20-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;おきなわ空想路線図を作る！　第2弾&lt;br&gt;&lt;/h2&gt;
+&lt;p&gt;毎月継続開催してます！次回は年明け1月後半を予定しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shima-tech-hub.connpass.com/event/375784/</guid><enclosure url="https://media.connpass.com/thumbs/4a/97/4a97ca0678b16f22f47a31918e024b44.png" length="0" type="image/png"/><pubDate>Tue, 18 Nov 2025 17:46:32 +0900</pubDate></item><item><title>【OTTOP主催】空想路線図（を作る！）Vol.2</title><link>https://ottop.connpass.com/event/375614/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月20日(土) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月21日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄県立図書館&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市泉崎1-20-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;おきなわ空想路線図を作る！　第2弾&lt;br&gt;&lt;/h2&gt;
 &lt;p&gt;2022年8月に開催した「おきなわ空想路線図を作る！ データ活用ワークショップ」の続編・空想路線図をつくってみるワークショップです。&lt;br&gt;
 今回は、限られた予算の中でどんなルートがデザインできるのか？　空想だけど、現実の制約もある。そんな「もしも」の世界を覗いてみます。「自由な空想」から「現実にありそう」な路線へ。架空の交通オペレーターとなって、路線を設計。企画、プレゼン、検証を経て、ちょっとだけ交通のリアルを覗くワークショップです。&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;開催概要&lt;br&gt;&lt;/h2&gt;

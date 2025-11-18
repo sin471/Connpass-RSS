@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>島根のイベント</title><link>https://connpass.com/explore/</link><description>島根のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>島根のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 17 Nov 2025 15:16:00 +0000</lastBuildDate><item><title>第155回オープンソースサロン+忘年会</title><link>https://shimane-oss.connpass.com/event/376252/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月18日(木) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月18日(木) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 松江オープンソースラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 松江市朝日町478番地18松江テルサ別館2階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;第155回オープンソースサロンを開催します。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>島根のイベント</title><link>https://connpass.com/explore/</link><description>島根のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>島根のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 18 Nov 2025 15:15:45 +0000</lastBuildDate><item><title>Izumo Developers' Guild 第11回 meetup</title><link>https://izumo-developers-guild.connpass.com/event/376476/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月6日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月6日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Izumonomad&lt;/li&gt;&lt;li&gt;🏢 住所: 島根県出雲市今市町2065番地 1F パルメイト出雲&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #izumo_developers_guild&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;Izumo Developers' Guild について&lt;/h2&gt;
+&lt;p&gt;Izumo Developers' Guild は、主に出雲で活動している
+Ruby大好き、その他技術が好きなエンジニアが集まるコミュニティです。&lt;/p&gt;
+&lt;p&gt;第11回ミートアップは、2025/12/06(土) 13:00～ Izumonomadで開催します。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;開場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:15&lt;/td&gt;
+&lt;td&gt;自己紹介・今日やることを発表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:30&lt;/td&gt;
+&lt;td&gt;今日の成果発表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18:00&lt;/td&gt;
+&lt;td&gt;退場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;行動規範&lt;/h2&gt;
+&lt;p&gt;RubyKaigi のアンチハラスメントポリシーを採用します。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://rubykaigi.org/2024/policies/" rel="nofollow"&gt;https://rubykaigi.org/2024/policies/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Slack&lt;/h2&gt;
+&lt;p&gt;参加URL: &lt;a href="https://join.slack.com/t/izumodevelopersguild/shared_invite/zt-2yaa94dzb-T8DOsLJTQYBCsqzfT82TSw" rel="nofollow"&gt;https://join.slack.com/t/izumodevelopersguild/shared_invite/zt-2yaa94dzb-T8DOsLJTQYBCsqzfT82TSw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;次回の開催内容など、Slack で話しています。&lt;/p&gt;
+&lt;p&gt;興味がある方はどなたでも参加可能です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://izumo-developers-guild.connpass.com/event/376476/</guid><enclosure url="https://media.connpass.com/thumbs/2e/c4/2ec408da3d4672005f3bbe5ce7d8ca24.png" length="0" type="image/png"/><pubDate>Tue, 18 Nov 2025 23:24:43 +0900</pubDate></item><item><title>第155回オープンソースサロン+忘年会</title><link>https://shimane-oss.connpass.com/event/376252/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月18日(木) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月18日(木) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 松江オープンソースラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 松江市朝日町478番地18松江テルサ別館2階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;第155回オープンソースサロンを開催します。&lt;/p&gt;
 &lt;p&gt;講師は北海道情報大学 情報メディア学部 准教授で、Debian JP Project 監事の佐々木洋平 氏です。&lt;/p&gt;
 &lt;p&gt;仕事でDebian(およびその派生物であるUbuntuやRaspbian等)を利用されている方や、これから使ってみようと考えている方に, その利点や魅力をお伝えします。&lt;/p&gt;
 &lt;p&gt;オープンソースサロンは参加費無料です。会員以外の方でもご参加いただけます。

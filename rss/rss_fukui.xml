@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福井のイベント</title><link>https://connpass.com/explore/</link><description>福井のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福井のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 17 Nov 2025 15:15:20 +0000</lastBuildDate><item><title>JAWS-UG 福井 #1 リブート宣言LT会</title><link>https://jawsug-fukui.connpass.com/event/375652/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Agile Studio Park FUKUI BASE&lt;/li&gt;&lt;li&gt;🏢 住所: 福井県福井市中央１丁目３−５ (8F 804)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_fukui&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;十余年の時を経て蘇る JAWS-UG 福井支部で福井のAWSユーザーとつながろう&lt;/p&gt;&lt;div&gt;&lt;h1&gt;開催概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福井のイベント</title><link>https://connpass.com/explore/</link><description>福井のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福井のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 18 Nov 2025 15:15:03 +0000</lastBuildDate><item><title>JAWS-UG 福井 #1 リブート宣言LT会</title><link>https://jawsug-fukui.connpass.com/event/375652/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Agile Studio Park FUKUI BASE&lt;/li&gt;&lt;li&gt;🏢 住所: 福井県福井市中央１丁目３−５ (8F 804)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_fukui&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;十余年の時を経て蘇る JAWS-UG 福井支部で福井のAWSユーザーとつながろう&lt;/p&gt;&lt;div&gt;&lt;h1&gt;開催概要&lt;/h1&gt;
 &lt;p&gt;JAWS-UG (AWS Users Group – Japan) は AWS を多くの方に知っていただき、活用を推進するために非営利目的で活動をしているユーザーグループです。&lt;/p&gt;
 &lt;p&gt;なかでも JAWS-UG 福井支部は 2012年に設立され、その後、休眠状態となっていた、地味に歴史のある地方支部です。&lt;/p&gt;
 &lt;p&gt;この度、何名かの「福井でやりたい！」という声をお互いに聞きつけ、 JAWS Festa 2025 in 金沢 の懇親会会場において 点と点がつながることで、リブートへと動き出すことができました。&lt;/p&gt;
@@ -8,14 +8,15 @@
 &lt;p&gt;初めての方も、このイベントに参加して、福井にもエンジニア仲間がいるよ、ということ、福井のエンジニアを応援してくれる人がいるよ、ということを、ぜひ知ってください。
 初めての参加でも安心な、リブート第1回、ぜひご参加ください。&lt;/p&gt;
 &lt;h2&gt;LTテーマ　：　福井にもAWSユーザーがいるよ！&lt;/h2&gt;
-&lt;p&gt;LT 登壇者も募集しています。福井在住の方、福井にお勤めの方、福井ゆかりの方、ぜひどうぞ。&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;LT 登壇者も募集しています。福井在住の方、福井にお勤めの方、福井ゆかりの方、ぜひどうぞ。&lt;/del&gt;
+ 締め切りました&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;まだお互いに何をしているかわからない人だらけです&lt;/li&gt;
 &lt;li&gt;まずは、福井にもAWSを使ってこんなことをしている人がいるんだ、ということを共有しましょう&lt;/li&gt;
 &lt;li&gt;あわせて、活用自慢や、つまづきポイントや工夫したエピソードなどがあれば、ぜひぜひご紹介ください&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;LT していただける方は、connpass の参加申し込み時のアンケートで「LTする」を選択ください。
-希望者多数の場合は、先着順とさせていただきます。&lt;/p&gt;
+希望者多数の場合は、先着順とさせていただきます。←&lt;strong&gt;11/18 締め切りました&lt;/strong&gt;&lt;/p&gt;
 &lt;h1&gt;タイムテーブル&lt;/h1&gt;
 &lt;p&gt;当日運営の都合で前後することがあります。ご了承ください。&lt;/p&gt;
 &lt;table&gt;
@@ -59,31 +60,41 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;15:00-15:15&lt;/td&gt;
+&lt;td align="left"&gt;～休憩～&lt;/td&gt;
+&lt;td align="left"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;15:15-15:25&lt;/td&gt;
 &lt;td align="left"&gt;LT：&lt;/td&gt;
 &lt;td align="left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align="left"&gt;15:20-15:35&lt;/td&gt;
+&lt;td align="left"&gt;15:30-15:40&lt;/td&gt;
 &lt;td align="left"&gt;LT：&lt;/td&gt;
 &lt;td align="left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align="left"&gt;15:40-15:55&lt;/td&gt;
+&lt;td align="left"&gt;15:45-15:55&lt;/td&gt;
 &lt;td align="left"&gt;LT：&lt;/td&gt;
 &lt;td align="left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align="left"&gt;16:00-16:15&lt;/td&gt;
+&lt;td align="left"&gt;16:00-16:10&lt;/td&gt;
 &lt;td align="left"&gt;LT：&lt;/td&gt;
 &lt;td align="left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align="left"&gt;16:20-16:35&lt;/td&gt;
+&lt;td align="left"&gt;16:15-16:25&lt;/td&gt;
 &lt;td align="left"&gt;LT：&lt;/td&gt;
 &lt;td align="left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align="left"&gt;16:40-16:55&lt;/td&gt;
+&lt;td align="left"&gt;16:30-16:40&lt;/td&gt;
+&lt;td align="left"&gt;LT：&lt;/td&gt;
+&lt;td align="left"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;16:45-16:55&lt;/td&gt;
 &lt;td align="left"&gt;LT：&lt;/td&gt;
 &lt;td align="left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -117,4 +128,4 @@ JAWS-UG は No sell, No Job です。イベントの趣旨と関係のない宣�
 &lt;p&gt;あなたのクリエイティブで前向きな発言がイベントをより楽しくします。発表者や質問者に対して疑問や意見がある場合は批判や罵り・嘲りではなく提案と課題解決の態度でポジティブな発言を心がけましょう。
 全てのイベントは有志のボランティアにより非営利目的にて運営され、いつでもあなたの手助けを必要としています。お気付きの点があればぜひご協力をお願いいたします。
 私たちはコミュニティへの貢献を通じて社会からの信頼を得ることがより良いビジネスに繋がり、より自分らしい働き方を見つける手段になると信じています。
-AWSのユーザーグループは日本中、世界中に存在し、あなたの参加を待っています。是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-fukui.connpass.com/event/375652/</guid><enclosure url="https://media.connpass.com/thumbs/ba/8b/ba8b8036070abe1a4a70bbce14c5b757.png" length="0" type="image/png"/><pubDate>Mon, 17 Nov 2025 16:54:47 +0900</pubDate></item></channel></rss>
+AWSのユーザーグループは日本中、世界中に存在し、あなたの参加を待っています。是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-fukui.connpass.com/event/375652/</guid><enclosure url="https://media.connpass.com/thumbs/ba/8b/ba8b8036070abe1a4a70bbce14c5b757.png" length="0" type="image/png"/><pubDate>Tue, 18 Nov 2025 15:20:46 +0900</pubDate></item></channel></rss>

@@ -1,5 +1,96 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 17 Nov 2025 15:15:49 +0000</lastBuildDate><item><title>【OPTiM x Digeon x TechUni主催】 学生LT交流会</title><link>https://optim-kobe.connpass.com/event/376320/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月14日(日) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月14日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: OPTiM Club KOBE&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県 神戸市中央区​小野柄通７丁目１番１号​ 日本生命三宮駅前ビル11F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;概要&lt;/strong&gt;&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 18 Nov 2025 15:15:33 +0000</lastBuildDate><item><title>第25回 CoderDojo西神</title><link>https://coderdojoseishin.connpass.com/event/376387/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月30日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月30日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: ユニバープラザビル2F&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市西区学園西町1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo西神&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;神戸市 令和7年度地域貢献活動補助金 採択事業&lt;/p&gt;&lt;div&gt;&lt;h1&gt;プログラミング初心者も大歓迎です&lt;/h1&gt;
+&lt;p&gt;こどものための無料のプログラミング道場「CoderDojo」を神戸市西区の学園都市で開催します。
+6歳から18歳までの小学生〜高校生・高専生が対象となります。参加費は無料です。
+貸し出し用のパソコンもありますので、パソコンをお持ちでない方も遠慮なくご参加下さい。&lt;/p&gt;
+&lt;p&gt;※12歳以下の小学生はなるべく保護者の方がご同席下さい。 (ご同席は必須ではありません)&lt;/p&gt;
+&lt;h2&gt;FPVドローン&lt;/h2&gt;
+&lt;p&gt;FPVドローンは、一人称 (自分の目で見たように見える) 視点で操作できるドローンです。
+一般的なドローンは、ドローンが飛んでいるところを眺めながら操作しますが、
+PFVドローンはまるで自分がドローンに乗っているかのような感覚で操作できます。&lt;/p&gt;
+&lt;p&gt;FPVドローンの操作 (動画の送信) にはアマチュア無線の免許が必要ですが、
+CoderDojo西神では免許がなくても体験運用することができます。&lt;/p&gt;
+&lt;h1&gt;コベカツクラブ登録団体です&lt;/h1&gt;
+&lt;p&gt;CoderDojo西神は、神戸市立中学校の部活動の地域移行の受け皿となるコベカツクラブにプログラミング分野で登録されました。コベカツとして参加する前に、CoderDojo西神がどのような活動をしているか体験するために、参加あるいは見学して頂くのも歓迎します。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.city.kobe.lg.jp/a33992/529015259644.html" rel="nofollow"&gt;「コベカツクラブ」第１次募集の審査結果をお知らせします&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;※神戸市の資料では年会費6,000円程度とありますが、部活動の地域移行後もCoderDojo西神は無料です。安心してご参加下さい。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;神戸市の補助金を受けて活動しています&lt;/h2&gt;
+&lt;p&gt;前年度（「地域課題に取り組むNPO等補助金」）に続き、今年も神戸市の「地域貢献活動助成金」に採択されました。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.city.kobe.lg.jp/a52374/sankakusuisin/hojyokinsien.html#chiikikadai_hojokin" rel="nofollow"&gt;https://www.city.kobe.lg.jp/a52374/sankakusuisin/hojyokinsien.html#chiikikadai_hojokin&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;タイムテーブル&lt;/h1&gt;
+&lt;p&gt;下記のようなタイムテーブルに従って開催する予定です。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;09:30〜 受付&lt;/li&gt;
+&lt;li&gt;09:40〜10:00 初回参加者向けオリエンテーション・説明&lt;/li&gt;
+&lt;li&gt;10:00〜11:00 学習・PFVドローン体験&lt;/li&gt;
+&lt;li&gt;11:00〜11:30 発表・交流&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;サポートする内容&lt;/h1&gt;
+&lt;p&gt;プログラミングを始めたいけど何から手を付ければいいか分からない、
+プログラミング関連の進路を志望しているけど何すればいいか分からない、
+という感じで足踏みしてしまっている方だけでなく、
+プログラミングを独学してるけど行き詰まった、
+Scratch以外のプログラミングにも挑戦してみたいなど、
+次の一歩を踏み出したい方は是非ともご参加下さい。&lt;/p&gt;
+&lt;p&gt;CoderDojoは、参加者(ニンジャと呼びます)の学びたいこと、実現したいことのお手伝いをします。
+CoderDojo西神では、例えば以下のような内容をサポートしています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Scratchでアクションゲームを作ってみる&lt;/li&gt;
+&lt;li&gt;Scratchから次の一歩を踏み出したい&lt;/li&gt;
+&lt;li&gt;マイコンプログラミングに挑戦したい&lt;/li&gt;
+&lt;li&gt;Pythonプログラミング入門&lt;/li&gt;
+&lt;li&gt;JavaScriptプログラミング入門&lt;/li&gt;
+&lt;li&gt;Unityで3D/2Dゲームプログラミング入門&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;上記はごく一部の例です。もちろん上記以外の内容にも対応しますので、遠慮なくご相談下さい。&lt;/p&gt;
+&lt;p&gt;また、プログラミングをしてみたいけど具体的にやってみたいことが分からないという場合も相談にのります。
+まずは一度ご参加下さい！&lt;/p&gt;
+&lt;h1&gt;機材・教材&lt;/h1&gt;
+&lt;p&gt;ノートパソコンをお持ちの方はご持参下さい。電源コンセントは会場にあります。
+パソコンをお持ちでない方のために、SSDで高速化したRaspberry Pi 5を複数台、WindowsノートPCを複数台、WindowsミニPCを1台、用意しています。&lt;/p&gt;
+&lt;p&gt;教材・参考となる図書も可能な範囲で用意します。
+学習したい内容を事前にご連絡頂ければ、ご要望に沿った書籍を用意することもできます
+(ご要望に添えない場合もあります) 。&lt;/p&gt;
+&lt;h2&gt;用意しているマイコン&lt;/h2&gt;
+&lt;p&gt;CoderDojo西神では、以下のようなマイコンを用意しています。
+ご希望のマイコンがありましたら、参加申し込み時にマイコン名をご連絡下さい。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://docs.arduino.cc/hardware/uno-r4-wifi" rel="nofollow"&gt;Arduino UNO R4 WiFi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://microbit.org/ja/" rel="nofollow"&gt;BBC micro:bit v2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://learn.adafruit.com/adafruit-circuit-playground-express/overview" rel="nofollow"&gt;Adafruit Circuit Playground Express&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.m5stack.com/ja/core/core2" rel="nofollow"&gt;M5Stack Core2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://docs.m5stack.com/en/core/basic" rel="nofollow"&gt;M5Stack Basic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.m5stack.com/ja/core/m5stickc_plus" rel="nofollow"&gt;M5StickC Plus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.raspberrypi.com/products/raspberry-pi-pico/" rel="nofollow"&gt;Raspberry Pi Pico&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;人数分のすべての機材を用意することは難しいため、参加状況によってはご希望のマイコンをお使い頂けない可能性もあります。
+申し訳ありませんが、予めご承知おき下さい。&lt;/p&gt;
+&lt;h2&gt;アマチュア無線体験&lt;/h2&gt;
+&lt;p&gt;アマチュア無線の体験コーナーも用意しました。
+アマチュア無線の概要については下記URL (PDFファイル)を参考にしてみて下さい。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.jarl.org/Japanese/6_Hajimeyo/JARL_AMAdonnamono.pdf" rel="nofollow"&gt;アマチュア無線ってどんなもの?&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;その他&lt;/h1&gt;
+&lt;h2&gt;開催時間について&lt;/h2&gt;
+&lt;p&gt;09:30から受付を開始します。途中参加も可能ですが、なるべく最初からご参加下さい。&lt;/p&gt;
+&lt;h2&gt;飲食について&lt;/h2&gt;
+&lt;p&gt;軽食の飲食はOKです。ビル1Fにコンビニがある他、フロア内には自動販売機もありますのでご利用下さい。&lt;/p&gt;
+&lt;h2&gt;サポートできない内容&lt;/h2&gt;
+&lt;p&gt;安全面の理由で、はんだごてを用いる電子工作には対応できません。
+はんだごてを使わないブレッドボードによる電子工作には対応できますので、事前にご相談下さい。&lt;/p&gt;
+&lt;h1&gt;CoderDojo西神について&lt;/h1&gt;
+&lt;p&gt;CoderDojo西神は、2023年7月に承認された新しいCoderDojoです。
+西神地区を中心に、プログラミングを軸とした総合的な学習の機会を提供することを目的としています。
+最新情報はX (Twitter)やnoteをご覧下さい。&lt;/p&gt;
+&lt;p&gt;X (Twitter): &lt;a href="https://twitter.com/CoderDojoSeisin" rel="nofollow"&gt;https://twitter.com/CoderDojoSeisin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;note: &lt;a href="https://note.com/CoderDojoSeishin" rel="nofollow"&gt;https://note.com/CoderDojoSeishin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://coderdojo.com/ja-JP/dojos/jp/kobe-hyogo/seishin" rel="nofollow"&gt;https://coderdojo.com/ja-JP/dojos/jp/kobe-hyogo/seishin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CoderDojo西神の指導者 (メンター) は全員、安全対策への取り組みとして、
+一定のオンライントレーニングを受講、修了しています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://coderdojo.com/ja-JP/safeguarding" rel="nofollow"&gt;子供たちと安全に作業する&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module" rel="nofollow"&gt;セーフガードモジュール&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CoderDojo西神は神戸市「令和6年度 地域課題に取り組むNPO等補助金」の採択事業でした。令和7年度も申請予定です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojoseishin.connpass.com/event/376387/</guid><enclosure url="https://media.connpass.com/thumbs/78/db/78dbc1843a8d3a7fec63d5ffe5d1ed2a.png" length="0" type="image/png"/><pubDate>Tue, 18 Nov 2025 13:10:29 +0900</pubDate></item><item><title>【OPTiM x Digeon x TechUni主催】 学生LT交流会</title><link>https://optim-kobe.connpass.com/event/376320/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月14日(日) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月14日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: OPTiM Club KOBE&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県 神戸市中央区​小野柄通７丁目１番１号​ 日本生命三宮駅前ビル11F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;概要&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;OPTiM&lt;/strong&gt;・&lt;strong&gt;Digeon&lt;/strong&gt;・&lt;strong&gt;Tech.Uni&lt;/strong&gt;が共同で開催する、技術が好きな学生とエンジニアのための交流イベントです！&lt;br&gt;
 本イベントでは、学生や企業の現役エンジニアによる技術トーク（LT）を聞きながら、学びやネットワーキングを通じて交流を深めます。&lt;/p&gt;
 &lt;ul&gt;
@@ -114,7 +205,7 @@ Digeonが目指すのは単に最先端技術を用いたAI開発だけでなく
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://techuni.org/" rel="nofollow"&gt;団体概要&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://x.com/TechUni1026" rel="nofollow"&gt;Xアカウント&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://optim-kobe.connpass.com/event/376320/</guid><enclosure url="https://media.connpass.com/thumbs/4a/6d/4a6d064927fd69cf1f8b07d4c07c4dbb.png" length="0" type="image/png"/><pubDate>Mon, 17 Nov 2025 22:02:44 +0900</pubDate></item><item><title>忘年会 日曜もくもく自習の会 : 数学とプログラミング</title><link>https://math-coding.connpass.com/event/376217/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月21日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月21日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: DEP.(三星ビル4階南室)&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区三宮町3-1-16(三星ビル４F南室)&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;日曜もくもく自習の会とは？&lt;/strong&gt;&lt;br&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://optim-kobe.connpass.com/event/376320/</guid><enclosure url="https://media.connpass.com/thumbs/4a/6d/4a6d064927fd69cf1f8b07d4c07c4dbb.png" length="0" type="image/png"/><pubDate>Tue, 18 Nov 2025 18:25:07 +0900</pubDate></item><item><title>忘年会 日曜もくもく自習の会 : 数学とプログラミング</title><link>https://math-coding.connpass.com/event/376217/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月21日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月21日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: DEP.(三星ビル4階南室)&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区三宮町3-1-16(三星ビル４F南室)&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;日曜もくもく自習の会とは？&lt;/strong&gt;&lt;br&gt;
 数学とプログラミングの自習会ですが、年末の今回は忘年会として飲みながら話をする会とします。     &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;こんな方におすすめ&lt;/strong&gt;  &lt;br&gt;
 もくもく自習したいのと一緒に学ぶ仲間がほしい。少し情報交換したい。&lt;br&gt;
@@ -291,7 +382,7 @@ CoderDojo明石では、広報のためにDojoの様子を写真または動画�
 また、システム上こちらから個別にメール送信などが出来なくなっておりますので、もし何かご相談がある場合はFBページ等からお問い合わせください。&lt;br&gt;
 &lt;a href="https://www.facebook.com/CoderDojoAkashi/" rel="nofollow"&gt;CoderDojo明石Facebookページ&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://www.instagram.com/coderdojo_akashi/" rel="nofollow"&gt;CoderDojo明石instagram&lt;/a&gt;&lt;br&gt;
-不明な点等ございましたらお気軽にご質問ください！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-akashi.connpass.com/event/375571/</guid><enclosure url="https://media.connpass.com/thumbs/99/76/9976f0f37d575cd8fef18f5bdcc5c001.png" length="0" type="image/png"/><pubDate>Mon, 10 Nov 2025 16:50:10 +0900</pubDate></item><item><title>CoderDojo @藤江駅前オアシス25/12/13</title><link>https://coderdojofujie.connpass.com/event/375366/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 藤江駅前オアシス&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県明石市藤江1701-3&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供向けのプログラミングを楽しむ場を無料で提供します。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo @藤江駅前オアシス の参加者を募集します&lt;/h1&gt;
+不明な点等ございましたらお気軽にご質問ください！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-akashi.connpass.com/event/375571/</guid><enclosure url="https://media.connpass.com/thumbs/99/76/9976f0f37d575cd8fef18f5bdcc5c001.png" length="0" type="image/png"/><pubDate>Tue, 18 Nov 2025 16:40:26 +0900</pubDate></item><item><title>CoderDojo @藤江駅前オアシス25/12/13</title><link>https://coderdojofujie.connpass.com/event/375366/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 藤江駅前オアシス&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県明石市藤江1701-3&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供向けのプログラミングを楽しむ場を無料で提供します。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo @藤江駅前オアシス の参加者を募集します&lt;/h1&gt;
 &lt;p&gt;下記の内容をよくお読みになってからお申込みはこちらのページから保護者の方がおこなってください。&lt;/p&gt;
 &lt;p&gt;CoderDojoでは小中学生を対象にプログラミングを中心とした創作の場を提供します。 子供自身が作りたいものをメンターと呼ばれる大人がサポートしながら進めていきます。もちろんサポートなしでもどんどん進めることができます。&lt;/p&gt;
 &lt;p&gt;プログラミング教室のようにおしえてもらうのではなく自分で考えて作っていきます。また一人でなかなか進まない時でも同じ目標のみんなと楽しく過ごすことができます。&lt;/p&gt;

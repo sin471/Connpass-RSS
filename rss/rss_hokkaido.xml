@@ -1,5 +1,71 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 17 Nov 2025 15:14:32 +0000</lastBuildDate><item><title>SAPPORO ENGINEER BASE #12 Vibe Coding（AI × 開発）</title><link>https://seb-sapporo.connpass.com/event/376107/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月12日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月12日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: SEBカフェ&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市北区北13条西4丁目1-2志水ビル2階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #seb_sapporo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;札幌市内外のITエンジニアや志望者、未経験者が交流し学べるイベント&lt;/p&gt;&lt;div&gt;&lt;h1&gt;企画概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 18 Nov 2025 15:14:11 +0000</lastBuildDate><item><title>仕事の裏ガワAI ゆる共有会</title><link>https://sapporo-ai.connpass.com/event/376431/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月27日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月27日(木) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: ドリノキ&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市中央区南1条西4丁目 日之出ビル9階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #札幌AI&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;当イベントについて&lt;/h2&gt;
+&lt;p&gt;ようこそ、「仕事の裏ガワゆる共有会」へ！&lt;/p&gt;
+&lt;p&gt;日々の仕事の中で、
+「これ、みんなどうしてるんだろう…？」&lt;br&gt;
+「裏の作業って、もっとラクにできない？」&lt;br&gt;
+と思う瞬間はありませんか？&lt;/p&gt;
+&lt;p&gt;このイベントは、そんな“裏ガワのあれこれ”を気軽に交換し合うゆるい集まりです。
+札幌にいながらでも、最新のAI活用や実務ハックに触れて、&lt;br&gt;
+「思ったよりみんな工夫してるんだ…！」と気づける、そんなカジュアルな場を目指しています。&lt;/p&gt;
+&lt;p&gt;普段なかなか表に出ないけれど、仕事では避けて通れない、あの“地味な作業”や“しんどい部分”を、&lt;br&gt;
+どんなふうに工夫しているかをゆるく紹介し合います。&lt;/p&gt;
+&lt;p&gt;LT形式ですが、プレゼン大会ではなく“情報の持ち寄り”がメインです。
+(※オンライン配信は予定していません)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;コミュニティについて&lt;/h2&gt;
+&lt;p&gt;「札幌AI」は、AIやソフトウェア開発をもっと身近に、もっと楽しく学べるコミュニティです。&lt;br&gt;
+これまでには &lt;a href="https://amzn.to/41Yo77s" rel="nofollow"&gt;LangChain × LangGraph&lt;/a&gt; の輪読会など、&lt;br&gt;
+最新技術を”単なる知識”で終わらせない「実践的な学び」を重視した活動を続けてきました。&lt;/p&gt;
+&lt;p&gt;難しいことを”ゆるく深める”仲間が集まる場所。&lt;br&gt;
+それがこのコミュニティです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;LTトーク予定&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;登壇者&lt;/th&gt;
+&lt;th&gt;トークテーマ&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;chocopie116&lt;/td&gt;
+&lt;td&gt;Claude Codeに提案作業をやってもらう話&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2&gt;当日の流れ&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;オープニング＆自己紹介（10分）&lt;/strong&gt;&lt;br&gt;
+   「最近の裏ガワの話題」「今日聞きたいこと」などをゆるっと共有します。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;裏ガワトーク（LT）タイム（30分）&lt;/strong&gt;  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ゆる雑談＆共有タイム（30分）&lt;/strong&gt;&lt;br&gt;
+   「自分はこうしてるよ」「このツール使ってる！」など、&lt;br&gt;
+   感想や実務Tipsを話しながら交流します。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;希望者のみ懇親会（自由参加）&lt;/strong&gt;&lt;br&gt;
+   そのまま会場 or 近くのお店でゆるっと交流予定です。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;他のエンジニアが“裏側でどう工夫してるか”知りたい  &lt;/li&gt;
+&lt;li&gt;最新のAI活用や実務ハックをゆるく聞きたい  &lt;/li&gt;
+&lt;li&gt;コミュニティで気軽に横のつながりをつくりたい  &lt;/li&gt;
+&lt;li&gt;札幌でAI仲間と交流したい  &lt;/li&gt;
+&lt;li&gt;初参加のイベント、気まずくない雰囲気がいい  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;堅い会ではないので、聞くだけ参加や途中参加も大歓迎です。
+(※オンライン配信は予定していません)&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sapporo-ai.connpass.com/event/376431/</guid><enclosure url="https://media.connpass.com/thumbs/58/dc/58dcbe71f8f1d940ec0e2fdc637443db.png" length="0" type="image/png"/><pubDate>Tue, 18 Nov 2025 17:19:22 +0900</pubDate></item><item><title>SAPPORO ENGINEER BASE #12 Vibe Coding（AI × 開発）</title><link>https://seb-sapporo.connpass.com/event/376107/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月12日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月12日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: SEBカフェ&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市北区北13条西4丁目1-2志水ビル2階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #seb_sapporo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;札幌市内外のITエンジニアや志望者、未経験者が交流し学べるイベント&lt;/p&gt;&lt;div&gt;&lt;h1&gt;企画概要&lt;/h1&gt;
 &lt;p&gt;Sapporo Engineer Base #12は、「Vibe Coding」をテーマに開催します！&lt;/p&gt;
 &lt;p&gt;Cursor、Claude Code、GitHub Copilot、OpenAI Codex など、開発者の意図や文脈を理解しながら “ともにコードを書くAI” は、いまや多くの現場で当たり前の存在になりつつあります。&lt;/p&gt;
 &lt;p&gt;これらのAIは単なる補助ツールではなく、設計・実装・デバッグ・リファクタリング・ドキュメント整備・テスト作成 といった、従来エンジニアが担ってきた幅広いプロセスを補完・自動化するパートナーへと進化してきています。&lt;/p&gt;
@@ -902,7 +968,7 @@ Microsoftが提供する無料のラーニングサイト"&lt;a href="https://do
 &lt;h2&gt;成果物&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://forceoutput.github.io/" rel="nofollow"&gt;https://forceoutput.github.io/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://forceoutput.connpass.com/event/372351/</guid><enclosure url="https://media.connpass.com/thumbs/b4/4f/b44fdefb22dd0acb4e6b618521b9fc2c.png" length="0" type="image/png"/><pubDate>Fri, 10 Oct 2025 22:39:36 +0900</pubDate></item><item><title>ダメなら餃子 in ラスベガス2025</title><link>https://ore-no-event.connpass.com/event/371998/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月5日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月5日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 大衆酒場 ラスベガス すすきの店&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区南６条西３-6-9 エイトビル 1F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ラスベガスはアメリカだけじゃねえから&lt;/p&gt;&lt;div&gt;&lt;h2&gt;このイベントについて&lt;/h2&gt;
 &lt;p&gt;アメリカのラスベガスに行けなかった人が札幌のラスベガスでわいわいする知人向けの単なる飲み会です。勉強会ではありません。諸々の管理が面倒なのでconnpassを使いたかっただけです。  &lt;/p&gt;
-&lt;p&gt;基本的には自分 (@TAKA_0411) が知り合い向けに作ったイベントなので抽選といいつつも恣意的な指名が行われる可能性があります。(面識はないけど申し込んじゃった人など)&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ore-no-event.connpass.com/event/371998/</guid><enclosure url="https://media.connpass.com/thumbs/66/40/6640c3ac7d41ccc0b23c81482dc601bb.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 14:30:15 +0900</pubDate></item><item><title>JAWS-UG CDK支部#23 札幌でもCDKしたいっしょ</title><link>https://jawsug-cdk.connpass.com/event/371997/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月21日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月21日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: アクセンチュア・イノベーションセンター北海道&lt;/li&gt;&lt;li&gt;🏢 住所: 060-0061 北海道札幌市中央区南1条西4丁目1番地1 札幌4丁目プレイス11階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;at アクセンチュア・イノベーションセンター北海道 様&lt;/p&gt;&lt;div&gt;&lt;h2&gt;開催概要&lt;/h2&gt;
+&lt;p&gt;基本的には自分 (@TAKA_0411) が知り合い向けに作ったイベントなので抽選といいつつも恣意的な指名が行われる可能性があります。(面識はないけど申し込んじゃった人など)&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ore-no-event.connpass.com/event/371998/</guid><enclosure url="https://media.connpass.com/thumbs/66/40/6640c3ac7d41ccc0b23c81482dc601bb.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 14:30:15 +0900</pubDate></item><item><title>JAWS-UG CDK支部#23 札幌でもCDKしたいっしょ</title><link>https://jawsug-cdk.connpass.com/event/371997/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月21日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月21日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: アクセンチュア・イノベーションセンター北海道&lt;/li&gt;&lt;li&gt;🏢 住所: 060-0061 北海道札幌市中央区南1条西4丁目1番地1 札幌4丁目プレイス11階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_cdk&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;at アクセンチュア・イノベーションセンター北海道 様&lt;/p&gt;&lt;div&gt;&lt;h2&gt;開催概要&lt;/h2&gt;
 &lt;p&gt;オフラインイベント開催！CDK支部が、ついに札幌に初上陸します！&lt;br&gt;
 今までオンラインでご参加いただいていた皆さんも是非ご参加ください！&lt;/p&gt;
 &lt;h2&gt;対象者&lt;/h2&gt;
@@ -950,7 +1016,7 @@ Microsoftが提供する無料のラーニングサイト"&lt;a href="https://do
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;19:51 - 20:09 (15min+3min)&lt;/td&gt;
-&lt;td&gt;API Gatewayの非同期通信、AWS CDKで構築するにはどうやるの？&lt;/td&gt;
+&lt;td&gt;CDKの値をWorkflow Studioのプロパティに設定する方法&lt;/td&gt;
 &lt;td&gt;Masaki Suzuki&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -979,7 +1045,7 @@ Microsoftが提供する無料のラーニングサイト"&lt;a href="https://do
 &lt;h4&gt;CDK界隈でよく聞くあの話私はこうなってます&lt;/h4&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/profile_images/1212911647372673024/udkeL0wP_400x400.jpg" width="250"&gt;&lt;/p&gt;
 &lt;h3&gt;Masaki Suzuki&lt;/h3&gt;
-&lt;h4&gt;API Gatewayの非同期通信、AWS CDKで構築するにはどうやるの？&lt;/h4&gt;
+&lt;h4&gt;CDKの値をWorkflow Studioのプロパティに設定する方法&lt;/h4&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/profile_images/643787735/kao_400x400.jpg" width="250"&gt;&lt;/p&gt;
 &lt;h3&gt;Hikaru Kohri&lt;/h3&gt;
 &lt;h4&gt;CDKを使って気づいた、もっと早く知りたかったこと&lt;/h4&gt;
@@ -1006,7 +1072,7 @@ Microsoftが提供する無料のラーニングサイト"&lt;a href="https://do
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href="https://jaws-ug.jp/for-participant/" rel="nofollow"&gt;https://jaws-ug.jp/for-participant/&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;マナー&lt;/h3&gt;
-&lt;p&gt;懇親会会場:&lt;a href="https://www.google.com/maps/place/%E6%B5%B7%E9%AE%AE%E5%80%8B%E5%AE%A4%E9%85%92%E5%A0%B4+%E4%BC%8A%E3%81%BE%E3%82%8A%E5%A4%A7%E9%80%9A%E5%BA%97/@43.0584185,141.352063,20.5z/data=!4m6!3m5!1s0x5f0b299caeb70939:0xb64c96d042ebf74b!8m2!3d43.0591069!4d141.3516286!16s%2Fg%2F11f4vgf2sh?entry=ttu&amp;amp;g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D" rel="nofollow"&gt;海鮮個室酒場 伊まり大通店&lt;/a&gt; 21:30~&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-cdk.connpass.com/event/371997/</guid><enclosure url="https://media.connpass.com/thumbs/d1/b3/d1b399c4004728e40c1cc6e4ece30530.png" length="0" type="image/png"/><pubDate>Mon, 17 Nov 2025 15:31:55 +0900</pubDate></item><item><title>AWS re:Invent ふりかえり勉強会「クラスメソッド re:Growth 2025 札幌」</title><link>https://classmethod.connpass.com/event/371835/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月8日(月) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月8日(月) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: クラスメソッド札幌オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北３条西１丁目１−１ 札幌ブリックキューブ 10階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #regrowth_sapporo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;年に1回の大勝負！（何と勝負？）果たして、今年は何がくるんだ...！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;今年もやるぞ！re:Growth Sapporo！&lt;/h2&gt;
+&lt;p&gt;懇親会会場:&lt;a href="https://www.google.com/maps/place/%E6%B5%B7%E9%AE%AE%E5%80%8B%E5%AE%A4%E9%85%92%E5%A0%B4+%E4%BC%8A%E3%81%BE%E3%82%8A%E5%A4%A7%E9%80%9A%E5%BA%97/@43.0584185,141.352063,20.5z/data=!4m6!3m5!1s0x5f0b299caeb70939:0xb64c96d042ebf74b!8m2!3d43.0591069!4d141.3516286!16s%2Fg%2F11f4vgf2sh?entry=ttu&amp;amp;g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D" rel="nofollow"&gt;海鮮個室酒場 伊まり大通店&lt;/a&gt; 21:30~&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-cdk.connpass.com/event/371997/</guid><enclosure url="https://media.connpass.com/thumbs/d1/b3/d1b399c4004728e40c1cc6e4ece30530.png" length="0" type="image/png"/><pubDate>Tue, 18 Nov 2025 21:08:47 +0900</pubDate></item><item><title>AWS re:Invent ふりかえり勉強会「クラスメソッド re:Growth 2025 札幌」</title><link>https://classmethod.connpass.com/event/371835/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月8日(月) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月8日(月) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: クラスメソッド札幌オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北３条西１丁目１−１ 札幌ブリックキューブ 10階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #regrowth_sapporo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;年に1回の大勝負！（何と勝負？）果たして、今年は何がくるんだ...！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;今年もやるぞ！re:Growth Sapporo！&lt;/h2&gt;
 &lt;p&gt;ラスベガスで毎年開催される AWS re:Invent のふりかえり勉強会を今年も開催します！&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://reinvent.awsevents.com/" rel="nofollow"&gt;https://reinvent.awsevents.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今年は札幌オフィスから 5 名が参加予定です！&lt;/p&gt;
@@ -1306,7 +1372,7 @@ SCSK北海道に入社後、SEとして総合農薬メーカーのクラウド�
 &lt;li&gt;ブログ/SNSでの発信は公序良俗に反する内容は避けてください。参加者の個人情報にも十分ご留意ください。&lt;/li&gt;
 &lt;li&gt;入力いただいた情報は以下のプライバシーポリシーに基づき扱います。&lt;br&gt;
 &lt;a href="https://www.ecomott.co.jp/privacy.html" rel="nofollow"&gt;エコモット株式会社 プライバシーポリシー&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://iotbizlabo.connpass.com/event/371776/</guid><enclosure url="https://media.connpass.com/thumbs/90/16/9016947174445894cd07bf1ee40d6fb8.png" length="0" type="image/png"/><pubDate>Tue, 11 Nov 2025 09:27:04 +0900</pubDate></item><item><title>Hakodate.swift #1</title><link>https://japan-region-swift.connpass.com/event/371217/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月22日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月22日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 函館コミュニティプラザ Gスクエア&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道函館市本町24番1号 シエスタハコダテ4階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #hakodate_swift&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;Hakodate.swift は、函館にゆかりがある人や、これを機に行ってみたい！行きたい！というAppleプラットフォームの開発者・学習者が集う勉強会 です。&lt;/p&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://iotbizlabo.connpass.com/event/371776/</guid><enclosure url="https://media.connpass.com/thumbs/90/16/9016947174445894cd07bf1ee40d6fb8.png" length="0" type="image/png"/><pubDate>Tue, 18 Nov 2025 14:13:05 +0900</pubDate></item><item><title>Hakodate.swift #1</title><link>https://japan-region-swift.connpass.com/event/371217/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月22日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月22日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 函館コミュニティプラザ Gスクエア&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道函館市本町24番1号 シエスタハコダテ4階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #hakodate_swift&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;Hakodate.swift は、函館にゆかりがある人や、これを機に行ってみたい！行きたい！というAppleプラットフォームの開発者・学習者が集う勉強会 です。&lt;/p&gt;
 &lt;p&gt;函館には、函館山の夜景や五稜郭、海鮮、ご当地バーガーのラッキーピエロ、ガラス張りの大学！？など多くの魅力があります。これを機に函館に足を運んでついでに観光してはいかがでしょうか？&lt;/p&gt;
 &lt;p&gt;函館ならではの企画も準備していますので、LTや15分トークによる開発ノウハウなど学びつつ、函館を楽しんでいただければと思います！&lt;/p&gt;
 &lt;p&gt;AndroidやFlutter開発者などでもAppleプラットフォームに少しでも興味ある方であれば、どなたでも大歓迎です！&lt;/p&gt;
