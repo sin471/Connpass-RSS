@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>栃木のイベント</title><link>https://connpass.com/explore/</link><description>栃木のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>栃木のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 19 Nov 2025 15:15:49 +0000</lastBuildDate><item><title>toruby 223rd</title><link>https://toruby.connpass.com/event/375892/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月3日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月3日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 西那須野公民館&lt;/li&gt;&lt;li&gt;🏢 住所: 栃木県那須塩原市太夫塚１丁目１９４−７８&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #toruby&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>栃木のイベント</title><link>https://connpass.com/explore/</link><description>栃木のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>栃木のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 20 Nov 2025 15:13:38 +0000</lastBuildDate><item><title>toruby 223rd</title><link>https://toruby.connpass.com/event/375892/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月3日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月3日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 西那須野公民館&lt;/li&gt;&lt;li&gt;🏢 住所: 栃木県那須塩原市太夫塚１丁目１９４−７８&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #toruby&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;ul&gt;
 &lt;li&gt;いつもの勉強会をします&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://toruby.connpass.com/event/375892/</guid><pubDate>Wed, 12 Nov 2025 23:49:54 +0900</pubDate></item><item><title>【初学者向け】宇都宮セキュリティ勉強会 #9</title><link>https://miyasec.connpass.com/event/375464/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月20日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月20日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: futaaraBASE&lt;/li&gt;&lt;li&gt;🏢 住所: 栃木県宇都宮市二荒町５−７&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #セキュリティ勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;セキュリティに関心のある方を対象とした宇都宮での初学者向け勉強会&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;b&gt;宇都宮でセキュリティ勉強会を開催します。&lt;/b&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;本勉強会は初学者向け勉強会です。&lt;br&gt;
@@ -324,12 +324,24 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;15:30&lt;/td&gt;
-&lt;td&gt;15:45&lt;/td&gt;
+&lt;td&gt;15:40&lt;/td&gt;
+&lt;td&gt;休憩&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:40&lt;/td&gt;
+&lt;td&gt;16:20&lt;/td&gt;
+&lt;td&gt;トークセッション&lt;/td&gt;
+&lt;td&gt;北陸 × 北海道 × 北関東 〜地方コミュニティ運営の実践とこれから〜(仮)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:20&lt;/td&gt;
+&lt;td&gt;16:30&lt;/td&gt;
 &lt;td&gt;クロージング&lt;/td&gt;
 &lt;td&gt;運営チーム&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;15:45&lt;/td&gt;
+&lt;td&gt;16:30&lt;/td&gt;
 &lt;td&gt;17:00&lt;/td&gt;
 &lt;td&gt;撤収完了&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
@@ -347,6 +359,30 @@
 &lt;p&gt;前職は某製造業でロボット制御ソフトの開発を担当。
 現在は成果報酬型で顧客と共に新しい価値を作り上げるCo-Creation Startupに挑戦している。
 趣味はキャンプと、最近息子と一緒に始めた野球。&lt;/p&gt;
+&lt;h2&gt;トークセッション「北陸 × 北海道 × 北関東 〜地方コミュニティ運営の実践とこれから〜(仮)」&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/profile_images/1886287340647452672/SclzdtHo_400x400.jpg" width="120"&gt;&lt;/p&gt;
+&lt;p style="font-size: 20px;"&gt;&lt;b&gt;ふぁらお加藤 さん&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;X：&lt;a href="https://x.com/PharaohKJ" rel="nofollow"&gt;@PharaohKJ&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;北陸を拠点に活動するプログラマ。Ruby/RailsやAWS/クラウドを用いたシステム開発を行いつつ、BuriKaigiやJAWS-UG金沢( AWS Samurai 2019・AWS Community Builder 2021〜・JAWS FESTA 2025実行委員長)など技術コミュニティの運営としても活動しています。今回は地方勉強会・コミュニティ運営の実践についてみなさんといっしょに考えたいです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/profile_images/1004990461/P2010_0608_120933_400x400.jpg" width="120"&gt;&lt;/p&gt;
+&lt;p style="font-size: 20px;"&gt;&lt;b&gt;笠原 宏 さん&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;X：&lt;a href="https://x.com/kasacchiful" rel="nofollow"&gt;@kasacchiful&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;クラスメソッド株式会社 データ事業本部 ソリューションアーキテクト&lt;/p&gt;
+&lt;p&gt;クラウド上でのデータ分析基盤を構築するソリューションアーキテクトしてます。
+新潟県新潟市在住。新潟で各種ITコミュニティを運営してます。&lt;/p&gt;
+&lt;p&gt;KomeKaigi2025 実行委員長
+AWS Community Builder (Serverless) / 2025 Japan AWS Top Engineer / 2025 Japan All AWS Certifications Engineer&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/profile_images/442690473564463105/9-wYCYCR_400x400.png" width="120"&gt;&lt;/p&gt;
+&lt;p style="font-size: 20px;"&gt;&lt;b&gt;西原 翔太 さん&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;X：&lt;a href="https://x.com/tomio2480" rel="nofollow"&gt;@tomio2480&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;TechRAMEN 2025 Conference 実行委員長 / 一般社団法人 情報処理学会 会誌編集委員&lt;/p&gt;
+&lt;p&gt;主に北海道で地域の技術系コミュニティ（ゆるい勉強会@旭川，FuraIT@富良野，Okhotsk DEW Community@オホーツク，Co-KoNPILe(東京都小平市)）やカンファレンス（TechRAMEN Conference）で活動しています．エンジニア・非エンジニアそれぞれに寄りすぎず，技術や開発に焦点を当てた，登壇しても箔がつかない，労力をかけない自由な会を目指しています．自分は非エンジニアなので，その目線で考えられたらと思っています．&lt;/p&gt;
 &lt;h1&gt;主催&lt;/h1&gt;
 &lt;h2&gt;Code for OYAMA&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://code4oyama.org/" rel="nofollow"&gt;https://code4oyama.org/&lt;/a&gt;&lt;/p&gt;
@@ -430,4 +466,4 @@
 &lt;h2&gt;8. プライバシーポリシーの変更&lt;/h2&gt;
 &lt;p&gt;本ポリシーは、必要に応じて改訂されることがあります。改訂後のポリシーは、メール等で告知します。&lt;/p&gt;
 &lt;h2&gt;9. お問い合わせ&lt;/h2&gt;
-&lt;p&gt;本イベントのプライバシーポリシーに関するお問い合わせは、本イベントページの問い合わせフォームからご連絡ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://techgyoza.connpass.com/event/371476/</guid><enclosure url="https://media.connpass.com/thumbs/73/fe/73fe204218042d0b4f212c0d4e482c24.png" length="0" type="image/png"/><pubDate>Tue, 18 Nov 2025 19:27:16 +0900</pubDate></item></channel></rss>
+&lt;p&gt;本イベントのプライバシーポリシーに関するお問い合わせは、本イベントページの問い合わせフォームからご連絡ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://techgyoza.connpass.com/event/371476/</guid><enclosure url="https://media.connpass.com/thumbs/73/fe/73fe204218042d0b4f212c0d4e482c24.png" length="0" type="image/png"/><pubDate>Fri, 21 Nov 2025 00:07:22 +0900</pubDate></item></channel></rss>

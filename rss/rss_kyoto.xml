@@ -1,5 +1,122 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>京都のイベント</title><link>https://connpass.com/explore/</link><description>京都のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>京都のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 19 Nov 2025 15:16:41 +0000</lastBuildDate><item><title>Kyoto.js 24</title><link>https://kyotojs.connpass.com/event/376443/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月29日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社マネーフォワード&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区三条通河原町東入中島町78 明治屋京都ビル4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kyotojs&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;Kyoto.jsは京都のJavaScriptコミュニティです！ Webフロントエンドからアプリケーション開発、Node.js、WASM、CSS、デザイン、WebGL、セキュリティまで、なんでも気軽に語りましょう！！&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>京都のイベント</title><link>https://connpass.com/explore/</link><description>京都のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>京都のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 20 Nov 2025 15:14:14 +0000</lastBuildDate><item><title>学生AI Coder Meetup in 京都 - Google Developer Group</title><link>https://gdsc-osaka-univ.connpass.com/event/376595/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月21日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月21日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 京都ラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒606-8204    京都府京都市左京区田中下柳町田中41−１ 2階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #gdgocosaka&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;主催: GDG on Campus Osaka, 京大AI Coding研究所&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;img alt="20251221-ai-meetup" src="https://i.ibb.co/qLTjFMWy/20251221-ai-meetup.png"&gt;&lt;/p&gt;
+&lt;h1&gt;📝 AI時代の開発スタイル × 同世代との繋がり - 学生AI Coder Meetup in 京都&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;「コードは自分で書くもの」から「AIと共に創るもの」へ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vibe coding（バイブ・コーディング）&lt;/strong&gt; とは、AIに大まかな指示を与え、生成されたコードを確認・修正しながら、リズムよく（Vibe）開発を進める新しいスタイルです。&lt;/p&gt;
+&lt;p&gt;本イベントは、Google Developer Group が主催する &lt;strong&gt;「Vibe coding の知見共有」&lt;/strong&gt; と &lt;strong&gt;「関西の学生エンジニア同士の交流」&lt;/strong&gt; を目的としたミートアップです。&lt;/p&gt;
+&lt;p&gt;「AIを使っているけれど、もっと上手な方法があるかも？」
+「他の学生エンジニアは、どんなエディタやプロンプトを使っているの？」&lt;/p&gt;
+&lt;p&gt;そんな疑問を解消し、一生モノの仲間を見つけるための場所を京都に用意しました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;🚀 同世代の「開発環境」を覗き見&lt;/strong&gt;
+    「Claudeの設定どうしてる？」「プロンプトのコツは？」など、同世代が実際にどんなツールやフローで開発しているか、教科書にはないリアルな知見が得られます。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🤝 半分は「交流」がメイン&lt;/strong&gt;
+    LT（ライトニングトーク）の後は懇親会！学校の枠を超えて、技術やキャリアについて本音で語り合える仲間が見つかります。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;募集対象&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LT登壇:&lt;/strong&gt; 自分のAI開発スタイルや失敗談をシェアしたい方 (発表時間は 10分)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;一般参加:&lt;/strong&gt; リアルな開発フローを知りたい、同世代と繋がりたい方&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h1&gt;⏰ タイムテーブル&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+  &lt;tr&gt;
+   &lt;th&gt;⏰ 時間&lt;/th&gt;
+   &lt;th&gt;内容&lt;/th&gt;
+  &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+  &lt;tr&gt;
+   &lt;td&gt;13:30-14:00&lt;/td&gt;
+   &lt;td align="center"&gt;受付&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;14:00-14:10&lt;/td&gt;
+   &lt;td align="center"&gt;&lt;h5&gt;Opening&lt;/h5&gt;GDGoC Osaka &amp;amp; 京大AI Coding研究所&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;14:10-14:40&lt;/td&gt;
+   &lt;td align="center"&gt;&lt;h5&gt;セッション①&lt;/h5&gt;TBD&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;th&gt;14:40-14:50&lt;/th&gt;
+   &lt;th align="center"&gt;Short Break&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;14:50-15:00&lt;/td&gt;
+   &lt;td align="center"&gt;&lt;h5&gt;MCP を駆使してモバイル開発の自動化を試みる&lt;/h5&gt;ゆにねこ&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;15:00-15:10&lt;/td&gt;
+   &lt;td align="center"&gt;&lt;h5&gt;LT ②&lt;/h5&gt;TBD&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;15:10-15:20&lt;/td&gt;
+   &lt;td align="center"&gt;&lt;h5&gt;LT ③&lt;/h5&gt;TBD&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;th&gt;15:20-15:30&lt;/th&gt;
+   &lt;th align="center"&gt;Short Break&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;15:30-15:40&lt;/td&gt;
+   &lt;td align="center"&gt;&lt;h5&gt;LT ④&lt;/h5&gt;TBD&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;15:40-15:50&lt;/td&gt;
+   &lt;td align="center"&gt;&lt;h5&gt;LT枠⑤&lt;/h5&gt;TBD&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;15:50-16:00&lt;/td&gt;
+   &lt;td align="center"&gt;&lt;h5&gt;LT枠⑥&lt;/h5&gt;TBD&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;16:00-16:10&lt;/td&gt;
+   &lt;td align="center"&gt;&lt;h5&gt;Closing&lt;/h5&gt;GDGoC Osaka &amp;amp; 京大AI Coding研究所&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;th&gt;16:10-17:00&lt;/th&gt;
+   &lt;th align="center"&gt;懇親会&lt;/th&gt;
+  &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1&gt;🎙️ セッション&lt;/h1&gt;
+&lt;h2&gt;&lt;a href="https://twitter.com/harineko_univ" rel="nofollow"&gt;ゆにねこ&lt;/a&gt;: MCP を駆使してモバイル開発の自動化を試みる&lt;/h2&gt;
+&lt;p&gt;Gather, inc. では、Claude Code や Codex に加え、Figma MCP, serena, Kiri, dart-mcp, flutter-mcp, mobile-mcp などを駆使して、スタートアップにおける Flutter 開発を加速させています。当 LT では、Coding Agent を用いたモバイル開発の現在地点と現状の課題を紹介します。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="yunineko-icon" height="200/" src="https://avatars.githubusercontent.com/u/35805963" width="200"&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;大阪大学基礎工情報科&lt;/li&gt;
+&lt;li&gt;GDG on Campus Osaka Organizer (2024.09-2025.08)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Web, Flutter, バックエンド, 低レイヤーなどが好きです. 趣味は CI/CD 整備です. 最近 Functional Programming と圏論に触れ始めました.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;コミュニティ規約&lt;/h1&gt;
+&lt;p&gt;本イベントの参加にあたりましては、Google Developers が定めるコミュニティガイドライン、およびアンチハラスメントポリシーの遵守をお願いいたします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U/preview" rel="nofollow"&gt;Code of Conduct (JP)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://support.google.com/developergroups/answer/3340512?hl=en" rel="nofollow"&gt;Code of Conduct (EN)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;主催: &lt;a href="https://gdsc-osaka.jp/" rel="nofollow"&gt;GDG on Campus Osaka&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;世界 2,100 大学以上に展開している &lt;a href="https://developers.google.com/community/gdsc" rel="nofollow"&gt;GDG (Google Developer Groups) on Campus&lt;/a&gt; の大阪大学支部。Google Developers のサポートのもと、テクノロジーを利用した課題解決を行う、大阪大学のテックサークル。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公式サイト: &lt;a href="https://gdsc-osaka.jp" rel="nofollow"&gt;https://gdsc-osaka.jp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Instagram: &lt;a href="https://www.instagram.com/gdgoc_osaka/" rel="nofollow"&gt;gdgoc_osaka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;X: &lt;a href="https://twitter.com/GDSC_osaka/" rel="nofollow"&gt;@GDSC_osaka&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;共催&lt;/h1&gt;
+&lt;h2&gt;京大AI Coding研究所&lt;/h2&gt;
+&lt;p&gt;私たちは京都大学を拠点に、生成AIを活用した開発「AIコーディング」の情報をリサーチ・共有・体験するテックサークルです。
+初心者から経験者まで、「AIコーディング」による次世代の開発体験を提供しています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Instagram: &lt;a href="https://www.instagram.com/kyodaiaicodinglab/" rel="nofollow"&gt;https://www.instagram.com/kyodaiaicodinglab/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;X: &lt;a href="https://x.com/JingSuo36793" rel="nofollow"&gt;https://x.com/JingSuo36793&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Discord: &lt;a href="https://discord.gg/yqmXgZvaBv" rel="nofollow"&gt;https://discord.gg/yqmXgZvaBv&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdsc-osaka-univ.connpass.com/event/376595/</guid><enclosure url="https://media.connpass.com/thumbs/57/18/5718f59625e8f2d56828c700ccaef0c6.png" length="0" type="image/png"/><pubDate>Thu, 20 Nov 2025 20:03:07 +0900</pubDate></item><item><title>Kyoto.js 24</title><link>https://kyotojs.connpass.com/event/376443/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月29日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社マネーフォワード&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区三条通河原町東入中島町78 明治屋京都ビル4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kyotojs&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;Kyoto.jsは京都のJavaScriptコミュニティです！ Webフロントエンドからアプリケーション開発、Node.js、WASM、CSS、デザイン、WebGL、セキュリティまで、なんでも気軽に語りましょう！！&lt;/p&gt;
 &lt;p&gt;発表レギュレーションは【発表内に1回以上「JavaScript」という言葉が登場する】ことだけです。（一方で会の趣旨などについてはリスペクトをお願いします）&lt;/p&gt;
 &lt;h2&gt;登録枠について&lt;/h2&gt;
 &lt;ul&gt;
@@ -191,7 +308,7 @@
 &lt;h3&gt;紹介&lt;/h3&gt;
 &lt;p&gt;京都を拠点に、様々なバックグラウンドや技術を持つ仲間が集まるコミュニティとなりました。&lt;br&gt;
 2024年からは他コミュニティとのコラボが加速しています！&lt;br&gt;
-AIやweb3（ブロックチェーン・NFTなど）にも幅広く取組んでいます。&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://mit.connpass.com/event/375475/</guid><enclosure url="https://media.connpass.com/thumbs/70/2b/702b3bf1ea412f9be3875e4d63fcd653.png" length="0" type="image/png"/><pubDate>Sun, 09 Nov 2025 21:03:47 +0900</pubDate></item><item><title>Kyoto.kt #5</title><link>https://kyotokt.connpass.com/event/375124/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月22日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月22日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社マネーフォワード 京都支社・京都開発拠点&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区河原町東入中島町７８ 明治屋京都ビル 4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kyotokt&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;本イベントは中止されました&lt;/h1&gt;
+AIやweb3（ブロックチェーン・NFTなど）にも幅広く取組んでいます。&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://mit.connpass.com/event/375475/</guid><enclosure url="https://media.connpass.com/thumbs/70/2b/702b3bf1ea412f9be3875e4d63fcd653.png" length="0" type="image/png"/><pubDate>Thu, 20 Nov 2025 13:43:47 +0900</pubDate></item><item><title>Kyoto.kt #5</title><link>https://kyotokt.connpass.com/event/375124/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月22日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月22日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社マネーフォワード 京都支社・京都開発拠点&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区河原町東入中島町７８ 明治屋京都ビル 4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kyotokt&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;本イベントは中止されました&lt;/h1&gt;
 &lt;p&gt;本イベント「Kyoto.kt #5」は中止させていただきます。&lt;/p&gt;
 &lt;p&gt;理由は主催 rokuokun がインフルエンザに感染したためです。
 その他の情報については Discord サーバーにてお知らせします。
@@ -719,118 +836,7 @@ Linkdin：&lt;a href="https://www.linkedin.com/in/yu-ohta-aa7618247/" rel="nofol
 &lt;li&gt;貴重品は各自で管理してください&lt;/li&gt;
 &lt;li&gt;専用スペースで飲食可能です&lt;/li&gt;
 &lt;li&gt;会場に駐輪スペースがあります&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kyoto-mokumoku.connpass.com/event/374405/</guid><enclosure url="https://media.connpass.com/thumbs/6f/ba/6fbacfb874e0d6759ca14dced5dd2599.png" length="0" type="image/png"/><pubDate>Thu, 30 Oct 2025 21:05:44 +0900</pubDate></item><item><title>【京都開催】オフラインもくもく会 @ 京都ハッカソンハウス</title><link>https://progate.connpass.com/event/374322/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月19日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月19日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ハッカソンハウス&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市左京区田中門前町４６ 京美華ビル 3F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ProgateBar&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜出入り・途中参加OK！エンジニア・学生・学習者でゆるく集まって作業しよう〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;京都ハッカソンハウスで一緒に作業しよう🏠&lt;/h1&gt;
-&lt;p&gt;こんにちは！ページをご覧いただきありがとうございます🙌&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Progateが運営する 「京都ハッカソンハウス」 にて、オフラインのもくもく会を開催します！&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;この会は、&lt;br&gt;
-「学びを習慣にしたい」&lt;br&gt;
-「ひとりで勉強しているけど、誰かと一緒に頑張りたい」&lt;br&gt;
-「関西でエンジニア仲間を作りたい」&lt;br&gt;
-という方にぴったりのイベントです✨&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;現役エンジニアの方も、エンジニアを目指している方も、学生も大歓迎！
-自分のペースでもくもく作業したり、合間に雑談したりしながら、
-ゆるく楽しく過ごしましょう ☕&lt;/p&gt;
-&lt;h2&gt;💡参加するメリット&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;✅ エンジニア・学習者同士でつながれる&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;✅ 学習・開発のモチベーションが上がる&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;✅ 時間を区切って作業できる&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;🧑‍💻 対象・こんな方におすすめ&lt;/h1&gt;
-&lt;p&gt;このイベントは、&lt;strong&gt;関西在住のITエンジニアや学生、ITに興味のある方&lt;/strong&gt;を対象にしています。&lt;br&gt;
-・ゆるく作業したいエンジニアの方&lt;br&gt;
-・関西在住の社会人エンジニア・学生エンジニア&lt;br&gt;
-・将来エンジニアを目指している学生や初学者&lt;br&gt;
-・関西のエンジニア仲間とつながりたい方&lt;br&gt;
-・現役エンジニアで、自習や開発時間を確保したい方&lt;br&gt;
-・AIやWeb開発など、個人学習やポートフォリオ制作を進めたい方&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;📆 開催日時&lt;/h1&gt;
-&lt;p&gt;2025年11月19日(水) 19:00 ~21:00(出入りいつでも自由！)&lt;/p&gt;
-&lt;h1&gt;📍 開催場所&lt;/h1&gt;
-&lt;p&gt;京都ハッカソンハウス&lt;/p&gt;
-&lt;p&gt;〒606-8225
-京都府京都市左京区田中門前町46 京美華ビル 3Ｆ&lt;/p&gt;
-&lt;p&gt;百万遍交差点から徒歩2分・京都大学吉田キャンパス近くです！
-1Fがジェイムスキッチン（洋食屋）のビルの3階です。ジェイムスキッチン入口右の通路から階段で3階まで上がってください！
-出町柳駅駅から徒歩数分！&lt;/p&gt;
-&lt;h1&gt;🕰️ タイムテーブル&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;18:30&lt;/td&gt;
-&lt;td&gt;受付開始&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00&lt;/td&gt;
-&lt;td&gt;自己紹介＆今日やること宣言&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:15&lt;/td&gt;
-&lt;td&gt;もくもく作業（途中雑談OK）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:45&lt;/td&gt;
-&lt;td&gt;振り返り・片付け&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;21:00&lt;/td&gt;
-&lt;td&gt;終了&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;※途中参加・途中退出OKです。&lt;br&gt;
-※終了後、希望者でカフェや軽い懇親会に行く場合もあります☕&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;🍹 ドリンクメニュー(もくもく作業中おかわり自由！)&lt;/h1&gt;
-&lt;p&gt;もくもく作業中にドリンクが飲みたい方はProgate BAR名物「ステータスコードカクテル」をご提供します。&lt;br&gt;
-&lt;strong style="color: red;"&gt;オリジナルのカクテルはつぎの条件を満たしている方への限定提供となります！&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Progate Pathに登録し&lt;a href="https://app.path.progate.com/career-support" rel="nofollow"&gt;プロフィールで開発経験を入力&lt;/a&gt;している&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;カクテルを頼むときにBARカウンターにて入力済みの画面をお見せください〜！&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;感想はぜひ #ProgateBAR をつけてSNSに投稿してください！&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://github.com/user-attachments/assets/c25da6d5-169b-4979-8435-57c26251d389" width="400px"&gt;&lt;/p&gt;
-&lt;h1&gt;🏢 主催企業&lt;/h1&gt;
-&lt;h3&gt;&lt;a href="https://prog-8.com/about" rel="nofollow"&gt;株式会社Progate&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;株式会社 Progate は、初心者から楽しくプログラミングを学ぶことができる「Progate」や、自分のローカル環境をつかって実務に近い開発経験を積める「Progate Path」といったサービスを提供しています。&lt;/p&gt;
-&lt;p&gt;学習者の熱意とポテンシャルを見える化して企業に応募できる「Progate Prospects」も提供しており、学習から就職・転職までをProgateで行えます。&lt;/p&gt;
-&lt;p&gt;企業とつながるイベントや交流会などを順次企画しております！
-キャリアで悩んでいるかた、ぜひお話ししましょう！٩( ’ω’ )وﾖｯｼｬ!&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://images.microcms-assets.io/assets/7919edd997d14a198d234596751afab9/a1085eea9a944cae980c32361639b7f6/logo-color_horizontal-composition.png" width="240px"&gt;&lt;/p&gt;
-&lt;h1&gt;注意点&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;応募多数となった場合は、先着順とさせていただきます。&lt;/li&gt;
-&lt;li&gt;参加が難しくなった場合は、お早めにキャンセルのご連絡をいただけますようよろしくお願い致します。&lt;/li&gt;
-&lt;li&gt;イベントは、止むを得ず中止させて頂く場合がございます。その場合はconnpassのメッセージにてご連絡させていただきます。&lt;/li&gt;
-&lt;li&gt;イベントの様子について、どなたでもブログやSNSなどで公開可能としています点、ご了承ください。&lt;/li&gt;
-&lt;li&gt;当日録画した内容は、後日弊社サイトやSNS等で掲載させていただくことがあります。ご了承ください。&lt;/li&gt;
-&lt;li&gt;イベントに関係のない営業や勧誘を目的としたご参加はご遠慮ください。&lt;/li&gt;
-&lt;li&gt;貴重品の管理は各自でお願いいたします。万一盗難・紛失等の事故が発生しても、主催者は一切責任を負えません。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;行動規範&lt;/h1&gt;
-&lt;p&gt;本行動規範は、イベントの運営・登壇・協賛・参加をするすべてのステークホルダーに適用されるものです。
-ご一読の上、イベントを誰にとっても心地よく、優れた体験を提供できるように共に協力していきましょう。&lt;/p&gt;
-&lt;p&gt;本イベントに参加するすべての人は、以下の行動規範を守ることを求められます。この行動規範を当イベントに関する全てにおいて適用します。全ての人にとって安全な場所を提供するため、一般参加者、登壇者、スポンサー、運営スタッフ含めた全参加者に、ご協力をお願いします。&lt;/p&gt;
-&lt;p&gt;私たちは、以下のような事柄に関わらず、全ての人にとって安全な場を提供することに努めます。&lt;/p&gt;
-&lt;p&gt;・社会的あるいは法的な性、性自認、性表現（外見の性）、性指向
-・年齢、障がい、容姿、体格
-・人種、民族、宗教（無宗教を含む）
-・技術の選択&lt;/p&gt;
-&lt;p&gt;そして、下記のようなハラスメント行為をいかなる形であっても決して許容しません。&lt;/p&gt;
-&lt;p&gt;・脅迫、つきまとい、ストーキング
-・不適切な画像、動画、録音の再生（性的な画像など）
-・発表や他のイベントに対する妨害行為
-・不適切な身体的接触
-・これらに限らない性的嫌がらせ
-・相手の尊厳を傷つけるような言葉&lt;/p&gt;
-&lt;p&gt;スポンサーや登壇者、主催者ならびに運営スタッフもこのポリシーの対象となります。性的な言葉はもちろん、相手の尊厳を傷つけるような言葉や画像はいかなる発表やワークショップ、パーティ、X（旧Twitter）のようなオンラインメディアにおいても不適切です。&lt;/p&gt;
-&lt;p&gt;もしハラスメント行為をやめるように指示された場合、すべての参加者は直ちに従うことが求められます。ポリシーに則ることができない参加者は、主催者の判断により、退場処分や今後のイベントに一般参加者、登壇者、スポンサー、運営スタッフとして関わることを禁止します。&lt;/p&gt;
-&lt;p&gt;もしハラスメントを受けていると感じたり、他の誰かがハラスメントされていることに気がついた場合、または他に何かお困りのことがあれば、すぐにスタッフまでご連絡ください。警察への連絡などを含め、安心してイベントに参加できるようにお手伝いさせていただきます。&lt;/p&gt;
-&lt;p&gt;※本文章はKotlinFest Code of Conductとして公開された文章https://&lt;a href="http://github.com/KotlinFest/KotlinFest2018/blob/master/CODE-OF-CONDUCT.md" rel="nofollow"&gt;github.com/KotlinFest/KotlinFest2018/blob/master/CODE-OF-CONDUCT.md&lt;/a&gt; を元に派生しています。
-※本文章はCreative Commons Zero ライセンス( &lt;a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="nofollow"&gt;https://creativecommons.org/publicdomain/zero/1.0/&lt;/a&gt; )で公開されています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://progate.connpass.com/event/374322/</guid><enclosure url="https://media.connpass.com/thumbs/9d/36/9d36aea7028ddc1af604f73cb0d9b3be.png" length="0" type="image/png"/><pubDate>Fri, 31 Oct 2025 12:32:13 +0900</pubDate></item><item><title>AI活用について語ろう！ - (関西版) Progate BAR ITエンジニアLT会＆交流会</title><link>https://progate.connpass.com/event/374319/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月28日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月28日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: ハッカソンハウス&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市左京区田中門前町４６ 京美華ビル 3F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ProgateBar&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;これからのAI活用について、みんなで一緒に考えよう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AI活用について考える、ITエンジニア向けLT会&amp;amp;交流会を開催🎉&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kyoto-mokumoku.connpass.com/event/374405/</guid><enclosure url="https://media.connpass.com/thumbs/6f/ba/6fbacfb874e0d6759ca14dced5dd2599.png" length="0" type="image/png"/><pubDate>Thu, 30 Oct 2025 21:05:44 +0900</pubDate></item><item><title>AI活用について語ろう！ - (関西版) Progate BAR ITエンジニアLT会＆交流会</title><link>https://progate.connpass.com/event/374319/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月28日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月28日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: ハッカソンハウス&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市左京区田中門前町４６ 京美華ビル 3F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ProgateBar&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;これからのAI活用について、みんなで一緒に考えよう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AI活用について考える、ITエンジニア向けLT会&amp;amp;交流会を開催🎉&lt;/h1&gt;
 &lt;p&gt;AIを“使う”だけで終わらせない。&lt;br&gt;
 AIを“どう活かし、自分の成長につなげるか”を語ろう。&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;ChatGPT、GitHub Copilot、Gemini、Claudeなど、&lt;br&gt;
@@ -1221,7 +1227,7 @@ ADK は、AIエージェントが持つべき機能（思考、計画、外部�
 &lt;p&gt;【人数】最大30名&lt;/p&gt;
 &lt;h3&gt;申込期限&lt;/h3&gt;
 &lt;p&gt;2025年11月19日(水)23時59分&lt;/p&gt;
-&lt;p&gt;※懇親会から参加する方は「定例会現地参加＋懇親会」を選んでください&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jista.connpass.com/event/373146/</guid><enclosure url="https://media.connpass.com/thumbs/58/d5/58d534211ed39020c4f10daa125e1664.png" length="0" type="image/png"/><pubDate>Tue, 28 Oct 2025 19:56:14 +0900</pubDate></item><item><title>第5回 京大ミートアップ supported by GMO</title><link>https://kmu.connpass.com/event/372639/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月12日(金) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月12日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 京都大学 学術情報メディアセンター 首藤研究室&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市左京区吉田二本松町 京都大学 学術情報メディアセンター南館4F 首藤研究室&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;フィジカルAI最前線：自動運転・ヒューマノイドロボット・人とロボットの対話&lt;/p&gt;&lt;div&gt;&lt;h2&gt;京大ミートアップとは&lt;/h2&gt;
+&lt;p&gt;※懇親会から参加する方は「定例会現地参加＋懇親会」を選んでください&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jista.connpass.com/event/373146/</guid><enclosure url="https://media.connpass.com/thumbs/58/d5/58d534211ed39020c4f10daa125e1664.png" length="0" type="image/png"/><pubDate>Thu, 20 Nov 2025 13:10:15 +0900</pubDate></item><item><title>第5回 京大ミートアップ supported by GMO</title><link>https://kmu.connpass.com/event/372639/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月12日(金) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月12日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 京都大学 学術情報メディアセンター 首藤研究室&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市左京区吉田二本松町 京都大学 学術情報メディアセンター南館4F 首藤研究室&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;フィジカルAI最前線：自動運転・ヒューマノイドロボット・人とロボットの対話&lt;/p&gt;&lt;div&gt;&lt;h2&gt;京大ミートアップとは&lt;/h2&gt;
 &lt;p&gt;京都大学 学術情報メディアセンター 首藤研究室とGMOインターネットグループがタッグを組み、AI・ブロックチェーン・サイバーセキュリティなど、急速に進化するテクノロジーを「実践的」かつ「革新的」に学べる無料イベントです。&lt;br&gt;
 アカデミアとビジネスの最前線で活躍するエキスパートが最新トレンドや実装事例をわかりやすく紹介いたします。&lt;br&gt;
 現地参加者は講演後の懇親会にて議論やQ&amp;amp;Aの時間もたっぷり設けています。&lt;br&gt;&lt;/p&gt;
