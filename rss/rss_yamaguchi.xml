@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>山口のイベント</title><link>https://connpass.com/explore/</link><description>山口のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>山口のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 21 Nov 2025 15:13:24 +0000</lastBuildDate><item><title>モダンJavaScript茶話会 ＃96 【Webフロントをみんなで楽しく語ろう】</title><link>https://hikariba.connpass.com/event/376164/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月6日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月6日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: コワーキングスペース HiKARiBA&lt;/li&gt;&lt;li&gt;🏢 住所: 山口県光市浅江1-4-14 (アイオイビル3F)&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;モダンJavaScriptと関連フレームワークやライブラリなどを中心に、広くフロントエンドについて“教えあい”“学びあい”“語り合う”勉強会。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>山口のイベント</title><link>https://connpass.com/explore/</link><description>山口のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>山口のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 22 Nov 2025 15:12:13 +0000</lastBuildDate><item><title>モダンJavaScript茶話会 ＃96 【Webフロントをみんなで楽しく語ろう】</title><link>https://hikariba.connpass.com/event/376164/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月6日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月6日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: コワーキングスペース HiKARiBA&lt;/li&gt;&lt;li&gt;🏢 住所: 山口県光市浅江1-4-14 (アイオイビル3F)&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;モダンJavaScriptと関連フレームワークやライブラリなどを中心に、広くフロントエンドについて“教えあい”“学びあい”“語り合う”勉強会。&lt;/p&gt;
 &lt;h2&gt;この勉強会について&lt;/h2&gt;
 &lt;p&gt;ブラウザ上で稼働し触りやすく親しみのあるJavaScriptですが、プログラミング言語としてのJavaScriptや、画面上の要素を操作することを実際に進めてみると、いろいろと独習のハードルは高くなるものです。&lt;/p&gt;
 &lt;p&gt;JavaScriptそのものも、フロントエンドからバックエンドまで、守備範囲が広く、3Dコンテンツやアプリ開発にまで適用していくことができます。&lt;/p&gt;
@@ -136,7 +136,33 @@
 &lt;li&gt;&lt;a href="https://www.stellalink.co.jp/" rel="nofollow"&gt;株式会社ステラリンク&lt;/a&gt; 様（機材提供・設置）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;OSC 2025 in Yamaguchi の登録もお願いします&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://connpass.com/event/367968/" rel="nofollow"&gt;2025/11/23 Open Source Conference 2025 Yamaguchi&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/374029/</guid><enclosure url="https://media.connpass.com/thumbs/6a/df/6adf677e3ccae1e30f64bde90ef2f8c5.png" length="0" type="image/png"/><pubDate>Wed, 19 Nov 2025 22:40:59 +0900</pubDate></item><item><title>2025/11/23 Open Source Conference 2025 Yamaguchi</title><link>https://ospn.connpass.com/event/367968/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月23日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月23日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 常盤工業会館&lt;/li&gt;&lt;li&gt;🏢 住所: 山口県宇部市東梶返1-10-8&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #OSC山口&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;OSC 山口 4 回目今年も現地開催です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;OSC2025 Yamaguchi 開催のご案内&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://connpass.com/event/367968/" rel="nofollow"&gt;2025/11/23 Open Source Conference 2025 Yamaguchi&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/374029/</guid><enclosure url="https://media.connpass.com/thumbs/6a/df/6adf677e3ccae1e30f64bde90ef2f8c5.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 23:29:39 +0900</pubDate></item><item><title>子どもたちのためのプログラミング初心者/未経験者向け【CoderDojo長門】53回</title><link>https://coderdojonagato.connpass.com/event/371689/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月27日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月27日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 長門市しごとセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 山口県長門市仙崎312-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojoNagato&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;オフライン&lt;/p&gt;&lt;div&gt;&lt;p&gt;子どものための無料で参加できるプログラミングクラブです。&lt;/p&gt;
+&lt;p&gt;アイルランド発祥の子どものためのプログラミングクラブ「CoderDojo」の山口県長門市版です。
+先生が教えるのではなく、子どもたちが自分のやりたいことに取り組み、分からないことは子供たち同士で教え合ったり、メンターがサポートします。&lt;/p&gt;
+&lt;p&gt;CoderDojo 長門では、Scratch、ｍBlock（ｍBot）、Minecraft、Webサイト作成、アプリ開発などを行うことができます。&lt;/p&gt;
+&lt;p&gt;プログラミングが初めてのお子さん、プログラミングに興味があるお子さんも気軽にご参加ください。&lt;/p&gt;
+&lt;p&gt;詳細はホームページをご覧ください。
+&lt;a href="https://sites.google.com/view/coderdojonagato" rel="nofollow"&gt;https://sites.google.com/view/coderdojonagato&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;開催要項&lt;/h2&gt;
+&lt;p&gt;開 催 日 ：2025年12月27日（土）&lt;/p&gt;
+&lt;p&gt;開催時間：14:00～16:00（受付開始　13:45）&lt;/p&gt;
+&lt;p&gt;場　　所：長門市しごとセンター キャリア教育拠点&lt;/p&gt;
+&lt;p&gt;山口県長門市仙崎312番地１&lt;/p&gt;
+&lt;p&gt;定員：ニンジャ　10名程度（同時開催のワークショップやメンターの人数により調整します）&lt;/p&gt;
+&lt;p&gt;ユースメンター　2～3名程度&lt;/p&gt;
+&lt;p&gt;メンター、見学　制限なし&lt;/p&gt;
+&lt;p&gt;※今回は、マイクラはできません。電子工作を中心に体験する会となります。&lt;/p&gt;
+&lt;p&gt;運営を手伝って下さる方、ニンジャ（参加者）と一緒に試行錯誤して下さる方、大募集しています。&lt;/p&gt;
+&lt;p&gt;参加申込
+・参加費：無料&lt;/p&gt;
+&lt;p&gt;・このConnpassのイベント案内で申し込んでください（Connpassにユーザー登録が必要です）。&lt;/p&gt;
+&lt;p&gt;・お申し込みはconnpassの本イベントに登録いただいた段階で申し込み完了となります。&lt;/p&gt;
+&lt;p&gt;・参加できなくなった場合は早めにキャンセル登録をお願いします。&lt;/p&gt;
+&lt;p&gt;※お申し込みにあたり、CoderDojo長門のホームページにある募集要項を必ずお読みください。 詳細、タイムスケジュール、携行品等記載しております。
+※参加するお子さんが複数いらっしゃる場合は、お手数ではございますがconnpassのアカウントを複数ご用意いただいてお申し込みください（メールアドレスやSNSアカウントが異なれば別のアカウントが作成できます）&lt;/p&gt;
+&lt;p&gt;参加条件
+・７歳～17歳&lt;/p&gt;
+&lt;p&gt;・安全最優先のため、小学生のお子さまは保護者の方同伴でご参加ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojonagato.connpass.com/event/371689/</guid><enclosure url="https://media.connpass.com/thumbs/25/99/2599714d903d70ce94b3f44359fdfa1d.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 18:01:12 +0900</pubDate></item><item><title>2025/11/23 Open Source Conference 2025 Yamaguchi</title><link>https://ospn.connpass.com/event/367968/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月23日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月23日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 常盤工業会館&lt;/li&gt;&lt;li&gt;🏢 住所: 山口県宇部市東梶返1-10-8&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #OSC山口&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;OSC 山口 4 回目今年も現地開催です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;OSC2025 Yamaguchi 開催のご案内&lt;/h1&gt;
 &lt;p&gt;「IT不毛地帯」と揶揄される山口でも &lt;strong&gt;4 度目&lt;/strong&gt; のオープンソースカンファレンス開催です。&lt;br&gt;
 &lt;strong&gt; 今年も「現地開催」 + Zoom と YouTube Live のハイブリッドです。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;全国からのご参加をお待ちしています。&lt;/p&gt;
@@ -188,7 +214,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.udc-synchro.co.jp/company/company-information/" rel="nofollow"&gt;株式会社SYNCHRO CSCC&lt;/a&gt; 様&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://4qualia.co.jp/company/" rel="nofollow"&gt;株式会社フォー・クオリア&lt;/a&gt; 様&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.stellalink.co.jp/" rel="nofollow"&gt;株式会社ステラリンク&lt;/a&gt; 様（機材提供・設置）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.stellalink.co.jp/" rel="nofollow"&gt;株式会社ステラリンク&lt;/a&gt; 様（機材提供・設置/&lt;strong&gt;会場WiFI&lt;/strong&gt;）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;セミナー 10:15-17:00 (当初より 15 分前倒しにしてます)&lt;/h3&gt;
 &lt;table&gt;
@@ -402,7 +428,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://ospn.slack.com/team/U03TA4S8V89" rel="nofollow"&gt;Chimoto&lt;/a&gt;『ラズパイオーディオの会』 Raspberry Piでオーディオやります&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.mydns.jp/" rel="nofollow"&gt;蕪木 岳志&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%8E%9F%E5%BE%B9" rel="nofollow"&gt;宮原 徹（OSC事務局）&lt;/a&gt;  仮想化環境ProxmoxとGPUでPostgreSQLを爆速DB化する「PG-Strom」のデモを行います&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%8E%9F%E5%BE%B9" rel="nofollow"&gt;宮原 徹（OSC事務局）&lt;/a&gt;  GPUでPostgreSQLを爆速DB化する「PG-Strom」のデモを行います&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://nemtus.com/" rel="nofollow"&gt;NPO法人 NEM技術普及推進会&lt;/a&gt; NEMTUS NEM/Symbolブロックチェーン技術紹介、コミュニティの取組紹介(情報発信/勉強会/ハッカソン/その他技術イベント)、グッズ配布、技術同人誌の展示&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.jp.netbsd.org/ja/" rel="nofollow"&gt;蛯原 純 （The NetBSD Project/developer）&lt;/a&gt;  NetBSDのご紹介&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://2025.pycon.jp/ja/members/yoshida" rel="nofollow"&gt;Shunsuke Yoshida&lt;/a&gt;　AlmaLinux (サイバートラスト) ブース&lt;/li&gt;
@@ -444,6 +470,9 @@
 &lt;li&gt;来場者把握のため、connpass での登録をお願いします。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;飲食可能ですが、ゴミはお持ち帰りください&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;WiFi&lt;/h3&gt;
+&lt;p&gt;SSID: OSC25Yamaguchi
+Pass: 20251123&lt;/p&gt;
 &lt;h3&gt;公共交通機関ご案内&lt;/h3&gt;
 &lt;p&gt;会場には駐車場はありませんので、公共交通機関でお越しください&lt;/p&gt;
 &lt;h4&gt;山口宇部空港&lt;/h4&gt;
@@ -714,35 +743,42 @@
 &lt;li&gt;当日、 &lt;a href="https://www.youtube.com/c/OSPNjp" rel="nofollow"&gt;OSPN.jp&lt;/a&gt; チャンネルにアクセスしていただければ、ライブ中継がご覧になれます。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;あらかじめチャンネル登録しておいていただくよう、お願いします。
-過去のOSCオンラインセミナー動画を配信中です！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/367968/</guid><enclosure url="https://media.connpass.com/thumbs/6a/df/6adf677e3ccae1e30f64bde90ef2f8c5.png" length="0" type="image/png"/><pubDate>Fri, 21 Nov 2025 13:03:32 +0900</pubDate></item><item><title>子どもたちのためのプログラミング初心者/未経験者向け【CoderDojo長門】52回</title><link>https://coderdojonagato.connpass.com/event/367670/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月22日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月22日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 長門市しごとセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 山口県長門市仙崎312-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojoNagato&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;オフライン&lt;/p&gt;&lt;div&gt;&lt;p&gt;子どものための無料で参加できるプログラミングクラブです。&lt;/p&gt;
-&lt;p&gt;アイルランド発祥の子どものためのプログラミングクラブ「CoderDojo」の山口県長門市版です。
-先生が教えるのではなく、子どもたちが自分のやりたいことに取り組み、分からないことは子供たち同士で教え合ったり、メンターがサポートします。&lt;/p&gt;
-&lt;p&gt;CoderDojo 長門では、Scratch、ｍBlock（ｍBot）、Minecraft、Webサイト作成、アプリ開発などを行うことができます。&lt;/p&gt;
-&lt;p&gt;プログラミングが初めてのお子さん、プログラミングに興味があるお子さんも気軽にご参加ください。&lt;/p&gt;
-&lt;p&gt;詳細はホームページをご覧ください。
-&lt;a href="https://sites.google.com/view/coderdojonagato" rel="nofollow"&gt;https://sites.google.com/view/coderdojonagato&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;開催要項&lt;/h2&gt;
-&lt;p&gt;開 催 日 ：2025年11月22日（土）&lt;/p&gt;
-&lt;p&gt;開催時間：14:00～16:00（受付開始　13:45）&lt;/p&gt;
-&lt;p&gt;場　　所：長門市しごとセンター キャリア教育拠点&lt;/p&gt;
-&lt;p&gt;山口県長門市仙崎312番地１&lt;/p&gt;
-&lt;p&gt;定員：ニンジャ　10名程度（同時開催のワークショップやメンターの人数により調整します）&lt;/p&gt;
-&lt;p&gt;ユースメンター　2～3名程度&lt;/p&gt;
-&lt;p&gt;メンター、見学　制限なし&lt;/p&gt;
-&lt;p&gt;※Minecraft（マイクラ）は、最大6名までの利用です。人気があるので、受付を分けてます。
-　ご協力いただけますと幸いです。&lt;/p&gt;
-&lt;p&gt;運営を手伝って下さる方、ニンジャ（参加者）と一緒に試行錯誤して下さる方、大募集しています。&lt;/p&gt;
-&lt;h2&gt;参加申込&lt;/h2&gt;
-&lt;p&gt;・参加費：無料&lt;/p&gt;
-&lt;p&gt;・このConnpassのイベント案内で申し込んでください（Connpassにユーザー登録が必要です）。&lt;/p&gt;
-&lt;p&gt;・お申し込みはconnpassの本イベントに登録いただいた段階で申し込み完了となります。&lt;/p&gt;
-&lt;p&gt;・参加ができなくなった場合は、早めにキャンセル登録をお願いします。
-     ※当日のキャンセルはしごとセンターまでご連絡ください。&lt;/p&gt;
-&lt;p&gt;※お申し込みにあたり、CoderDojo長門のホームページにある募集要項を必ずお読みください。
-詳細、タイムスケジュール、携行品等記載しております。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://sites.google.com/view/coderdojonagato/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0" rel="nofollow"&gt;https://sites.google.com/view/coderdojonagato/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;※参加するお子さんが複数いらっしゃる場合は、お手数ではございますがconnpassのアカウントを複数ご用意いただいてお申し込みください（メールアドレスやSNSアカウントが異なれば別のアカウントが作成できます）&lt;/p&gt;
-&lt;h2&gt;参加条件&lt;/h2&gt;
-&lt;p&gt;・７歳～17歳&lt;/p&gt;
-&lt;p&gt;・安全最優先のため、小学生のお子さまは保護者の方同伴でご参加ください。&lt;/p&gt;
-&lt;p&gt;・（パソコンを持参の方へ）インターネットにつながるパソコンが必要です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojonagato.connpass.com/event/367670/</guid><enclosure url="https://media.connpass.com/thumbs/25/99/2599714d903d70ce94b3f44359fdfa1d.png" length="0" type="image/png"/><pubDate>Sat, 08 Nov 2025 10:29:59 +0900</pubDate></item></channel></rss>
+過去のOSCオンラインセミナー動画を配信中です！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/367968/</guid><enclosure url="https://media.connpass.com/thumbs/6a/df/6adf677e3ccae1e30f64bde90ef2f8c5.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 23:15:32 +0900</pubDate></item><item><title>CodeDojo 岩国 31回目（子供たちのプログラミングクラブ活動）</title><link>https://coderdojo-iwakuni.connpass.com/event/359275/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月20日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月20日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岩国市周東中央公民館&lt;/li&gt;&lt;li&gt;🏢 住所: 山口県岩国市周東町下久原1208-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;岩国プログラミングクラブ&lt;/p&gt;&lt;div&gt;&lt;h3&gt;概要&lt;/h3&gt;
+&lt;p&gt;7～17歳を対象にした無料のプログラミングクラブ活動です。&lt;/p&gt;
+&lt;p&gt;岩国プログラミングクラブは、CoderDojo岩国の活動を開始します。
+CoderDojo は7〜17歳を対象とした非営利のプログラミング道場です。2011年にアイルランドで始まり、世界では100カ国・2,000の道場、日本には215以上の道場があります。&lt;/p&gt;
+&lt;h3&gt;イベント内容&lt;/h3&gt;
+&lt;p&gt;7～17歳を対象にした無料のプログラミングクラブ活動です。&lt;/p&gt;
+&lt;p&gt;プログラミングスクールではありません。カリキュラムもありません。&lt;/p&gt;
+&lt;p&gt;講師が教えるのではなく、子どもたちがやりたいことに主体的に取り組むクラブです。&lt;/p&gt;
+&lt;p&gt;分からないことは教え合ったり、大人や学生のメンターがサポートします。&lt;/p&gt;
+&lt;p&gt;Scratch、micro:bit、JavaScript、Webサイト作成、Pythonなどにチャレンジできます。&lt;/p&gt;
+&lt;p&gt;まず何をやったらいいか分からない？そんな場合も気軽に相談してください。&lt;/p&gt;
+&lt;p&gt;※小学生は保護者等の付き添いをお願いします。&lt;/p&gt;
+&lt;h3&gt;PCの準備について&lt;/h3&gt;
+&lt;p&gt;貸出PCは数が限られております。可能なら出来る限りご持参ください。&lt;/p&gt;
+&lt;h3&gt;当日の流れ&lt;/h3&gt;
+&lt;p&gt;13:10～14:00　準備・メンター事前説明
+(サポートしてくださるメンターさんは13:10から事前説明させていただきます。)&lt;/p&gt;
+&lt;p&gt;13:45～14:00　受付開始&lt;/p&gt;
+&lt;p&gt;14:00～14:10　イベントの説明、自己紹介&lt;/p&gt;
+&lt;p&gt;14:10～15:30　プログラミング・製作&lt;/p&gt;
+&lt;p&gt;15:30～16:00　発表・ふりかえり、まとめ、閉会&lt;/p&gt;
+&lt;p&gt;16:00～16:30　片付け、メンターふりかえり&lt;/p&gt;
+&lt;h3&gt;会場&lt;/h3&gt;
+&lt;p&gt;岩国市 周東中央公民館（総合センター日向）2階&lt;/p&gt;
+&lt;p&gt;〒742-0417 山口県岩国市周東町下久原1208-1&lt;/p&gt;
+&lt;p&gt;アクセス ・地図&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.city.iwakuni.lg.jp/soshiki/56/2821.html" rel="nofollow"&gt;https://www.city.iwakuni.lg.jp/soshiki/56/2821.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;生活交通バス 「総合センター 日向(周東総合支所)」下車&lt;/p&gt;
+&lt;h3&gt;撮影について&lt;/h3&gt;
+&lt;p&gt;会場内では写真を撮影します。Webサイトやチラシ、SNSなどで利用し、インターネットで公開する場合があります。あらかじめご了承ください。&lt;/p&gt;
+&lt;h3&gt;主催&lt;/h3&gt;
+&lt;p&gt;岩国プログラミングクラブ&lt;/p&gt;
+&lt;p&gt;当団体は、子供たちが楽しみながらプログラミングの学習や創作する事をとおして、以下の目的を追求します&lt;/p&gt;
+&lt;p&gt;・自分自身を表現でき、生きがいを見つけられるよう支援&lt;/p&gt;
+&lt;p&gt;・人とのつながりを深め、地域コミュニティの交流を促進&lt;/p&gt;
+&lt;p&gt;・地域の方々や参加者が気軽に集まり、交流する場を提供&lt;/p&gt;
+&lt;p&gt;・参加者が新しいアイデアや知識を得られる機会を提供&lt;/p&gt;
+&lt;p&gt;岩国プログラミングクラブについて詳しくはこちら&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://iwakunipg.com/" rel="nofollow"&gt;https://iwakunipg.com/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-iwakuni.connpass.com/event/359275/</guid><enclosure url="https://media.connpass.com/thumbs/77/0a/770a371930562f2f563f3083889d35f6.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 13:25:00 +0900</pubDate></item></channel></rss>

@@ -1,5 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>東京のイベント</title><link>https://connpass.com/explore/</link><description>東京のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>東京のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 21 Nov 2025 15:12:36 +0000</lastBuildDate><item><title>小中学生向けプログラミング道場 CoderDojo新代田第27回（無料）</title><link>https://coder-dojo-shindaita.connpass.com/event/376799/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 14:00&lt;/li&gt;&lt;li&gt;📍 会場: 代田区民センター 2階 和室&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都世田谷区代田6丁目34番13号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;小中学生がプログラミングを無料で楽しむ場を提供しています&lt;/p&gt;&lt;div&gt;&lt;p&gt;CoderDojo新代田（しんだいた）を開催します。小中学生を対象にした自習型の「プログラミング道場」です。 自主的に学習したり作品づくりをして、疑問点や質問があればメンターがアドバイスをしてくれます。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>東京のイベント</title><link>https://connpass.com/explore/</link><description>東京のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>東京のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 22 Nov 2025 15:11:24 +0000</lastBuildDate><item><title>CoderDojo末広町 第82回 (プレゼンテーションデイ)</title><link>https://coderdojosuehirocho.connpass.com/event/376810/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月27日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月27日(土) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 神田キリスト教会　１階ホール&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都千代田区外神田３ー５ー１１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojosuehirocho&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ITの聖地、秋葉原でプログラミング！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;CoderDojo末広町 第82回 (冬休みプレゼンテーションデイ)&lt;/h2&gt;
+&lt;p&gt;CoderDojo末広町は、秋葉原で開催している子ども向け参加費無料のプログラミングクラブです。&lt;br&gt;
+基本的に毎月一回第4土曜日に行っています。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;プログラミングに興味を持っている子どもたちが集まり、Scratchでゲームを作ったり、micro:bitやRaspberry Piで電子工作をしたり、それぞれ自分のやりたいことを行い交流するための場所です。&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;開催内容&lt;/h3&gt;
+&lt;p&gt;&lt;font color="#006edb" size="+1"&gt;&lt;b&gt;冬休みプレゼンテーションデイ&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+&lt;font color="#006edb"&gt;
+プレゼンテーションデイは、通常より発表時間を長めに取り、皆さんのプレゼンテーションを中心に開催します。&lt;br&gt;
+今年一番の自信作、冬休み期間に制作したもの(制作中のもの)、内容は何でも構いません。&lt;br&gt;
+この機会に発表したい方は、ぜひ事前に準備のうえご参加ください。&lt;br&gt;
+発表はせず、聞いて参考にしたいという方の参加も大歓迎です。
+&lt;/font&gt;&lt;br&gt;&lt;br&gt;
+日　時 　: 2025年12月27日（土）　10:00～12:00ごろ&lt;br&gt;
+参加費 　: 無料&lt;br&gt;
+参加条件 : 7歳から17歳ぐらい&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;定　員 : &lt;br&gt;
+・ニンジャ（参加してくれる子どもたち）　10名ぐらい&lt;br&gt;
+・見学者・メンター（支援者）　5名ぐらい&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;準備するもの : &lt;br&gt;
+・好奇心&lt;br&gt;
+・パソコンやタブレットがある方は持ってきてもらえると嬉しいです。&lt;br&gt;
+　数に限りはありますが貸出用のパソコンも用意していますので遠慮なくご利用ください。&lt;br&gt;
+　パソコン貸出希望の方は、申し込み時に「参加者(PC貸出あり)」から申請してください。&lt;br&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;CoderDojo 末広町(コーダーどうじょうすえひろちょう、 CoderDojo Suehirocho)は、
+子ども向けの「参加費無料(むりょう)のプログラミングクラブ」です。&lt;/p&gt;
+&lt;p&gt;プログラミングでわからない事(こと)があったら、周(まわ)りの友達(ともだち)や、メンター(助言者(じょげんしゃ))と呼(よ)ばれるプログラミングが得意(とくい)な参加者(さんかしゃ)に教(おし)えてもらえますので、どなたでも楽(たの)しくプログラミングに触(ふ)れることができます。&lt;/p&gt;
+&lt;p&gt;Scratchでゲームをつくったり、ｍBotというロボットカーを動（うご）かしてみたり、メンターの凄技（すごわざ）を体験（たいけん）したり、楽（たの）しくすすめていきます。&lt;/p&gt;
+&lt;h3&gt;開催の様子&lt;/h3&gt;
+&lt;p&gt;Facebookにて毎月の実施風景をアップしています。ご参考にしてください。&lt;br&gt;
+また宜しければFacebookページのフォローもお願いします。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.facebook.com/coderdojo.suehirocho.amulet/" rel="nofollow"&gt;https://www.facebook.com/coderdojo.suehirocho.amulet/&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;メンター・運営ボランティアについて&lt;/h3&gt;
+&lt;p&gt;CoderDojoのサポートをしていただくメンターや、ボランティアを募集しています。&lt;br&gt;
+プログラミングのできる方や専門家でなくても構いません。&lt;br&gt;
+むしろ子どもや保護者と一緒に考えたり、励ますことができる方を歓迎します。&lt;br&gt;
+また準備や後片付けの支援だけでも助かります。&lt;br&gt;
+活動を支援したいと考えている方、興味のある方の参加をお待ちしております。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;CoderDojo Suehirocho は、&lt;a href="https://coderdojo.jp/charter" rel="nofollow"&gt;CoderDojo 憲章&lt;/a&gt;に則り、ボランティアと寄付、スポンサーからの支援で運営されています。&lt;br&gt;
+どなたでも無料で参加できますので、お気軽にご参加ご申込みください。&lt;br&gt;
+見学のご希望・メンターご希望の方も事前にご登録をお願いします。&lt;br&gt;
+質問や気になる点がございましたら、Connpassの[イベントへのお問い合わせ]や&lt;a href="https://www.facebook.com/coderdojo.suehirocho.amulet/" rel="nofollow"&gt;Facebookページ&lt;/a&gt;へメッセージかメールでご連絡ください。&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojosuehirocho.connpass.com/event/376810/</guid><enclosure url="https://media.connpass.com/thumbs/26/d8/26d8381d4aad5e775e013df0dc72f622.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 12:01:23 +0900</pubDate></item><item><title>小中学生向けプログラミング道場 CoderDojo新代田第27回（無料）</title><link>https://coder-dojo-shindaita.connpass.com/event/376799/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 14:00&lt;/li&gt;&lt;li&gt;📍 会場: 代田区民センター 2階 和室&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都世田谷区代田6丁目34番13号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;小中学生がプログラミングを無料で楽しむ場を提供しています&lt;/p&gt;&lt;div&gt;&lt;p&gt;CoderDojo新代田（しんだいた）を開催します。小中学生を対象にした自習型の「プログラミング道場」です。 自主的に学習したり作品づくりをして、疑問点や質問があればメンターがアドバイスをしてくれます。&lt;/p&gt;
 &lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;参加対象：小学生〜中学生&lt;br&gt;
 定員：6名 + 保護者　※保護者同伴の元でご参加ください。&lt;br&gt;
@@ -1662,97 +1704,7 @@ IAM用のOSSでありCloud Native Computing FoundationのIncubating Projectで�
 &lt;br&gt;
 プログラミングが初めて！もしくは Go をあまり書いたことがないという方でも、お気軽にお越しください。&lt;br&gt;
 &lt;br&gt;
-The Go gopher was designed by Renee French.&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://womenwhogo-tokyo.connpass.com/event/376133/</guid><enclosure url="https://media.connpass.com/thumbs/8e/30/8e30f24e4e7433fc1f35c0a38b82a721.png" length="0" type="image/png"/><pubDate>Sat, 15 Nov 2025 21:44:46 +0900</pubDate></item><item><title>OCIjp #67 Oracle Cloud Infrastructure ユーザーグループ</title><link>https://fullenergy-oci.connpass.com/event/376061/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月16日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月16日(火) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 日本オラクル株式会社　本社&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都港区北青山2-5-8　オラクル青山センター&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #OCIjp&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;忘年会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【OCIjpのテーマ】&lt;/h1&gt;
-&lt;p&gt;OCIjpはOCIユーザー企業有志による、ユーザーグループです。&lt;br&gt;
-2019年5月に東京/ソウル リージョンがオープンし、2020年2月に大阪リージョンがオープンした、今まさに勢いを増している次世代クラウド Oracle Cloud Infrastructure (OCI)について熱く語ります！&lt;br&gt;
-これから身に付けるクラウドテクノロジーとしてはNo.1のOCIに、ぜひ触れてみてください。&lt;br&gt;仕事ではオンプレミスしか触れない、AWSしか知らない、そういった方々にも、いずれこのOCIが移行先候補に挙がる日が来ます！
-&lt;br&gt;&lt;br&gt;
-ユーザーグループだからこそ、公平な立場でユニークな切り口のイベントを企画してきます！&lt;/p&gt;
-&lt;h1&gt;【こんな方におすすめ】&lt;/h1&gt;
-
-&lt;p&gt;◆クラウドやセキュリティ、データベースに興味がある方&lt;/p&gt;
-&lt;p&gt;◆IT企業に就職予定の学生の方、IT企業に転職予定のIT未経験者&lt;/p&gt;
-&lt;p&gt;◆これから稼げるITスキルを身に付けたい方、資格を取りたい方&lt;/p&gt;
-&lt;p&gt;◆オンプレミスしか経験がないエンジニア&lt;/p&gt;
-&lt;p&gt;◆OCIを知らないクラウドエンジニア&lt;/p&gt;
-&lt;p&gt;◆最新のトレンドに興味があるエンジニア&lt;/p&gt;
-&lt;p&gt;◆イベント運営に興味がある方は、運営スラックにjoinしてください！&lt;br&gt;
-&lt;a href="https://join.slack.com/t/oraclecloudusergroup/shared_invite/zt-1l90ah6cj-zfFrrAfgfcHKHTf8qb_JgQ" rel="nofollow"&gt;https://join.slack.com/t/oraclecloudusergroup/shared_invite/zt-1l90ah6cj-zfFrrAfgfcHKHTf8qb_JgQ&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;【開催概要】&lt;/h1&gt;
-
-&lt;p&gt;日時：2025年12月16日(火) 19:00-20:30&lt;br&gt;
-現地参加：日本オラクル社　本社オフィス( 東京都港区北青山2-5-8　オラクル青山センター )&lt;br&gt;
-※現地参加の方は、名刺の持参をお願いします。&lt;br&gt;
-オンライン参加：Zoom&lt;br&gt;＊参加者にのみ、こちらのページでzoomURLをご案内します。&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;【タイムテーブル】（暫定・変更になる可能性もございます）&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align="left"&gt;時間&lt;/th&gt;
-&lt;th align="left"&gt;内容&lt;/th&gt;
-&lt;th align="left"&gt;登壇者・備考&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:00-19:10&lt;/td&gt;
-&lt;td align="left"&gt;&lt;b&gt;オープニング&lt;/b&gt;&lt;/td&gt;
-&lt;td align="left"&gt;OCIjp運営&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:10-19:20&lt;/td&gt;
-&lt;td align="left"&gt;&lt;b&gt;LT大会①&lt;/b&gt;&lt;/td&gt;
-&lt;td align="left"&gt;株式会社コーソル 渡部&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:20-19:30&lt;/td&gt;
-&lt;td align="left"&gt;&lt;b&gt;LT大会②&lt;/b&gt;&lt;/td&gt;
-&lt;td align="left"&gt;株式会社フルエナジー 木原&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:30-19:40&lt;/td&gt;
-&lt;td align="left"&gt;&lt;b&gt;LT大会③&lt;/b&gt;&lt;/td&gt;
-&lt;td align="left"&gt;株式会社エーピーコミュニケーションズクラウド事業部 グループマネージャー 清水&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:40-19:50&lt;/td&gt;
-&lt;td align="left"&gt;&lt;b&gt;LT大会④&lt;/b&gt;&lt;/td&gt;
-&lt;td align="left"&gt;株式会社野村総合研究所Shinichiro Otsuka（Oracle ACE Director）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:50-20:00&lt;/td&gt;
-&lt;td align="left"&gt;&lt;b&gt;LT大会⑤&lt;/b&gt;&lt;/td&gt;
-&lt;td align="left"&gt;株式会社Cloudii 大森&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;20:00-20:30&lt;/td&gt;
-&lt;td align="left"&gt;&lt;b&gt;LT大会&lt;/b&gt;&lt;/td&gt;
-&lt;td align="left"&gt;残り3枠位&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;20:30-20:35&lt;/td&gt;
-&lt;td align="left"&gt;&lt;b&gt;次回予告&lt;/b&gt;&lt;/td&gt;
-&lt;td align="left"&gt;OCIjp運営&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;20:35-&lt;/td&gt;
-&lt;td align="left"&gt;&lt;b&gt;交流会&lt;/b&gt;&lt;/td&gt;
-&lt;td align="left"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;b&gt;LT大会&lt;/b&gt;&lt;br&gt;
-少しでもOCIに関係していればなんでもOKです！&lt;br&gt;
-OCIの事例・質問・自慢話・失敗事例などなど・・・。&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;【注意点】&lt;/h1&gt;
-&lt;p&gt;本イベント参加者には、本勉強会等のお知らせを継続的に送付させて頂きます。あらかじめご了承いただければ幸いです。&lt;/p&gt;
-&lt;p&gt;&amp;lt;プライバシーポリシー / 個人情報の取り扱いについて&amp;gt;&lt;br&gt;
-&lt;a href="https://fullenergy.co.jp/privacy-policy/" rel="nofollow"&gt;https://fullenergy.co.jp/privacy-policy/&lt;/a&gt;
-&lt;a href="https://fullenergy.co.jp/privacy-handling/" rel="nofollow"&gt;https://fullenergy.co.jp/privacy-handling/&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;【運営】&lt;/h1&gt;
-&lt;p&gt;OCIjpユーザグループ有志&lt;br&gt;
-担当：松本、鈴木、大森、Shinichiro Otsuka（Oracle ACE Director）、原田、山川、武井、白栁、千明、他多数&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://fullenergy-oci.connpass.com/event/376061/</guid><enclosure url="https://media.connpass.com/thumbs/04/4e/044ebb5d2ef9de52dc64f231d53658af.png" length="0" type="image/png"/><pubDate>Tue, 18 Nov 2025 17:01:23 +0900</pubDate></item><item><title>オフライン開催！【4社のプロダクトトップに聞く】未経験プロダクトマネージャーを育てる方法とその実践</title><link>https://levtechlab.connpass.com/event/376040/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月17日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月17日(水) 21:15&lt;/li&gt;&lt;li&gt;📍 会場: レバレジーズ株式会社　本社セミナールーム&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都渋谷区渋谷2-24-12 (渋谷スクランブルスクエア)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #未経験PM_LTLAB&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sansan、estie、Money Forward、LayerX が登壇！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+The Go gopher was designed by Renee French.&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://womenwhogo-tokyo.connpass.com/event/376133/</guid><enclosure url="https://media.connpass.com/thumbs/8e/30/8e30f24e4e7433fc1f35c0a38b82a721.png" length="0" type="image/png"/><pubDate>Sat, 15 Nov 2025 21:44:46 +0900</pubDate></item><item><title>オフライン開催！【4社のプロダクトトップに聞く】未経験プロダクトマネージャーを育てる方法とその実践</title><link>https://levtechlab.connpass.com/event/376040/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月17日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月17日(水) 21:15&lt;/li&gt;&lt;li&gt;📍 会場: レバレジーズ株式会社　本社セミナールーム&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都渋谷区渋谷2-24-12 (渋谷スクランブルスクエア)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #未経験PM_LTLAB&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sansan、estie、Money Forward、LayerX が登壇！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;h2&gt;開催趣旨📖&lt;/h2&gt;
 &lt;p&gt;近年、プロダクト開発の多様化が進む一方で、未経験からプロダクトマネージャーを育てる方法は十分に確立されていません。育成の手法が体系化されておらず、人材不足の課題に直面している企業も少なくないのではないでしょうか。&lt;/p&gt;
 &lt;p&gt;そこで本イベントでは、&lt;strong&gt;「未経験のプロダクトマネージャーを育てる方法」にフォーカスし、各社がどのように試行錯誤しながら育成を行っているのかを紐解きます。&lt;/strong&gt;&lt;/p&gt;
@@ -3145,7 +3097,7 @@ AI（機械学習）&lt;br&gt;
 &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;お問い合わせ先&lt;/h2&gt;
 &lt;p&gt;support@iotlab.me&lt;br&gt;
-050-7128-6590&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://iotlab.connpass.com/event/375401/</guid><enclosure url="https://media.connpass.com/thumbs/71/30/713088aed980f1bb62b8dcff5947e6c6.png" length="0" type="image/png"/><pubDate>Fri, 21 Nov 2025 09:01:18 +0900</pubDate></item><item><title>Meguro.vim #33</title><link>https://megurovim.connpass.com/event/375394/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社アカツキ&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都品川区上大崎2-13-30 oak meguro 8階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #megurovim&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Vimmer もくもく交流会&lt;/p&gt;&lt;div&gt;&lt;h2&gt;Meguro.vim #33&lt;/h2&gt;
+050-7128-6590&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://iotlab.connpass.com/event/375401/</guid><enclosure url="https://media.connpass.com/thumbs/71/30/713088aed980f1bb62b8dcff5947e6c6.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 13:46:04 +0900</pubDate></item><item><title>Meguro.vim #33</title><link>https://megurovim.connpass.com/event/375394/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社アカツキ&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都品川区上大崎2-13-30 oak meguro 8階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #megurovim&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Vimmer もくもく交流会&lt;/p&gt;&lt;div&gt;&lt;h2&gt;Meguro.vim #33&lt;/h2&gt;
 &lt;p&gt;Vim 好きな人が集まって、もくもく作業しつつ交流する会です。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;会場の人にわからないところを質問したり&lt;/li&gt;
@@ -4050,7 +4002,7 @@ mail：support@nemtus.com &lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid is
 &lt;h2&gt;(調整中)&lt;/h2&gt;
 &lt;p&gt;Microsoft MVP for Developer Technologies 宮崎 典行&lt;/p&gt;
 &lt;p&gt;(調整中)&lt;/p&gt;
-&lt;h2&gt;(調整中)&lt;/h2&gt;
+&lt;h2&gt;.NETとA2Aプロトコルの現在地&lt;/h2&gt;
 &lt;p&gt;Microsoft MVP for Developer Technologies 山田 顕人&lt;/p&gt;
 &lt;p&gt;(調整中)&lt;/p&gt;
 &lt;h2&gt;(調整中)&lt;/h2&gt;
@@ -4173,7 +4125,107 @@ mail：support@nemtus.com &lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid is
 &lt;p&gt;&lt;a href="" rel="nofollow"&gt;アンケートはこちらからお願いします。&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;Discordについて&lt;/h1&gt;
 &lt;p&gt;.NETラボの運用・.NETラボの登壇者の連絡用・技術者同士の交流スキルアップに貢献することを目的としてDiscordサーバーを開設しました。是非ともご参加ください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://discord.gg/AurBBtJuuc" rel="nofollow"&gt;https://discord.gg/AurBBtJuuc&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://dotnetlab.connpass.com/event/374748/</guid><enclosure url="https://media.connpass.com/thumbs/4c/34/4c34a3c865867ec45d8efee142f41b27.png" length="0" type="image/png"/><pubDate>Thu, 20 Nov 2025 13:03:07 +0900</pubDate></item><item><title>25卒(新卒)エンジニア LT・交流会</title><link>https://connpass.com/event/374738/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月9日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月9日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: GMO Yours・フクラス（渋谷フクラス16階）&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都渋谷区道玄坂一丁目2番3号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜同期のエンジニアと繋がる場所〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🎉 &lt;strong&gt;イベント概要&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://discord.gg/AurBBtJuuc" rel="nofollow"&gt;https://discord.gg/AurBBtJuuc&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://dotnetlab.connpass.com/event/374748/</guid><enclosure url="https://media.connpass.com/thumbs/4c/34/4c34a3c865867ec45d8efee142f41b27.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 13:27:26 +0900</pubDate></item><item><title>【神田】しくじりLT＆忘年会 〜私みたいになるな！〜</title><link>https://mecha-mote-se.connpass.com/event/374745/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月19日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月19日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 鈴木ビル2F&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都千代田区神田司町2-7-6&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ドタ参大歓迎！！気軽にご参加ください！&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;b&gt;めちゃモテSEプロジェクトで LT会 ＆ 忘年会を行います！！&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;⚡LT(Lightning Talk)とは、稲妻のように短いプレゼンのことです⚡
+&lt;br&gt;
+&lt;br&gt;「しくじり」をテーマに、LT会＆忘年会を行います🍻
+&lt;br&gt;LT実績豊富な方、LT経験のない方、LT登壇してみたい方、聞き専の方、どなたでも大歓迎です。
+&lt;br&gt;失敗から得られた教訓を共有しつつ、交流の場にできたらと思っています！
+&lt;br&gt;交流会の時間では、「しくじり」を肴に軽食とドリンクを楽しみながら、ゆるく語り合いましょう。
+&lt;br&gt;
+&lt;br&gt;(例)
+&lt;br&gt;・見積もりが甘く炎上した → 余裕を持ったスケジュールが大切だと気づいた
+&lt;br&gt;・考慮漏れで障害が起きた → ダブルチェックの重要性に気づいた
+&lt;br&gt;・会議の結論で認識齟齬が生まれていた → 議事録の大切さに気づいた
+&lt;br&gt;・曖昧な要件定義で炎上 → コミュニケーションの大切さに気づいた
+&lt;br&gt;・テレワーク中に飲み物をこぼして端末を壊した → テレワーク環境を整えることの大切さを痛感した&lt;/p&gt;
+&lt;h3&gt;◇スケジュール&lt;/h3&gt;
+
+&lt;p&gt;12/19(金) 19:30-21:30&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th align="left"&gt;時間&lt;/th&gt;
+      &lt;th align="left"&gt;内容&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td align="left"&gt;19:00-19:30&lt;/td&gt;
+      &lt;td align="left"&gt;開場・受付&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td align="left"&gt;19:30-19:35&lt;/td&gt;
+      &lt;td align="left"&gt;オープニング＆乾杯&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td align="left"&gt;19:35-19:45&lt;/td&gt;
+      &lt;td align="left"&gt;自己紹介&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td align="left"&gt;19:45-20:25&lt;/td&gt;
+      &lt;td align="left"&gt;しくじりLT枠（1人5〜7分目安）&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td align="left"&gt;20:25-21:20&lt;/td&gt;
+      &lt;td align="left"&gt;立食形式でフリータイム（交流会）&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td align="left"&gt;21:20-21:30&lt;/td&gt;
+      &lt;td align="left"&gt;主催から挨拶・クロージング&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td align="left"&gt;21:30-&lt;/td&gt;
+      &lt;td align="left"&gt;希望者で二次会へ 🍻&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;※タイムスケジュールは予告なく変更となる場合がございます。あらかじめご了承ください。&lt;/p&gt;
+&lt;h3&gt;◇得られること&lt;/h3&gt;
+&lt;p&gt;・失敗談から得られたリアルな教訓&lt;br&gt;
+・エンジニア同士の情報交換&lt;br&gt;
+・エンジニアとの交流・つながり作り&lt;br&gt;
+・様々なSEさんとのネットワーク、一緒に成長し合える仲間&lt;br&gt;
+・新しい技術や働き方の知見&lt;br&gt;
+・アウトプットによる知識の整理・体系化&lt;br&gt;
+・IT業界やキャリアアップに関する情報&lt;/p&gt;
+&lt;h3&gt;◇場所&lt;/h3&gt;
+&lt;p&gt;東京メトロ丸ノ内線 淡路町駅 徒歩3分 / JR神田駅 徒歩5分
+&lt;br&gt;鈴木ビル2F
+&lt;br&gt;東京都千代田区神田司町2-7-6
+&lt;br&gt;&lt;a href="https://maps.app.goo.gl/1ckpxfrnSnsQjGRY9" rel="nofollow"&gt;Googleマップはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;◇参加費&lt;/h3&gt;
+&lt;p&gt;参加者：1,500円
+&lt;br&gt;※参加費には会場費・軽食・ドリンク代が含まれます。&lt;/p&gt;
+&lt;h3&gt;◇LT枠について&lt;/h3&gt;
+&lt;p&gt;しくじりLTをしてくださる方を募集しています！
+&lt;br&gt;テーマは「しくじり」から得た学びであれば自由です。
+&lt;br&gt;1人あたり5〜7分程度を予定しています（人数により前後します）。
+&lt;br&gt;簡単な内容でも構いませんので、お気軽にご応募ください。&lt;/p&gt;
+&lt;h3&gt;◇参加資格&lt;/h3&gt;
+&lt;p&gt;・ITエンジニアの方&lt;br&gt;
+・異業種からITエンジニアを目指している方&lt;br&gt;
+&lt;br&gt;※今回はエンジニア／エンジニア志望の方を対象としたイベントのため、&lt;br&gt;
+SES企業の営業の方など、非エンジニアの方のご参加はご遠慮ください。&lt;br&gt;
+&lt;br&gt;ご参考までに、下記のような方におすすめの交流会となっています！&lt;br&gt;
+&lt;br&gt;・キャリアアップについて悩んでいる方&lt;br&gt;
+・他のエンジニアがどんな仕事をしているのか知りたい方&lt;br&gt;
+・エンジニアとしての成長に悩んでいる方&lt;br&gt;
+・LT登壇の実績がある方（経験談を共有したい方）&lt;br&gt;
+・LT登壇に興味はあるが、これまで一歩踏み出せなかった方&lt;br&gt;
+・モテたい方（人としての魅力も一緒に高めたい方）&lt;/p&gt;
+&lt;h3&gt;◇ お知らせ&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;本イベントは別媒体でも募集しております。定員になり次第締め切る場合がありますので、お早めにお申し込みください。&lt;/li&gt;
+  &lt;li&gt;参加者が嫌がる行為、MLMおよび宗教関連の勧誘目的の方、またはそれに類する行為や営業は禁止です。主催者の判断で途中退出をお願いする場合もございます。後日発覚した場合も、厳正に対処いたします。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;◇主催&lt;/h3&gt;
+&lt;p&gt;めちゃモテSEプロジェクト
+&lt;br&gt;&lt;a href="https://mecha-mote-se.connpass.com/" rel="nofollow"&gt;&lt;/a&gt;&lt;a href="https://mecha-mote-se.connpass.com/&lt;/a&gt;" rel="nofollow"&gt;https://mecha-mote-se.connpass.com/&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;気軽にご参加ください！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://mecha-mote-se.connpass.com/event/374745/</guid><enclosure url="https://media.connpass.com/thumbs/44/34/4434385090b275e71d13bbae8f782613.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 15:12:51 +0900</pubDate></item><item><title>25卒(新卒)エンジニア LT・交流会</title><link>https://connpass.com/event/374738/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月9日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月9日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: GMO Yours・フクラス（渋谷フクラス16階）&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都渋谷区道玄坂一丁目2番3号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜同期のエンジニアと繋がる場所〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🎉 &lt;strong&gt;イベント概要&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;25卒(新卒)のエンジニアが集まり、これまでの経験やこれからの挑戦について語り合う交流会です！&lt;br&gt;
 エンジニア同士の横のつながりを作る場所としてぜひご活用ください！&lt;/p&gt;
 &lt;h2&gt;📆 開催概要&lt;/h2&gt;
@@ -5817,7 +5869,7 @@ AIを使いこなして自分の技術力・思考力を伸ばした経験。&lt
 &lt;p&gt;もしハラスメント行為をやめるように指示された場合、すべての参加者は直ちに従うことが求められます。ポリシーに則ることができない参加者は、主催者の判断により、退場処分や今後のイベントに一般参加者、登壇者、スポンサー、運営スタッフとして関わることを禁止します。&lt;/p&gt;
 &lt;p&gt;もしハラスメントを受けていると感じたり、他の誰かがハラスメントされていることに気がついた場合、または他に何かお困りのことがあれば、すぐにスタッフまでご連絡ください。警察への連絡などを含め、安心してイベントに参加できるようにお手伝いさせていただきます。&lt;/p&gt;
 &lt;p&gt;※本文章はKotlinFest Code of Conductとして公開された文章https://&lt;a href="http://github.com/KotlinFest/KotlinFest2018/blob/master/CODE-OF-CONDUCT.md" rel="nofollow"&gt;github.com/KotlinFest/KotlinFest2018/blob/master/CODE-OF-CONDUCT.md&lt;/a&gt; を元に派生しています。
-※本文章はCreative Commons Zero ライセンス( &lt;a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="nofollow"&gt;https://creativecommons.org/publicdomain/zero/1.0/&lt;/a&gt; )で公開されています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://progate.connpass.com/event/373527/</guid><enclosure url="https://media.connpass.com/thumbs/b4/dc/b4dcb95f450bf7427ab3e29b513db56f.png" length="0" type="image/png"/><pubDate>Thu, 30 Oct 2025 13:30:44 +0900</pubDate></item><item><title>クラウド食堂 #6 CloudQuestトーナメントで遊ぶ会</title><link>https://cloud-shokudo.connpass.com/event/373476/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月21日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月21日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: クラスメソッド株式会社 日比谷オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒105-0003 東京都港区西新橋１丁目１−１ 日比谷フォートタワー 26階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #cloud_shokudo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Japan AWS Top Engineers のつながりで企画しました！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+※本文章はCreative Commons Zero ライセンス( &lt;a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="nofollow"&gt;https://creativecommons.org/publicdomain/zero/1.0/&lt;/a&gt; )で公開されています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://progate.connpass.com/event/373527/</guid><enclosure url="https://media.connpass.com/thumbs/b4/dc/b4dcb95f450bf7427ab3e29b513db56f.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 15:36:16 +0900</pubDate></item><item><title>クラウド食堂 #6 CloudQuestトーナメントで遊ぶ会</title><link>https://cloud-shokudo.connpass.com/event/373476/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月21日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月21日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: クラスメソッド株式会社 日比谷オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒105-0003 東京都港区西新橋１丁目１−１ 日比谷フォートタワー 26階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #cloud_shokudo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Japan AWS Top Engineers のつながりで企画しました！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;Japan AWS Top Engineer / Japan AWS Jr. Champions のつながりを活かし、AWS Cloud Quest を使ったトーナメント企画を開催します！&lt;/p&gt;
 &lt;p&gt;CloudQuestのトーナメント機能を使って、チームのメンバーとコミュニケーションを取りながらAWSの知識・スキルを楽しく学びましょう！&lt;br&gt;
 AWS初心者大歓迎です！&lt;/p&gt;
@@ -7133,113 +7185,7 @@ JR武蔵野線、JR南武線府中本町駅から徒歩約25分&lt;/p&gt;&lt;/di
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;※スケジュールは変更になる場合があります&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://career-tech-bar.connpass.com/event/372414/</guid><enclosure url="https://media.connpass.com/thumbs/1b/0e/1b0e401508a0fc0a97187673bd63861e.png" length="0" type="image/png"/><pubDate>Sat, 11 Oct 2025 19:01:26 +0900</pubDate></item><item><title>JAWS-UG Sales #4 re:Inventを振り返ろう for Sales</title><link>https://jawsug-sales.connpass.com/event/372225/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月16日(火) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月16日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: AWSJ@目黒新オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都品川区上大崎３丁目１−１ (目黒セントラルスクエア)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_sales&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Salesだって、re:Inventを振り返りたい！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;Salesだって・・・&lt;/h2&gt;
-&lt;p&gt;敵 「え? re:Invent? LasVegas⁇」&lt;/p&gt;
-&lt;p&gt;敵 「1週間⁇」&lt;/p&gt;
-&lt;p&gt;敵 「エンジニアでもない営業のあなたが? 」&lt;/p&gt;
-&lt;p&gt;敵 「何しに行くの?」&lt;/p&gt;
-&lt;p&gt;Sales 「N...Noodle...A...sia...」&lt;/p&gt;
-&lt;p&gt;敵 「ヌードルアジア?なにそれ⁇Keynote会場?」&lt;/p&gt;
-&lt;p&gt;Sales 「・・・いえ、冗談で言ってみただけです。。ですよね、、はい。。」&lt;/p&gt;
-&lt;p&gt;確かに、技術カンファレンスはSales分野に携わる方にとって、参加する意義を伝えにくいところがあるのかもしれません。
-しかし商談の最前線に立ち、顧客にサービスの魅力を伝えるSalesにもre:Inventは最重要カンファレンスであることは間違いありません。&lt;/p&gt;
-&lt;p&gt;では、re:Inventで発表されたメッセージやサービス、参加する意義をどうキャッチアップするのか。
-今年Rebootを果たしたJAWS UG SalesでRecapを企画しました&lt;/p&gt;
-&lt;p&gt;テクニカルなRecapとはひと味違う振返り会です。Sales以外のビジネスレイヤーの方、もちろんエンジニアの方も是非ご参加ください&lt;/p&gt;
-&lt;h2&gt;イベント目的&lt;/h2&gt;
-&lt;p&gt;AWS最大の年次イベント「AWS re:Invent 2025」で発表された最新情報を、Sales活動に活かす視点で振り返るJAWS-UG Sales支部のRecapイベントです！&lt;/p&gt;
-&lt;p&gt;現地参加者によるレポートや、提案現場での活用イメージも交えながら、Salesパーソンが「明日から使えるAWS知識」を持ち帰れる場を目指します。&lt;/p&gt;
-&lt;h2&gt;メインセッション2本&amp;amp;LTの贅沢構成&lt;/h2&gt;
-&lt;p&gt;メインセッションは、&lt;strong&gt;特別セッション&lt;/strong&gt;と&lt;strong&gt;Sales的なアップデート速報&lt;/strong&gt;の2本立て&lt;/p&gt;
-&lt;p&gt;特別セッションには&lt;strong&gt;ネクストモードの里見社長&lt;/strong&gt;をお迎えし、社長というエグゼクティブ職な方がre:Inventに参加する目的や自社のビジネスにどう活かしていくのかという、貴重なお話を語っていただきます。&lt;/p&gt;
-&lt;p&gt;2本目のアップデート速報は&lt;strong&gt;NetAppの小寺さん&lt;/strong&gt;からSales視点でのアップデートをお話ししていただきます。
-これなら明日からの仕事で即活用できること間違いなし!!&lt;/p&gt;
-&lt;p&gt;&lt;span style="color: red;"&gt;LTもやります！ドシドシご応募ください！&lt;/span&gt;
-「re:InventをSales/ ビジネス視点でどう振り返ったか」をシェアし合いましょう。
-特に、re:Inventに参加した、Sales職を含めたビジネス系の方々の発表をお待ちしております。&lt;/p&gt;
-&lt;p&gt;※ビジネス視点であれば、エンジニアの皆様のご登壇も大歓迎です！&lt;/p&gt;
-&lt;h2&gt;対象者&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;AWSを活用した提案活動に関わるSales職の方&lt;/li&gt;
-&lt;li&gt;re:Inventの内容をSales視点で効率よくキャッチアップしたい方（Sales職以外の方も大歓迎！）&lt;/li&gt;
-&lt;li&gt;JAWS-UG Sales支部の活動に興味がある方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;本会の後は懇親会&lt;/h2&gt;
-&lt;p&gt;近隣の居酒屋で実施予定です。 アフターセッションもぜひご参加ください。
-※席のみを予約し、アラカルトで注文予定です。費用は現地にて頭数での割り勘にて精算します。&lt;/p&gt;
-&lt;h2&gt;Timetable（予定）&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align="left"&gt;時間&lt;/th&gt;
-&lt;th align="left"&gt;セッション内容&lt;/th&gt;
-&lt;th align="left"&gt;発表者&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;18:30〜19:00&lt;/td&gt;
-&lt;td align="left"&gt;会場受付開始&lt;/td&gt;
-&lt;td align="left"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:00〜19:10&lt;/td&gt;
-&lt;td align="left"&gt;オープニング・Sales支部紹介&lt;/td&gt;
-&lt;td align="left"&gt;運営チーム&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:10〜19:25&lt;/td&gt;
-&lt;td align="left"&gt;特別セッション&lt;/td&gt;
-&lt;td align="left"&gt;ネクストモード 里見 宗律さん&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:25〜19:40&lt;/td&gt;
-&lt;td align="left"&gt;re:Invent 2025速報：Salesに効くアップデートまとめ&lt;/td&gt;
-&lt;td align="left"&gt;NetApp 小寺 加奈子さん&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:40〜19:50&lt;/td&gt;
-&lt;td align="left"&gt;LT①：テーマ未定&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;19:50〜20:00&lt;/td&gt;
-&lt;td align="left"&gt;LT②：テーマ未定&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;20:00〜20:05&lt;/td&gt;
-&lt;td align="left"&gt;休憩（5分）&lt;/td&gt;
-&lt;td align="left"&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;20:05〜20:15&lt;/td&gt;
-&lt;td align="left"&gt;LT③：テーマ未定&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;20:15〜20:25&lt;/td&gt;
-&lt;td align="left"&gt;LT④：テーマ未定&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;20:25〜20:35&lt;/td&gt;
-&lt;td align="left"&gt;LT⑤：テーマ未定&lt;/td&gt;
-&lt;td align="left"&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;20:35〜20:40&lt;/td&gt;
-&lt;td align="left"&gt;休憩（5分）&lt;/td&gt;
-&lt;td align="left"&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;20:40〜21:00&lt;/td&gt;
-&lt;td align="left"&gt;クロージング・延長した際のバッファ&lt;/td&gt;
-&lt;td align="left"&gt;司会チーム&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;※内容は変更になる可能性があります。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-sales.connpass.com/event/372225/</guid><enclosure url="https://media.connpass.com/thumbs/57/7a/577abd9f6652dc7451807fad6f38f69d.png" length="0" type="image/png"/><pubDate>Sun, 16 Nov 2025 16:03:26 +0900</pubDate></item><item><title>KGDC Tech Conference #12「AI駆動開発」</title><link>https://kgdc.connpass.com/event/372195/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月17日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月17日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: KDDI本社&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都港区高輪2丁目21番1号﻿ THE LINKPILLAR 1 NORTH&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;KGDC Tech Conference #12&lt;/h1&gt;
+&lt;p&gt;※スケジュールは変更になる場合があります&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://career-tech-bar.connpass.com/event/372414/</guid><enclosure url="https://media.connpass.com/thumbs/1b/0e/1b0e401508a0fc0a97187673bd63861e.png" length="0" type="image/png"/><pubDate>Sat, 11 Oct 2025 19:01:26 +0900</pubDate></item><item><title>KGDC Tech Conference #12「AI駆動開発」</title><link>https://kgdc.connpass.com/event/372195/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月17日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月17日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: KDDI本社&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都港区高輪2丁目21番1号﻿ THE LINKPILLAR 1 NORTH&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;KGDC Tech Conference #12&lt;/h1&gt;
 &lt;p&gt;KGDC TechConference は、2021年より定期的に開催している KDDIグループのエンジニアで運営する勉強会イベントです。&lt;/p&gt;
 &lt;p&gt;今回のテーマは 「AI 駆動開発」!&lt;br&gt;
 KDDIグループのエンジニアによるライトニングトーク（LT）大会を開催します。&lt;br&gt;
