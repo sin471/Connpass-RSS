@@ -1,30 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>大阪のイベント</title><link>https://connpass.com/explore/</link><description>大阪のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>大阪のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 22 Nov 2025 15:11:55 +0000</lastBuildDate><item><title>もくもく会！@中崎町</title><link>https://connpass.com/event/376779/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月23日(日) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月23日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: cafe太陽ノ塔 GREEN WEST店&lt;/li&gt;&lt;li&gt;🏢 住所: 2 Chome-4-36 Nakazakinishi, Kita Ward, Osaka, 530-0015&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #もくもく&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;どなたでもお気軽にご参加ください！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;中崎町もくもく会&lt;/h1&gt;
-&lt;p&gt;cafe太陽ノ塔 GREEN WEST店にて、気軽にもくもく会を開催します。&lt;br&gt;
-場所はひとまず自分の作業を持ち寄って集中したり、参加者同士で交流したりできるゆるい会です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;📝 テーマ自由&lt;/h2&gt;
-&lt;p&gt;勉強、読書、開発、執筆など、テーマは自由です。&lt;br&gt;
-「一人だとなかなか続かない…」という方も、みんなで集まることで作業がはかどります。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;📆 当日の流れ&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;簡単な自己紹介  &lt;/li&gt;
-&lt;li&gt;もくもくタイム  &lt;/li&gt;
-&lt;li&gt;成果共有（希望者のみ）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h2&gt;👥 こんな方におすすめ&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;集中して作業する時間をつくりたい  &lt;/li&gt;
-&lt;li&gt;誰かと一緒に頑張りたい  &lt;/li&gt;
-&lt;li&gt;中崎町の雰囲気を楽しみたい  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;お気軽にご参加ください！&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;📍 会場&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;cafe太陽ノ塔 GREEN WEST店&lt;/strong&gt;&lt;br&gt;
-https://share.google/P7quxhnZ9U4u2SpFX&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/376779/</guid><enclosure url="https://media.connpass.com/thumbs/03/2c/032c14958b3d55d3facd91fb96acd070.png" length="0" type="image/png"/><pubDate>Fri, 21 Nov 2025 21:27:17 +0900</pubDate></item><item><title>React Osaka 2026 01</title><link>https://react-osaka.connpass.com/event/376716/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月23日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月23日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: サイボウズ株式会社 大阪オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区角田町8-1 大阪梅田ツインタワーズ・ノース 35階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #react_osaka&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;React Osaka&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>大阪のイベント</title><link>https://connpass.com/explore/</link><description>大阪のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>大阪のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 23 Nov 2025 15:12:04 +0000</lastBuildDate><item><title>React Osaka 2026 01</title><link>https://react-osaka.connpass.com/event/376716/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月23日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月23日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: サイボウズ株式会社 大阪オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区角田町8-1 大阪梅田ツインタワーズ・ノース 35階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #react_osaka&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;React Osaka&lt;/h1&gt;
 &lt;p&gt;React Osaka は関西の React.js ユーザーのためのコミュニティです。&lt;br&gt;
 より多くの人に参加していただくために、イベントを英語と日本語の両方で開催しています。
 言語については運営サポートします。&lt;/p&gt;
@@ -1231,46 +1206,48 @@ SF作家としても活動し、2017年『構造素子』（早川書房）で�
 &lt;p&gt;&lt;strong&gt;note： &lt;a href="https://note.com/kyosukehiguchi" rel="nofollow"&gt;樋口恭介｜note&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;YouTube： &lt;a href="https://www.youtube.com/channel/UCx_2aXcU-74DBUZmr3qfJYQ" rel="nofollow"&gt;higuchi kyosuke - YouTube&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h3&gt;参加対象&lt;/h3&gt;
-&lt;p&gt;どなたでもご参加いただけます&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/376031/</guid><enclosure url="https://media.connpass.com/thumbs/87/14/8714cf71623e5874584d7264d8fe3a39.png" length="0" type="image/png"/><pubDate>Mon, 17 Nov 2025 10:57:27 +0900</pubDate></item><item><title>【AI x クリエティブ交流会】動く名画AR体験イベント＋AI絵画鑑賞</title><link>https://connpass.com/event/376020/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月7日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月7日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: ギャラリーゴロー  京橋駅 徒歩7分&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市城東区鴫野西2-19-9&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;もしも名画の巨匠が 『クリスマス』を描いたら展〜AIでゴッホ・モネ・ダヴィンチが現代によみがえる〜&lt;/p&gt;&lt;div&gt;&lt;p&gt;🎨 AI × クリエイティブ交流会 🎨
- &lt;/p&gt;
-&lt;p&gt;～「動く名画」AR体験 ＆ 先行アート鑑賞～&lt;/p&gt;
-&lt;p&gt;「もしも、ゴッホやモネが現代のクリスマスを描いたら？」&lt;/p&gt;
-&lt;p&gt;AIの力で巨匠たちの「新作」を生み出す前代未聞のアート展「もしも名画の巨匠が『クリスマス』を描いたら展」。&lt;/p&gt;
-&lt;p&gt;その一般公開（12/8～12/11:入場料無料）に先立ち、12/7(日)に特別な交流会を開催します！&lt;/p&gt;
+&lt;p&gt;どなたでもご参加いただけます&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/376031/</guid><enclosure url="https://media.connpass.com/thumbs/87/14/8714cf71623e5874584d7264d8fe3a39.png" length="0" type="image/png"/><pubDate>Mon, 17 Nov 2025 10:57:27 +0900</pubDate></item><item><title>12月7日【AI x クリエティブ交流会】動く絵画AR体験イベント『クリスマス』AIアート展</title><link>https://connpass.com/event/376020/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月7日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月7日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: ギャラリーゴロー  京橋駅 徒歩7分&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市城東区鴫野西2-19-9&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;もしも名画の巨匠が 『クリスマス』を描いたら展〜AIでゴッホ・モネ・ダヴィンチが現代によみがえる〜&lt;/p&gt;&lt;div&gt;&lt;p&gt;『クリスマス』AIアート展&lt;/p&gt;
+&lt;p&gt;🎨 AI × クリエイティブ交流会 🎨&lt;/p&gt;
+&lt;p&gt;その場で作ってすぐに飾れる！あなたも参加できるイベント体験&lt;/p&gt;
+&lt;p&gt;～「動く絵画」AR体験 ＆ 先行アート鑑賞～&lt;/p&gt;
+&lt;p&gt;12/7(日)に特別な交流会・ワークショップを開催します！&lt;/p&gt;
 &lt;p&gt;AI、アート、デザイン、AR――。 新しい表現の可能性に触れながら、同じ関心を持つクリエイティブの仲間たちと繋がりませんか？&lt;/p&gt;
 &lt;p&gt;✨ このイベントで体験できること&lt;/p&gt;
 &lt;p&gt;1.【AI×クリエイティブ交流】 AIアートや新しい表現に興味があるデザイナー、イラストレーター、エンジニア、そしてアートファンが集結。「AIと創造性の未来」について、ドリンク片手に語り合いましょう！&lt;/p&gt;
 &lt;p&gt;2.【魔法のAR体験】「動く名画」を体感！ ポスターの目玉でもある「スマホをかざすと名画が動き出す」AR体験を、いち早くじっくりとお楽しみいただけます。&lt;/p&gt;
-&lt;p&gt;3.【思い出を作品にするAI体験】 大切な記憶を語るだけで、AIが世界に一枚の絵画として蘇らせます。脳の活性化や心の健康にも貢献するこのプログラムで、あなたもアーティストとして参加してみませんか？ 完成した作品は期間中にギャラリーへ展示したり、大切な思い出としてお持ち帰りいただけます。
- &lt;/p&gt;
-&lt;p&gt;こんな方におすすめ！
- &lt;/p&gt;
-&lt;p&gt;AIアートや生成AIの可能性にワクワクする方
-デザイナー、イラストレーター、映像作家など（プロ・アマ問わず）
-ARやインタラクティブな表現に触れたい方
-同じ志を持つクリエイティブな仲間と繋がりたい方
- &lt;/p&gt;
+&lt;p&gt;3.【思い出を作品にするAI体験】 大切な記憶を語るだけで、AIが世界に一枚の絵画として蘇らせます。脳の活性化や心の健康にも貢献するこのプログラムで、あなたもアーティストとして参加してみませんか？ 完成した作品は期間中にギャラリーへ展示したり、大切な思い出としてお持ち帰りいただけます。&lt;/p&gt;
+&lt;p&gt;こんな方におすすめ！&lt;/p&gt;
+&lt;p&gt;◎AIアートを展示したい・作りたい方&lt;/p&gt;
+&lt;p&gt;◎AIアートや生成AIの可能性にワクワクする方
+◎デザイナー、イラストレーター、映像作家など（プロ・アマ問わず）
+◎ARやインタラクティブな表現に触れたい方
+◎同じ志を持つクリエイティブな仲間と繋がりたい方&lt;/p&gt;
 &lt;p&gt;イベントスケジュール&lt;/p&gt;
-&lt;p&gt;14:00〜 開場　主催者挨拶&lt;/p&gt;
+&lt;p&gt;14:00〜14:30 ギャラリー会場の無料見学会&lt;/p&gt;
+&lt;p&gt;14:30〜　Aixクリエイティブ交流会・ワークショップイベント開催&lt;/p&gt;
+&lt;p&gt;（一般参加3,000円・学生無料）&lt;/p&gt;
+&lt;p&gt;◎主催者挨拶&lt;/p&gt;
 &lt;p&gt;◎AR体験&lt;/p&gt;
 &lt;p&gt;◎AIアート紹介　&lt;/p&gt;
 &lt;p&gt;◎イラスト・動画生成AIのクリエイティブ体験イベント&lt;/p&gt;
 &lt;p&gt;◎展示見学&lt;/p&gt;
 &lt;p&gt;◎参加者交流・名刺交換&lt;/p&gt;
 &lt;p&gt;◎AI×ビジネスマッチング&lt;/p&gt;
-&lt;p&gt;◎思い出アートレク体験（澤田諒二氏）
-あなたの「大切な思い出」を語るだけで、AIが世界に一つだけの素敵な絵画として蘇らせます。 完成した作品はギャラリー期間中に展示され、あなたも今日から「アーティスト」の一員に！もちろん、思い出の詰まった作品はお持ち帰りも可能です。 懐かしい記憶を言葉にする「脳の活性化」と、作品を通じた「人とのつながり」を楽しみながら、世界に一つのアートを創りませんか？&lt;/p&gt;
-&lt;p&gt;🔔 開催概要
- &lt;/p&gt;
+&lt;p&gt;◎お菓子やジュースなどご用意アリ&lt;/p&gt;
+&lt;p&gt;◎思い出アートレク体験(仮)&lt;/p&gt;
+&lt;p&gt;あなたの「大切な思い出」を語るだけで、AIが世界に一つだけの素敵な絵画として蘇らせます。 完成した作品はギャラリー期間中に展示され、あなたも今日から「アーティスト」の一員に！もちろん、思い出の詰まった作品はお持ち帰りも可能です。 懐かしい記憶を言葉にする「脳の活性化」と、作品を通じた「人とのつながり」を楽しみながら、世界に一つのアートを創りませんか？&lt;/p&gt;
+&lt;p&gt;🔔 開催概要&lt;/p&gt;
 &lt;p&gt;イベント名: AI x クリエイティブ交流会
 内容: 動く名画 AR体験＋絵画鑑賞+思い出アートレク体験&lt;/p&gt;
-&lt;p&gt;日時: 2025年12月7日(日) 14:00～17:00
+&lt;p&gt;イベント: 2025年12月7日(日) 14:00～17:00&lt;/p&gt;
+&lt;p&gt;一般無料公開（12/8～12/11:14:00〜18:00）
 会場: ギャラリーゴロー (gallery GORO)
-アクセス: 大阪府大阪市城東区鴨野西2-19-9（京橋駅 徒歩7分）
-参加費: 3000円（当日会場払い）&lt;/p&gt;
+アクセス: 大阪府大阪市城東区鴨野西2-19-9（京橋駅 徒歩7分）&lt;/p&gt;
+&lt;p&gt;14:30〜14:30　無料ギャラリー見学会
+14:30〜17:00 交流会・イベント参加費: 3,000円（当日会場払い）&lt;/p&gt;
 &lt;p&gt;途中入場・途中退場OK&lt;/p&gt;
 &lt;p&gt;イベント会場ではお菓子やジュースなどご用意を予定しています&lt;/p&gt;
-&lt;p&gt;皆様のご参加を心よりお待ちしております！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/376020/</guid><enclosure url="https://media.connpass.com/thumbs/ce/6f/ce6f702d17697da5d15a85e0831f6b60.png" length="0" type="image/png"/><pubDate>Fri, 21 Nov 2025 23:09:14 +0900</pubDate></item><item><title>プロダクト開発meetup関西#12 @Osaka Tech Lab</title><link>https://product-dev-meetup-kansai.connpass.com/event/376009/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月12日(金) 19:10&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月12日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Osaka Tech Lab( KINTOテクノロジーズ株式会社)&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区梅田3丁目1番3号 ノースゲートビルディング 20F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #prokan&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;💭 概要&lt;/h1&gt;
+&lt;p&gt;皆様のご参加を心よりお待ちしております！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/376020/</guid><enclosure url="https://media.connpass.com/thumbs/06/5c/065cb867b5a61358f74bcce0e90d9c57.png" length="0" type="image/png"/><pubDate>Sun, 23 Nov 2025 16:14:04 +0900</pubDate></item><item><title>プロダクト開発meetup関西#12 @Osaka Tech Lab</title><link>https://product-dev-meetup-kansai.connpass.com/event/376009/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月12日(金) 19:10&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月12日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Osaka Tech Lab( KINTOテクノロジーズ株式会社)&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区梅田3丁目1番3号 ノースゲートビルディング 20F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #prokan&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;💭 概要&lt;/h1&gt;
 &lt;p&gt;関西のプロダクト開発に関わっている方を対象にしたmeetupです。&lt;br&gt;
 多様な方が楽しくお話しできる雰囲気の良い場所にすることを意識しています。&lt;/p&gt;
 &lt;p&gt;他社や他の職種の人と交流したい方、ワイワイ議論したい方はぜひお越しください！    &lt;/p&gt;
@@ -1371,61 +1348,7 @@ ARやインタラクティブな表現に触れたい方
 &lt;li&gt;会場にある駐車場、駐輪場はご利用いただけません。&lt;/li&gt;
 &lt;li&gt;会場提供やスポンサーをしていただいている企業様は運営に一切関与していないため、本イベントについてのお問い合わせをお送りするのはご遠慮ください。イベントについてのご連絡は本サイト上のお問い合わせフォームよりお願いいたします。&lt;/li&gt;
 &lt;li&gt;参加申し込み後の無断欠席はご遠慮ください。キャンセル待ちなど枠が空くのを待たれている方がいますので、connpass上で欠席へご変更お願いします。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://product-dev-meetup-kansai.connpass.com/event/376009/</guid><enclosure url="https://media.connpass.com/thumbs/55/4e/554e68afcff27db9c7296e3ae2c068f1.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 00:03:19 +0900</pubDate></item><item><title>CoderDojo富田林 第53回：子ども向けプログラミングクラブ</title><link>https://coderdojotondabayashi.connpass.com/event/375959/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月22日(土) 15:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月22日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 金剛地区魅力向上拠点『∞KON　ROOM』&lt;/li&gt;&lt;li&gt;🏢 住所: 日本、〒584-0073 大阪府富田林市寺池台１丁目９ ７０(S3号棟)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初めての参加の方は下記をご一読いただくようお願いいたします&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Connpassからお申し込みできない方は下記フォームからお申し込みの方お願いします。&lt;/h1&gt;
-&lt;p&gt;今回は大人のみのご参加も可能といたします。大人のみの参加をご希望の方は下記フォームの保護者の方の連絡先（必須欄）に必要事項をご記入の方お願いいたします。
-&lt;a href="https://forms.gle/ADg2amqUWaLRqhps7" rel="nofollow"&gt;CoderDojo富田林 第53回参加申し込み&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;参加ご希望人数が多数の場合は抽選とさせていただきます。&lt;/li&gt;
-&lt;li&gt;お一人で複数回の申込みはお避けください（一人１件とさせていただきます）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1&gt;CoderDojo富田林でできること&lt;/h1&gt;
-&lt;p&gt;プログラミングで物を作ったり、興味を持ち始めた子ども達（ニンジャ）のものつくりを、普段プログラミングやコーティングの仕事をする大人（メンター）がサポートするプログラミングクラブです。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;プログラミングで何が作れるかきいてみたい。&lt;/li&gt;
-&lt;li&gt;コンピューターゲームやモバイルアプリ作りに挑戦してみたい。&lt;/li&gt;
-&lt;li&gt;家でゲームを作って見たけど発表する場や一緒にゲームを作る友達が欲しい&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;そんな７〜１７歳までの男子女子達の参加を待っています！&lt;/p&gt;
-&lt;h1&gt;サポートしてもらえる内容&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Scratch&lt;/li&gt;
-&lt;li&gt;JavaScript&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;初めての子どもにはScratchでゲームのチュートリアル（作り方）を通じてプログラミングでできることを体験していただきます。
-※ プログラミング初めての方は申し込みの際「プログラミング初めて」を選択して下さい。&lt;/p&gt;
-&lt;h1&gt;Scratchって何？&lt;/h1&gt;
-&lt;p&gt;Scratchは、アメリカのMITメディアラボが開発したプログラミング学習環境です。命令ブロックを組み合わせてゲームやアニメを作りながらプログラミングの基礎を学習できます&lt;/p&gt;
-&lt;h1&gt;当日の流れ&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;15:00~受付開始&lt;/li&gt;
-&lt;li&gt;15:30〜10:15CoderDojoについての説明&lt;/li&gt;
-&lt;li&gt;15:40〜みんなでプログラミングを楽しもう&lt;/li&gt;
-&lt;li&gt;17:00〜作ったプログラムを発表してみよう&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1&gt;注意事項&lt;/h1&gt;
-&lt;h2&gt;会場に関するお願い&lt;/h2&gt;
-&lt;p&gt;今回の会場は他のお客様も来られるコワーキングスペースの一部をお借りしての開催となります。他の利用者の方も同じ会場を利用されることをご了承いただいた上でご参加頂ますようお願いいたします。&lt;/p&gt;
-&lt;h2&gt;原則的に対象年齢は7〜１７歳までのお子さんとしております&lt;/h2&gt;
-&lt;p&gt;今回は大人のみの参加も可能ですが趣旨をご理解意いただきますようお願いいたします。&lt;/p&gt;
-&lt;h2&gt;ノートパソコンをご持参ください（Windows,Mac）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;基本的にはノートパソコンは各自持参してください。マウス、ノートパソコンの電源アダプタも忘れずにご持参ください。&lt;/li&gt;
-&lt;li&gt;持参できるノートPCを持っていないという方に限り、貸し出し用PCのレンタルをお申し込みいただけます。（無償です。台数に限りがあり、希望者多数の場合は抽選になります。申込みの際該当欄にご希望の旨記載お願いいたします。）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;写真撮影への同意をお願いいたします&lt;/h2&gt;
-&lt;p&gt;資料のため写真撮影を行い、一部をWebサイトの方に掲載させていただく場合がございますので同意の方お願いいたします。&lt;/p&gt;
-&lt;h2&gt;個人情報の利用目的&lt;/h2&gt;
-&lt;p&gt;今回ご提供いただいた個人情報は、このイベントのご連絡やご案内やご質問に対する回答として、電子メールや資料のご送付に利用いたします。&lt;/p&gt;
-&lt;h2&gt;駐車場について&lt;/h2&gt;
-&lt;p&gt;会場には参加者様用の駐車場はありません。お車ご利用の際は近隣の下記駐車場をご利用ください&lt;/p&gt;
-&lt;p&gt;タイムズUR金剛
-&lt;a href="https://maps.app.goo.gl/wNusMm2cEnFHpp1d9" rel="nofollow"&gt;https://maps.app.goo.gl/wNusMm2cEnFHpp1d9&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;パラカ 金剛ショッピングモール第2駐車場
-&lt;a href="https://goo.gl/maps/MqyxtUUQ7wwiww1K8" rel="nofollow"&gt;https://goo.gl/maps/MqyxtUUQ7wwiww1K8&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojotondabayashi.connpass.com/event/375959/</guid><enclosure url="https://media.connpass.com/thumbs/66/1e/661e38a15609797df021a053becd3a7d.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 15:16:31 +0900</pubDate></item><item><title>VRってむずかしそう？いや、Reactで動かせます！- Reactで学ぶWebVR入門 in 梅田</title><link>https://connpass.com/event/375883/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月27日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月27日(木) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 三栄ビル&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区豊崎3-20-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #React,VR,Web,初心者歓迎&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベントの概要&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://product-dev-meetup-kansai.connpass.com/event/376009/</guid><enclosure url="https://media.connpass.com/thumbs/55/4e/554e68afcff27db9c7296e3ae2c068f1.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 00:03:19 +0900</pubDate></item><item><title>VRってむずかしそう？いや、Reactで動かせます！- Reactで学ぶWebVR入門 in 梅田</title><link>https://connpass.com/event/375883/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月27日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月27日(木) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 三栄ビル&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区豊崎3-20-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #React,VR,Web,初心者歓迎&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベントの概要&lt;/h1&gt;
 &lt;p&gt;「VRってなんだか難しそう…」 &lt;br&gt;
 「ゴーグルとか特別な環境がないとできないんでしょ？」 &lt;br&gt;
 「3Dレンダリングってなんだんだ！？」   &lt;/p&gt;
@@ -3992,7 +3915,7 @@ JAWS UG DE&amp;amp;Iでは、&lt;strong&gt;「DE&amp;amp;I（ダイバーシテ�
 全てのイベントは有志のボランティアにより非営利目的にて運営され、いつでもあなたの手助けを必要としています。お気付きの点があればぜひご協力をお願いいたします。
 私たちはコミュニティへの貢献を通じて社会からの信頼を得ることがより良いビジネスに繋がり、より自分らしい働き方を見つける手段になると信じています。
 JAWS-UGはNo sell, No Jobです。イベントの趣旨と関係のない宣伝行為・採用活動・ネットワーキングのみを目的としたご参加はご遠慮ください。
-&lt;a href="https://jaws-ug.jp/for-participant/" rel="nofollow"&gt;https://jaws-ug.jp/for-participant/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsugdei.connpass.com/event/374314/</guid><enclosure url="https://media.connpass.com/thumbs/91/d5/91d5891f7b8b7ff07472ef9a4a5906cd.png" length="0" type="image/png"/><pubDate>Mon, 17 Nov 2025 21:20:38 +0900</pubDate></item><item><title>関西モバイルアプリ研究会A #9</title><link>https://kanmoba.connpass.com/event/374262/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月2日(火) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月2日(火) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社スマレジ　大阪分室&lt;/li&gt;&lt;li&gt;🏢 住所: 〒541-0056 大阪府大阪市中央区久太郎町4-1-3 大阪センタービル 5F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #関モバ&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;a href="https://jaws-ug.jp/for-participant/" rel="nofollow"&gt;https://jaws-ug.jp/for-participant/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsugdei.connpass.com/event/374314/</guid><enclosure url="https://media.connpass.com/thumbs/91/d5/91d5891f7b8b7ff07472ef9a4a5906cd.png" length="0" type="image/png"/><pubDate>Sun, 23 Nov 2025 17:56:33 +0900</pubDate></item><item><title>関西モバイルアプリ研究会A #9</title><link>https://kanmoba.connpass.com/event/374262/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月2日(火) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月2日(火) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社スマレジ　大阪分室&lt;/li&gt;&lt;li&gt;🏢 住所: 〒541-0056 大阪府大阪市中央区久太郎町4-1-3 大阪センタービル 5F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #関モバ&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;「関西モバイルアプリ研究会A」は関西を中心としたiOS/Androidアプリ開発者向けのオフライン勉強会です。&lt;br&gt;
 &lt;strong&gt;オンラインでの配信予定はございません。&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;開催概要&lt;/h2&gt;
@@ -4064,7 +3987,7 @@ JAWS-UGはNo sell, No Jobです。イベントの趣旨と関係のない宣伝�
 &lt;tr&gt;
 &lt;td&gt;20:10&lt;/td&gt;
 &lt;td&gt;Android枠：LT4 (5分)&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://connpass.com/user/takuji31/" rel="nofollow"&gt;takuji31&lt;/a&gt;さん&lt;/td&gt;
+&lt;td&gt;未定&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;20:20&lt;/td&gt;
@@ -4091,7 +4014,7 @@ JAWS-UGはNo sell, No Jobです。イベントの趣旨と関係のない宣伝�
 &lt;li&gt;発熱、あるいは咳・咽頭痛等の症状がある場合&lt;/li&gt;
 &lt;li&gt;新型コロナウイルスへの感染の疑いがある場合&lt;/li&gt;
 &lt;li&gt;その他、感染症や体調不良が懸念される場合&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kanmoba.connpass.com/event/374262/</guid><enclosure url="https://media.connpass.com/thumbs/b8/c5/b8c59c14f24f5eb081ea31b7475e10e0.png" length="0" type="image/png"/><pubDate>Thu, 20 Nov 2025 11:51:16 +0900</pubDate></item><item><title>Ruby協会10周年記念「Hack for Celebration」</title><link>https://connpass.com/event/374157/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月5日(金) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月5日(金) 17:45&lt;/li&gt;&lt;li&gt;📍 会場: アーバンネット御堂筋ホール&lt;/li&gt;&lt;li&gt;🏢 住所: 〒541-0047 大阪府大阪市中央区淡路町４丁目２−１３ アーバンネット御堂筋ビル 3F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜Rubyで祝う、Ruby協の10年〜&lt;/p&gt;&lt;div&gt;&lt;h2&gt;企画概要&lt;/h2&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kanmoba.connpass.com/event/374262/</guid><enclosure url="https://media.connpass.com/thumbs/b8/c5/b8c59c14f24f5eb081ea31b7475e10e0.png" length="0" type="image/png"/><pubDate>Sun, 23 Nov 2025 20:54:54 +0900</pubDate></item><item><title>Ruby協会10周年記念「Hack for Celebration」</title><link>https://connpass.com/event/374157/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月5日(金) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月5日(金) 17:45&lt;/li&gt;&lt;li&gt;📍 会場: アーバンネット御堂筋ホール&lt;/li&gt;&lt;li&gt;🏢 住所: 〒541-0047 大阪府大阪市中央区淡路町４丁目２−１３ アーバンネット御堂筋ビル 3F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜Rubyで祝う、Ruby協の10年〜&lt;/p&gt;&lt;div&gt;&lt;h2&gt;企画概要&lt;/h2&gt;
 &lt;p&gt;「Rubyビジネス協議会設立10周年記念イベント＆パーティ」の企画として、「Ruby言語を使用した開発」イベントを行います。
 参加者には Ruby言語で「Ruby協10周年のお祝い」をテーマにプログラミングしていただきます。自由な発想でプログラミングしてみてください。&lt;/p&gt;
 &lt;p&gt;その後、最大3名の方に作成したプログラミングについて発表していただきます。発表の場には、Rubyの生みの親であるMatzやmruby開発者の田中先生、JAVAの木寺氏がいらっしゃいます。何か感想を頂けるかもしれません。&lt;/p&gt;
@@ -5218,7 +5141,92 @@ PHPカンファレンス関西2025の実行委員長を務めました。
 &lt;h1&gt;お問い合わせ&lt;/h1&gt;
 &lt;p&gt;ご質問やご不明な点がございましたら、本ページのコメント欄からお気軽にお問い合わせください。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;一緒にAIの最先端を学び、ネットワークを広げましょう！&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://azureai.connpass.com/event/373452/</guid><enclosure url="https://media.connpass.com/thumbs/65/70/65704e3f90a1b0fe706439cccf2e90d7.png" length="0" type="image/png"/><pubDate>Thu, 20 Nov 2025 23:30:06 +0900</pubDate></item><item><title>データ利活用やってみよう！ハッカソン2025 成果発表会 #DevFest #BuildWithAI</title><link>https://enjoy-pda.connpass.com/event/373196/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: QUINTBRIDGE 1階 メインステージ&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市都島区東野田町4丁目15番82号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #enjoy_pda&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ノーコードツールを使ってチーム開発した2ヶ月間の成果発表会。YouTubeでも配信します！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【ご案内】当日は以下のアクセスマップを参考にお越しください。&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;一緒にAIの最先端を学び、ネットワークを広げましょう！&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://azureai.connpass.com/event/373452/</guid><enclosure url="https://media.connpass.com/thumbs/65/70/65704e3f90a1b0fe706439cccf2e90d7.png" length="0" type="image/png"/><pubDate>Thu, 20 Nov 2025 23:30:06 +0900</pubDate></item><item><title>【リアルイベント】みんなで一問一答！ITエンジニア悩み解消ナイト</title><link>https://connpass.com/event/373403/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月23日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月23日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ハコカル天満橋&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市中央区釣鐘町1丁目1−1ＡＫレジデンス６０３&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;IT業界30年以上のキャリアを持つベテランエンジニアが、あなたの技術・現場の悩みにその場で即回答！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;今回のテーマは 「エンジニア一問一答」 の特別イベントです！&lt;br&gt;
+IT業界歴30年のベテラン現役エンジニアが、あなたの疑問や悩みに“全力でその場で”答えます。
+技術選定・キャリア・職場・現場の立ち回り・フリーランス・学習ロードマップなど、
+普段なかなか聞く機会がない「本音のアドバイス」を直接聞ける貴重な会です。
+お酒を片手に、1人では解決しにくいモヤモヤを、このイベントを通して一緒に晴らしましょう！
+場所はBARになるので、お酒を飲みながらざっくばらんにお話ししましょう☺️&lt;/p&gt;
+&lt;h2&gt;イベント情報： ℹ️&lt;/h2&gt;
+
+&lt;h3&gt;何をするイベント：🤔&lt;/h3&gt;
+
+&lt;p&gt;メインは、参加者の質問にベテランエンジニアが 一問一答で答えていく相談イベントです。
+・「今のスキルでこの先、どの領域が伸びるのか」
+・「現場で評価されるエンジニアってどんな人？」
+・「フリーランスって実際どうですか？」
+・「次に何の言語を伸ばすべき？」
+・「キャリア迷子ですが方向性の決め方は？」
+・「単価を上げるにはどうしたらいい？」
+・「レガシー案件にいるときの考え方」
+など、どんな内容でもOK！&lt;/p&gt;
+&lt;p&gt;その場で回答する“ライブ感”を大切にしながら、
+あなたの今の悩みが解消され、次の一歩が見える時間をお届けします。&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;こんな方に来て欲しい：☺️&lt;/h3&gt;
+&lt;p&gt;・実績あるエンジニアの本音を聞いてみたい
+・現場で伸び悩んでいる感覚がある
+・自分の強み／弱みを整理したい
+・自分のキャリア方向性に迷っている
+・技術選定の考え方を知りたい
+・フリーランスや転職を意識し始めている
+・横のつながりを増やしたいエンジニア&lt;/p&gt;
+&lt;h2&gt;当日のスケジュール:&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="center"&gt;時間&lt;/th&gt;
+&lt;th align="center"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;18:45 ~ 19:00&lt;/td&gt;
+&lt;td align="center"&gt;受付開始 / 事前ヒアリングシート記入（悩み・質問を書いてもらう）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;19:00 ~ 19:10&lt;/td&gt;
+&lt;td align="center"&gt;オープニング / イベントの進め方説明&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;19:10 ~ 20:10&lt;/td&gt;
+&lt;td align="center"&gt;一問一答セッション&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;20:10 ~ 21:00&lt;/td&gt;
+&lt;td align="center"&gt;交流タイム（フリートーク・質疑など）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;参加費&lt;/h3&gt;
+&lt;p&gt;参加費: 1000円&lt;/p&gt;
+&lt;h3&gt;登壇者 🤵‍♂️ &lt;/h3&gt;
+&lt;p&gt;名前：神谷栄多（ZOOL株式会社）&lt;/p&gt;
+&lt;p&gt;株式会社サイタンスでCTOを務め、 AI甲子園のコーチとして、初めての参加で優勝を果たす。
+本業の傍ら、 10年間にわたり子供たちへの教育活動を続けている。 また、専門学校での講師経験も7年あり、教育者としてのみならず、 フルスタックエンジニアとしての現場実務もこなす。 
+教育のモットーは、 「やってみせ、言って聞かせて、させてみて、褒めて伸ばす」 であり、人材育成に注力している。 
+2022年末にリリースされたChatGPTの影響を受け、 AIエンジニアの育成に力を入れるようになる。
+国内大手企業の生成AI導入プロジェクトに参画し、AIソリューションで日本の技術革新をリードする上場企業で、
+最前線のAI開発に携わっていた 。
+自らもLLMボットの開発や、RAGの設計・実装に取り組んでいる。 さらに、ERPやSler、自社サービスの立ち上げなど、 多岐にわたる業務経験がある。&lt;/p&gt;
+&lt;h3&gt;主催者 🤵‍♂️ &lt;/h3&gt;
+&lt;p&gt;名前：INOKO&lt;/p&gt;
+&lt;p&gt;関西のエンジニアコミュニティを盛り上げたい！という想いから
+キャリア支援やAI・クラウド系の交流イベントを多数開催。
+現場エンジニアと企業をつなぐ「リアルな成長の場」を提供しています。&lt;/p&gt;
+&lt;h3&gt;- コメント&lt;/h3&gt;
+&lt;p&gt;この時間を通じて、
+「AIを使いこなすエンジニアになるためのヒント」と
+「キャリアの新しい方向性」を見つけてもらえたら嬉しいです。
+お仕事帰りに、ぜひお気軽にお立ち寄りください！途中参加も大歓迎です。&lt;/p&gt;
+&lt;h3&gt;- 禁止事項&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;マウンティング行為&lt;/li&gt;
+&lt;li&gt;ネットワークビジネス・営業・勧誘目的での参加&lt;/li&gt;
+&lt;li&gt;口説きなど、他の参加者が不快に感じる行為&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;※ 上記行為が見られた場合はご退場いただきます。
+※ リクルーティング目的でのご参加はお控えください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/373403/</guid><enclosure url="https://media.connpass.com/thumbs/fb/cb/fbcbb8eff95666e4ddf684505054d08e.png" length="0" type="image/png"/><pubDate>Sun, 23 Nov 2025 13:30:18 +0900</pubDate></item><item><title>データ利活用やってみよう！ハッカソン2025 成果発表会 #DevFest #BuildWithAI</title><link>https://enjoy-pda.connpass.com/event/373196/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: QUINTBRIDGE 1階 メインステージ&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市都島区東野田町4丁目15番82号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #enjoy_pda&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ノーコードツールを使ってチーム開発した2ヶ月間の成果発表会。YouTubeでも配信します！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【ご案内】当日は以下のアクセスマップを参考にお越しください。&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/file/d/1dfs_QlQ1vYGqHQ3JwXQB4eEW3a-d3Rln/view" rel="nofollow"&gt;https://drive.google.com/file/d/1dfs_QlQ1vYGqHQ3JwXQB4eEW3a-d3Rln/view&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;このイベントは、大阪公立大学が主催するハッカソンイベントです。&lt;br&gt;
@@ -6199,8 +6207,8 @@ A. はい、お一人での参加者も多くいらっしゃいます。当日�
 &lt;hr&gt;
 &lt;h1&gt;【懇親会について】&lt;/h1&gt;
 &lt;p&gt;当日勉強会終了後18時00分より、会場近くのお店にて懇親会を開催いたします。&lt;br&gt;
-店名: &lt;a href="https://www.google.co.jp/" rel="nofollow"&gt;未定&lt;/a&gt;&lt;br&gt;
-金額: 5,000円 (予定) &lt;/p&gt;
+店名: &lt;a href="https://maps.app.goo.gl/cbovraVVMj17p4R16" rel="nofollow"&gt;鶏っく 大阪駅前うめきた店(excel梅田ビル 4F)&lt;/a&gt;&lt;br&gt;
+金額: 5,000円&lt;/p&gt;
 &lt;p&gt;※注意事項※&lt;br&gt;
 &lt;strong&gt;当日の懇親会のドタキャンはやむを得ない事情を除き、極力お控えくださいますようお願い申し上げます。&lt;/strong&gt;&lt;br&gt;
 懇親会ご参加の方は、来場時に出欠確認と集金を実施させていただきます。&lt;br&gt;
@@ -6308,7 +6316,7 @@ DB に興味がある方や利用されている方が対象です。&lt;/p&gt;
 飲食は可&lt;br&gt;
 Wifiはございません。&lt;br&gt;
 会場の様子を撮影し、SNSやブログなどの媒体で公開する場合がございます。&lt;br&gt;
-撮影がNGな方は、スタッフにお声掛けください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kansaidbstudy.connpass.com/event/371649/</guid><enclosure url="https://media.connpass.com/thumbs/e2/05/e2051077bc8ccb4ef691f2d454458872.png" length="0" type="image/png"/><pubDate>Mon, 13 Oct 2025 09:01:31 +0900</pubDate></item><item><title>λ Kansai in Winter 2026</title><link>https://lambda-kansai.connpass.com/event/370812/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: gusuku Ashibinaa OSAKA&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区大深町3-1 (グランフロント大阪 タワーC 16階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #λ_Kansai&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;λ ごあいさつ λ&lt;/h1&gt;
+撮影がNGな方は、スタッフにお声掛けください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kansaidbstudy.connpass.com/event/371649/</guid><enclosure url="https://media.connpass.com/thumbs/e2/05/e2051077bc8ccb4ef691f2d454458872.png" length="0" type="image/png"/><pubDate>Sun, 23 Nov 2025 00:48:48 +0900</pubDate></item><item><title>λ Kansai in Winter 2026</title><link>https://lambda-kansai.connpass.com/event/370812/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: gusuku Ashibinaa OSAKA&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区大深町3-1 (グランフロント大阪 タワーC 16階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #λ_Kansai&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;λ ごあいさつ λ&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;λ Kansai&lt;/strong&gt; は、2024年9月に生まれた、「関数型プログラミング愛好者のための交流の場」となることを目指して関西を拠点に活動している団体です。&lt;/p&gt;
 &lt;p&gt;λ Kansaiはでは、メインの活動として定期オフラインイベントを実施していきます。&lt;/p&gt;
 &lt;p&gt;5回目となるイベント&lt;/p&gt;
@@ -6586,61 +6594,7 @@ Twitter:&lt;a href="https://twitter.com/HARU_Freelance_" rel="nofollow"&gt;https
 &lt;li&gt;その他運営サイドで参加が不適切だと判断した方&lt;/li&gt;
 &lt;/ul&gt;
 誠に恐れ入りますが、あらかじめご了承くださいませ。
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://3rdplace.connpass.com/event/370731/</guid><enclosure url="https://media.connpass.com/thumbs/d3/25/d325f407049025de8f78377036f5e887.png" length="0" type="image/png"/><pubDate>Fri, 07 Nov 2025 14:15:05 +0900</pubDate></item><item><title>総関西サイバーセキュリティＬＴ大会（第52回）</title><link>https://sec-kansai.connpass.com/event/370268/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月23日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月23日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: KINTOテクノロジーズ株式会社 Osaka Tech Lab&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区梅田3丁目1番3号 ノースゲートビルディング 20階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sosailt,seckansai&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～総サイLT大会～&lt;/p&gt;&lt;div&gt;&lt;h1&gt;SOSAILTハンズオン４回目！&lt;/h1&gt;
-&lt;p&gt;『実践サイバーセキュリティ入門講座』著者と学ぶ！&lt;/p&gt;
-&lt;h2&gt;概要&lt;/h2&gt;
-&lt;p&gt;本年度最後のSOSAILT企画として、林 憲明さま（『実践サイバーセキュリティ入門講座』著者）を東京よりお招きし、書籍を題材としたハンズオンを開催します。&lt;br&gt;
-実際に手を動かしながら、サイバーセキュリティの基礎から実践的なスキルまでを学ぶことができます。  &lt;/p&gt;
-&lt;p&gt;普段のLT大会とはひと味違う、濃密な学習の場をぜひお楽しみください。  &lt;/p&gt;
-&lt;p&gt;※本イベントは、書籍をご購入いただいた方を対象としています。&lt;br&gt;
-まだお持ちでない方は、事前にご準備をお願いいたします。&lt;br&gt;
-👉 &lt;a href="https://amzn.to/4mOGuEh" rel="nofollow"&gt;書籍購入はこちらから&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;普段のLT大会とはひと味違う、濃密な学習の場をぜひお楽しみください。  &lt;/p&gt;
-&lt;h2&gt;内容（予定）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;書籍『実践サイバーセキュリティ入門講座』に沿った演習  &lt;/li&gt;
-&lt;li&gt;ハンズオン形式による基礎的なセキュリティ技術の体験  &lt;/li&gt;
-&lt;li&gt;林さまによる解説と質疑応答  &lt;/li&gt;
-&lt;li&gt;参加者同士の意見交換  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;参加対象&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;書籍『実践サイバーセキュリティ入門講座』をご購入済みの方  &lt;/li&gt;
-&lt;li&gt;サイバーセキュリティの基礎から実践的な演習を体験したい方  &lt;/li&gt;
-&lt;li&gt;SOC／CSIRT／インフラ・セキュリティに関心のある方  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;参加条件・持ち物&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;書籍『実践サイバーセキュリティ入門講座』  &lt;/li&gt;
-&lt;li&gt;Wifi接続可能なPC（演習で使用します）  &lt;/li&gt;
-&lt;li&gt;ChromeなどのWebブラウザ  &lt;/li&gt;
-&lt;li&gt;電源タップ（あると安心です。会場の電源口数には限りがあります）  &lt;/li&gt;
-&lt;li&gt;インターネット回線（モバイルルータ等。会場WiFiは混雑の可能性あり）  &lt;/li&gt;
-&lt;li&gt;会場まで来られる方（オンライン配信は予定していません）  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;日時・場所&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日時&lt;/strong&gt;: 2025年11月23日（日・祝）午後  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;場所&lt;/strong&gt;: KINTOテクノロジーズ株式会社 Osaka Tech Lab&lt;br&gt;
-  大阪府大阪市北区梅田3丁目1番3号 ノースゲートビルディング 20階  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;[アクセス案内はこちら（KINTO Blog）]&lt;br&gt;
-　&lt;a href="https://blog.kinto-technologies.com/posts/2025-07-09-office-access-osaka/" rel="nofollow"&gt;https://blog.kinto-technologies.com/posts/2025-07-09-office-access-osaka/&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;※執務室の写真撮影はご遠慮ください&lt;br&gt;
-※自動販売機は同フロアに設置済みです  &lt;/p&gt;
-&lt;h2&gt;参加費&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;社会人：3,000円（予定）  &lt;/li&gt;
-&lt;li&gt;学生：無料  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;定員&lt;/h2&gt;
-&lt;p&gt;最大30名  &lt;/p&gt;
-&lt;h2&gt;注意事項&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;書籍を持参されていない方はご参加いただけません  &lt;/li&gt;
-&lt;li&gt;アンケート内容をもとに抽選する場合があります  &lt;/li&gt;
-&lt;li&gt;演習環境は学習目的に限定されます&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sec-kansai.connpass.com/event/370268/</guid><enclosure url="https://media.connpass.com/thumbs/1a/41/1a413456a31be9cd0ecad15120eccb3c.png" length="0" type="image/png"/><pubDate>Sat, 08 Nov 2025 14:25:39 +0900</pubDate></item><item><title>「心理的安全性」体感ワークショップ　BloomingCamp（うめきたJAM BASE３F)</title><link>https://sumacomi.connpass.com/event/370035/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月10日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月10日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: Blooming Camp by さくらインターネット（JAM BASE３F）&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市北区大深町6番38号 グラングリーン大阪 北館3階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;なぜ「心理的安全性」が大事なのか？実感と納得の体験学習ワークショップ&lt;/p&gt;&lt;div&gt;&lt;p&gt;今、どの組織でも「チャレンジ」「イノベーション」「多様性」が求められる時代。&lt;br&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://3rdplace.connpass.com/event/370731/</guid><enclosure url="https://media.connpass.com/thumbs/d3/25/d325f407049025de8f78377036f5e887.png" length="0" type="image/png"/><pubDate>Fri, 07 Nov 2025 14:15:05 +0900</pubDate></item><item><title>「心理的安全性」体感ワークショップ　BloomingCamp（うめきたJAM BASE３F)</title><link>https://sumacomi.connpass.com/event/370035/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月10日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月10日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: Blooming Camp by さくらインターネット（JAM BASE３F）&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市北区大深町6番38号 グラングリーン大阪 北館3階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;なぜ「心理的安全性」が大事なのか？実感と納得の体験学習ワークショップ&lt;/p&gt;&lt;div&gt;&lt;p&gt;今、どの組織でも「チャレンジ」「イノベーション」「多様性」が求められる時代。&lt;br&gt;
 しかし、その土台となる「心理的安全性」が欠けていては、何も始まりません。&lt;br&gt;
 ここ数年、企業、医療機関などから心理的安全性についての相談が増え、3000名以上の方にワークショップや研修を提供してきました。&lt;br&gt;
 現場では、&lt;br&gt;
@@ -6672,40 +6626,7 @@ Twitter:&lt;a href="https://twitter.com/HARU_Freelance_" rel="nofollow"&gt;https
 スマイルコミュニケーションオフィス　主宰&lt;br&gt;
 LLCチーム経営　パートナー&lt;br&gt;
 近畿大学総合社会学部非常勤講師（ファシリテーション担当）&lt;br&gt;
-企業、行政などで、ワークショップ型の研修をしたり、組織開発コンサルタントとして組織の中に支援者として入り組織の風土を改革している。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sumacomi.connpass.com/event/370035/</guid><enclosure url="https://media.connpass.com/thumbs/90/48/9048efe8e1496d7c891b074005061216.png" length="0" type="image/png"/><pubDate>Sat, 20 Sep 2025 21:44:21 +0900</pubDate></item><item><title>Microsoft MVPを語るバー</title><link>https://msmvpbar.connpass.com/event/369988/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月23日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月23日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: エデン難波&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市中央区西心斎橋2丁目4-8 大㐂ビル5階ヒダリ&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;日時&lt;/h1&gt;
-&lt;p&gt;2025/11/23(日)　13:00 ～ 17:00&lt;/p&gt;
-&lt;h1&gt;場所&lt;/h1&gt;
-&lt;p&gt;イベントバーエデン難波　&lt;/p&gt;
-&lt;p&gt;地下鉄御堂筋線「なんば駅」徒歩2分
-　&lt;/p&gt;
-&lt;p&gt;大阪府大阪市中央区西心斎橋2丁目4-8 大㐂ビル5階ヒダリ&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maps.app.goo.gl/rAsnA2mBNWwLo1Hx6" rel="nofollow"&gt;https://maps.app.goo.gl/rAsnA2mBNWwLo1Hx6&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;内容&lt;/h1&gt;
-&lt;p&gt;現役のMicrosoft MVPとコミュニティー活動に魅せられてこれからMicrosoft MVPを目指したい人でその魅力について語ります。何もわからない方大歓迎！&lt;/p&gt;
-&lt;h2&gt;イベンターについて&lt;/h2&gt;
-&lt;h3&gt;くさば&lt;/h3&gt;
-&lt;p&gt;FutureOne株式会社　Microsoft MVP for Developer Technologies&lt;/p&gt;
-&lt;p&gt;主に、&lt;a href="https://dotnetlab.connpass.com/" rel="nofollow"&gt;.NETラボ勉強会&lt;/a&gt;の主催及び登壇活動をしています。&lt;/p&gt;
-&lt;p&gt;ASP. NET CoreとりわけBlazor技術に関心が高くこれを中心にC#、.NET、Entity Framework Coreというあたりの内容を解説してきました。せっかく、Blazorを使うのだからHTMLやCSSを書きたくないということでFluent UI Blazorについての普及をすすめています。
-また、最近はSemantic Kernelについての活動も増加してきました。&lt;/p&gt;
-&lt;h3&gt;tkym&lt;/h3&gt;
-&lt;p&gt;FutureOne株式会社&lt;/p&gt;
-&lt;p&gt;.NET，Azure系のコミュニティに参加したり，ちょっと登壇してみたりしています。&lt;/p&gt;
-&lt;p&gt;現在はBlazorで業務アプリを開発しています。少しMauiも触ったりしています。
-C#，.NETに詳しくなりたいです．よろしくお願いいたします。&lt;/p&gt;
-&lt;h1&gt;チャージ&lt;/h1&gt;
-&lt;p&gt;500円&lt;/p&gt;
-&lt;h1&gt;当日限定メニュー&lt;/h1&gt;
-&lt;p&gt;チョコレート：500円&lt;/p&gt;
-&lt;h1&gt;そのほか&lt;/h1&gt;
-&lt;p&gt;connpassで募集という形をとっていますが、connpassの申し込みは必須ではありません。&lt;/p&gt;
-&lt;p&gt;ただ、事前にどれくらいの方が来ていただけるのかな？ということを把握したいのでぜひ当日イベントに参加して当日発表される新しい技術について一緒に盛り上がっていきたいよという方がいましたら参加登録していただけると嬉しいです。&lt;/p&gt;
-&lt;h2&gt;エデン難波について&lt;/h2&gt;
-&lt;p&gt;毎日、様々なイベンターが様々なテーマでイベントをやるバーです。&lt;/p&gt;
-&lt;p&gt;場所代無料。売り上げによって報酬が発生します。&lt;/p&gt;
-&lt;p&gt;イベントをやりたい方はWebサイトやXを参照して問い合わせてください。&lt;/p&gt;
-&lt;p&gt;URL：&lt;a href="https://eventbareden.com/bar-list/namba/" rel="nofollow"&gt;https://eventbareden.com/bar-list/namba/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;X：&lt;a href="https://x.com/eden_namba" rel="nofollow"&gt;https://x.com/eden_namba&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://msmvpbar.connpass.com/event/369988/</guid><enclosure url="https://media.connpass.com/thumbs/46/55/4655b95e59c6b7560ac54c5b12fcb187.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 09:14:03 +0900</pubDate></item><item><title>第2回大阪ｽﾀｯｸﾁｬﾝもくもく会</title><link>https://osaka.connpass.com/event/369917/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月7日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月7日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 枚方市駅前レンタルスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府枚方市岡東町１９−１４&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ｽﾀｯｸﾁｬﾝ大阪もくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ｽﾀｯｸﾁｬﾝと触れ合いましょう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;大阪ｽﾀｯｸﾁｬﾝもくもく会開催のお知らせ&lt;/h1&gt;
+企業、行政などで、ワークショップ型の研修をしたり、組織開発コンサルタントとして組織の中に支援者として入り組織の風土を改革している。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sumacomi.connpass.com/event/370035/</guid><enclosure url="https://media.connpass.com/thumbs/90/48/9048efe8e1496d7c891b074005061216.png" length="0" type="image/png"/><pubDate>Sat, 20 Sep 2025 21:44:21 +0900</pubDate></item><item><title>第2回大阪ｽﾀｯｸﾁｬﾝもくもく会</title><link>https://osaka.connpass.com/event/369917/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月7日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月7日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 枚方市駅前レンタルスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府枚方市岡東町１９−１４&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ｽﾀｯｸﾁｬﾝ大阪もくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ｽﾀｯｸﾁｬﾝと触れ合いましょう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;大阪ｽﾀｯｸﾁｬﾝもくもく会開催のお知らせ&lt;/h1&gt;
 &lt;p&gt;大阪でｽﾀｯｸﾁｬﾝに関してもくもくと作業をする会です。タカオさんによるｽﾀｯｸﾁｬﾝのハンズオンも開催します！&lt;/p&gt;
 &lt;p&gt;ｽﾀｯｸﾁｬﾝに興味があるというだけでも参加OKです。必要であればｽﾀｯｸﾁｬﾝ作成のサポートもできるかなと思います。ｽﾀｯｸﾁｬﾝを作ってみたいけど何から手をつけて良いか分からない場合はハンズオンをご検討ください！&lt;/p&gt;
 &lt;p&gt;名目上はｽﾀｯｸﾁｬﾝのもくもく会ですが、M5Stackに関する作業などもOKです。&lt;br&gt;

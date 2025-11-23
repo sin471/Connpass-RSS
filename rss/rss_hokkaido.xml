@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 22 Nov 2025 15:10:58 +0000</lastBuildDate><item><title>オリジナルカードを作ってみよう</title><link>https://connpass.com/event/376826/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 市民交流施設 ぷらっと&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道江別市東野幌本町6-43&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;自分で描く、PCを使って描くなどして作成したカードにNFCタグをつけて認証機能を使えるようにします。&lt;/p&gt;</description><guid isPermaLink="false">https://connpass.com/event/376826/</guid><enclosure url="https://media.connpass.com/thumbs/27/b2/27b20fe9f1340088e675d99e20f30cf5.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 09:36:08 +0900</pubDate></item><item><title>第４５回 CoderDojo江別</title><link>https://coderdojo-ebetsu.connpass.com/event/376825/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 市民交流施設 ぷらっと&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道江別市東野幌本町6-43&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #プログラミング&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;スクラッチやマイクラなどで、大人も一緒に遊んでみよう。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo江別では&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 23 Nov 2025 15:11:06 +0000</lastBuildDate><item><title>オリジナルカードを作ってみよう</title><link>https://connpass.com/event/376826/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 市民交流施設 ぷらっと&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道江別市東野幌本町6-43&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;自分で描く、PCを使って描くなどして作成したカードにNFCタグをつけて認証機能を使えるようにします。&lt;/p&gt;</description><guid isPermaLink="false">https://connpass.com/event/376826/</guid><enclosure url="https://media.connpass.com/thumbs/27/b2/27b20fe9f1340088e675d99e20f30cf5.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 09:36:08 +0900</pubDate></item><item><title>第４５回 CoderDojo江別</title><link>https://coderdojo-ebetsu.connpass.com/event/376825/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 市民交流施設 ぷらっと&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道江別市東野幌本町6-43&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #プログラミング&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;スクラッチやマイクラなどで、大人も一緒に遊んでみよう。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo江別では&lt;/h1&gt;
 &lt;p&gt;楽しく、のんびりと、想像力を膨らませましょう。自分の作品を発表しましょう。
 スクラッチで自分の考えた「何か？」を描いてみましょう。&lt;/p&gt;
 &lt;p&gt;【&lt;strong&gt;リモートDojo&lt;/strong&gt;】&lt;br&gt;
@@ -84,26 +84,26 @@ AWS×AIのハンズオンを予定しています。&lt;/p&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;15:00～15:10&lt;/td&gt;
 &lt;td align="left"&gt;オープニング&lt;/td&gt;
-&lt;td align="left"&gt;小暮 &lt;a href="https://x.com/kogwr" rel="nofollow"&gt;@kogwr&lt;/a&gt; (Python札幌・代表, ネオス株式会社)&lt;/td&gt;
+&lt;td align="left"&gt;小暮 諒 &lt;a href="https://x.com/kogwr" rel="nofollow"&gt;@kogwr&lt;/a&gt; (Python札幌・代表, ネオス株式会社)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;15:10～15:40&lt;/td&gt;
 &lt;td align="left"&gt;Pythonの世界へようこそ！&lt;/td&gt;
-&lt;td align="left"&gt;中村 &lt;a href="https://x.com/nakayoshix" rel="nofollow"&gt;@nakayoshix&lt;/a&gt; (Python札幌・顧問, Compassion)&lt;/td&gt;
+&lt;td align="left"&gt;中村良幸 &lt;a href="https://x.com/nakayoshix" rel="nofollow"&gt;@nakayoshix&lt;/a&gt; (Python札幌・顧問, Compassion)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;15:45～16:15&lt;/td&gt;
 &lt;td align="left"&gt;Pythonで音を奏でよう&lt;/td&gt;
-&lt;td align="left"&gt;田熊 &lt;a href="https://x.com/tagdev1" rel="nofollow"&gt;@tagdev1&lt;/a&gt; (Python札幌・相談役, 北海道科学大学)&lt;/td&gt;
+&lt;td align="left"&gt;田熊 健 &lt;a href="https://x.com/tagdev1" rel="nofollow"&gt;@tagdev1&lt;/a&gt; (Python札幌・相談役, 北海道科学大学)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;16:20～16:50&lt;/td&gt;
 &lt;td align="left"&gt;PythonでAIエージェントを作ろう&lt;/td&gt;
-&lt;td align="left"&gt;小暮 &lt;a href="https://x.com/kogwr" rel="nofollow"&gt;@kogwr&lt;/a&gt; (Python札幌・代表, ネオス株式会社)&lt;/td&gt;
+&lt;td align="left"&gt;小暮 諒 &lt;a href="https://x.com/kogwr" rel="nofollow"&gt;@kogwr&lt;/a&gt; (Python札幌・代表, ネオス株式会社)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;16:50～17:50&lt;/td&gt;
-&lt;td align="left"&gt;LT(最大3名まで)タイム &amp;amp; 参加者交流タイム&lt;/td&gt;
+&lt;td align="left"&gt;LTタイム &amp;amp; 参加者交流タイム&lt;/td&gt;
 &lt;td align="left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -121,7 +121,7 @@ AWS×AIのハンズオンを予定しています。&lt;/p&gt;
 &lt;p&gt;加えて、もし時間があれば、最近流行りのスマートウォッチやスマート体組成計、あるいは簡易脳波計や簡易心拍計等から取得した個人的（パーソナル）ライフデータの可視化およびデータ分析についても、実際にAIコーディングで作ったアプリを使ったライブデモを交えながら紹介出来ればと思います。&lt;/p&gt;
 &lt;h4&gt;「Pythonで音を奏でよう」 - 田熊 健(Ken Taguma) &lt;a href="https://x.com/tagdev1" rel="nofollow"&gt;@tagdev1&lt;/a&gt; (Python札幌・相談役, 北海道科学大学)&lt;/h4&gt;
 &lt;p&gt;Pythonはライブラリが充実していることもあり、ほとんどどのような用途にも使うことができます。今回は、私が今年の前期に「音楽デザイン」という講義で使用したプログラムを元にして、サウンドプログラミングの入り口として、Pythonを使って音を出してみよう、という話をしようと思っています。&lt;/p&gt;
-&lt;h4&gt;「PythonでAIエージェントを作ろう LangChainを用いたエージェント開発」 - 小暮 &lt;a href="https://x.com/kogwr" rel="nofollow"&gt;@kogwr&lt;/a&gt; (Python札幌・代表, ネオス株式会社)&lt;/h4&gt;
+&lt;h4&gt;「PythonでAIエージェントを作ろう LangChainを用いたエージェント開発」 - 小暮 諒(Ryo Kogure) &lt;a href="https://x.com/kogwr" rel="nofollow"&gt;@kogwr&lt;/a&gt; (Python札幌・代表, ネオス株式会社)&lt;/h4&gt;
 &lt;p&gt;近年、LLM（大規模言語モデル）を活用した「AIエージェント」が、チャットボットや業務自動化、社内ツールなどさまざまな分野で注目されています。本セッションでは、その中でもエージェント開発を強力に支援するライブラリである LangChain を取り上げ、実際にどのようにエージェントを作っていくのかを、できるだけシンプルな構成を使いながら解説します。&lt;/p&gt;
 &lt;p&gt;Pythonでの実装例を交えつつ、「まずは小さくエージェントを作って試してみたい」という方を対象に、今日からLangChainでエージェント開発を始められることを目標にしたセッションです。エージェント開発に興味はあるけれど、どこから手をつけてよいかわからない方に、入り口としてちょうどよい内容になっています。&lt;/p&gt;
 &lt;h3&gt;LT発表枠&lt;/h3&gt;
@@ -143,7 +143,7 @@ AWS×AIのハンズオンを予定しています。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;会場協力&lt;/h2&gt;
-&lt;p&gt;今回の会場は、&lt;a href="https://sapporo-engineer-base.dev/" rel="nofollow"&gt;Sapporo Engineer Base&lt;/a&gt;さんのご協力で、&lt;a href="https://13labo.com/" rel="nofollow"&gt;13LABO&lt;/a&gt;さんを提供していただきました。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://python-sapporo.connpass.com/event/376638/</guid><enclosure url="https://media.connpass.com/thumbs/fb/d8/fbd866a86b04524d946db2585fbd0d67.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 07:08:23 +0900</pubDate></item><item><title>仕事の裏ガワAI ゆる共有会</title><link>https://sapporo-ai.connpass.com/event/376431/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月27日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月27日(木) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: ドリノキ&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市中央区南1条西4丁目 日之出ビル9階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #札幌AI&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;当イベントについて&lt;/h2&gt;
+&lt;p&gt;今回の会場は、&lt;a href="https://sapporo-engineer-base.dev/" rel="nofollow"&gt;Sapporo Engineer Base&lt;/a&gt;さんのご協力で、&lt;a href="https://13labo.com/" rel="nofollow"&gt;13LABO&lt;/a&gt;さんを提供していただきました。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://python-sapporo.connpass.com/event/376638/</guid><enclosure url="https://media.connpass.com/thumbs/fb/d8/fbd866a86b04524d946db2585fbd0d67.png" length="0" type="image/png"/><pubDate>Sun, 23 Nov 2025 15:52:06 +0900</pubDate></item><item><title>仕事の裏ガワAI ゆる共有会</title><link>https://sapporo-ai.connpass.com/event/376431/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月27日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月27日(木) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: ドリノキ&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市中央区南1条西4丁目 日之出ビル9階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #札幌AI&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;当イベントについて&lt;/h2&gt;
 &lt;p&gt;ようこそ、「仕事の裏ガワゆる共有会」へ！&lt;/p&gt;
 &lt;p&gt;日々の仕事の中で、
 「これ、みんなどうしてるんだろう…？」&lt;br&gt;
@@ -715,7 +715,7 @@ AWS×AIのハンズオンを予定しています。&lt;/p&gt;
 &lt;img src="https://pbs.twimg.com/profile_images/1750943635707994115/eeH-xN85_400x400.jpg" width="150"&gt;&lt;br&gt;
 経歴：異業種から転職し、現在プログラマー2年目で、札幌の会社にフルリモートで勤めています。研修中の見習いプログラマーです。&lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;odewcのX： &lt;a href="https://x.com/okhotskDEWc" rel="nofollow"&gt;@okhotskDEWc&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okhotsk-it.connpass.com/event/373766/</guid><enclosure url="https://media.connpass.com/thumbs/d9/3f/d93ffe6e7e005551d88778ec2224cea5.png" length="0" type="image/png"/><pubDate>Mon, 17 Nov 2025 08:16:47 +0900</pubDate></item><item><title>#8 札幌開催：はじめてのIT勉強会 in 札幌(2025)【オフライン開催】</title><link>https://lets-go-study-meeting.connpass.com/event/373649/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月27日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月27日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 札幌デザイン&amp;テクノロジー専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市中央区北1条西8丁目2-75&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #hajimete_it&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;はじめての自分用デジタル名刺を作っみる会！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;はじめに&lt;/h1&gt;
+&lt;p&gt;odewcのX： &lt;a href="https://x.com/okhotskDEWc" rel="nofollow"&gt;@okhotskDEWc&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okhotsk-it.connpass.com/event/373766/</guid><enclosure url="https://media.connpass.com/thumbs/d9/3f/d93ffe6e7e005551d88778ec2224cea5.png" length="0" type="image/png"/><pubDate>Sun, 23 Nov 2025 19:04:05 +0900</pubDate></item><item><title>#8 札幌開催：はじめてのIT勉強会 in 札幌(2025)【オフライン開催】</title><link>https://lets-go-study-meeting.connpass.com/event/373649/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月27日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月27日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 札幌デザイン&amp;テクノロジー専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市中央区北1条西8丁目2-75&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #hajimete_it&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;はじめての自分用デジタル名刺を作っみる会！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;はじめに&lt;/h1&gt;
 &lt;p&gt;はじめてのIT勉強会は、 いろいろな不安があって勉強会への参加を躊躇っている方が
 気軽に参加し、「一歩目」を体験しつつ、明日から役立つ知見を獲得するための勉強会です。
 参加回数に関わらずご活用いただける内容を提供します&lt;/p&gt;
@@ -1353,7 +1353,7 @@ SCSK北海道に入社後、SEとして総合農薬メーカーのクラウド�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center"&gt;13:30&lt;/td&gt;
-&lt;td align="center"&gt;(抽選中)Amazon で安定化電源を買ってみた - kuma_hati&lt;/td&gt;
+&lt;td align="center"&gt;Amazon で安定化電源を買ってみた - kuma_hati&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center"&gt;13:45&lt;/td&gt;
@@ -1377,7 +1377,7 @@ SCSK北海道に入社後、SEとして総合農薬メーカーのクラウド�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center"&gt;15:50&lt;/td&gt;
-&lt;td align="center"&gt;(抽選中)激安３Dプリンタを改造してみた - dinosauria123&lt;/td&gt;
+&lt;td align="center"&gt;激安３Dプリンタを改造してみた - dinosauria123&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center"&gt;15:55&lt;/td&gt;
@@ -1398,7 +1398,7 @@ SCSK北海道に入社後、SEとして総合農薬メーカーのクラウド�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2&gt;&lt;strong&gt;【懇親会】&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;開催予定です、当日、人数を確認します。店は第三モッキリセンターを考えています。一人３千円程度。参加予定の方は、小銭を多めにご持参ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hmmspr.connpass.com/event/369961/</guid><enclosure url="https://media.connpass.com/thumbs/da/f7/daf73e70a92d67317d056036b115e49f.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 01:01:17 +0900</pubDate></item><item><title>道南リモートワーカーお茶会 Vol.02</title><link>https://asoviva.connpass.com/event/367654/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月30日(日) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月30日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: MIRAI BASE&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道 函館市 美原2丁目7-21 (万勝ビル1F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #道南リモートワーカー&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;なかなか交流の場がないよね、という声を聴いたのでやります&lt;/p&gt;&lt;div&gt;&lt;h1&gt;道南リモートワーカーお茶会&lt;/h1&gt;
+&lt;p&gt;開催予定です、当日、人数を確認します。店は第三モッキリセンターを考えています。一人３千円程度。参加予定の方は、小銭を多めにご持参ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hmmspr.connpass.com/event/369961/</guid><enclosure url="https://media.connpass.com/thumbs/da/f7/daf73e70a92d67317d056036b115e49f.png" length="0" type="image/png"/><pubDate>Sun, 23 Nov 2025 04:24:03 +0900</pubDate></item><item><title>道南リモートワーカーお茶会 Vol.02</title><link>https://asoviva.connpass.com/event/367654/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月30日(日) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月30日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: MIRAI BASE&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道 函館市 美原2丁目7-21 (万勝ビル1F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #道南リモートワーカー&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;なかなか交流の場がないよね、という声を聴いたのでやります&lt;/p&gt;&lt;div&gt;&lt;h1&gt;道南リモートワーカーお茶会&lt;/h1&gt;
 &lt;p&gt;道南・函館などでリモートワークやサテライトオフィス勤務をしている方たちの交流会です。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;日時&lt;/h2&gt;
