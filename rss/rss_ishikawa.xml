@@ -1,49 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>石川のイベント</title><link>https://connpass.com/explore/</link><description>石川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>石川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 23 Nov 2025 15:11:41 +0000</lastBuildDate><item><title>NICT北陸連携サロン　第15回　2025/11/28(金)</title><link>https://nict-hokuriku-renkei-salon.connpass.com/event/374907/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月28日(金) 18:10&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月28日(金) 19:50&lt;/li&gt;&lt;li&gt;📍 会場: コワーキングスクエア金沢香林坊&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県金沢市香林坊2-1-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;地域の学生や社会人の交流の場（企業や大学の取組み紹介、後半のフリートークにて参加者と意見交換）&lt;/p&gt;&lt;div&gt;&lt;p&gt;NICT 北陸 ICT 連携拠点では、地域貢献と地域連携の活性化に向け、NICT の知見や利用事例の共有と、地域の皆様との意見交換の場として「NICT 北陸連携サロン」を定期的に開催しています。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>石川のイベント</title><link>https://connpass.com/explore/</link><description>石川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>石川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 24 Nov 2025 15:15:05 +0000</lastBuildDate><item><title>NICT北陸連携サロン　第15回　2025/11/28(金)</title><link>https://nict-hokuriku-renkei-salon.connpass.com/event/374907/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月28日(金) 18:10&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月28日(金) 19:50&lt;/li&gt;&lt;li&gt;📍 会場: コワーキングスクエア金沢香林坊&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県金沢市香林坊2-1-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;地域の学生や社会人の交流の場（企業や大学の取組み紹介、後半のフリートークにて参加者と意見交換）&lt;/p&gt;&lt;div&gt;&lt;p&gt;NICT 北陸 ICT 連携拠点では、地域貢献と地域連携の活性化に向け、NICT の知見や利用事例の共有と、地域の皆様との意見交換の場として「NICT 北陸連携サロン」を定期的に開催しています。
 NICT の持つ技術を紹介するだけではなく、地域の学生や社会人の皆様の交流の場となるようそれぞれの最近の活動の紹介をしていただきます。
 もちろん参加者同士のアイデアの交換のためのフリートーク時間も用意しています。
 社会人、学生を問わずどなたでも参加いただけますのでお気軽にお越し下さい。
 なお、本サロンは参加者の自由な意見交換会の場となりますので、会場参加のみとなっています。&lt;/p&gt;
-&lt;p&gt;公式サイト：&lt;a href="https://riac.nict.go.jp/hokuriku/" rel="nofollow"&gt;https://riac.nict.go.jp/hokuriku/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nict-hokuriku-renkei-salon.connpass.com/event/374907/</guid><enclosure url="https://media.connpass.com/thumbs/e7/32/e7327d55683152b05145ceba734909e5.png" length="0" type="image/png"/><pubDate>Wed, 12 Nov 2025 08:42:06 +0900</pubDate></item><item><title>初級者~上級者まで　チームで協力！クイズ大会</title><link>https://typescript-jpc.connpass.com/event/374410/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月23日(日) 17:15&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月23日(日) 17:55&lt;/li&gt;&lt;li&gt;📍 会場: ホテル金沢&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県金沢市堀川新町1番1号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #TSKaigiHokuriku&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;🎊 TSKaigi Hokuriku 2025内の企画として、TypeScriptクイズ大会を開催します！ 🎊 &lt;/p&gt;
-&lt;h2&gt;概要&lt;/h2&gt;
-&lt;p&gt;TypeScriptに関するクイズにチームで挑戦するイベントです。
-クイズを通じて、参加者同士が交流できる場を作りたいという思いから企画しました。&lt;/p&gt;
-&lt;h2&gt;対象者&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://hokuriku.tskaigi.org/" rel="nofollow"&gt;TSKaigi Hokuriku 2025&lt;/a&gt; に参加されている方なら、どなたでもご参加いただけます。&lt;/li&gt;
-&lt;li&gt;初心者の方も大歓迎です！&lt;/li&gt;
-&lt;li&gt;チケットは&lt;a href="https://conference.findy-code.io/conferences/tskaigi_hokuriku/9/registration" rel="nofollow"&gt;こちら&lt;/a&gt;👈&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;補足&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;参加者にはオリジナルシールプレゼント&lt;/li&gt;
-&lt;li&gt;当日参加もOKです。&lt;/li&gt;
-&lt;li&gt;均等なチーム分けのためあらかじめイベントの登録をお願いします！&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;タイムテーブル&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;17:15 - 17:25&lt;/td&gt;
-&lt;td&gt;ルール説明・自己紹介&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;17:25 - 17:50&lt;/td&gt;
-&lt;td&gt;クイズ大会&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;17:50 - 17:55&lt;/td&gt;
-&lt;td&gt;エンディング&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;※タイムテーブルは予定であり，変更の可能性があります．&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://typescript-jpc.connpass.com/event/374410/</guid><enclosure url="https://media.connpass.com/thumbs/35/a0/35a073072b54e94eb6f9b82b63201f78.png" length="0" type="image/png"/><pubDate>Sat, 22 Nov 2025 21:42:01 +0900</pubDate></item><item><title>自動運転バスの見学会</title><link>https://connpass.com/event/368786/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月25日(火) 11:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月25日(火) 13:20&lt;/li&gt;&lt;li&gt;📍 会場: こまつ北電ホール&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県小松市 日の出町1丁目100番 ウレシャス小松2F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;ul&gt;
+&lt;p&gt;公式サイト：&lt;a href="https://riac.nict.go.jp/hokuriku/" rel="nofollow"&gt;https://riac.nict.go.jp/hokuriku/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nict-hokuriku-renkei-salon.connpass.com/event/374907/</guid><enclosure url="https://media.connpass.com/thumbs/e7/32/e7327d55683152b05145ceba734909e5.png" length="0" type="image/png"/><pubDate>Wed, 12 Nov 2025 08:42:06 +0900</pubDate></item><item><title>自動運転バスの見学会</title><link>https://connpass.com/event/368786/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月25日(火) 11:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月25日(火) 13:10&lt;/li&gt;&lt;li&gt;📍 会場: こまつ北電ホール&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県小松市 日の出町1丁目100番 ウレシャス小松2F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;ul&gt;
 &lt;li&gt;主催：JST 戦略的創造研究推進事業 CRESTプロジェクト&lt;br&gt;
 &lt;a href="https://www.jaist.ac.jp/project/crest_fmap/" rel="nofollow"&gt;「次世代車載基盤システムのための形式手法と検証ツールの創出」&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;後援：小松市，BOLDLY株式会社&lt;/li&gt;
@@ -69,7 +30,7 @@ NICT の持つ技術を紹介するだけではなく、地域の学生や社会
 &lt;ul&gt;
 &lt;li&gt;天気，交通状況，機材の状況等によっては，急遽，取りやめる可能性があります．&lt;/li&gt;
 &lt;li&gt;自動運転バスの試乗・見学のみの参加はできません．ご了承ください．&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/368786/</guid><pubDate>Wed, 19 Nov 2025 14:21:34 +0900</pubDate></item><item><title>Kernel/VM探検隊@北陸 Part 8 打ち上げ</title><link>https://kernelvm.connpass.com/event/367763/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月6日(土) 18:10&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月6日(土) 20:40&lt;/li&gt;&lt;li&gt;📍 会場: まれ～MARE～ 貸切会議室&amp;ビュッフェ&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県金沢市此花町10-17ホテルマイステイズ金沢キャッスル1階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;地方開催であなたの胃袋はおしまい！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/368786/</guid><pubDate>Mon, 24 Nov 2025 21:24:18 +0900</pubDate></item><item><title>Kernel/VM探検隊@北陸 Part 8 打ち上げ</title><link>https://kernelvm.connpass.com/event/367763/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月6日(土) 18:10&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月6日(土) 20:40&lt;/li&gt;&lt;li&gt;📍 会場: まれ～MARE～ 貸切会議室&amp;ビュッフェ&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県金沢市此花町10-17ホテルマイステイズ金沢キャッスル1階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;地方開催であなたの胃袋はおしまい！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;金沢のホテルレストランを貸し切って打ち上げします。&lt;/p&gt;
 &lt;p&gt;なんと！今回初の夜の部LTを企画！オフラインでしか話せないネタお待ちしております。&lt;/p&gt;
 &lt;h1&gt;お店（予定）&lt;/h1&gt;
@@ -220,7 +181,7 @@ NICT の持つ技術を紹介するだけではなく、地域の学生や社会
 &lt;/li&gt;
 &lt;li&gt;発表したいネタがあるが当日会場に来る事が難しい方(当日予定がある, 遠方に住んでいる, VTuberである等)は, 発表者枠で参加登録した上で開催前日までに動画をYoutubeなどにアップロードし、非公開URLを預けていただくか、動画ファイルを送っていただければ当日その動画を会場で流す事ができます。&lt;/li&gt;
 &lt;li&gt;当日のリモート会議やライブ配信による遠隔からの発表は、機材トラブルのリスクが高いのでご遠慮ください。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kernelvm.connpass.com/event/367760/</guid><enclosure url="https://media.connpass.com/thumbs/2f/0d/2f0d9b9d2c3faa9d8067fe61e9a73743.png" length="0" type="image/png"/><pubDate>Sun, 23 Nov 2025 16:31:22 +0900</pubDate></item><item><title>JST/CREST-FMAPシンポジウム</title><link>https://connpass.com/event/365564/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月25日(火) 9:50&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月25日(火) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: こまつ北電ホール&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県小松市 日の出町1丁目100番 ウレシャス小松2F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;自動運転社会の安全を支える最先端科学技術：現状と未来&lt;/p&gt;&lt;div&gt;&lt;h2&gt;JST 戦略的創造研究推進事業CRESTプロジェクト「次世代車載基盤システムのための形式手法と検証ツールの創出」シンポジウム&lt;/h2&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kernelvm.connpass.com/event/367760/</guid><enclosure url="https://media.connpass.com/thumbs/2f/0d/2f0d9b9d2c3faa9d8067fe61e9a73743.png" length="0" type="image/png"/><pubDate>Sun, 23 Nov 2025 16:31:22 +0900</pubDate></item><item><title>JST/CREST-FMAPシンポジウム</title><link>https://connpass.com/event/365564/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月25日(火) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月25日(火) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: こまつ北電ホール&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県小松市 日の出町1丁目100番 ウレシャス小松2F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;自動運転社会の安全を支える最先端科学技術：現状と未来&lt;/p&gt;&lt;div&gt;&lt;h2&gt;JST 戦略的創造研究推進事業CRESTプロジェクト「次世代車載基盤システムのための形式手法と検証ツールの創出」シンポジウム&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;ー 自動運転社会の安全を支える最先端科学技術：現状と未来 ー&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;主催：JST 戦略的創造研究推進事業 CRESTプロジェクト&lt;br&gt;
@@ -256,4 +217,4 @@ NICT の持つ技術を紹介するだけではなく、地域の学生や社会
 &lt;li&gt;16:30 - 16:50 &lt;strong&gt;冨田 尭　准教授（JAIST）：自動運転システムのシナリオ＆シミュレーションベースの検証&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;16:50 - 17:10 &lt;strong&gt;石井 大輔　准教授（JAIST）：MATLAB/Simulinkによる自動運転制御のモデル化と検証&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;17:10 - 17:20 &lt;strong&gt;閉会の挨拶&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/365564/</guid><pubDate>Fri, 21 Nov 2025 09:24:13 +0900</pubDate></item></channel></rss>
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/365564/</guid><pubDate>Mon, 24 Nov 2025 21:22:40 +0900</pubDate></item></channel></rss>

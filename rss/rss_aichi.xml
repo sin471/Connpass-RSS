@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 23 Nov 2025 15:11:54 +0000</lastBuildDate><item><title>情技研 LT vol.1</title><link>https://jogiken.connpass.com/event/376901/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月11日(木) 14:45&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月11日(木) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 名城大学 天白キャンパス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市天白区塩釜口 1-501 名城大学&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #情技研LT&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 24 Nov 2025 15:15:18 +0000</lastBuildDate><item><title>情技研 LT vol.1</title><link>https://jogiken.connpass.com/event/376901/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月11日(木) 14:45&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月11日(木) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 名城大学 天白キャンパス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市天白区塩釜口 1-501 名城大学&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #情技研LT&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;情技研初の外部イベントとして、「情技研 LT vol.1 」を開催します！
 話す内容は高度な話でも、ゆるふわな話でも、情報技術に関わらないことでもok！みんなで楽しみましょう！&lt;/p&gt;
 &lt;h1&gt;日程&lt;/h1&gt;
@@ -247,21 +247,15 @@
 &lt;hr&gt;
 &lt;h2&gt;なぜローカルGPUなのか&lt;/h2&gt;
 &lt;p&gt;ハイエンドな商用サーバーでなくても、今はゲーミングPCのGPUで色々な生成モデルを動かせます。&lt;br&gt;
-まだ商業展開されてない研究モデルを、&lt;br&gt;
+まだ商業展開されてない研究モデル（★）を、&lt;br&gt;
 課金を気にせずに「ガチャ感覚」で楽しめるのは、ローカルGPUならではの醍醐味です。  &lt;/p&gt;
-&lt;p&gt;例えば、以下のようなモデルが挙げられます。  &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;画像生成（Stable Diffusion, Flux. 1）、自作LoRA学習（Kohya）、画像修正・合成（Qwen Image Edit）  &lt;/li&gt;
-&lt;li&gt;動画生成（Wan2.2, FramePack）、動画修正（ReCamMaster, Wan2.2-S2V, Infinite Talk）  &lt;/li&gt;
-&lt;li&gt;音楽生成（ACE-Step）、音声変換（RVC）  &lt;/li&gt;
-&lt;li&gt;3Dモデリング生成（Hunyuan3D）  &lt;/li&gt;
-&lt;li&gt;ローカルLLM（DeepSeek R1, Qwen2.5-VL, gpt-ossなど）、ローカルエージェント（Cline + Qwen3 Coder）&lt;/li&gt;
-&lt;li&gt;認識系（生成じゃないけどスゴいので記載、Sa2VA（セグメント理解））&lt;/li&gt;
-&lt;/ul&gt;
 &lt;p&gt;完成度の高い商用サービスには、クオリティの面で及ばないこともありますが、&lt;br&gt;
 上の各種生成系を自由に組み合わせたり改造したり出来ます。&lt;br&gt;
 また、ブラックボックスではないことや、具体的にモデルを動かすことで、&lt;br&gt;
 生成AIの原理（難しい）を理解する良いきっかけにもなります。  &lt;/p&gt;
+&lt;p&gt;（★） 例えば&lt;a href="https://connpass.com/event/373895/" rel="nofollow"&gt;過去回&lt;/a&gt;を参照。&lt;br&gt;
+Stable Diffusion（画像）以外にも、動画、音楽、音声、3D、ローカルLLM、ローカルエージェント、&lt;br&gt;
+など色々取り扱われています。    &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;雰囲気 - もくもく&lt;/h2&gt;
 &lt;p&gt;この会では、&lt;br&gt;
@@ -270,8 +264,6 @@
 &lt;p&gt;ガッツリというより、GPUもってるけど生成AIも出来そうだし何かやってみたいな、&lt;br&gt;
 程度のエンジョイ感で進めたいです。&lt;br&gt;
 （好きなゲームの話とかも、みんなで出来たら楽しいかなと）  &lt;/p&gt;
-&lt;p&gt;また、失敗歓迎です。
-この領域はまだ新しいので失敗を恐れずトライすることを、この会では大事にしています。  &lt;/p&gt;
 &lt;p&gt;&lt;img alt="comfyqr" src="https://functoy.com/images/comfyqr.png"&gt;  &lt;/p&gt;
 &lt;p&gt;例：QRコードのだまし絵をつくる&lt;a href="https://openart.ai/workflows/cgtips/controlnet-qr-code-monster-for-sdxl/LTfUnXXpiCOcq8nIQt82" rel="nofollow"&gt;ワークフロー&lt;/a&gt;(ComfyUI, ControlNet)  &lt;/p&gt;
 &lt;hr&gt;
@@ -321,7 +313,7 @@
 &lt;/ul&gt;
 &lt;p&gt;途中参加、途中退出ともに問題なしです。&lt;br&gt;
 自由な感じでいきましょう。  &lt;/p&gt;
-&lt;p&gt;&lt;img alt="nagoya0" src="https://functoy.com/images/simikatu.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="nagoya0" src="https://functoy.com/images/simikatu_sh.jpg"&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;４. お願いとご注意&lt;/h2&gt;
 &lt;p&gt;以下に該当する言動・目的での参加はお控えください：&lt;/p&gt;
@@ -332,39 +324,9 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2&gt;５. オススメの構成&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;１：リモートデスクトップ&lt;/strong&gt;&lt;br&gt;
-HuggingfaceやCivitAIからモデルをDLする際に、リモートデスクトップはあった方がよいです。&lt;br&gt;
-（ターミナルでもやれますが楽にやるには工夫が必要）&lt;br&gt;
-あと、LM Studio（後述）を動かす際は必須。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;２：Tailscale&lt;/strong&gt;&lt;br&gt;
-WebUIやComfyUI、Ollama、ssh接続を簡単に、安定して、高速に実行できます。  &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;設定簡単（ポート設定とか不要）  &lt;/li&gt;
-&lt;li&gt;時間経過やスリープ、通信切断でも接続が切れづらいです。  &lt;/li&gt;
-&lt;li&gt;TCPじゃなくてUDPなので速い。  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;例えば、自宅の母艦に接続してGPUタスクを回す運用もできます。&lt;br&gt;
-外出先でも家の中でも好きな場所で作業できて○。&lt;br&gt;
-WebUI系（Fooocusとか）であればスマホでもブラウザ経由で快適に遊べます。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;３：ComfyUI&lt;/strong&gt;&lt;br&gt;
-最新モデルやワークフローを簡単に試せます。生成の流れを観察したりアレンジも自由です。  &lt;br&gt;
-（例１）人間だけをYoloみたいにオブジェクト認識、消してInpaint  &lt;br&gt;
-（例２）ChatGPT連携（英語翻訳、気の利いたプロンプト自動生成）&lt;br&gt;
-（例３）高度な自動化&lt;br&gt;
-画像生成(Flux 1.)、動画用プロンプトと台詞（ChatGPT）、ボイス生成（Voicepeak）、動画生成（Framepack）、口パク（Wan2.2-S2V）  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;４：LM Studio or Ollama, VSCode + Cline&lt;/strong&gt;&lt;br&gt;
-ComfyUIは拡散生成系（画像や動画など）用ですが、&lt;br&gt;
-言語系（ChatGPTみたいなの）は、LM StudioやOllamaが有ると良いです。  &lt;/p&gt;
-&lt;p&gt;LM StudioはVSCodeの拡張ストア的にGUIで気軽にローカルモデルを導入できます。&lt;br&gt;
-Ollamaはターミナルとの相性がよいです。  &lt;/p&gt;
-&lt;p&gt;そして、VSCode + Clineはエージェントを手軽にやれるのと、&lt;br&gt;
-商用、ローカルともにモデルを切り替えてエージェントで遊べます。&lt;br&gt;
-ローカルモデルで遊ぶにはLM StudioもしくはOllamaが必要です（他にもある？かもですが）。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;５：Jupyter Notebook&lt;/strong&gt;&lt;br&gt;
-Google Colabが有名ですが、そのローカル版のようなものです（注意：もともとはJupyterの方が先にあった）。&lt;br&gt;
-最新モデルに対してComfyUIのワークフローができる前、Diffusers実装だけが得られてる状態の場合は、&lt;br&gt;
-Jupyter Notebookで実験するのが手軽で良いです。ちょっとしたPythonの実験の際にも。  &lt;/p&gt;
-&lt;p&gt;Google Colabでも良いのですが、ローカルGPUを活かすとなるとこっちかなと。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://polymonyrks.github.io/apng-logo/" rel="nofollow"&gt;こちら&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;これまでに会で挙がった「良さげなツール群」のまとめです。&lt;br&gt;
+※ 参加にあたって必須というわけではなく、「あると便利」レベルの情報です。  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;６．自己紹介など&lt;/h2&gt;
 &lt;p&gt;（強制ではないですが、あるとありがたいです）&lt;br&gt;
@@ -385,7 +347,7 @@ Jupyter Notebookで実験するのが手軽で良いです。ちょっとしたP
 &lt;h2&gt;注意事項&lt;/h2&gt;
 &lt;p&gt;やむを得ずキャンセルする場合は、早めの対応をお願いします。&lt;br&gt;
 その際、一言でも理由を書いてもらえると、この会の改善に役立ちます。&lt;br&gt;
-「急な仕事が」「ちょっと体調が」だけでも全然OKです。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/376702/</guid><enclosure url="https://media.connpass.com/thumbs/fa/f9/faf9cbc1c1df61b4c4843c0e52334e74.png" length="0" type="image/png"/><pubDate>Sun, 23 Nov 2025 23:20:08 +0900</pubDate></item><item><title>CoderDojo日進 子供向けプログラミング道場(会場&amp;オンライン)2025/12/06</title><link>https://coderdojo-nisshin.connpass.com/event/376621/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月6日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月6日(土) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: にぎわい交流館&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県日進市蟹甲町中島277-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;注意！！&lt;/h1&gt;
+「急な仕事が」「ちょっと体調が」だけでも全然OKです。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/376702/</guid><enclosure url="https://media.connpass.com/thumbs/fa/f9/faf9cbc1c1df61b4c4843c0e52334e74.png" length="0" type="image/png"/><pubDate>Mon, 24 Nov 2025 19:26:06 +0900</pubDate></item><item><title>CoderDojo日進 子供向けプログラミング道場(会場&amp;オンライン)2025/12/06</title><link>https://coderdojo-nisshin.connpass.com/event/376621/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月6日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月6日(土) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: にぎわい交流館&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県日進市蟹甲町中島277-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;注意！！&lt;/h1&gt;
 &lt;p&gt;&lt;span style="color: red; font-size: larger;"&gt;
 ※当日PC貸出希望の方は、「参加者（子供）PC貸出」で申し込みください。
 &lt;/span&gt;&lt;/p&gt;
