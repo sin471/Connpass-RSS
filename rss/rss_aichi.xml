@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 24 Nov 2025 15:15:18 +0000</lastBuildDate><item><title>情技研 LT vol.1</title><link>https://jogiken.connpass.com/event/376901/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月11日(木) 14:45&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月11日(木) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 名城大学 天白キャンパス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市天白区塩釜口 1-501 名城大学&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #情技研LT&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 25 Nov 2025 15:14:50 +0000</lastBuildDate><item><title>情技研 LT vol.1</title><link>https://jogiken.connpass.com/event/376901/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月11日(木) 14:45&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月11日(木) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 名城大学 天白キャンパス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市天白区塩釜口 1-501 名城大学&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #情技研LT&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;情技研初の外部イベントとして、「情技研 LT vol.1 」を開催します！
 話す内容は高度な話でも、ゆるふわな話でも、情報技術に関わらないことでもok！みんなで楽しみましょう！&lt;/p&gt;
 &lt;h1&gt;日程&lt;/h1&gt;
@@ -242,8 +242,7 @@
 &lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kinto-technologies.connpass.com/event/376788/</guid><enclosure url="https://media.connpass.com/thumbs/5b/67/5b67df45e848f73579a2bc14fcb3cf15.png" length="0" type="image/png"/><pubDate>Fri, 21 Nov 2025 18:57:28 +0900</pubDate></item><item><title>ゲーミングPCのAI活用_s6</title><link>https://connpass.com/event/376702/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月20日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月20日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋市市民活動推進センター（ナディアパーク6F）&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄3-18-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ローカルGPU × 生成AI&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ゲーミングPCのAI活用（もくもく）&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://connpass.com/event/373895/" rel="nofollow"&gt;(前回)&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;ゲーミングPC（ローカルGPU）を持っている人たちが、&lt;br&gt;
-生成AIへのGPU活用について、もくもく情報交換する会です。&lt;br&gt;
-（基本的には隔週 or 三週間に一度のペースで開催しています）  &lt;/p&gt;
+生成AIへのGPU活用について、もくもく情報交換する会です。  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;なぜローカルGPUなのか&lt;/h2&gt;
 &lt;p&gt;ハイエンドな商用サーバーでなくても、今はゲーミングPCのGPUで色々な生成モデルを動かせます。&lt;br&gt;
@@ -347,7 +346,7 @@ Stable Diffusion（画像）以外にも、動画、音楽、音声、3D、ロ�
 &lt;h2&gt;注意事項&lt;/h2&gt;
 &lt;p&gt;やむを得ずキャンセルする場合は、早めの対応をお願いします。&lt;br&gt;
 その際、一言でも理由を書いてもらえると、この会の改善に役立ちます。&lt;br&gt;
-「急な仕事が」「ちょっと体調が」だけでも全然OKです。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/376702/</guid><enclosure url="https://media.connpass.com/thumbs/fa/f9/faf9cbc1c1df61b4c4843c0e52334e74.png" length="0" type="image/png"/><pubDate>Mon, 24 Nov 2025 19:26:06 +0900</pubDate></item><item><title>CoderDojo日進 子供向けプログラミング道場(会場&amp;オンライン)2025/12/06</title><link>https://coderdojo-nisshin.connpass.com/event/376621/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月6日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月6日(土) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: にぎわい交流館&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県日進市蟹甲町中島277-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;注意！！&lt;/h1&gt;
+「急な仕事が」「ちょっと体調が」だけでも全然OKです。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/376702/</guid><enclosure url="https://media.connpass.com/thumbs/fa/f9/faf9cbc1c1df61b4c4843c0e52334e74.png" length="0" type="image/png"/><pubDate>Tue, 25 Nov 2025 09:06:12 +0900</pubDate></item><item><title>CoderDojo日進 子供向けプログラミング道場(会場&amp;オンライン)2025/12/06</title><link>https://coderdojo-nisshin.connpass.com/event/376621/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月6日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月6日(土) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: にぎわい交流館&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県日進市蟹甲町中島277-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;注意！！&lt;/h1&gt;
 &lt;p&gt;&lt;span style="color: red; font-size: larger;"&gt;
 ※当日PC貸出希望の方は、「参加者（子供）PC貸出」で申し込みください。
 &lt;/span&gt;&lt;/p&gt;
@@ -1187,31 +1186,7 @@ LT枠については公募となります。  時間は変更されることが�
 &lt;p&gt;近日開催の道場は&lt;a href="https://coderdojo.jp/events" rel="nofollow"&gt;コチラのリンク&lt;/a&gt;から 📆検索できますよ。&lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;a href="https://map.coderdojo.jp/" rel="nofollow"&gt;地図&lt;/a&gt; からCoderDojoを探すことができます&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nagoya.connpass.com/event/376025/</guid><enclosure url="https://media.connpass.com/thumbs/b5/f4/b5f44600e44cd666e9c9a08038db3683.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 10:15:14 +0900</pubDate></item><item><title>HACK.BAR 名古屋 @ 栄</title><link>https://hackbar.connpass.com/event/375897/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月24日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月24日(月) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋嬢の台所 名古屋栄店&lt;/li&gt;&lt;li&gt;🏢 住所: 〒460-0008 名古屋市中区栄 3−9−22 (グランドビル 3階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ハックバー名古屋&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;エンジニアが集まる、間借り HACK.BAR in 名古屋&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【HACK.BAR 名古屋って？】&lt;/h1&gt;
-&lt;p&gt;神戸に本店のあるエンジニアバー「HACK.BAR」の名古屋版をやります！
-HACK.BARおなじみのプログラミング言語カクテル (プログラミング言語からインスピレーションを受け開発されたカクテル) をお楽しみください！&lt;/p&gt;
-&lt;p&gt;お一人で参加される方も多いです。初めての方もぜひリアルで交流しましょう！&lt;/p&gt;
-&lt;p&gt;※ 営業時間中入退場自由&lt;/p&gt;
-&lt;h1&gt;【こんな方におすすめ】&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;ディープな話題で盛り上がりたい方！&lt;/li&gt;
-&lt;li&gt;エンジニアリングに興味のある学生の方！&lt;/li&gt;
-&lt;li&gt;エンジニアとして働きたい方、情報交換をしたい方！&lt;/li&gt;
-&lt;li&gt;名古屋を盛り上げたい方！&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;プログラミングに関わらず、ハードウェアやインフラなど、技術に関わるいろいろな話で盛り上がりましょう！&lt;/p&gt;
-&lt;h1&gt;【メニュー一例】&lt;/h1&gt;
-&lt;p&gt;プログラミング言語からインスピレーションを受けたカクテルです。推しプログラミング言語で乾杯しましょう！&lt;/p&gt;
-&lt;p&gt;&lt;img alt="C#" src="https://hackbar.jp/img/home/menu/03.png" width="150px"&gt;
-&lt;img alt="TypeScript" src="https://hackbar.jp/img/home/menu/11.png" width="150px"&gt;&lt;/p&gt;
-&lt;p&gt;以下の本店のメニューもご覧ください。(一部異なります)&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://hackbar.jp/menu/" rel="nofollow"&gt;https://hackbar.jp/menu/&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;【料金】&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;席料 1,000円&lt;/li&gt;
-&lt;li&gt;カクテル 700円&lt;/li&gt;
-&lt;li&gt;ご飯ものあり&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hackbar.connpass.com/event/375897/</guid><enclosure url="https://media.connpass.com/thumbs/4c/ae/4cae4b2b9be49a54a4ead21604520f1e.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 01:32:41 +0900</pubDate></item><item><title>kintone Night Nagoya vol.30</title><link>https://knn.connpass.com/event/375895/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月12日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月12日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: サイボウズ名古屋オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区4丁目1-1 中日ビル12階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kintoneNightNagoya&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;早めのkNN LT忘年会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;kintone Night Nagoya！&lt;/h1&gt;
+&lt;a href="https://map.coderdojo.jp/" rel="nofollow"&gt;地図&lt;/a&gt; からCoderDojoを探すことができます&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nagoya.connpass.com/event/376025/</guid><enclosure url="https://media.connpass.com/thumbs/b5/f4/b5f44600e44cd666e9c9a08038db3683.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 10:15:14 +0900</pubDate></item><item><title>kintone Night Nagoya vol.30</title><link>https://knn.connpass.com/event/375895/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月12日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月12日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: サイボウズ名古屋オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区4丁目1-1 中日ビル12階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kintoneNightNagoya&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;早めのkNN LT忘年会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;kintone Night Nagoya！&lt;/h1&gt;
 &lt;p&gt;サイボウズ 名古屋オフィス主催 定例イベント　"kintone Night Nagoya"　です。&lt;br&gt;
 kintoneやサイボウズを感じるプチイベントを毎月定期的に開催します。お気軽にご参加ください。&lt;br&gt;&lt;/p&gt;
 &lt;h1&gt;第30回 早めのkNN LT忘年会&lt;/h1&gt;
@@ -3785,31 +3760,36 @@ React/Next.js、TypeScript、パフォーマンス最適化、アクセシビリ
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center"&gt;19:40&lt;/td&gt;
+&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;&lt;a href="https://x.com/newrice_negico" rel="nofollow"&gt;newrice_negico&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;19:45&lt;/td&gt;
 &lt;td align="center"&gt;(仮)Next.js16のキャッシュについて考える&lt;/td&gt;
 &lt;td align="center"&gt;&lt;a href="https://x.com/yu_hibikore" rel="nofollow"&gt;yuu&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align="center"&gt;19:50&lt;/td&gt;
+&lt;td align="center"&gt;19:55&lt;/td&gt;
 &lt;td align="center"&gt;Renovateを（できるだけ）ノールックマージする（仮）&lt;/td&gt;
 &lt;td align="center"&gt;&lt;a href="https://x.com/ishida_2002" rel="nofollow"&gt;ishida&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align="center"&gt;20:00&lt;/td&gt;
+&lt;td align="center"&gt;20:05&lt;/td&gt;
 &lt;td align="center"&gt;Chrome Dev Tools の使い方をちゃんと知る（仮）&lt;/td&gt;
 &lt;td align="center"&gt;&lt;a href="https://connpass.com/user/SaltyEightLab/" rel="nofollow"&gt;YashioTakuya&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align="center"&gt;20:10&lt;/td&gt;
+&lt;td align="center"&gt;20:15&lt;/td&gt;
 &lt;td align="center"&gt;React Conf 2025 現地参加レポート&lt;/td&gt;
 &lt;td align="center"&gt;&lt;a href="https://x.com/yun8boo" rel="nofollow"&gt;yun8boo&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align="center"&gt;20:20&lt;/td&gt;
+&lt;td align="center"&gt;20:25&lt;/td&gt;
 &lt;td align="center"&gt;Hotwireの“targetバグ”を追って：Turboの内部を覗く」（仮）&lt;/td&gt;
 &lt;td align="center"&gt;&lt;a href="https://x.com/yuji_teshima" rel="nofollow"&gt;yuji_teshima&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align="center"&gt;20:30&lt;/td&gt;
+&lt;td align="center"&gt;20:35&lt;/td&gt;
 &lt;td align="center"&gt;交流会&lt;/td&gt;
 &lt;td align="center"&gt;-&lt;/td&gt;
 &lt;/tr&gt;
@@ -3830,7 +3810,7 @@ React/Next.js、TypeScript、パフォーマンス最適化、アクセシビリ
 &lt;li&gt;セクシュアルハラスメント・パワーハラスメント・ストーカー等他人への迷惑行為を行うことは禁止します。&lt;/li&gt;
 &lt;li&gt;その他、イベント趣旨とは異なる行為があった場合は、イベント参加をお断りさせていただきます。&lt;/li&gt;
 &lt;li&gt;咳や発熱、倦怠感など、体調が優れない方は参加を控えていただくようお願いします。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://stmn.connpass.com/event/372266/</guid><enclosure url="https://media.connpass.com/thumbs/33/c7/33c7fb12d91abf906d48dc6293ecd359.png" length="0" type="image/png"/><pubDate>Tue, 11 Nov 2025 11:35:59 +0900</pubDate></item><item><title>第106回 CoderDojo Owari</title><link>https://coderdojoowari.connpass.com/event/371629/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月18日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月18日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 岩倉市生涯学習センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県岩倉市本町神明西２０&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojoOwari&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;小〜高校生のプログラミングクラブ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;1月は第3日曜開催&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://stmn.connpass.com/event/372266/</guid><enclosure url="https://media.connpass.com/thumbs/33/c7/33c7fb12d91abf906d48dc6293ecd359.png" length="0" type="image/png"/><pubDate>Tue, 25 Nov 2025 16:38:10 +0900</pubDate></item><item><title>第106回 CoderDojo Owari</title><link>https://coderdojoowari.connpass.com/event/371629/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月18日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月18日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 岩倉市生涯学習センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県岩倉市本町神明西２０&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojoOwari&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;小〜高校生のプログラミングクラブ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;1月は第3日曜開催&lt;/h1&gt;
 &lt;p&gt;主催者の都合で第3日曜開催です。&lt;/p&gt;
 &lt;h1&gt;メンター・サポーター募集中 (メンター特典有り)&lt;/h1&gt;
 &lt;ul&gt;
@@ -4401,7 +4381,91 @@ ChatGPT、Gemini、Claude（クロード）など、&lt;br&gt;
 &lt;li&gt;定員：30名&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;サブイベントの情報交換会もご参加ください。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Lightning Talk; 5分間制限の短いプレゼンテーション&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://toukai-meddx.connpass.com/event/368575/</guid><pubDate>Tue, 18 Nov 2025 12:22:19 +0900</pubDate></item><item><title>技術工業カンファレンスin名古屋</title><link>https://connpass.com/event/368521/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月21日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月21日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋都市センター&lt;/li&gt;&lt;li&gt;🏢 住所: 〒460-0023 愛知県名古屋市中区金山町１丁目１−１ (金山南ビル)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #gikouconf186nagoya&lt;/li&gt;&lt;/ul&gt;</description><guid isPermaLink="false">https://connpass.com/event/368521/</guid><enclosure url="https://media.connpass.com/thumbs/02/d7/02d748e3028e7726f97ba9e052a4c681.png" length="0" type="image/png"/><pubDate>Fri, 05 Sep 2025 23:38:25 +0900</pubDate></item><item><title>MeiHack 〜 二日間Webアプリ開発 〜</title><link>https://connpass.com/event/367872/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月14日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: いちご栄ビル&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄3-15-27&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;就活直結！二日間の開発機会で社会人と深く関わろう&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ハッカソン 2025｜就活直結！2日間で“語れる実績”を作ろう&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Lightning Talk; 5分間制限の短いプレゼンテーション&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://toukai-meddx.connpass.com/event/368575/</guid><pubDate>Tue, 25 Nov 2025 15:17:22 +0900</pubDate></item><item><title>技術工業カンファレンスin名古屋</title><link>https://connpass.com/event/368521/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月21日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月21日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋都市センター&lt;/li&gt;&lt;li&gt;🏢 住所: 〒460-0023 愛知県名古屋市中区金山町１丁目１−１ (金山南ビル)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #gikouconf186nagoya&lt;/li&gt;&lt;/ul&gt;</description><guid isPermaLink="false">https://connpass.com/event/368521/</guid><enclosure url="https://media.connpass.com/thumbs/02/d7/02d748e3028e7726f97ba9e052a4c681.png" length="0" type="image/png"/><pubDate>Fri, 05 Sep 2025 23:38:25 +0900</pubDate></item><item><title>ChuNOG 7 Meeting（愛知県名古屋市）</title><link>https://chunog.connpass.com/event/368386/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月26日(木) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月26日(木) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋工学院専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市熱田区神宮4-7-21&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ChuNOG第7回目です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ChuNOGとは&lt;/h1&gt;
+&lt;p&gt;ChuNOG（読み方：ちゅのぐ）とは、Chubu Network Operators' Groupを意味し、インターネットに於ける技術的事項、および、それにまつわるオペレーションやエクスペリエンスに関する事項を議論、検討、紹介することにより中部地域のインターネット技術者、および、利用者に貢献することを目的としたグループです。中部地域のサステイナブルな発展のため、ChuNOGでの交流を通じて、中部地域の未来を支える学生の支援や人材の育成、および、産産連携・産学連携を活性化するための場の形成に取り組みます。&lt;/p&gt;
+&lt;h1&gt;ChuNOG 7 Meeting 開催概要&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;日時　　　　2026年2月26日(木) 13:00～17:30（12:00開場）&lt;/li&gt;
+&lt;li&gt;会場　　　　名古屋工学院専門学校&lt;br&gt;
+　　　　　　    &lt;a href="https://www.denpa.ac.jp/school_guide/access.html" rel="nofollow"&gt;https://www.denpa.ac.jp/school_guide/access.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;持ち物　　　名札用に名刺を1枚をお持ちください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;プログラム&lt;/h1&gt;
+
+
+&lt;p&gt;プログラムを募集中しています！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;募集内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;・通常プログラム 20分 or 30分（質疑応答の時間を含む）&lt;br&gt;
+　または&lt;br&gt;
+　ライトニングトーク 5分 or 10分（質疑応答なし）&lt;br&gt;
+・地域性のあるプログラムを優先させていただきます。&lt;br&gt;
+・現地での登壇のみです。&lt;br&gt;
+・登壇者の方は、懇親会参加枠を確保させていただきます。&lt;br&gt;
+・ご応募いただいたプログラムは、コアメンバーで精査して回答させていただきます。&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;締め切り&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2025年12月21日&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;応募方法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以下の情報をpre_chunog@gmail.comへメールでご連絡いただくか、Slackで田中（@Atsuko Tanaka_Mirainet）までDMをください。&lt;/p&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;プログラム種別：　通常プログラム or ライトニングトーク
+希望する発表時間：　
+発表者名：
+所属：
+発表タイトル：
+発表概要：
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h1&gt;懇親会&lt;/h1&gt;
+
+
+&lt;p&gt;懇親会を開催予定です。詳細が決まりましたら地域NOG Slack告知させていただきます。&lt;/p&gt;
+&lt;h1&gt;学生支援について&lt;/h1&gt;
+&lt;pre&gt;ChuNOG7 学生支援 募集要項
+
+■趣旨・目的
+ChuNOGでは「ChuNOGの活動・交流を通じて、中部地域の未来を支える学生の支援や人材の育成」を一つの活動目的としています。
+この活動目的実現を目指し、ChuNOGへの参加を希望する学生が、参加に係る交通費、宿泊費、懇親会費を支援するものとします。
+
+■支援内容
+ChuNOG7参加のための交通費(公共交通機関に限ります)、宿泊費、懇親会費等を支援します。
+(支援者向け懇親会の参加枠は別途用意します)
+一人当たりの合計額上限を20,000～30,000円程度とします。(予算の兼ね合いで変更する場合があります)
+
+■応募資格
+15歳以上30歳未満の学生(*)の方。
+(20歳未満の場合は関連法規を遵守すること)
+(*) 大学(大学院を含む)、短期大学、高等専門学校及び専修学校に就学している者
+　選考となった際「中部地域在住の学生」および「中部地域出身の学生」を優先とします
+
+■募集期間
+　募集開始：2025年11月25日(火)
+　募集締切：2026年1月23日(金)  18:00JST
+
+■募集人数
+　10～20名程度 (予算の兼ね合いで変更する場合があります)
+
+■支給方法
+　旅程申請書・領収書類を提出していただき、後日振込となります。
+
+■その他
+　支援対象者は、以下の対応をお願いします。
+対象者との連絡にはslackを利用しますので、地域NOG slackへの参加が必須です
+参加後にA4 1枚程度の簡単なレポートの提出いただきます
+
+■申請方法
+　以下リンク先フォームより、必要事項を入力してください。
+&lt;/pre&gt;
+&lt;p&gt;&lt;a href="https://forms.gle/u1GjC4EPawSoQjET7" rel="nofollow"&gt;https://forms.gle/u1GjC4EPawSoQjET7&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h1&gt;Slack&lt;/h1&gt;
+&lt;p&gt;地域NOG Slackの招待URLは以下ページに記載しています。&lt;br&gt;
+&lt;a href="https://chunog.connpass.com/" rel="nofollow"&gt;https://chunog.connpass.com/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://chunog.connpass.com/event/368386/</guid><enclosure url="https://media.connpass.com/thumbs/54/2b/542b36ba9c1480ac4cc97a84e1165d81.png" length="0" type="image/png"/><pubDate>Tue, 25 Nov 2025 17:23:45 +0900</pubDate></item><item><title>MeiHack 〜 二日間Webアプリ開発 〜</title><link>https://connpass.com/event/367872/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月14日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: いちご栄ビル&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄3-15-27&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;就活直結！二日間の開発機会で社会人と深く関わろう&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ハッカソン 2025｜就活直結！2日間で“語れる実績”を作ろう&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;2025年12月13日（土）・14日（日）@ 名古屋&lt;br&gt;
 主催：株式会社Josho × NagoyaHack&lt;br&gt;
