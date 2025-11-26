@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>長野のイベント</title><link>https://connpass.com/explore/</link><description>長野のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>長野のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 25 Nov 2025 15:14:43 +0000</lastBuildDate><item><title>CoderDojo飯田#40</title><link>https://coderdojoiida.connpass.com/event/376547/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: ロジカランド株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 飯田市上郷別府２６８９−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第四十回コーダードージョー飯田開催です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo飯田#40&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>長野のイベント</title><link>https://connpass.com/explore/</link><description>長野のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>長野のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 26 Nov 2025 15:12:37 +0000</lastBuildDate><item><title>CoderDojo飯田#40</title><link>https://coderdojoiida.connpass.com/event/376547/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: ロジカランド株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 飯田市上郷別府２６８９−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第四十回コーダードージョー飯田開催です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo飯田#40&lt;/h1&gt;
 &lt;p&gt;飯田市での開催40回目のCoderDojoです。&lt;/p&gt;
 &lt;h2&gt;CoderDojoとは？&lt;/h2&gt;
 &lt;p&gt;CoderDojo は7〜17歳(小学校一年生〜高校生まで)を対象とした非営利のプログラミング道場です。2011年にアイルランドで始まり、世界では112カ国・2,200の道場、日本には211以上の道場があります。&lt;/p&gt;
@@ -108,8 +108,13 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;15:05〜&lt;/td&gt;
+&lt;td&gt;(順不同)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;文字列のソート順&lt;/td&gt;
+&lt;td&gt;@tmtms&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;18:00&lt;/td&gt;
@@ -121,7 +126,7 @@
 &lt;h2&gt;参加費など&lt;/h2&gt;
 &lt;p&gt;お茶菓子代としてお一人 100 円ずつのご負担をお願いしています。ご協力、よろしくお願いします。&lt;/p&gt;
 &lt;h2&gt;懇親会&lt;/h2&gt;
-&lt;p&gt;未定です。5000円/人 くらいを予定しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nseg.connpass.com/event/376168/</guid><enclosure url="https://media.connpass.com/thumbs/89/6f/896f1752cf08ca1f9d127871b0692884.png" length="0" type="image/png"/><pubDate>Sun, 16 Nov 2025 11:14:05 +0900</pubDate></item><item><title>CoderDojo長野 第10回</title><link>https://coderdojo-nagano.connpass.com/event/376166/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月18日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月18日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 長野県立図書館3F&lt;/li&gt;&lt;li&gt;🏢 住所: 長野市若里1-1-4&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;CoderDojo長野は、長野市で開催している子ども向け参加費無料のプログラミングクラブです。
+&lt;p&gt;未定です。5000円/人 くらいを予定しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nseg.connpass.com/event/376168/</guid><enclosure url="https://media.connpass.com/thumbs/89/6f/896f1752cf08ca1f9d127871b0692884.png" length="0" type="image/png"/><pubDate>Wed, 26 Nov 2025 19:02:12 +0900</pubDate></item><item><title>CoderDojo長野 第10回</title><link>https://coderdojo-nagano.connpass.com/event/376166/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月18日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月18日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 長野県立図書館3F&lt;/li&gt;&lt;li&gt;🏢 住所: 長野市若里1-1-4&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;CoderDojo長野は、長野市で開催している子ども向け参加費無料のプログラミングクラブです。
 隔月日曜日の午後に開催する予定です。&lt;/p&gt;
 &lt;p&gt;プログラミングに興味を持っている子どもたちが集まり、Scratchでゲームを作ったり、micro:bitやRaspberry Piで電子工作をしたり、それぞれ自分のやりたいことを行い交流するための場所です。
 途中参加、退席でも大丈夫です。&lt;/p&gt;

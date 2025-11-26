@@ -1,5 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>埼玉のイベント</title><link>https://connpass.com/explore/</link><description>埼玉のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>埼玉のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 25 Nov 2025 15:14:24 +0000</lastBuildDate><item><title>OWASP Saitama MTG #29</title><link>https://owaspsaitama.connpass.com/event/376629/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月16日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月16日(火) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: RaiBoC Hall (市民会館おおみや) 集会室5&lt;/li&gt;&lt;li&gt;🏢 住所: さいたま市大宮区大門町2-118 (大宮門街6F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #OWASP_Saitama&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;サイバーセキュリティに関する勉強会です。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;OWASP Saitama MTGとは&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>埼玉のイベント</title><link>https://connpass.com/explore/</link><description>埼玉のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>埼玉のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 26 Nov 2025 15:12:18 +0000</lastBuildDate><item><title>AIコミュニティがつなぐイノベーションのカタチ（CDLE埼玉）</title><link>https://cdle-saitama.connpass.com/event/377010/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月18日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月18日(木) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 渋沢MIX&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県さいたま市大宮区吉敷町4-262-18&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;&lt;strong&gt;AIコミュニティがつなぐイノベーションのカタチ &lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;― なぜ今、AIコミュニティなのか？ 地域から始まる挑戦 ―&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIの進化が加速する今、本当に求められているのは“技術そのもの”ではなく、
+専門や業界の垣根をこえて人と人がつながり、共に動き出す場です。&lt;/p&gt;
+&lt;p&gt;行政、企業、大学のどれか一つでは生まれない発想や挑戦が、
+実践型AIコミュニティ「CDLE埼玉」にはあります。
+ここでは誰もが主体となり、AIを活用して地域を元気にする具体的な取り組みを生み出しています。&lt;/p&gt;
+&lt;p&gt;今回のイベントでは、
+「なぜ今、AIコミュニティなのか？」をテーマに基調講演を実施。
+続くLT会では、様々な分野で活躍するメンバーが2025年に向けたAIの活用や新たな挑戦を語ります。
+今後の渋沢MIXにおけるAI活用の方向性も見えてくるこの機会に、ぜひご参加ください。&lt;/p&gt;
+&lt;p&gt;（※CDLE埼玉は日本最大級のAIコミュニティCDLE（シードル）の地域版です）&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;イベント構成&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;第1部｜19:00〜19:15｜基調講演&lt;/strong&gt;&lt;br&gt;
+AIコミュニティがつなぐイノベーションのカタチ&lt;br&gt;
+   〜 なぜ今、AIコミュニティなのか？ 〜&lt;br&gt;
+   - 伊東 弘人（建設コンサルタント/技術士(建設部門)/博士(工学)）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第2部｜19:15〜19:40｜LT会&lt;/strong&gt;&lt;br&gt;
+AIコミュニティで始めたい新しい挑戦！&lt;br&gt;
+  〜 私たちが次に“ともに”起こすアクション 〜  &lt;br&gt;
+   - 矢野 伸一（ITエンジニア/ｲﾝﾀｰﾗｸﾃｨﾌﾞﾒﾃﾞｨｱﾃｸﾉﾛｼﾞｰ/代表取締役 社長）&lt;br&gt;
+   - 野村 康次郎（経営コンサルタント/野村総合ｺﾝｻﾙﾃｨﾝｸﾞ/代表取締役 社長）&lt;br&gt;
+   - 木村 康英（ITコンサルタント/ITサービス企業/CDLE埼玉/AIUEO）&lt;br&gt;
+   - 原田 善之（材料研究者/電子部品企業/博士(工学)）&lt;br&gt;
+   - 伊東 弘人（建設コンサルタント/技術士(建設部門)/博士(工学)）  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第3部｜19:40〜20:00｜パネルディスカッション&lt;/strong&gt;&lt;br&gt;
+AIコミュニティから生まれる“次の挑戦”とは何か？&lt;br&gt;
+   - 全員&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;開催案内&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;時間：19:00〜20:00（18:30開場）&lt;br&gt;
+定員：50名&lt;br&gt;
+参加費：無料&lt;br&gt;
+申し込み：connpass&lt;br&gt;
+会場：渋沢MIX@さいたま新都心  &lt;br&gt;
+&lt;a href="https://shibusawa-mix.pref.saitama.lg.jp/" rel="nofollow"&gt;https://shibusawa-mix.pref.saitama.lg.jp/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-saitama.connpass.com/event/377010/</guid><enclosure url="https://media.connpass.com/thumbs/93/41/9341a9f0abc8464a413bc1de45c01f48.png" length="0" type="image/png"/><pubDate>Wed, 26 Nov 2025 08:30:46 +0900</pubDate></item><item><title>OWASP Saitama MTG #29</title><link>https://owaspsaitama.connpass.com/event/376629/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月16日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月16日(火) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: RaiBoC Hall (市民会館おおみや) 集会室5&lt;/li&gt;&lt;li&gt;🏢 住所: さいたま市大宮区大門町2-118 (大宮門街6F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #OWASP_Saitama&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;サイバーセキュリティに関する勉強会です。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;OWASP Saitama MTGとは&lt;/h2&gt;
 &lt;p&gt;セキュリティ向上に貢献しようという地元有志がさいたま市あるいは春日部市に集まって開く、 OWASP Saitama チャプターの定例勉強会です。セキュリティに携わる幅広い分野の方をスピーカーとしてお呼びして開催します。職種・経験・年齢・性別・国籍などは一切問いません。どなたでもご参加ください。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;参加費は無料です。Skytalksについても無料です。&lt;/li&gt;
