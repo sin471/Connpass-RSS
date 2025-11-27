@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福島のイベント</title><link>https://connpass.com/explore/</link><description>福島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 26 Nov 2025 15:12:10 +0000</lastBuildDate><item><title>第140回 いわき情報技術研究会</title><link>https://iitg.connpass.com/event/376929/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 軽食と甘味 あまや&lt;/li&gt;&lt;li&gt;🏢 住所: 福島県いわき市平六町目6-6-2 Paix Paix サニーテラス 2F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～ 年末恒例！ 大LT大会！ ～&lt;/p&gt;&lt;div&gt;&lt;p&gt;第140回 いわき情報技術研究会&lt;br&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福島のイベント</title><link>https://connpass.com/explore/</link><description>福島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 27 Nov 2025 15:13:24 +0000</lastBuildDate><item><title>クリエイター・エンジニアもくもく会 #20</title><link>https://kitakata.connpass.com/event/377283/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月11日(木) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月11日(木) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 喜多方市小田付サテライトオフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 喜多方市字南町2844番地2&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;クリエイター・エンジニアもくもく会を開催します。&lt;/h1&gt;
+&lt;p&gt;WEB・紙のデザイナーさん、プログラマーやネットワーク関連・ハードウェア制御のエンジニアさんなどなど、お仕事としている方に限らず、これからデジタルな事を始めたいと思う方、興味がある方は是非お越しください。
+学生の方もウェルカムです！
+流行りのVibe Codingもしてみましょう。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.fukushima-iju.jp/facility/detail_120.html" rel="nofollow"&gt;開催場所はこちら&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://maps.app.goo.gl/abGpxYwML6C2D6cG9" rel="nofollow"&gt;駐車場はこちらをご利用ください&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;終了後は近くの居酒屋さんで懇親会をおこないます。&lt;/p&gt;
+&lt;h1&gt;タイムテーブル&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;時間&lt;/th&gt;
+&lt;th align="left"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;18:00&lt;/td&gt;
+&lt;td align="left"&gt;開場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;18:30&lt;/td&gt;
+&lt;td align="left"&gt;開始：自己紹介・今日の作業発表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;20:15&lt;/td&gt;
+&lt;td align="left"&gt;成果発表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;20:30&lt;/td&gt;
+&lt;td align="left"&gt;終了&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;「もくもく会」とは&lt;/h2&gt;
+&lt;p&gt;参加者がやりたいことを持ち寄り「黙々」と作業するイベントです。黙々とはいえ参加者同士での意見交換やアイデアの共有など、交流を深めることが目的です。&lt;/p&gt;
+&lt;p&gt;また、デジタルアート、システム開発、IoT、電子工作、DX、スマート農業、ドローン、3Dプリンター、プログラミングなどにピンときた方は是非お話ししましょう！&lt;/p&gt;
+&lt;p&gt;イベント当日は、クリエイター田村氏（株式会社イメージレイン）、CoderDojo喜多方チャンピオン（主宰者）の遠藤（合同会社フライバイ）が居ります。&lt;/p&gt;
+&lt;p&gt;デザインやプログラミングについてどしどし質問をお寄せ下さい。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kitakata.connpass.com/event/377283/</guid><enclosure url="https://media.connpass.com/thumbs/02/00/0200ba7642c3a79bfa4b843987f8be5c.png" length="0" type="image/png"/><pubDate>Thu, 27 Nov 2025 15:30:08 +0900</pubDate></item><item><title>第140回 いわき情報技術研究会</title><link>https://iitg.connpass.com/event/376929/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 軽食と甘味 あまや&lt;/li&gt;&lt;li&gt;🏢 住所: 福島県いわき市平六町目6-6-2 Paix Paix サニーテラス 2F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～ 年末恒例！ 大LT大会！ ～&lt;/p&gt;&lt;div&gt;&lt;p&gt;第140回 いわき情報技術研究会&lt;br&gt;
 &lt;br&gt;
 ◎研究会&lt;br&gt;
 2025年12月13日(土) 開催&lt;br&gt;

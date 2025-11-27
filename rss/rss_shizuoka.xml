@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 26 Nov 2025 15:12:41 +0000</lastBuildDate><item><title>第115回CoderDojo 浜松（2025年12月）</title><link>https://coderdojo-hamamatsu.connpass.com/event/376889/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月28日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月28日(日) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 浜松市鴨江アートセンター(201号室)&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県浜松市中区鴨江町1番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo浜松&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;7〜17歳のプログラミングクラブ（Scratch/マイコン/Python/p5.js等）&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;b&gt;CoderDojo 浜松 開催案内&lt;/b&gt;&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 27 Nov 2025 15:13:56 +0000</lastBuildDate><item><title>第115回CoderDojo 浜松（2025年12月）</title><link>https://coderdojo-hamamatsu.connpass.com/event/376889/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月28日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月28日(日) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 浜松市鴨江アートセンター(201号室)&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県浜松市中区鴨江町1番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo浜松&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;7〜17歳のプログラミングクラブ（Scratch/マイコン/Python/p5.js等）&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;b&gt;CoderDojo 浜松 開催案内&lt;/b&gt;&lt;/h1&gt;
 &lt;p&gt;7～17歳の小中高校生を対象とした、プログラミングクラブのようなものです。
 プログラミングに興味があれば誰でも参加できます。
 最初はみんな初心者。
@@ -769,7 +769,7 @@ connpass参加登録時にアンケートへ入力をお願いします。  &lt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;15:25-15:40&lt;/td&gt;
-&lt;td&gt;LT②&lt;/td&gt;
+&lt;td&gt;強制トンネリング環境における Azure VM ライセンス認証の落とし穴&lt;/td&gt;
 &lt;td&gt;鈴木航二&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -824,11 +824,13 @@ RAGの課題をする上での銀の弾丸になりうるのか、それとも�
 Akira  Sato&lt;br&gt;
 回路設計がしたくて浜松のメーカーに新卒入社するものの、なぜか組み込みソフトウェアの開発部署に配属されてキャリアをスタート。そこからなんやかんやスマホアプリやWebアプリの開発にも携わるようになり、現職においてはAzureや生成AIを活用したサービスの開発を推進。ブログや登壇などのアウトプットも積極的に行っています！&lt;br&gt;
 &lt;a href="https://x.com/satodayo1115" rel="nofollow"&gt;@satodayo1115&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;LT②:T.B.D.&lt;/h2&gt;
+&lt;h2&gt;LT②:強制トンネリング環境における Azure VM ライセンス認証の落とし穴&lt;/h2&gt;
 &lt;p&gt;【概要】&lt;br&gt;
-T.B.D&lt;br&gt;
+Azure VM は KMS 認証がインターネット経由で「Azure発信IP」に依存するため、強制トンネリング環境では認証が失敗する。&lt;br&gt;
+そのため、　Windows認証方式のおさらいと回避策について説明。&lt;br&gt;
 【スピーカー】&lt;br&gt;
- 鈴木航二 さん    &lt;/p&gt;
+ 鈴木航二 さん  &lt;br&gt;
+静岡市で働いているインフラ系エンジニアです。　　&lt;/p&gt;
 &lt;h2&gt;LT③:Azure Networkリソース(Azure Firewall、Azure Virtual WAN)　これできる？これできない？&lt;/h2&gt;
 &lt;p&gt;【概要】&lt;br&gt;
 本発表では、既存システム環境からAzure NWリソース(Azure Firewall や Azure Virtual WAN)へのマイグレーション実現にあたって直面している課題や対応案を簡単に共有させていただきます。     &lt;br&gt;
@@ -870,4 +872,4 @@ T.B.D.  &lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;また、セッション中の写真撮影は、シャッター音など周りの方へのご配慮をお願いいたします。 &lt;br&gt;
 次回以降の勉強会のリクエストは大歓迎です。&lt;br&gt;
-『こんなことを知りたい！』というご希望がありましたら、是非スタッフまでお知らせください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jazug.connpass.com/event/368296/</guid><enclosure url="https://media.connpass.com/thumbs/71/25/7125780c4da9887f6cd5b056c068789b.png" length="0" type="image/png"/><pubDate>Tue, 25 Nov 2025 08:59:47 +0900</pubDate></item></channel></rss>
+『こんなことを知りたい！』というご希望がありましたら、是非スタッフまでお知らせください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jazug.connpass.com/event/368296/</guid><enclosure url="https://media.connpass.com/thumbs/71/25/7125780c4da9887f6cd5b056c068789b.png" length="0" type="image/png"/><pubDate>Thu, 27 Nov 2025 22:03:49 +0900</pubDate></item></channel></rss>
