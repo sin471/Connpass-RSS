@@ -1,5 +1,80 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>神奈川のイベント</title><link>https://connpass.com/explore/</link><description>神奈川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>神奈川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 27 Nov 2025 15:13:39 +0000</lastBuildDate><item><title>第4回【U35若手エンジニア限定】LT新年会</title><link>https://connpass.com/event/377003/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月9日(金) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月9日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社Galirage&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県川崎市中原区中丸子13-2フロンティア武蔵小杉N棟9F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;~新年会で若手同士でアウトプットしあい、交流しましょう〜&lt;/p&gt;&lt;div&gt;&lt;p&gt;新年に若手エンジニアが気軽にLT（Lightning Talk）しながら学び合うイベントです！&lt;br&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>神奈川のイベント</title><link>https://connpass.com/explore/</link><description>神奈川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>神奈川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 28 Nov 2025 15:13:11 +0000</lastBuildDate><item><title>AlmaLinux Day Tokyo 2026</title><link>https://almalinux.connpass.com/event/377157/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月23日(金) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月23日(金) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: Fujitsu Uvance Kawasaki Tower&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県川崎市幸区大宮町1-5 JR川崎タワー26階 Uvance Innovation Studio&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AlmaLinuxDayTokyo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AlmaLinux for Enterprise 〜業務システムで使えるAlmaLinux〜&lt;/p&gt;&lt;div&gt;&lt;p&gt;今回の「 AlmaLinux Day Tokyo 2026」ではAlmaLinux OS Foundationの方々含め、様々なスピーカーをお招きして、AlmaLinuxの活用事例や、これからの取り組みについてお話しいただきます。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;AlmaLinuxはエンタープライズ分野に業務システムで安心して使えるLinuxディストリビューションを目指して開発されています。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;終了後はスピーカーを交えた交流会も予定しています。ユーザー同士の情報交換とネットワーク作りのためにもご参加ください。&lt;/p&gt;
+&lt;h2&gt;基調講演/Keynote （60min）&lt;/h2&gt;
+&lt;p&gt;AlmaLinux Foudationから、AlmaLinuxの最新情報についてお話いただきます（英語）。
+講演詳細は開催までに順次アップデートしていきます！&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="center"&gt;内容&lt;/th&gt;
+&lt;th align="center"&gt;発表者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;b&gt;AlmaLinux 10: Full Scope and Strategy—Extending x86-64-v2 Life and Key Features (Btrfs, CRB)&lt;/b&gt;&lt;/td&gt;
+&lt;td align="center"&gt;benny Vasquez (chairperson of the AlmaLinux OS Foundation)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;b&gt;調整中&lt;/b&gt;&lt;br&gt;&lt;/td&gt;
+&lt;td align="center"&gt;Andrew Lukoshko(AlmaLinux OS Lead Architect)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;トーク/Talk（30min each）&lt;/h2&gt;
+&lt;p&gt;日本AlmaLinuxユーザー会参加・協賛企業各社から、AlmaLinuxへの取り組みや役に立つノウハウについてお話します。
+内容、講演者については一部調整中ですので、変更される場合があります。
+講演詳細は開催までに順次アップデートしていきます！&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="center"&gt;内容&lt;/th&gt;
+&lt;th align="center"&gt;発表者(敬称略)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;b&gt;AlmaLinuxを使用した高可用性システムの実装&lt;/b&gt;&lt;/td&gt;
+&lt;td align="center"&gt;小倉崇志　株式会社デージーネット&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;b&gt;GPU活用について&lt;/b&gt;&lt;/td&gt;
+&lt;td align="center"&gt;さくらインターネット株式会社&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;b&gt;AlmaLinuxのセキュリティ機能評価と認証&lt;br&gt;～FIPS14-3認証、CC認証 取得への取り組み～&lt;/b&gt;&lt;/td&gt;
+&lt;td align="center"&gt;佐野 勝大　サイバートラスト株式会社&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;b&gt;調整中&lt;/b&gt;&lt;/td&gt;
+&lt;td align="center"&gt;古賀 政純　日本ヒューレット・パッカード合同会社）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;b&gt;調整中&lt;/b&gt;&lt;/td&gt;
+&lt;td align="center"&gt;LPI-Japan&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;h1&gt;AlmaLinux Day Tokyo 2026開催概要&lt;/h1&gt;
+&lt;p&gt;日時：2026年1月23日(金) 13時〜20時&lt;br&gt;
+会場：Fujitsu Uvance Kawasaki Tower&lt;br&gt;
+神奈川県川崎市幸区大宮町1-5&lt;br&gt;
+主催：AlmaLinux OS Foundation &lt;br&gt;
+共催：日本AlmaLinuxユーザー会&lt;br&gt;
+後援：Open Source People Network &lt;a href="https://ospn.jp/" rel="nofollow"&gt;https://ospn.jp/&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;日本AlmaLinuxユーザー会参加・協賛企業（50音順）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;サイバートラスト株式会社&lt;/li&gt;
+&lt;li&gt;さくらインターネット株式会社&lt;/li&gt;
+&lt;li&gt;株式会社デージーネット&lt;/li&gt;
+&lt;li&gt;日本ヒューレット・パッカード合同会社&lt;/li&gt;
+&lt;li&gt;富士通株式会社 / エフサステクノロジーズ株式会社&lt;/li&gt;
+&lt;li&gt;プライム・ストラテジー株式会社&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://almalinux.connpass.com/event/377157/</guid><enclosure url="https://media.connpass.com/thumbs/d4/be/d4be1c5d3a549a88548d497ca755d3af.png" length="0" type="image/png"/><pubDate>Fri, 28 Nov 2025 18:50:30 +0900</pubDate></item><item><title>第4回【U35若手エンジニア限定】LT新年会</title><link>https://connpass.com/event/377003/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月9日(金) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月9日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社Galirage&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県川崎市中原区中丸子13-2フロンティア武蔵小杉N棟9F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;~新年会で若手同士でアウトプットしあい、交流しましょう〜&lt;/p&gt;&lt;div&gt;&lt;p&gt;新年に若手エンジニアが気軽にLT（Lightning Talk）しながら学び合うイベントです！&lt;br&gt;
 初心者も大歓迎。「初めてだけど話したい」「他社と交流したい」そんな方にぴったり。聞くだけ参加もOK！&lt;/p&gt;
 &lt;h2&gt;開催概要&lt;/h2&gt;
 &lt;ul&gt;
@@ -1479,6 +1554,11 @@ Vibe Codingにまつわるあなたの知見をぶつけ合いませんか？&lt
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center"&gt;↑&lt;/td&gt;
+&lt;td align="left"&gt;マルチリージョンソルバとOpenModelicaの連成&lt;/td&gt;
+&lt;td align="center"&gt;k&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;↑&lt;/td&gt;
 &lt;td align="left"&gt;DMD調査(続き)&lt;/td&gt;
 &lt;td align="center"&gt;yotakagi77&lt;/td&gt;
 &lt;/tr&gt;
@@ -1523,7 +1603,7 @@ Tipsや小ネタでもOKです。
 &lt;/ul&gt;
 &lt;h1&gt;お問い合わせ&lt;/h1&gt;
 &lt;p&gt;勉強会へのご質問、ご連絡は下記アドレスにお願いいたします。&lt;/p&gt;
-&lt;p&gt;ocb.yokohama@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ocbyokohama.connpass.com/event/374198/</guid><enclosure url="https://media.connpass.com/thumbs/ea/dc/eadc588fb1969321786d0b277a702223.png" length="0" type="image/png"/><pubDate>Wed, 29 Oct 2025 10:24:09 +0900</pubDate></item><item><title>【11/30まで募集】AIなんでもLT会＠川崎駅直通　富士通uis</title><link>https://craftstage.connpass.com/event/374192/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月2日(火) 20:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月2日(火) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 富士通uis&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県川崎市幸区大宮町1-5　JR川崎タワー26階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #生成AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初心者から上級者まで誰でも歓迎！川崎駅直結・AI関連のなんでもLT会です&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AIなんでもLT会＋懇親会&lt;/h1&gt;
+&lt;p&gt;ocb.yokohama@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ocbyokohama.connpass.com/event/374198/</guid><enclosure url="https://media.connpass.com/thumbs/ea/dc/eadc588fb1969321786d0b277a702223.png" length="0" type="image/png"/><pubDate>Fri, 28 Nov 2025 10:56:46 +0900</pubDate></item><item><title>【11/30まで募集】AIなんでもLT会＠川崎駅直通　富士通uis</title><link>https://craftstage.connpass.com/event/374192/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月2日(火) 20:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月2日(火) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 富士通uis&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県川崎市幸区大宮町1-5　JR川崎タワー26階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #生成AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初心者から上級者まで誰でも歓迎！川崎駅直結・AI関連のなんでもLT会です&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AIなんでもLT会＋懇親会&lt;/h1&gt;
 &lt;p&gt;AIでやってみたあんなことやこんなこと！AIに関して話したいこと、こんなことを今やっているなど
 そんな身近なAIの話をLTや交流会で話しましょう！ 
 川崎駅直結の &lt;strong&gt;富士通uis（Uvance Innovation Studio）&lt;/strong&gt; で開催する交流イベントです。  &lt;/p&gt;
