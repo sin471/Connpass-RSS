@@ -1,2 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>三重のイベント</title><link>https://connpass.com/explore/</link><description>三重のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>三重のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 29 Nov 2025 15:12:05 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>三重のイベント</title><link>https://connpass.com/explore/</link><description>三重のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>三重のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 30 Nov 2025 15:12:06 +0000</lastBuildDate><item><title>四日市IT交流会 【第1回】</title><link>https://yit.connpass.com/event/377535/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月31日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月31日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: リモートベースroom5 (近鉄四日市4分)&lt;/li&gt;&lt;li&gt;🏢 住所: 三重県四日市市諏訪栄町2-4&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #四日市IT交流会&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;四日市IT交流会とは&lt;/h2&gt;
+&lt;p&gt;三重県北勢地域の技術者が集まり、LTなどで日々の学びや面白いトピックを共有する場です。&lt;/p&gt;
+&lt;h2&gt;内容&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;参加者の自己紹介&lt;/li&gt;
+&lt;li&gt;LT(10分以下の短いプレゼン)&lt;/li&gt;
+&lt;li&gt;その他雑談などの交流&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;p&gt;TBD&lt;/p&gt;
+&lt;h2&gt;日時&lt;/h2&gt;
+&lt;p&gt;2026/1/31 (土) 13:30 ~&lt;/p&gt;
+&lt;p&gt;(会場レイアウトの準備をお手伝いいただく可能性があります。)&lt;/p&gt;
+&lt;h2&gt;場所&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.instabase.jp/space/4826734949" rel="nofollow"&gt;remote base room 5&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;住所&lt;/h3&gt;
+&lt;p&gt;〒510-0086
+四日市市諏訪栄町2-4
+ファーストビル6D(6階一番奥の部屋です)
+部屋番号は⑤番&lt;/p&gt;
+&lt;h2&gt;参加費&lt;/h2&gt;
+&lt;p&gt;500円 (現金 or PayPay)&lt;/p&gt;
+&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;北勢地域で働くエンジニア・技術者&lt;/li&gt;
+&lt;li&gt;地域の技術者仲間と知り合いたい方&lt;/li&gt;
+&lt;li&gt;技術的な話題を気軽にできる場所を探している方&lt;/li&gt;
+&lt;li&gt;学生の方/北勢地域以外の方も大歓迎&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LT発表希望の方&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;時間は5分程度でお願い致します。  (時間はLT希望者数によって増減します)&lt;/li&gt;
+&lt;li&gt;会場のモニターはHDMI &amp;amp; Type Cで接続可能ですが、不安な方はご持参下さい。&lt;/li&gt;
+&lt;li&gt;内容は公俗秩序に反しない内容でお願いします。&lt;/li&gt;
+&lt;li&gt;営業目的の宣伝は、常識の範囲内でお願いします。&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://yit.connpass.com/event/377535/</guid><pubDate>Sun, 30 Nov 2025 16:24:42 +0900</pubDate></item></channel></rss>
